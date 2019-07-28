@@ -1,0 +1,51 @@
+michelle-jones:
+    name: Michelle Jones
+    slug: michelle-jones
+    url: http://writingontheroad.COM
+    bio: Devoted social media fan. Travel practitioner. General pop culture fanatic. Passionate beer enthusiast.
+    location: London, England
+    avatar_image: michelle.jpg
+    cover_image: feature-plantpot.jpg
+    permalink: /author/michelle
+    twitter_url: http://twitter.com/michellejoneswriter
+    facebook_url: http://facebook.com/michellejoneswriter
+    instagram_url: http://instagram.com/michellejoneswriter
+    tumblr_url: http://tumblr.com/michellejoneswriter
+    dribbble_url: http://dribbble.com/michellejoneswriter
+    github_url: http://github.com/michellejoneswriter
+    reddit_url: http://github.com/michellejoneswriter
+    google_url: http://gogole.com/michellejoneswriter
+    pintrest_url: http://example.com/michellejoneswriter
+    vine_url: http://example.com/michellejoneswriter
+    vimeo_url: http://example.com/michellejoneswriter
+    snapchat_url: http://example.com/michellejoneswriter
+
+sarah-smith:
+    name: Sarah Smith
+    slug: sarah-smith
+    twitter_url: smithsarah
+    url: http://sarahsmithjournal.net
+    bio: Organizer. Wannabe alcohol ninja. Internet fan. Lifelong writer. Hipster-friendly food enthusiast.
+    location: Porto, Portugal
+    avatar_image: sarah.jpg
+    cover_image: feature-open-field.jpg
+    permalink: /author/sarah
+    instagram_url: http://instagram.com/smithsarah
+    github_url: http://github.com/smithsarah
+    reddit_url: http://github.com/smithsarah
+    pintrest_url: http://example.com/smithsarah
+
+tom-jackson:
+    name: Tommy T Jackson
+    slug: tom-jackson
+    twitter_url: tommytj
+    url: http://tomjackson.net
+    bio: Writer. Extreme bacon enthusiast. Incurable alcohol fanatic. Evil zombie fanatic. Beeraholic.
+    location: San Diego, USA
+    avatar_image: tom.jpg
+    cover_image: feature-fire.jpg
+    permalink: /author/tom
+    dribbble_url: http://dribbble.com/tomjacksonnet
+    twitter_url: http://twitter.com/tomjacksonnet
+    instagram_url: http://instagram.com/tomjacksonnet
+    dribbble_url: http://dribbble.com/tomjacksonnet
