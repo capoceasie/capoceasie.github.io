@@ -5,6 +5,7 @@ categories: travel storytime
 author_slug: michelle-jones
 is_featured: false
 feature_image: feature-roadtrip.jpg
+comments: true
 ---
 
 It was a cold December morning, as I sat out on my porch I decided today was the day.

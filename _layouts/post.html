@@ -34,6 +34,9 @@ layout: default
 
           </div><!-- main-content/col -->
       </div> <!--/row -->
+  {% if page.comments %}
+    {% include disqus.html %}
+  {% endif %}
   </main> <!-- /container -->
 
   {% include  post-footer.html %}

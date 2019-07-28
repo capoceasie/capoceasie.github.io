@@ -5,6 +5,7 @@ categories: travel
 author_slug: tom-jackson
 is_featured: false
 feature_image: feature-lost.jpg
+comments: true
 ---
 
 Ask yourself, why not? What is the number one reason you wouldn't. If the reason you get back is fear, you should just do it.
