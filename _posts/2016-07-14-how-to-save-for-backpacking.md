@@ -7,6 +7,23 @@ is_featured: true
 feature_image: feature-woods.jpg
 ---
 
+<script type="text/javascript">
+$(window).on('load', function() {
+    var grid = $('.grid__item');
+    var container = document.querySelector('.archive');
+    imagesLoaded(container, function() {
+        grid.fadeIn();
+
+        var msnry = new Masonry(document.querySelector('.archive'), {
+           columnWidth: 100,
+           itemSelector: '.grid__item',
+           percentPosition: true,
+           horizontalOrder: true,
+        });
+    });
+});
+</script>
+
 Get out of your head. Every good decision starts with a moment of action. What are you going to do today!
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in finibus diam, sit amet sollicitudin dui. Praesent erat dui, mattis sed elementum non, molestie et ipsum. Quisque fringilla vitae dolor a lacinia. Integer aliquam arcu non tortor egestas volutpat. Proin vitae pretium purus, a rhoncus sapien. Nam posuere rutrum lorem, eu sagittis ante scelerisque pretium. Morbi fermentum mauris a elit lacinia venenatis. Nunc ut iaculis nunc, sed faucibus nulla. Nunc at massa ut mi varius venenatis et id nibh. Sed molestie nibh sed risus mattis elementum. Ut iaculis, dolor sed consequat efficitur, nisi risus scelerisque dui, at bibendum velit nisi quis risus. Nunc gravida leo ut arcu tempus, et iaculis ex ullamcorper. Maecenas eget dolor diam. Suspendisse dapibus pulvinar tempus.
