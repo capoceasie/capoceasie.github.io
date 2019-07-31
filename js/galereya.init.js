@@ -1,0 +1,3 @@
+$(function(){
+	$('.gal').galereya();
+})
