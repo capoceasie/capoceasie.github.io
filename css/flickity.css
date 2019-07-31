@@ -169,3 +169,17 @@ body { font-family: sans-serif; }
 .main-flick.is-fullscreen .carousel-cell-image {
   max-width: 100%;
 }
+
+.caption-flick {
+    position: absolute;
+    top: 0;
+    /* left: 20px; */
+    color: white;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    z-index: 1;
+    display: inline-block;
+    background-color: rgba(0,0,0,0.3);
+	font-size: 14px;
+}
