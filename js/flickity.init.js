@@ -6,8 +6,8 @@ $(function(){
 	  fullscreen: true,
 	  wrapAround: true,
 	  cellSelector: '.carousel-cell',
-	  imagesLoaded: true,
-	  percentPosition: false
+	  imagesLoaded: true//,
+	  //percentPosition: false
 	});
 	var $caption = $('.caption-flick');
 	// Flickity instance
