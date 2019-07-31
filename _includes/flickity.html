@@ -1,0 +1,57 @@
+<style>
+/* force scrollbar */
+html { overflow-y: scroll; }
+    
+/* To overwrite page's padding, to get bigger images */
+/* article {padding:2%;} */
+
+.caption-flick {
+    position: absolute;
+    top: 0;
+    /* left: 20px; */
+    color: white;
+    text-align: center;
+    width: 100%;
+    margin: auto;
+    z-index: 1;
+    display: inline-block;
+    background-color: rgba(0,0,0,0.3);
+	font-size: 14px;
+}
+
+</style>
+
+<div class="main-flick">
+{% for image in site.static_files %}
+  {% if image.path contains include.gallery_path %}
+    {% unless image.path contains '.md' %}
+        <div class="carousel-cell">
+			<img src="{{ image.path | relative_url }}" class="carousel-cell-image" alt="{{ image.path | relative_url }}" title="plop"/>
+		</div>
+    {% endunless %}  
+  {% endif %}
+{% endfor %}
+	<div class="caption-flick"><h1>AAAA</h1><p>pSSSSS</p></div>
+</div>
+
+<script src="{{ "/js/vendor/imagesloaded.pkgd.min.js" | relative_url }}" type="text/javascript"></script>
+<script src="{{ "/js/vendor/masonry.pkgd.min.js" | relative_url }}" type="text/javascript"></script>
+<script type="text/javascript">
+var $carousel = $('.main-flick').flickity({
+  // options
+  cellAlign: 'left',
+  //contain: true,
+  fullscreen: true,
+  wrapAround: true,
+  cellSelector: '.carousel-cell',
+  imagesLoaded: true,
+  percentPosition: false
+});
+var $caption = $('.caption-flick');
+// Flickity instance
+var flkty = $carousel.data('flickity');
+$carousel.on( 'select.flickity', function() {
+  // set image caption using img's alt
+  $caption.text( flkty.selectedElement.children[0].alt )
+});
+</script>

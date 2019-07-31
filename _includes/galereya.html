@@ -1,0 +1,36 @@
+<style>
+/* force scrollbar */
+html { overflow-y: scroll; }
+    
+/* To overwrite page's padding, to get bigger images */
+/* article {padding:2%;} */
+
+</style>
+
+<div class="gal">
+<!--<div class="grid-sizer"></div>-->
+<!--<div class="gutter-sizer"></div>-->
+{% for image in site.static_files %}
+  {% if image.path contains include.gallery_path %}
+    {% unless image.path contains '.md' %}
+        <!--<a href="{{ image.path | relative_url }}">-->
+			<!--<img src="{{ image.path | relative_url }}" alt="" class="grid-item" style="padding: 0;"/>-->
+			<img src="{{ image.path | relative_url }}"
+				alt="Title here"
+				title="Or here(more priority)"
+				data-desc="some description"
+				data-category="image category here"
+				data-fullsrc="{{ image.path | relative_url }}"
+			/>
+		<!--</a>-->
+    {% endunless %}  
+  {% endif %}
+{% endfor %}
+</div> 
+
+<script src="{{ "/js/vendor/jquery.galereya.min.js" | relative_url }}" type="text/javascript"></script>
+<script type="text/javascript">
+$(function() {
+    $('.gal').galereya();
+});
+</script>
