@@ -1,7 +1,7 @@
 $(function(){
 	var $carousel = $('.main-flick').flickity({
 	  // options
-	  cellAlign: 'left',
+	  //cellAlign: 'left',
 	  //contain: true,
 	  fullscreen: true,
 	  wrapAround: true,
