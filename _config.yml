@@ -31,3 +31,10 @@ nav_list:
   Travel : ['Travel', '/category/travel']
   Inspiration : ['Inpiration', '/category/inspiration']
   Contact : ['Contact', '/contact/']
+
+defaults:
+  -
+    scope:
+      path: "photography"
+    values:
+      permalink: /:path/:basename:output_ext
