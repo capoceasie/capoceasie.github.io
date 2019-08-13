@@ -5,7 +5,7 @@
     <a href="{{ site.url }}{{ site.baseurl }}/assets/photography/{{ include.gallery.picture_path }}/{{ picture.original }}"
     data-responsive="{% for size in picture.sizes %} {{ site.url}}{{ site.baseurl }}/assets/photography/{{ include.gallery.picture_path }}/{{ size }} {{ size | split: '-' | last | split: '.' | first | split: 'x' | first | strip }}{% unless forloop.last %},{% endunless %}{% endfor %}" class="image"
     {% if picture.title %} data-sub-html="<div class='lg-toolbar caption'><h4>{{ picture.title | escape }}</h4>{% if picture.caption %}<p>{{ picture.caption | escape }}</p>{% endif %}</div>"{% endif %}>
-      <img class="gallery-cell-image" alt="{{ picture.title }}" src="{{ site.url }}{{ site.baseurl }}/assets/photography/{{ include.gallery.picture_path }}/{{ picture.thumbnail }}" />
+      <img class="gallery-cell-image" alt="{{ picture.title }}" src="{{ site.baseurl }}/assets/photography/{{ include.gallery.picture_path }}/{{ picture.thumbnail }}" />
     </a>
   </div>
   {% endfor %}
