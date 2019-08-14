@@ -1,0 +1,7 @@
+<ul class="light-slider">
+  {% for picture in include.gallery.pictures %}
+  <li data-thumb="{{ site.baseurl }}/assets/photography/{{ include.gallery.picture_path }}/{{ picture.thumbnail }}" data-src="{{ site.baseurl }}/assets/photography/{{ include.gallery.picture_path }}/{{ picture.original }}">
+    <img src="{{ site.baseurl }}/assets/photography/{{ include.gallery.picture_path }}/{{ picture.original }}"/>
+  </li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,18 @@
+<style>
+/* force scrollbar */
+html { overflow-y: scroll; }
+    
+/* To overwrite page's padding, to get bigger images */
+/* article {padding:2%;} */
+
+</style>
+
+<div class="main-lightgallery">
+	<a href="{{ include.image_path | relative_url }}">
+		<img src="{{ include.thumb_path | relative_url }}" alt="{{ include.alt }}"/>
+	</a>
+</div>
+
+<script type="text/javascript">
+
+</script>

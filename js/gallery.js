@@ -3,6 +3,7 @@ $(document).ready(function() {
     thumbnail: false,
     selector: '.image'
   });
+  
   // init isotope
 	var $grid = $('#image-gallery').isotope({
 	  percentPosition: true,
@@ -14,5 +15,22 @@ $(document).ready(function() {
 	// layout Isotope after each image loads
 	$grid.imagesLoaded().progress( function() {
 	  $grid.masonry();
+	});
+	
+	//init lightgallery for click on image behaviour to zoom
+	$('.main-lightgallery').lightGallery({
+		thumbnail:true
+	}); 
+	
+	//init lightslider for diaporama img layout
+	$(".light-slider").lightSlider({
+		gallery:true,
+		item: 1,
+		enableDrag: false,
+		onSliderLoad: function(el) {
+            el.lightGallery({
+                selector: '.light-slider .lslide'
+            });
+        }
 	});
 });
