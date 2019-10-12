@@ -5,6 +5,7 @@ title: Contact
 permalink: /contact/
 footer:
 form_heading: Contact our Team
+form_action: https://formspree.io/meypgkym
 ---
 
-Send us a message! We love messages.
+Pour nous envoyer un message, c'est par ici !

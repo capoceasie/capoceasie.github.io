@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Lens Theme
+title: Capoceasie.fr
 description: > # A blog about travel, adventure and stories from the road.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "capoceasie.github.io" # the base hostname & protocol for your site
@@ -23,12 +23,10 @@ permalink: :title
 markdown: kramdown
 
 nav_list:
-  Home : ['Home', '/']
-  About : ['About', '/about']
-  Michelle : ['Michelle', '/author/michelle']
-  Sarah : ['Sarah', '/author/sarah']
-  Tom : ['Tom', '/author/tom']
-  Travel : ['Travel', '/category/travel']
+  Home : ['Accueil', '/']
+  About : ['À Propos', '/about']
+  MarineAntho : ['Marine et Anthony', '/author/marine-antho']
+  Voyage : ['Voyage', '/category/travel']
   Inspiration : ['Inpiration', '/category/inspiration']
   Contact : ['Contact', '/contact/']
 

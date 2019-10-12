@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: À propos
 feature_image: feature-plantpot.jpg
 permalink: /about/
 footer: A blog about travel

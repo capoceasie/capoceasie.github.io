@@ -2,7 +2,7 @@
 layout: post
 date: 2016-02-11 08:50:28
 categories: travel inspiration
-author_slug: tom-jackson
+author_slug: marine-antho
 is_featured: true
 feature_image: feature-woods.jpg
 ---

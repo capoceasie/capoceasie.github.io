@@ -8,16 +8,16 @@ bodyclass: full-height
 
           <div class="col-sm-12 hero" style="background-image: url({{ site.baseurl }}/img/{{page.category_feature_image}});">
                 <div class="overlay">
-                    <h1 class="animated fadeIn delay-2 hero__title--tag">All posts in {{page.category_name}} category</h1>
+                    <h1 class="animated fadeIn delay-2 hero__title--tag">Tous les articles de la catégorie {{page.category_name}}</h1>
                     {% assign num_of_cat_posts = site.categories[page.category_slug] | size  %}
                     {% if num_of_cat_posts <= 0 %}
-                      {% assign post_qualifier = "No posts" %}
+                      {% assign post_qualifier = "Aucun article" %}
                     {% elsif num_of_cat_posts == 1 %}
-                      {% assign post_qualifier = "1 Post" %}
+                      {% assign post_qualifier = "Un article" %}
                     {% else %}
-                      {% assign post_qualifier = num_of_cat_posts | append: " Posts" %}
+                      {% assign post_qualifier = num_of_cat_posts | append: " articles" %}
                     {% endif %}
-                    <p class="hero__content  animated fadeIn delay-2">{{ post_qualifier }} in Collection</p>
+                    <p class="hero__content  animated fadeIn delay-2">{{ post_qualifier }} dans la collection</p>
                     <p class="hero__content  animated fadeIn delay-2">{{page.category_description}}</p>
 
                 </div>

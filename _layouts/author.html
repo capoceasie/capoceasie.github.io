@@ -18,13 +18,13 @@ bodyclass: full-height
 
                         {% assign num_oft_posts = author_posts| size  %}
                         {% if num_oft_posts <= 0 %}
-                          {% assign post_qualifier = "No posts" %}
+                          {% assign post_qualifier = "Aucun article" %}
                         {% elsif num_oft_posts == 1 %}
-                          {% assign post_qualifier = "1 Post" %}
+                          {% assign post_qualifier = "Un article" %}
                         {% else %}
-                          {% assign post_qualifier = num_oft_posts | append: " Posts" %}
+                          {% assign post_qualifier = num_oft_posts | append: " articles" %}
                         {% endif %}
-                        <p class="author-details__nop">{{ post_qualifier }} in Collection</p>
+                        <p class="author-details__nop">{{ post_qualifier }} dans la collection</p>
 
                           <hr class="author-details__spacer">
 
