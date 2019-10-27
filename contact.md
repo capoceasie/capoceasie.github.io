@@ -1,6 +1,6 @@
 ---
 layout: contact
-feature_image: feature-plantpot.jpg
+feature_image: sheep-3557445_1280.jpg
 title: Contact
 permalink: /contact/
 footer:

@@ -24,10 +24,8 @@ markdown: kramdown
 
 nav_list:
   Home : ['Accueil', '/']
-  About : ['À Propos', '/about']
-  MarineAntho : ['Marine et Anthony', '/author/marine-antho']
-  Voyage : ['Voyage', '/category/travel']
-  Inspiration : ['Inpiration', '/category/inspiration']
+  #About : ['À Propos', '/about']
+  #MarineAntho : ['Marine et Anthony', '/author/marine-antho']
   Contact : ['Contact', '/contact/']
 
 defaults:
