@@ -6,6 +6,7 @@ author_slug: marine-antho
 is_featured: false
 feature_image: luggage-1149289_1280.jpg
 comments: true
+social-message: "Bienvenue sur Capoceasie.fr !"
 ---
 
 Bonjour, Hello, Namaste, Mingalaba, Sawatdii Khrap, Sousday, Konnichiwa ! 
@@ -17,17 +18,21 @@ On recommence. ![Rewind](/img/rewind-27431_1280.png){: width="20" height="20" st
 
 **Bonjour et bienvenue** sur ce blog, capoceasie.fr, consacré à notre voyage en Asie et Océanie. Départ le 5/11/2019 !
 
-<div style="max-height: 300px; overflow: hidden; padding-bottom: 0; margin-bottom: 20px; border: 2px ridge #1C6EA4;">
-	<img src="/img/concert-2527495_1280.jpg" style="width: 100%"/>
-</div>
+<!--<div style="max-height: 300px; overflow: hidden; padding-bottom: 0; margin-bottom: 20px; border: 2px ridge #1C6EA4;">
+	<img src="/img/concert-2527495_1280_truncated.jpg" style="width: 100%"/>
+</div>-->
+
+<img src="/img/concert-2527495_1280_truncated.jpg" style="width: 100%; border: 2px ridge #1C6EA4;"/>
 
 Nous sommes ravis de vous accueillir pour partager avec vous durant ces prochains mois les moments forts de notre périple, nos joies, émerveillements, découvertes, surprises ... mais aussi les inévitables moments de galère et de solitude intense au bout du monde, qui ne se gêneront pas pour pointer le bout de leur nez (ça fait partie du package).
 
 Avant de rentrer dans notre quotidien de l'autre côté de la planète, commençons par le début : où, combien de temps et comment allons-nous voyager ? En bref, voici notre itinéraire dans les grandes lignes pour les 5 mois courant de début novembre à début avril.
 
-<div style="max-height: 350px; overflow: hidden; margin-bottom: 20px; border: 2px ridge #1C6EA4;">
-	<img src="/img/airplane-749535_1280.jpg" style="width: 100%; margin-top: -50px"/>
-</div>
+<!--<div style="max-height: 350px; overflow: hidden; margin-bottom: 20px; border: 2px ridge #1C6EA4;">
+	<img src="/img/airplane-749535_1280_truncated.jpg" style="width: 100%; margin-top: -50px; border: 2px ridge #1C6EA4;"/>
+</div>-->
+
+<img src="/img/airplane-749535_1280_truncated.jpg" style="width: 100%; border: 2px ridge #1C6EA4;"/>
 
 ## Aperçu de l'itinéraire
 
@@ -35,7 +40,7 @@ Notre périple va couvrir une partie des continents de l'Océanie puis de l'Asie
 Pourquoi ces pays et pas les autres ? Ce choix s'est fait par raffinages successifs, conscients qu'il valait mieux profiter plus de moins de pays, maximiser le nombre d'expériences différentes, tout en gardant nos chouchous (parce que la vie est injuste).
 
 <div style="margin-bottom: 20px; border: 3px outset #1C6EA4;">
-	<div style="max-height: 200px; overflow: hidden">
+	<!--<div style="max-height: 200px; overflow: hidden">
 		<img src="/img/sydney-363244_1280.jpg" style="width: 100%; margin-top: -150px"/>
 	</div>
 	<div style="max-height: 200px; overflow: hidden">
@@ -58,7 +63,15 @@ Pourquoi ces pays et pas les autres ? Ce choix s'est fait par raffinages success
 	</div>
 	<div style="max-height: 200px; overflow: hidden">
 		<img src="/img/cherry-blossom-2.jpg" style="width: 100%"/>
-	</div>
+	</div>-->
+	<img src="/img/sydney-363244_1280_truncated.jpg" style="width: 100%; margin-bottom: 0"/>
+	<img src="/img/new-zealand-1450672_1280_truncated.jpg" style="width: 100%; margin-bottom: 0"/>
+	<img src="/img/indian-wedding-2352277_1280_truncated.jpg" style="width: 100%; margin-bottom: 0"/>
+	<img src="/img/tibetan-prayer-flags-1384193_1280_truncated.jpg" style="width: 100%; margin-bottom: 0"/>
+	<img src="/img/bagan-4321176_1280_truncated.jpg" style="width: 100%; margin-bottom: 0"/>
+	<img src="/img/boats-854450_1280_truncated.jpg" style="width: 100%; margin-bottom: 0"/>
+	<img src="/img/angkor-thom-1349581_1280_truncated.jpg" style="width: 100%; margin-bottom: 0"/>
+	<img src="/img/cherry-blossom-2_truncated.jpg" style="width: 100%; margin-bottom: 0"/>
 </div>
 
 Le climat des pays durant la période considérée a aussi été un critère, la période ayant été elle-même décidée par un objectif principal : visiter le Japon pendant la sublimissime période de Hanami, quand fleurissent des miliers de cerisiers dans tout le pays.
@@ -97,9 +110,11 @@ Le programme se promet d'être épique et dépaysant. Convaincus ? Alors, accroc
 
 ## Expérience pédagogique
 
-<div style="max-height: 200px; overflow: hidden; margin-bottom: 20px; border: 3px outset #1C6EA4;">
+<!--<div style="max-height: 200px; overflow: hidden; margin-bottom: 20px; border: 3px outset #1C6EA4;">
 	<img src="/img/board-1614646_1280.jpg" style="width: 100%"/>
-</div>
+</div>-->
+
+![Blackboard](/img/board-1614646_1280_truncated.jpg){: style="border: 3px outset #1C6EA4;"}
 
 Nous avons décidé d'associer à ce périple une petite dimension pédagogique. C'est pourquoi notre blog sera suivi par la classe de CE1-CE2 de notre amie Myrtille, institutrice de renommée
 internationale (au moins en Île de France). Bienvenue et à très vite ! Nous avons hâte de vous raconter nos aventures et de lire vos premiers messages ! 
@@ -110,9 +125,11 @@ Maintenant que vous en savez un petit peu plus sur nos objectifs, nous mourrons 
 
 Malgré tout le soin pris à préparer notre voyage, nous sommes convaincus que vos suggestions nous permettront de raffiner notre planning au fur et à mesure. Après tout, si vous êtes en train de lire ce post, vous êtes forcément quelqu'un de bien et votre avis est indubitablement empli d'une sagesse millénaire !
 
-<div style="max-height: 200px; overflow: hidden; border: 3px outset #1C6EA4; margin-bottom: 20px">
+<!--<div style="max-height: 200px; overflow: hidden; border: 3px outset #1C6EA4; margin-bottom: 20px">
 	<img src="/img/hitcher-1536748_1280.jpg" style="width: 100%; margin-top: -230px;"/>
-</div>
+</div>-->
+
+![Hiker](/img/hitcher-1536748_1280_truncated.jpg){: style="border: 3px outset #1C6EA4;"}
 
 ## Avis aux aventuriers de demain
 

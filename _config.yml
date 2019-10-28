@@ -16,7 +16,7 @@
 title: Capoceasie.fr
 description: > # A blog about travel, adventure and stories from the road.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "capoceasie.github.io" # the base hostname & protocol for your site
+url: "http://capoceasie.fr" # the base hostname & protocol for your site
 permalink: :title
 
 # Build settings
