@@ -15,7 +15,7 @@ Après ces derniers mois à préparer le voyage, dernières semaines à
 finaliser les détails pratiques, et derniers jours à courir pour boucler 
 correctement notre départ, nous sommes prêts.
 
-![Equipés et parés](/img/c-est-parti/small/20191105_131352.jpg){: style="border: 3px outset #1C6EA4;"}
+![Equipés et parés](/img/c-est-parti/500/20191105_131352.jpg){: style="border: 3px outset #1C6EA4;"}
 
 ## Le bon moment
 
@@ -45,8 +45,8 @@ recherche d'un endroit pour stocker les affaires ayant survécu à la phase pré
 
 Bref, un beau programme dans un rythme métro-boulot déjà soutenu !
 
-![Equipement Marine](/img/c-est-parti/small/20191103_222715.jpg){: style="border: 3px outset #1C6EA4;"}
-![Equipement Anthony](/img/c-est-parti/small/20191103_115731.jpg){: style="border: 3px outset #1C6EA4;"}
+![Equipement Marine](/img/c-est-parti/500/20191103_222715.jpg){: style="border: 3px outset #1C6EA4;"}
+![Equipement Anthony](/img/c-est-parti/500/20191103_115731.jpg){: style="border: 3px outset #1C6EA4;"}
 
 ## Dernier mois
 
@@ -67,7 +67,7 @@ Du coup, cette tournée a elle-même été épique, ayant moins d'une journée
 à consacrer à chaque maison parentale. Cela nous aura au moins permis 
 de dire aurevoir et d'exfiltrer notre chat en territoire allié.
 
-![Matcha, sayonara !](/img/c-est-parti/small/P1050032.jpg){: style="border: 3px outset #1C6EA4;"}
+![Matcha, sayonara !](/img/c-est-parti/500/P1050032.jpg){: style="border: 3px outset #1C6EA4;"}
 
 ## Un chat contre un panda
 
@@ -76,7 +76,7 @@ Prénom : Momiji, ou érable en japonais ! Notre nouvelle mascotte nous accompag
 durant les mois à venir. 
 Momiji aura notamment l'importante mission d’écrire aux enfants de la classe de Myrtille.
 
-![Momiji](/img/c-est-parti/small/20191104_081654.jpg){: style="border: 3px outset #1C6EA4;"}
+![Momiji](/img/c-est-parti/500/20191104_081654.jpg){: style="border: 3px outset #1C6EA4;"}
 
 ## De 200 à 10 km/h en 3 secondes
 
@@ -92,12 +92,12 @@ pour faire un demi-tour de globe !
 Dernière ligne droite. Nous récupérons quelques affaires de nos gros sacs pour le marathon en cabine,
 et laissons ces derniers se faire "chouchouter" par les agents de notre compagnie aérienne.
 
-![En mode cabine](/img/c-est-parti/small/20191105_153314.jpg){: style="border: 3px outset #1C6EA4;"}
+![En mode cabine](/img/c-est-parti/500/20191105_153314.jpg){: style="border: 3px outset #1C6EA4;"}
 
 S'ensuit le célèbre bal du contrôle aux portes d'embarquement pour s'assurer que notre dentifrice
 ne présente pas de risque pour la sécurité du pays avant enfin de pouvoir monter dans l'avion.
 
-![Momiji à l'inspection](/img/c-est-parti/small/20191105_162301.jpg){: style="border: 3px outset #1C6EA4;"}
+![Momiji à l'inspection](/img/c-est-parti/500/20191105_162301.jpg){: style="border: 3px outset #1C6EA4;"}
 
 Départ imminent ce 5/11 donc. Arrivée prévue le ... 7 (24h de vol, +10h de décalage horaire).
 Le prochain article vous arrivera donc du futur 8-) !
@@ -105,7 +105,7 @@ Le prochain article vous arrivera donc du futur 8-) !
 On nous dit de boucler nos ceintures et de nous mettre en mode avion, 
 alors on vous dit à bientôt pour le début de notre épopée en Australie !
 
-![Momiji attaché](/img/c-est-parti/small/20191105_175707.jpg){: style="border: 3px outset #1C6EA4;"}
-![L'équipe au complet, juste avant le décollage](/img/c-est-parti/small/20191105_180117.jpg){: style="border: 3px outset #1C6EA4;"}
+![Momiji attaché](/img/c-est-parti/500/20191105_175707.jpg){: style="border: 3px outset #1C6EA4;"}
+![L'équipe au complet, juste avant le décollage](/img/c-est-parti/500/20191105_180117.jpg){: style="border: 3px outset #1C6EA4;"}
 
 Sydney, nous voilà !
