@@ -9,7 +9,7 @@
                       <div class="post-preview__info animated fadeInUp delay-3">
                           <div class="inner">
                               <h2><a href="{{post.url | prepend: site.baseurl }}">{{post.title}}</a></h2>
-                              <p class="post-preview__meta">Posted In
+                              <p class="post-preview__meta"><!--Posted In-->
                                 {% for category in post.categories %}
                                     <a href="{{ category | prepend: "/category/" | prepend: site.baseurl }}">{{ category | capitalize }}</a>{% if forloop.last %}{% else %},{% endif %}
                                 {% endfor %}
