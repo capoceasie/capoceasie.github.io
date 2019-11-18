@@ -4,7 +4,7 @@ date: 2019-11-10 14:39:17
 categories: 
 author_slug: marine-antho
 is_featured: false
-feature_image: luggage-1149289_1280.jpg
+feature_image: c-est-parti/large/20191105_153314.jpg
 comments: true
 social-message: "C'est parti !"
 ---
