@@ -15,7 +15,7 @@ Après ces derniers mois à préparer le voyage, dernières semaines à
 finaliser les détails pratiques, et derniers jours à courir pour boucler 
 correctement notre départ, nous sommes prêts.
 
-{% include clickimg.html image_path="img/c-est-parti/large/20191105_131352.jpg" thumb_path="img/c-est-parti/small/20191105_131352.jpg" alt="Equipés et parés !" %}
+![Equipés et parés](/img/c-est-parti/small/20191105_131352.jpg){: style="border: 3px outset #1C6EA4;"}
 
 ## Le bon moment
 
