@@ -1,91 +1,83 @@
 picture_path: sydney/opera
 preview:
-  filename: P1060281
+  filename: P1060281_3712 x 2784
   original: P1060281_3712 x 2784.jpg
+  thumbnail: sizes/P1060281_3712_x_2784.jpg_188x250.jpg
   sizes:
-  - P1060281_3712 x 2784.jpg
-  - P1060281_500x375.jpg
-  thumbnail: P1060281_500x375.jpg
-  # title: Mageleinstraat
-  # caption: Our House Ghent by THEM Sculptures
+  - sizes/P1060281_3712_x_2784.jpg_188x250.jpg
+  - sizes/P1060281_3712_x_2784.jpg_375x500.jpg
+  - sizes/P1060281_3712_x_2784.jpg_750x1000.jpg
+  - sizes/P1060281_3712_x_2784.jpg_1500x2000.jpg
 pictures:
-- filename: P1060281
+- filename: P1060281_3712 x 2784
   original: P1060281_3712 x 2784.jpg
+  thumbnail: sizes/P1060281_3712_x_2784.jpg_188x250.jpg
   sizes:
-  - P1060281_3712 x 2784.jpg
-  - P1060281_500x375.jpg
-  thumbnail: P1060281_500x375.jpg
-  # title: Boekentoren
-  # caption: Re-Construct/"Den djoef" by I-Illusions
-- filename: P1060284
+  - sizes/P1060281_3712_x_2784.jpg_188x250.jpg
+  - sizes/P1060281_3712_x_2784.jpg_375x500.jpg
+  - sizes/P1060281_3712_x_2784.jpg_750x1000.jpg
+  - sizes/P1060281_3712_x_2784.jpg_1500x2000.jpg
+- filename: P1060284_2784 x 3712
   original: P1060284_2784 x 3712.jpg
+  thumbnail: sizes/P1060284_2784_x_3712.jpg_250x188.jpg
   sizes:
-  - P1060284_2784 x 3712.jpg
-  - P1060284_375x500.jpg
-  thumbnail: P1060284_375x500.jpg
-  # title: Boekentoren
-  # caption: Re-Construct/"Den djoef" by I-Illusions
-- filename: P1060286
+  - sizes/P1060284_2784_x_3712.jpg_250x188.jpg
+  - sizes/P1060284_2784_x_3712.jpg_500x375.jpg
+  - sizes/P1060284_2784_x_3712.jpg_1000x750.jpg
+  - sizes/P1060284_2784_x_3712.jpg_2000x1500.jpg
+- filename: P1060286_2784 x 3712
   original: P1060286_2784 x 3712.jpg
+  thumbnail: sizes/P1060286_2784_x_3712.jpg_250x188.jpg
   sizes:
-  - P1060286_2784 x 3712.jpg
-  - P1060286_375x500.jpg
-  thumbnail: P1060286_375x500.jpg
-  # title: Boekentoren
-  # caption: Re-Construct/"Den djoef" by I-Illusions
-- filename: P1060289
+  - sizes/P1060286_2784_x_3712.jpg_250x188.jpg
+  - sizes/P1060286_2784_x_3712.jpg_500x375.jpg
+  - sizes/P1060286_2784_x_3712.jpg_1000x750.jpg
+  - sizes/P1060286_2784_x_3712.jpg_2000x1500.jpg
+- filename: P1060289_2784 x 3712
   original: P1060289_2784 x 3712.jpg
+  thumbnail: sizes/P1060289_2784_x_3712.jpg_250x188.jpg
   sizes:
-  - P1060289_2784 x 3712.jpg
-  - P1060289_375x500.jpg
-  thumbnail: P1060289_375x500.jpg
-  # title: Boekentoren
-  # caption: Re-Construct/"Den djoef" by I-Illusions
-- filename: P1060291
+  - sizes/P1060289_2784_x_3712.jpg_250x188.jpg
+  - sizes/P1060289_2784_x_3712.jpg_500x375.jpg
+  - sizes/P1060289_2784_x_3712.jpg_1000x750.jpg
+  - sizes/P1060289_2784_x_3712.jpg_2000x1500.jpg
+- filename: P1060291_3712 x 2784
   original: P1060291_3712 x 2784.jpg
+  thumbnail: sizes/P1060291_3712_x_2784.jpg_188x250.jpg
   sizes:
-  - P1060291_3712 x 2784.jpg
-  - P1060291_500x375.jpg
-  thumbnail: P1060291_500x375.jpg
-  # title: Boekentoren
-  # caption: Re-Construct/"Den djoef" by I-Illusions
-- filename: P1060295
+  - sizes/P1060291_3712_x_2784.jpg_188x250.jpg
+  - sizes/P1060291_3712_x_2784.jpg_375x500.jpg
+  - sizes/P1060291_3712_x_2784.jpg_750x1000.jpg
+  - sizes/P1060291_3712_x_2784.jpg_1500x2000.jpg
+- filename: P1060295_3712 x 2784
   original: P1060295_3712 x 2784.jpg
+  thumbnail: sizes/P1060295_3712_x_2784.jpg_188x250.jpg
   sizes:
-  - P1060295_3712 x 2784.jpg
-  - P1060295_500x375.jpg
-  thumbnail: P1060295_500x375.jpg
-  # title: Boekentoren
-  # caption: Re-Construct/"Den djoef" by I-Illusions
-- filename: P1060303
+  - sizes/P1060295_3712_x_2784.jpg_188x250.jpg
+  - sizes/P1060295_3712_x_2784.jpg_375x500.jpg
+  - sizes/P1060295_3712_x_2784.jpg_750x1000.jpg
+  - sizes/P1060295_3712_x_2784.jpg_1500x2000.jpg
+- filename: P1060303_3712 x 2784
   original: P1060303_3712 x 2784.jpg
+  thumbnail: sizes/P1060303_3712_x_2784.jpg_188x250.jpg
   sizes:
-  - P1060303_3712 x 2784.jpg
-  - P1060303_500x375.jpg
-  thumbnail: P1060303_500x375.jpg
-  # title: Boekentoren
-  # caption: Re-Construct/"Den djoef" by I-Illusions
-- filename: P1060306
-  original: P1060306_3712 x 2784.jpg
-  sizes:
-  - P1060306_3712 x 2784.jpg
-  - P1060306_500x375.jpg
-  thumbnail: P1060306_500x375.jpg
-  # title: Boekentoren
-  # caption: Re-Construct/"Den djoef" by I-Illusions
-- filename: P1060307
+  - sizes/P1060303_3712_x_2784.jpg_188x250.jpg
+  - sizes/P1060303_3712_x_2784.jpg_375x500.jpg
+  - sizes/P1060303_3712_x_2784.jpg_750x1000.jpg
+  - sizes/P1060303_3712_x_2784.jpg_1500x2000.jpg
+- filename: P1060307_3712 x 2784
   original: P1060307_3712 x 2784.jpg
+  thumbnail: sizes/P1060307_3712_x_2784.jpg_188x250.jpg
   sizes:
-  - P1060307_3712 x 2784.jpg
-  - P1060307_500x375.jpg
-  thumbnail: P1060307_500x375.jpg
-  # title: Boekentoren
-  # caption: Re-Construct/"Den djoef" by I-Illusions
-- filename: P1060744
+  - sizes/P1060307_3712_x_2784.jpg_188x250.jpg
+  - sizes/P1060307_3712_x_2784.jpg_375x500.jpg
+  - sizes/P1060307_3712_x_2784.jpg_750x1000.jpg
+  - sizes/P1060307_3712_x_2784.jpg_1500x2000.jpg
+- filename: P1060744_3712 x 2784
   original: P1060744_3712 x 2784.jpg
+  thumbnail: sizes/P1060744_3712_x_2784.jpg_188x250.jpg
   sizes:
-  - P1060744_3712 x 2784.jpg
-  - P1060744_500x375.jpg
-  thumbnail: P1060744_500x375.jpg
-  # title: Boekentoren
-  # caption: Re-Construct/"Den djoef" by I-Illusions
+  - sizes/P1060744_3712_x_2784.jpg_188x250.jpg
+  - sizes/P1060744_3712_x_2784.jpg_375x500.jpg
+  - sizes/P1060744_3712_x_2784.jpg_750x1000.jpg
+  - sizes/P1060744_3712_x_2784.jpg_1500x2000.jpg

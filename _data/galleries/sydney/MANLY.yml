@@ -1,0 +1,27 @@
+picture_path: sydney/MANLY
+preview:
+  filename: P1060543_3712 x 2784
+  original: P1060543_3712 x 2784.jpg
+  thumbnail: sizes/P1060543_3712_x_2784.jpg_188x250.jpg
+  sizes:
+  - sizes/P1060543_3712_x_2784.jpg_188x250.jpg
+  - sizes/P1060543_3712_x_2784.jpg_375x500.jpg
+  - sizes/P1060543_3712_x_2784.jpg_750x1000.jpg
+  - sizes/P1060543_3712_x_2784.jpg_1500x2000.jpg
+pictures:
+- filename: P1060543_3712 x 2784
+  original: P1060543_3712 x 2784.jpg
+  thumbnail: sizes/P1060543_3712_x_2784.jpg_188x250.jpg
+  sizes:
+  - sizes/P1060543_3712_x_2784.jpg_188x250.jpg
+  - sizes/P1060543_3712_x_2784.jpg_375x500.jpg
+  - sizes/P1060543_3712_x_2784.jpg_750x1000.jpg
+  - sizes/P1060543_3712_x_2784.jpg_1500x2000.jpg
+- filename: P1060544_3712 x 2784
+  original: P1060544_3712 x 2784.jpg
+  thumbnail: sizes/P1060544_3712_x_2784.jpg_188x250.jpg
+  sizes:
+  - sizes/P1060544_3712_x_2784.jpg_188x250.jpg
+  - sizes/P1060544_3712_x_2784.jpg_375x500.jpg
+  - sizes/P1060544_3712_x_2784.jpg_750x1000.jpg
+  - sizes/P1060544_3712_x_2784.jpg_1500x2000.jpg

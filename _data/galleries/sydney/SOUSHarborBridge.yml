@@ -1,0 +1,43 @@
+picture_path: sydney/SOUSHarborBridge
+preview:
+  filename: P1060568_3712 x 2784
+  original: P1060568_3712 x 2784.jpg
+  thumbnail: sizes/P1060568_3712_x_2784.jpg_188x250.jpg
+  sizes:
+  - sizes/P1060568_3712_x_2784.jpg_188x250.jpg
+  - sizes/P1060568_3712_x_2784.jpg_375x500.jpg
+  - sizes/P1060568_3712_x_2784.jpg_750x1000.jpg
+  - sizes/P1060568_3712_x_2784.jpg_1500x2000.jpg
+pictures:
+- filename: P1060568_3712 x 2784
+  original: P1060568_3712 x 2784.jpg
+  thumbnail: sizes/P1060568_3712_x_2784.jpg_188x250.jpg
+  sizes:
+  - sizes/P1060568_3712_x_2784.jpg_188x250.jpg
+  - sizes/P1060568_3712_x_2784.jpg_375x500.jpg
+  - sizes/P1060568_3712_x_2784.jpg_750x1000.jpg
+  - sizes/P1060568_3712_x_2784.jpg_1500x2000.jpg
+- filename: P1060577_2784 x 3712
+  original: P1060577_2784 x 3712.jpg
+  thumbnail: sizes/P1060577_2784_x_3712.jpg_250x188.jpg
+  sizes:
+  - sizes/P1060577_2784_x_3712.jpg_250x188.jpg
+  - sizes/P1060577_2784_x_3712.jpg_500x375.jpg
+  - sizes/P1060577_2784_x_3712.jpg_1000x750.jpg
+  - sizes/P1060577_2784_x_3712.jpg_2000x1500.jpg
+- filename: P1060581_3712 x 2784
+  original: P1060581_3712 x 2784.jpg
+  thumbnail: sizes/P1060581_3712_x_2784.jpg_188x250.jpg
+  sizes:
+  - sizes/P1060581_3712_x_2784.jpg_188x250.jpg
+  - sizes/P1060581_3712_x_2784.jpg_375x500.jpg
+  - sizes/P1060581_3712_x_2784.jpg_750x1000.jpg
+  - sizes/P1060581_3712_x_2784.jpg_1500x2000.jpg
+- filename: P1060584_3712 x 2784
+  original: P1060584_3712 x 2784.jpg
+  thumbnail: sizes/P1060584_3712_x_2784.jpg_188x250.jpg
+  sizes:
+  - sizes/P1060584_3712_x_2784.jpg_188x250.jpg
+  - sizes/P1060584_3712_x_2784.jpg_375x500.jpg
+  - sizes/P1060584_3712_x_2784.jpg_750x1000.jpg
+  - sizes/P1060584_3712_x_2784.jpg_1500x2000.jpg
