@@ -38,7 +38,18 @@ for d in main_dirs:
             qimg_height = qimg_data.shape[1]
             
             yml_gallery_picture = "- filename: " + img.replace(".jpg", "").replace(".png", "") + "\n"
-            yml_gallery_picture += "  original: " + img + "\n  thumbnail: " 
+            yml_gallery_picture += "  original: " 
+            
+            #Define Thumbnail as last dimension
+            dim = DIMENSIONS[len(DIMENSIONS) - 1]
+            resized_img_filename = None
+            if qimg_width > qimg_height:
+                resized_height = int(round(float(qimg_height) / float(qimg_width) * float(dim)))
+                resized_img_filename = sizes_folder + "/" + img.replace(" ", "_") + "_" + str(dim) + "x" + str(resized_height) + ".jpg"
+            else:
+                resized_width = int(round(float(qimg_width) / float(qimg_height) * float(dim)))
+                resized_img_filename = sizes_folder + "/" + img.replace(" ", "_") + "_" + str(resized_width) + "x" + str(dim) + ".jpg"
+            yml_gallery_picture += resized_img_filename.replace(qdd + "/", "") + "\n  thumbnail: "
             
             #Define Thumbnail as first dimension
             dim = DIMENSIONS[0]

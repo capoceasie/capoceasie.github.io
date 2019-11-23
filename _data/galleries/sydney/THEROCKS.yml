@@ -1,7 +1,7 @@
 picture_path: sydney/THEROCKS
 preview:
   filename: P1060589_3712 x 2784
-  original: P1060589_3712 x 2784.jpg
+  original: sizes/P1060589_3712_x_2784.jpg_1500x2000.jpg
   thumbnail: sizes/P1060589_3712_x_2784.jpg_188x250.jpg
   sizes:
   - sizes/P1060589_3712_x_2784.jpg_188x250.jpg
@@ -10,7 +10,7 @@ preview:
   - sizes/P1060589_3712_x_2784.jpg_1500x2000.jpg
 pictures:
 - filename: P1060589_3712 x 2784
-  original: P1060589_3712 x 2784.jpg
+  original: sizes/P1060589_3712_x_2784.jpg_1500x2000.jpg
   thumbnail: sizes/P1060589_3712_x_2784.jpg_188x250.jpg
   sizes:
   - sizes/P1060589_3712_x_2784.jpg_188x250.jpg
@@ -18,7 +18,7 @@ pictures:
   - sizes/P1060589_3712_x_2784.jpg_750x1000.jpg
   - sizes/P1060589_3712_x_2784.jpg_1500x2000.jpg
 - filename: P1060627_3712 x 2784
-  original: P1060627_3712 x 2784.jpg
+  original: sizes/P1060627_3712_x_2784.jpg_1500x2000.jpg
   thumbnail: sizes/P1060627_3712_x_2784.jpg_188x250.jpg
   sizes:
   - sizes/P1060627_3712_x_2784.jpg_188x250.jpg
@@ -26,7 +26,7 @@ pictures:
   - sizes/P1060627_3712_x_2784.jpg_750x1000.jpg
   - sizes/P1060627_3712_x_2784.jpg_1500x2000.jpg
 - filename: P1060628_3712 x 2784
-  original: P1060628_3712 x 2784.jpg
+  original: sizes/P1060628_3712_x_2784.jpg_1500x2000.jpg
   thumbnail: sizes/P1060628_3712_x_2784.jpg_188x250.jpg
   sizes:
   - sizes/P1060628_3712_x_2784.jpg_188x250.jpg
@@ -34,7 +34,7 @@ pictures:
   - sizes/P1060628_3712_x_2784.jpg_750x1000.jpg
   - sizes/P1060628_3712_x_2784.jpg_1500x2000.jpg
 - filename: P1060630_2784 x 3712
-  original: P1060630_2784 x 3712.jpg
+  original: sizes/P1060630_2784_x_3712.jpg_2000x1500.jpg
   thumbnail: sizes/P1060630_2784_x_3712.jpg_250x188.jpg
   sizes:
   - sizes/P1060630_2784_x_3712.jpg_250x188.jpg
@@ -42,7 +42,7 @@ pictures:
   - sizes/P1060630_2784_x_3712.jpg_1000x750.jpg
   - sizes/P1060630_2784_x_3712.jpg_2000x1500.jpg
 - filename: P1060633_2784 x 3712
-  original: P1060633_2784 x 3712.jpg
+  original: sizes/P1060633_2784_x_3712.jpg_2000x1500.jpg
   thumbnail: sizes/P1060633_2784_x_3712.jpg_250x188.jpg
   sizes:
   - sizes/P1060633_2784_x_3712.jpg_250x188.jpg

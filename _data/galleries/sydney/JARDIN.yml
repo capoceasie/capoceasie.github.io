@@ -1,7 +1,7 @@
 picture_path: sydney/JARDIN
 preview:
   filename: 20191108_151525_2448 x 3264
-  original: 20191108_151525_2448 x 3264.jpg
+  original: sizes/20191108_151525_2448_x_3264.jpg_2000x1500.jpg
   thumbnail: sizes/20191108_151525_2448_x_3264.jpg_250x188.jpg
   sizes:
   - sizes/20191108_151525_2448_x_3264.jpg_250x188.jpg
@@ -10,7 +10,7 @@ preview:
   - sizes/20191108_151525_2448_x_3264.jpg_2000x1500.jpg
 pictures:
 - filename: 20191108_151525_2448 x 3264
-  original: 20191108_151525_2448 x 3264.jpg
+  original: sizes/20191108_151525_2448_x_3264.jpg_2000x1500.jpg
   thumbnail: sizes/20191108_151525_2448_x_3264.jpg_250x188.jpg
   sizes:
   - sizes/20191108_151525_2448_x_3264.jpg_250x188.jpg
@@ -18,7 +18,7 @@ pictures:
   - sizes/20191108_151525_2448_x_3264.jpg_1000x750.jpg
   - sizes/20191108_151525_2448_x_3264.jpg_2000x1500.jpg
 - filename: P1060319_3712 x 2784
-  original: P1060319_3712 x 2784.jpg
+  original: sizes/P1060319_3712_x_2784.jpg_1500x2000.jpg
   thumbnail: sizes/P1060319_3712_x_2784.jpg_188x250.jpg
   sizes:
   - sizes/P1060319_3712_x_2784.jpg_188x250.jpg
@@ -26,7 +26,7 @@ pictures:
   - sizes/P1060319_3712_x_2784.jpg_750x1000.jpg
   - sizes/P1060319_3712_x_2784.jpg_1500x2000.jpg
 - filename: P1060341_3712 x 2784
-  original: P1060341_3712 x 2784.jpg
+  original: sizes/P1060341_3712_x_2784.jpg_1500x2000.jpg
   thumbnail: sizes/P1060341_3712_x_2784.jpg_188x250.jpg
   sizes:
   - sizes/P1060341_3712_x_2784.jpg_188x250.jpg
@@ -34,7 +34,7 @@ pictures:
   - sizes/P1060341_3712_x_2784.jpg_750x1000.jpg
   - sizes/P1060341_3712_x_2784.jpg_1500x2000.jpg
 - filename: P1060345_3712 x 2784
-  original: P1060345_3712 x 2784.jpg
+  original: sizes/P1060345_3712_x_2784.jpg_1500x2000.jpg
   thumbnail: sizes/P1060345_3712_x_2784.jpg_188x250.jpg
   sizes:
   - sizes/P1060345_3712_x_2784.jpg_188x250.jpg
@@ -42,7 +42,7 @@ pictures:
   - sizes/P1060345_3712_x_2784.jpg_750x1000.jpg
   - sizes/P1060345_3712_x_2784.jpg_1500x2000.jpg
 - filename: P1060391_3712 x 2784
-  original: P1060391_3712 x 2784.jpg
+  original: sizes/P1060391_3712_x_2784.jpg_1500x2000.jpg
   thumbnail: sizes/P1060391_3712_x_2784.jpg_188x250.jpg
   sizes:
   - sizes/P1060391_3712_x_2784.jpg_188x250.jpg
@@ -50,7 +50,7 @@ pictures:
   - sizes/P1060391_3712_x_2784.jpg_750x1000.jpg
   - sizes/P1060391_3712_x_2784.jpg_1500x2000.jpg
 - filename: P1060397_3712 x 2784
-  original: P1060397_3712 x 2784.jpg
+  original: sizes/P1060397_3712_x_2784.jpg_1500x2000.jpg
   thumbnail: sizes/P1060397_3712_x_2784.jpg_188x250.jpg
   sizes:
   - sizes/P1060397_3712_x_2784.jpg_188x250.jpg
@@ -58,7 +58,7 @@ pictures:
   - sizes/P1060397_3712_x_2784.jpg_750x1000.jpg
   - sizes/P1060397_3712_x_2784.jpg_1500x2000.jpg
 - filename: P1060424_2784 x 3712
-  original: P1060424_2784 x 3712.jpg
+  original: sizes/P1060424_2784_x_3712.jpg_2000x1500.jpg
   thumbnail: sizes/P1060424_2784_x_3712.jpg_250x188.jpg
   sizes:
   - sizes/P1060424_2784_x_3712.jpg_250x188.jpg
@@ -66,7 +66,7 @@ pictures:
   - sizes/P1060424_2784_x_3712.jpg_1000x750.jpg
   - sizes/P1060424_2784_x_3712.jpg_2000x1500.jpg
 - filename: P1060428_3712 x 2784
-  original: P1060428_3712 x 2784.jpg
+  original: sizes/P1060428_3712_x_2784.jpg_1500x2000.jpg
   thumbnail: sizes/P1060428_3712_x_2784.jpg_188x250.jpg
   sizes:
   - sizes/P1060428_3712_x_2784.jpg_188x250.jpg
@@ -74,7 +74,7 @@ pictures:
   - sizes/P1060428_3712_x_2784.jpg_750x1000.jpg
   - sizes/P1060428_3712_x_2784.jpg_1500x2000.jpg
 - filename: P1060435_3712 x 2784
-  original: P1060435_3712 x 2784.jpg
+  original: sizes/P1060435_3712_x_2784.jpg_1500x2000.jpg
   thumbnail: sizes/P1060435_3712_x_2784.jpg_188x250.jpg
   sizes:
   - sizes/P1060435_3712_x_2784.jpg_188x250.jpg
@@ -82,7 +82,7 @@ pictures:
   - sizes/P1060435_3712_x_2784.jpg_750x1000.jpg
   - sizes/P1060435_3712_x_2784.jpg_1500x2000.jpg
 - filename: P1060450_3712 x 2784
-  original: P1060450_3712 x 2784.jpg
+  original: sizes/P1060450_3712_x_2784.jpg_1500x2000.jpg
   thumbnail: sizes/P1060450_3712_x_2784.jpg_188x250.jpg
   sizes:
   - sizes/P1060450_3712_x_2784.jpg_188x250.jpg
@@ -90,7 +90,7 @@ pictures:
   - sizes/P1060450_3712_x_2784.jpg_750x1000.jpg
   - sizes/P1060450_3712_x_2784.jpg_1500x2000.jpg
 - filename: P1060478_2784 x 3712
-  original: P1060478_2784 x 3712.jpg
+  original: sizes/P1060478_2784_x_3712.jpg_2000x1500.jpg
   thumbnail: sizes/P1060478_2784_x_3712.jpg_250x188.jpg
   sizes:
   - sizes/P1060478_2784_x_3712.jpg_250x188.jpg
@@ -98,7 +98,7 @@ pictures:
   - sizes/P1060478_2784_x_3712.jpg_1000x750.jpg
   - sizes/P1060478_2784_x_3712.jpg_2000x1500.jpg
 - filename: P1060504_2784 x 3712
-  original: P1060504_2784 x 3712.jpg
+  original: sizes/P1060504_2784_x_3712.jpg_2000x1500.jpg
   thumbnail: sizes/P1060504_2784_x_3712.jpg_250x188.jpg
   sizes:
   - sizes/P1060504_2784_x_3712.jpg_250x188.jpg
@@ -106,7 +106,7 @@ pictures:
   - sizes/P1060504_2784_x_3712.jpg_1000x750.jpg
   - sizes/P1060504_2784_x_3712.jpg_2000x1500.jpg
 - filename: P1060505_3712 x 2784
-  original: P1060505_3712 x 2784.jpg
+  original: sizes/P1060505_3712_x_2784.jpg_1500x2000.jpg
   thumbnail: sizes/P1060505_3712_x_2784.jpg_188x250.jpg
   sizes:
   - sizes/P1060505_3712_x_2784.jpg_188x250.jpg
@@ -114,7 +114,7 @@ pictures:
   - sizes/P1060505_3712_x_2784.jpg_750x1000.jpg
   - sizes/P1060505_3712_x_2784.jpg_1500x2000.jpg
 - filename: P1060512_2784 x 3712
-  original: P1060512_2784 x 3712.jpg
+  original: sizes/P1060512_2784_x_3712.jpg_2000x1500.jpg
   thumbnail: sizes/P1060512_2784_x_3712.jpg_250x188.jpg
   sizes:
   - sizes/P1060512_2784_x_3712.jpg_250x188.jpg
@@ -122,7 +122,7 @@ pictures:
   - sizes/P1060512_2784_x_3712.jpg_1000x750.jpg
   - sizes/P1060512_2784_x_3712.jpg_2000x1500.jpg
 - filename: P1060653_2784 x 3712
-  original: P1060653_2784 x 3712.jpg
+  original: sizes/P1060653_2784_x_3712.jpg_2000x1500.jpg
   thumbnail: sizes/P1060653_2784_x_3712.jpg_250x188.jpg
   sizes:
   - sizes/P1060653_2784_x_3712.jpg_250x188.jpg
@@ -130,7 +130,7 @@ pictures:
   - sizes/P1060653_2784_x_3712.jpg_1000x750.jpg
   - sizes/P1060653_2784_x_3712.jpg_2000x1500.jpg
 - filename: P1060723_3712 x 2784
-  original: P1060723_3712 x 2784.jpg
+  original: sizes/P1060723_3712_x_2784.jpg_1500x2000.jpg
   thumbnail: sizes/P1060723_3712_x_2784.jpg_187x250.jpg
   sizes:
   - sizes/P1060723_3712_x_2784.jpg_187x250.jpg

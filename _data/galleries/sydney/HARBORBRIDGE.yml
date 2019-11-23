@@ -1,7 +1,7 @@
 picture_path: sydney/HARBORBRIDGE
 preview:
   filename: P1060258_3712 x 2784
-  original: P1060258_3712 x 2784.jpg
+  original: sizes/P1060258_3712_x_2784.jpg_1500x2000.jpg
   thumbnail: sizes/P1060258_3712_x_2784.jpg_188x250.jpg
   sizes:
   - sizes/P1060258_3712_x_2784.jpg_188x250.jpg
@@ -10,7 +10,7 @@ preview:
   - sizes/P1060258_3712_x_2784.jpg_1500x2000.jpg
 pictures:
 - filename: P1060258_3712 x 2784
-  original: P1060258_3712 x 2784.jpg
+  original: sizes/P1060258_3712_x_2784.jpg_1500x2000.jpg
   thumbnail: sizes/P1060258_3712_x_2784.jpg_188x250.jpg
   sizes:
   - sizes/P1060258_3712_x_2784.jpg_188x250.jpg
@@ -18,7 +18,7 @@ pictures:
   - sizes/P1060258_3712_x_2784.jpg_750x1000.jpg
   - sizes/P1060258_3712_x_2784.jpg_1500x2000.jpg
 - filename: P1060277_3712 x 2784
-  original: P1060277_3712 x 2784.jpg
+  original: sizes/P1060277_3712_x_2784.jpg_1500x2000.jpg
   thumbnail: sizes/P1060277_3712_x_2784.jpg_188x250.jpg
   sizes:
   - sizes/P1060277_3712_x_2784.jpg_188x250.jpg
@@ -26,7 +26,7 @@ pictures:
   - sizes/P1060277_3712_x_2784.jpg_750x1000.jpg
   - sizes/P1060277_3712_x_2784.jpg_1500x2000.jpg
 - filename: P1060459_3712 x 2784
-  original: P1060459_3712 x 2784.jpg
+  original: sizes/P1060459_3712_x_2784.jpg_1500x2000.jpg
   thumbnail: sizes/P1060459_3712_x_2784.jpg_188x250.jpg
   sizes:
   - sizes/P1060459_3712_x_2784.jpg_188x250.jpg
@@ -34,7 +34,7 @@ pictures:
   - sizes/P1060459_3712_x_2784.jpg_750x1000.jpg
   - sizes/P1060459_3712_x_2784.jpg_1500x2000.jpg
 - filename: P1060553_3712 x 2784
-  original: P1060553_3712 x 2784.jpg
+  original: sizes/P1060553_3712_x_2784.jpg_1500x2000.jpg
   thumbnail: sizes/P1060553_3712_x_2784.jpg_188x250.jpg
   sizes:
   - sizes/P1060553_3712_x_2784.jpg_188x250.jpg
@@ -42,7 +42,7 @@ pictures:
   - sizes/P1060553_3712_x_2784.jpg_750x1000.jpg
   - sizes/P1060553_3712_x_2784.jpg_1500x2000.jpg
 - filename: P1060747_3712 x 2784
-  original: P1060747_3712 x 2784.jpg
+  original: sizes/P1060747_3712_x_2784.jpg_1500x2000.jpg
   thumbnail: sizes/P1060747_3712_x_2784.jpg_188x250.jpg
   sizes:
   - sizes/P1060747_3712_x_2784.jpg_188x250.jpg
