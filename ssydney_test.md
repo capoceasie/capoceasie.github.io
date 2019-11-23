@@ -4,7 +4,7 @@ date: 2019-11-22 10:14:10
 categories: 
 author_slug: marine-antho
 is_featured: false
-feature_image: P1060466_3712 x 2784.jpg
+feature_image: P1060466_3712x2784.jpg
 comments: true
 social-message: "Sydney"
 ---
