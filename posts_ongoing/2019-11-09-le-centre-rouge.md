@@ -26,10 +26,10 @@ Intrigués par cet engouement, nous avons décidé d'aller nous perdre quelques 
 
 ## Jour 1
 
-C'est donc depuis Sydney (cf. {% post_url 2019-11-07-sydney %}) que nous prenons l'avion, direction Ayers Rock.
+C'est donc depuis Sydney (cf. [Article précédent]({% post_url 2019-11-07-sydney %})) que nous prenons l'avion, direction Ayers Rock.
 
-![Carte Sydney Ayers Rock](/img/Sydney-centre-rouge.jpg){: style="border: 3px outset #1C6EA4;"}
-![Carte Ayers Rock](/img/carte-centre-rouge.jpg){: style="border: 3px outset #1C6EA4;"}
+![Carte Sydney Ayers Rock](/img/Sydney-centre-rouge.png){: style="border: 3px outset #1C6EA4;"}
+![Carte Ayers Rock](/img/carte-centre-rouge.png){: style="border: 3px outset #1C6EA4;"}
 
 Nous sommes déjà ébahis dans l'avion alors que nous survolons les différents paysages du bush australien.
 L'engin vole en effet suffisamment bas pour que nous puissions découvrir de véritables fresques naturelles
