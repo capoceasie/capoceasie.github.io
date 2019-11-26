@@ -29,7 +29,7 @@ Intrigués par cet engouement, nous avons décidé d'aller nous perdre quelques 
 C'est donc depuis Sydney (cf. [Article précédent]({% post_url 2019-11-07-sydney %})) que nous prenons l'avion, direction Ayers Rock.
 
 ![Carte Sydney Ayers Rock](/img/Sydney-centre-rouge.png){: style="border: 3px outset #1C6EA4;"}
-![Carte Ayers Rock](/img/carte-centre-rouge.png){: style="border: 3px outset #1C6EA4;"}
+<!--![Carte Ayers Rock](/img/carte-centre-rouge.png){: style="border: 3px outset #1C6EA4;"}-->
 
 Nous sommes déjà ébahis dans l'avion alors que nous survolons les différents paysages du bush australien.
 L'engin vole en effet suffisamment bas pour que nous puissions découvrir de véritables fresques naturelles
@@ -242,75 +242,3 @@ Nous disons une dernière fois mentalement aurevoir aux superbes cailloux rouges
 Nous ne savons toujours pas mais ils ont quelque chose de magique : c'est un mélange qui vient des lumières et des couleurs, des légendes aborigènes, ~~des mouches~~, et de cette nature à l'état brut.
 
 Sur ce, bonne nuit et à bientôt pour vous raconter le début de notre périple sur la côte Est !
-
-<!--
----
-
-- 9/11
-
-CHRONO Marine
-avant le voyage: mais qu'est ce qu'ils ont de si spécial ces gros cailloux? pourquoi est-ce parmis les bests des voyageurs?
-- Avion pour Ayers Rock
-Photos depuis avion <3 <3 <3
-descente de l'avion : chaleur sèche qui asèche le nez et la gorge, rayons du soleil qui brulent la peau
-- Recup voiture loc
-- Première conduite en Australie
-prise en main de la voiture, rouler à gauche! mais où sont passé les clignotants ?!(non ça c'est les essuie-glasse!) 
-Habitacle de la voiture brulant (aouch mes fesses et mes doigts sur le volant! -> cf photo)
-arrivée à l'auberge de jeunesse : odeur d'eucalyptus, comme un hammam dans un sauna, vous voyez ?
-- Rencontre avec Joe le pigeon, que l'on renommera Elvis ensuite
-- Courses, repas, sieste
-approche d'uluru en voiture, on le voit des km à la ronde. Arrivé au pied uluru est très impressionnant, on se sent outs petits à côté
-- Uluru Information Center
-coucher de soleil sur Uluru : magique! lumières merveilleuses, la pierre flamboie sous les rayons du soleil
-- Retour Lodge, Repas
-- Sympathisation room mate chinoise uniquement là pour la nuit, ayant bossé 3 mois à KC, en route pour la Tasmanie. Bon vent !
-
-- 10/11
-
-balade autour d'uluru : d'abord guidé (intéressant) puis tour seuls (oups on va marcher après 11h :s, consignes assez stricte sur les précaution à prendre pour marcher sous la chaleur)
-rencontre avec Alan et Hélène, charmant couple (sexagénaire?) de victoria? -> invitation à venir les voir quand on sera là bas
-- Leçon Didjeridoo par un pro (22 ans d'expérience)
-- Nuée de cacatoes
-
-- 11/11
-
-- Checkout Ayers Rock Resort
-- Visite des olgas
-
-les olgas : zut on est partis trop tard, pas possible de faire le tour complet avant 11h, il fait 37°C à l'ombre, par prudence on rebrousse chemin après le 2e lookout. beaucoup de dénivelé sur cette rando, assez difficile (lors qu'uluru était tout plat)
-vue magnifique des olgas depuis un look out quelques km plus loin
-
-300 km de route pour rejoindre kings canyon. beaucoup de cadavres ... de pneus sur la route (croisons les doigts pour ne pas subir ce genre de mésaventure)
-par endroits on voit les stigmates du feu (cf photos)
-- Premier gros trajet en voiture pour KC
-arrivée au resort, encore plus hors de prix qu'uluru, pour des prestations laissant cette fois à désirer...
-attention aux dingos (pas de photos exploitables). 
-- Un dingo mettra la cuisine sens dessus dessous
-- Sunset sur KC depuis le resort, arrivée tardive
-
-- 12/11
-
-fin de lever de soleil sur king canyon (je croise les doigts pour les photos soient bien après retouche, beau potentiel)
-randonnée extraordinaire a kings canyon, alternance de paysages très variés, beaucoup de végétation avec une biodiversité incroyable, nos premiers kangouroux (enfin!!)
-- Marche de 4h, premiers kangourous !
-- Courses
-- Sunset KC depuis transats du resort, beaucoup mieux préparés
-- Encore un dingo qui rôde dans le resort, sans heurt (pas de cuisine ouverte)
-- Télé pour suivre les bushfires
-
-- 13/11
-
-retour ayesrs rock, quick & toast sur la route
-- Problème de delayed flight sans accès internet : on se débrouille comme on peut et un australien nous partage sa data en hotspot !
-- Problème connexe : pas possible de prévenir juicy que l'on ne pourra pas chopper le van ce jour
-- On se rendra compte après que le van n'est réservé qu'à partir du lendemain, MAIS PAS DE LOGEMENT !
-- Enregistrement et go partie différente de l'aéroport pour le contrôle sécu
-- Wifi dans cette zone ! On en profite pour gérer les dossiers, notamment logement et bushfires
-- Go avion pour Cairns, arrivée à 20h30 => Uber pour aller à l'hotel backpacker
-
-rencontre de français, partout, tout le temps, avec toujours de superbes histoires de voyage. beaucoup d'allemands aussi
-après le centre rouge : qu'est ce qu'ils ont de spécial ces cailloux rouges? je ne sais pas mais c'est magique : les lumières et les couleurs, le culte aborigène, cette nature à l'état brut (mais c'est pas: les bush flies, la poussière rouge qui se dépose partout!)
-
-
--->
