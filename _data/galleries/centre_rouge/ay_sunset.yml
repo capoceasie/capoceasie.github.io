@@ -1,0 +1,51 @@
+picture_path: centre_rouge/ay_sunset
+preview:
+  filename: 0_P1060754
+  original: sizes/0_P1060754.jpg_1500x2000.jpg
+  thumbnail: sizes/0_P1060754.jpg_187x250.jpg
+  sizes:
+  - sizes/0_P1060754.jpg_187x250.jpg
+  - sizes/0_P1060754.jpg_375x500.jpg
+  - sizes/0_P1060754.jpg_750x1000.jpg
+  - sizes/0_P1060754.jpg_1500x2000.jpg
+pictures:
+- filename: 0_P1060754
+  original: sizes/0_P1060754.jpg_1500x2000.jpg
+  thumbnail: sizes/0_P1060754.jpg_187x250.jpg
+  sizes:
+  - sizes/0_P1060754.jpg_187x250.jpg
+  - sizes/0_P1060754.jpg_375x500.jpg
+  - sizes/0_P1060754.jpg_750x1000.jpg
+  - sizes/0_P1060754.jpg_1500x2000.jpg
+- filename: 1_P1060765
+  original: sizes/1_P1060765.jpg_1500x2000.jpg
+  thumbnail: sizes/1_P1060765.jpg_188x250.jpg
+  sizes:
+  - sizes/1_P1060765.jpg_188x250.jpg
+  - sizes/1_P1060765.jpg_375x500.jpg
+  - sizes/1_P1060765.jpg_750x1000.jpg
+  - sizes/1_P1060765.jpg_1500x2000.jpg
+- filename: P1060764
+  original: sizes/P1060764.jpg_1500x2000.jpg
+  thumbnail: sizes/P1060764.jpg_187x250.jpg
+  sizes:
+  - sizes/P1060764.jpg_187x250.jpg
+  - sizes/P1060764.jpg_375x500.jpg
+  - sizes/P1060764.jpg_750x1000.jpg
+  - sizes/P1060764.jpg_1500x2000.jpg
+- filename: P1060776
+  original: sizes/P1060776.jpg_1500x2000.jpg
+  thumbnail: sizes/P1060776.jpg_187x250.jpg
+  sizes:
+  - sizes/P1060776.jpg_187x250.jpg
+  - sizes/P1060776.jpg_375x500.jpg
+  - sizes/P1060776.jpg_750x1000.jpg
+  - sizes/P1060776.jpg_1500x2000.jpg
+- filename: z_20191109_190635
+  original: sizes/z_20191109_190635.jpg_1500x2000.jpg
+  thumbnail: sizes/z_20191109_190635.jpg_188x250.jpg
+  sizes:
+  - sizes/z_20191109_190635.jpg_188x250.jpg
+  - sizes/z_20191109_190635.jpg_375x500.jpg
+  - sizes/z_20191109_190635.jpg_750x1000.jpg
+  - sizes/z_20191109_190635.jpg_1500x2000.jpg

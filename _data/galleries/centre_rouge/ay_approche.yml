@@ -1,0 +1,27 @@
+picture_path: centre_rouge/ay_approche
+preview:
+  filename: 20191109_164837
+  original: sizes/20191109_164837.jpg_1500x2000.jpg
+  thumbnail: sizes/20191109_164837.jpg_188x250.jpg
+  sizes:
+  - sizes/20191109_164837.jpg_188x250.jpg
+  - sizes/20191109_164837.jpg_375x500.jpg
+  - sizes/20191109_164837.jpg_750x1000.jpg
+  - sizes/20191109_164837.jpg_1500x2000.jpg
+pictures:
+- filename: 20191109_164837
+  original: sizes/20191109_164837.jpg_1500x2000.jpg
+  thumbnail: sizes/20191109_164837.jpg_188x250.jpg
+  sizes:
+  - sizes/20191109_164837.jpg_188x250.jpg
+  - sizes/20191109_164837.jpg_375x500.jpg
+  - sizes/20191109_164837.jpg_750x1000.jpg
+  - sizes/20191109_164837.jpg_1500x2000.jpg
+- filename: 20191110_073836
+  original: sizes/20191110_073836.jpg_1500x2000.jpg
+  thumbnail: sizes/20191110_073836.jpg_188x250.jpg
+  sizes:
+  - sizes/20191110_073836.jpg_188x250.jpg
+  - sizes/20191110_073836.jpg_375x500.jpg
+  - sizes/20191110_073836.jpg_750x1000.jpg
+  - sizes/20191110_073836.jpg_1500x2000.jpg
