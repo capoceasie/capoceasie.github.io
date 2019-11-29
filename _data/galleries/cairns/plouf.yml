@@ -1,0 +1,107 @@
+picture_path: cairns/plouf
+preview:
+  filename: 317
+  original: sizes/317.jpg_1500x2000.jpg
+  thumbnail: sizes/317.jpg_188x250.jpg
+  sizes:
+  - sizes/317.jpg_188x250.jpg
+  - sizes/317.jpg_375x500.jpg
+  - sizes/317.jpg_750x1000.jpg
+  - sizes/317.jpg_1500x2000.jpg
+pictures:
+- filename: 317
+  original: sizes/317.jpg_1500x2000.jpg
+  thumbnail: sizes/317.jpg_188x250.jpg
+  sizes:
+  - sizes/317.jpg_188x250.jpg
+  - sizes/317.jpg_375x500.jpg
+  - sizes/317.jpg_750x1000.jpg
+  - sizes/317.jpg_1500x2000.jpg
+- filename: 318
+  original: sizes/318.jpg_1500x2000.jpg
+  thumbnail: sizes/318.jpg_188x250.jpg
+  sizes:
+  - sizes/318.jpg_188x250.jpg
+  - sizes/318.jpg_375x500.jpg
+  - sizes/318.jpg_750x1000.jpg
+  - sizes/318.jpg_1500x2000.jpg
+- filename: 387
+  original: sizes/387.jpg_2000x1500.jpg
+  thumbnail: sizes/387.jpg_250x188.jpg
+  sizes:
+  - sizes/387.jpg_250x188.jpg
+  - sizes/387.jpg_500x375.jpg
+  - sizes/387.jpg_1000x750.jpg
+  - sizes/387.jpg_2000x1500.jpg
+- filename: 462
+  original: sizes/462.jpg_1500x2000.jpg
+  thumbnail: sizes/462.jpg_188x250.jpg
+  sizes:
+  - sizes/462.jpg_188x250.jpg
+  - sizes/462.jpg_375x500.jpg
+  - sizes/462.jpg_750x1000.jpg
+  - sizes/462.jpg_1500x2000.jpg
+- filename: 521
+  original: sizes/521.jpg_1500x2000.jpg
+  thumbnail: sizes/521.jpg_188x250.jpg
+  sizes:
+  - sizes/521.jpg_188x250.jpg
+  - sizes/521.jpg_375x500.jpg
+  - sizes/521.jpg_750x1000.jpg
+  - sizes/521.jpg_1500x2000.jpg
+- filename: 587
+  original: sizes/587.jpg_1500x2000.jpg
+  thumbnail: sizes/587.jpg_188x250.jpg
+  sizes:
+  - sizes/587.jpg_188x250.jpg
+  - sizes/587.jpg_375x500.jpg
+  - sizes/587.jpg_750x1000.jpg
+  - sizes/587.jpg_1500x2000.jpg
+- filename: 604
+  original: sizes/604.jpg_1500x2000.jpg
+  thumbnail: sizes/604.jpg_187x250.jpg
+  sizes:
+  - sizes/604.jpg_187x250.jpg
+  - sizes/604.jpg_375x500.jpg
+  - sizes/604.jpg_750x1000.jpg
+  - sizes/604.jpg_1500x2000.jpg
+- filename: 954
+  original: sizes/954.jpg_2000x1500.jpg
+  thumbnail: sizes/954.jpg_250x187.jpg
+  sizes:
+  - sizes/954.jpg_250x187.jpg
+  - sizes/954.jpg_500x375.jpg
+  - sizes/954.jpg_1000x750.jpg
+  - sizes/954.jpg_2000x1500.jpg
+- filename: 980
+  original: sizes/980.jpg_1500x2000.jpg
+  thumbnail: sizes/980.jpg_188x250.jpg
+  sizes:
+  - sizes/980.jpg_188x250.jpg
+  - sizes/980.jpg_375x500.jpg
+  - sizes/980.jpg_750x1000.jpg
+  - sizes/980.jpg_1500x2000.jpg
+- filename: F905
+  original: sizes/F905.jpg_1500x2000.jpg
+  thumbnail: sizes/F905.jpg_188x250.jpg
+  sizes:
+  - sizes/F905.jpg_188x250.jpg
+  - sizes/F905.jpg_375x500.jpg
+  - sizes/F905.jpg_750x1000.jpg
+  - sizes/F905.jpg_1500x2000.jpg
+- filename: F914
+  original: sizes/F914.jpg_1500x2000.jpg
+  thumbnail: sizes/F914.jpg_188x250.jpg
+  sizes:
+  - sizes/F914.jpg_188x250.jpg
+  - sizes/F914.jpg_375x500.jpg
+  - sizes/F914.jpg_750x1000.jpg
+  - sizes/F914.jpg_1500x2000.jpg
+- filename: F921
+  original: sizes/F921.jpg_2000x1500.jpg
+  thumbnail: sizes/F921.jpg_250x188.jpg
+  sizes:
+  - sizes/F921.jpg_250x188.jpg
+  - sizes/F921.jpg_500x375.jpg
+  - sizes/F921.jpg_1000x750.jpg
+  - sizes/F921.jpg_2000x1500.jpg

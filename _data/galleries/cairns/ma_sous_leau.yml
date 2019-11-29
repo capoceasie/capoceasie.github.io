@@ -1,0 +1,27 @@
+picture_path: cairns/ma_sous_leau
+preview:
+  filename: 284
+  original: sizes/284.jpg_1500x2000.jpg
+  thumbnail: sizes/284.jpg_188x250.jpg
+  sizes:
+  - sizes/284.jpg_188x250.jpg
+  - sizes/284.jpg_375x500.jpg
+  - sizes/284.jpg_750x1000.jpg
+  - sizes/284.jpg_1500x2000.jpg
+pictures:
+- filename: 284
+  original: sizes/284.jpg_1500x2000.jpg
+  thumbnail: sizes/284.jpg_188x250.jpg
+  sizes:
+  - sizes/284.jpg_188x250.jpg
+  - sizes/284.jpg_375x500.jpg
+  - sizes/284.jpg_750x1000.jpg
+  - sizes/284.jpg_1500x2000.jpg
+- filename: 289
+  original: sizes/289.jpg_1500x2000.jpg
+  thumbnail: sizes/289.jpg_188x250.jpg
+  sizes:
+  - sizes/289.jpg_188x250.jpg
+  - sizes/289.jpg_375x500.jpg
+  - sizes/289.jpg_750x1000.jpg
+  - sizes/289.jpg_1500x2000.jpg

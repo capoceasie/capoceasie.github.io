@@ -1,0 +1,27 @@
+picture_path: cairns/lagon
+preview:
+  filename: 20191114_095859
+  original: sizes/20191114_095859.jpg_2000x1500.jpg
+  thumbnail: sizes/20191114_095859.jpg_250x188.jpg
+  sizes:
+  - sizes/20191114_095859.jpg_250x188.jpg
+  - sizes/20191114_095859.jpg_500x375.jpg
+  - sizes/20191114_095859.jpg_1000x750.jpg
+  - sizes/20191114_095859.jpg_2000x1500.jpg
+pictures:
+- filename: 20191114_095859
+  original: sizes/20191114_095859.jpg_2000x1500.jpg
+  thumbnail: sizes/20191114_095859.jpg_250x188.jpg
+  sizes:
+  - sizes/20191114_095859.jpg_250x188.jpg
+  - sizes/20191114_095859.jpg_500x375.jpg
+  - sizes/20191114_095859.jpg_1000x750.jpg
+  - sizes/20191114_095859.jpg_2000x1500.jpg
+- filename: 20191114_180744
+  original: sizes/20191114_180744.jpg_1500x2000.jpg
+  thumbnail: sizes/20191114_180744.jpg_188x250.jpg
+  sizes:
+  - sizes/20191114_180744.jpg_188x250.jpg
+  - sizes/20191114_180744.jpg_375x500.jpg
+  - sizes/20191114_180744.jpg_750x1000.jpg
+  - sizes/20191114_180744.jpg_1500x2000.jpg

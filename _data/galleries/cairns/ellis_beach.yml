@@ -1,0 +1,43 @@
+picture_path: cairns/ellis_beach
+preview:
+  filename: 20191116_071912
+  original: sizes/20191116_071912.jpg_1500x2000.jpg
+  thumbnail: sizes/20191116_071912.jpg_187x250.jpg
+  sizes:
+  - sizes/20191116_071912.jpg_187x250.jpg
+  - sizes/20191116_071912.jpg_375x500.jpg
+  - sizes/20191116_071912.jpg_750x1000.jpg
+  - sizes/20191116_071912.jpg_1500x2000.jpg
+pictures:
+- filename: 20191116_071912
+  original: sizes/20191116_071912.jpg_1500x2000.jpg
+  thumbnail: sizes/20191116_071912.jpg_187x250.jpg
+  sizes:
+  - sizes/20191116_071912.jpg_187x250.jpg
+  - sizes/20191116_071912.jpg_375x500.jpg
+  - sizes/20191116_071912.jpg_750x1000.jpg
+  - sizes/20191116_071912.jpg_1500x2000.jpg
+- filename: 20191116_072421
+  original: sizes/20191116_072421.jpg_2000x1500.jpg
+  thumbnail: sizes/20191116_072421.jpg_250x188.jpg
+  sizes:
+  - sizes/20191116_072421.jpg_250x188.jpg
+  - sizes/20191116_072421.jpg_500x375.jpg
+  - sizes/20191116_072421.jpg_1000x750.jpg
+  - sizes/20191116_072421.jpg_2000x1500.jpg
+- filename: 20191116_073826
+  original: sizes/20191116_073826.jpg_1500x2000.jpg
+  thumbnail: sizes/20191116_073826.jpg_188x250.jpg
+  sizes:
+  - sizes/20191116_073826.jpg_188x250.jpg
+  - sizes/20191116_073826.jpg_375x500.jpg
+  - sizes/20191116_073826.jpg_750x1000.jpg
+  - sizes/20191116_073826.jpg_1500x2000.jpg
+- filename: 20191116_085251
+  original: sizes/20191116_085251.jpg_1500x2000.jpg
+  thumbnail: sizes/20191116_085251.jpg_188x250.jpg
+  sizes:
+  - sizes/20191116_085251.jpg_188x250.jpg
+  - sizes/20191116_085251.jpg_375x500.jpg
+  - sizes/20191116_085251.jpg_750x1000.jpg
+  - sizes/20191116_085251.jpg_1500x2000.jpg

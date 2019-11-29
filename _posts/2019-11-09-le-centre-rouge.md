@@ -28,7 +28,9 @@ Intrigués par cet engouement, nous avons décidé d'aller nous perdre quelques 
 
 C'est donc depuis Sydney (cf. [Article précédent]({% post_url 2019-11-07-sydney %})) que nous prenons l'avion, direction Ayers Rock.
 
-![Carte Sydney Ayers Rock](/img/Sydney-centre-rouge.png){: style="border: 3px outset #1C6EA4;"}
+{% include lightslider.html gallery=site.data.galleries.centre_rouge.cartes %}
+
+<!--![Carte Sydney Ayers Rock](/img/Sydney-centre-rouge.png){: style="border: 3px outset #1C6EA4;"}
 <!--![Carte Ayers Rock](/img/carte-centre-rouge.png){: style="border: 3px outset #1C6EA4;"}-->
 
 Nous sommes déjà ébahis dans l'avion alors que nous survolons les différents paysages du bush australien.
@@ -51,13 +53,15 @@ et héberge les guichets de locations de voiture. Sitôt nos sacs à dos récup�
 En effet, 300 km séparent les 2 sites principaux que nous souhaitons voir et la voiture est une option intéressante 
 pour être autonome dans ces conditions. Nous avons donc opté pour cette solution et allons récupérer notre bolide. 
 
-
 Nous faisons très rapidement nos premiers kilomètres de voiture en Australie ! 
 La prise en main de la voiture nécessite quelques ajustements par rapport à la France : ici, on roule à gauche !
 Après quelques erreurs de positionnement mais aussi d'utilisation des essuie-glaces pour indiquer que l'on veut tourner 
-(les commandes au volant sont aussi inversées !), nous arrivons à donner le change et pouvons atteindre l'auberge de jeunesse
-du coin. 
+(les commandes au volant sont aussi inversées !), nous arrivons à donner le change et à progresser sur le bitume.
 
+Sur la route, nous voyons des zones ayant souffert des feux de bush.
+{% include lightslider.html gallery=site.data.galleries.centre_rouge.incendies %}
+ 
+Nous atteignons rapidement l'auberge de jeunesse du coin. 
 L'endroit sent l'eucalyptus à plein nez. On se croirait comme dans un sauna avec la chaleur sèche, mais avec l'odeur d'un hammam, vous saisissez ?
 Nous nous posons car nous sommes en début d'après-midi et qu'il est très fortement déconseillé d'aller faire les visites 
 des sites rocheux à cette heure, où pratiquement aucune ombre n'est disponible alors que plusieurs heures de marche sont nécessaires.
@@ -91,8 +95,8 @@ et de terminer avant 11h pour éviter les problèmes graves liés à la chaleur 
 De nombreux panneaux sont présents partout comme autant de piqûres de rappel aux touristes imprudents.
 
 Nous nous dirigeons de nouveau vers Ayers Rock, appelé également "Uluru" par les aborigènes. Le rocher est en effet rattaché à de
-nombreuses légendes de la période mythique du Dreamtime de ce peuple ancien. Le Dreamtime, ou « temps du rêve », désigne
-chez les Aborigènes le temps précédant la création du monde par les esprits ancestraux (merci le guide du petit futé!).
+nombreuses légendes de la période mythique du "Dreamtime" de ce peuple ancien, ou "temps du rêve", qui désigne
+pour eux le temps précédant la création du monde par les esprits ancestraux.
 
 Nous arrivons alors qu'une visite guidée par un ranger de la région commence. Nous apprenons de nombreuses choses
 durant cette présentation, et notamment qu'une tribu aborigène habitait cette émergence et utilisait ses aspérités comme
@@ -109,10 +113,10 @@ La zone est plus généralement très ferreuse ce qui explique la prédominance 
 
 La visite terminée, nous nous lançons un peu tardivement dans la marche autour du rocher pour profiter de ses autres profils et prenons le risque
 de marcher à des heures chaudes (ça vallait le coup de mettre des panneaux partout ...) mais heureusement nous avons pas mal d'eau.
-Nous recontrons sur le trajet un couple d'australiens, Alan et Helen, qui font comme nous et se hâtent de faire le tour après avoir suivi la guide. Nous sympathisons et sommes content
+Nous recontrons sur le trajet un couple d'australiens, Alan et Sue, qui font comme nous et se hâtent de faire le tour après avoir suivi la guide. Nous sympathisons et sommes content
 de pouvoir discuter en faisant la marche qui durera au final plus de 2 heures. Nous cuisons dans le désert jusqu'aux environs de 13h mais repartons 
 avec de nouvelles photos et une invitation à manger dans la région de Victoria que nous atteindrons après notre road trip sur la côte Est ! 
-À bientôt A & H !
+À bientôt A & S !
 
 {% include lightslider.html gallery=site.data.galleries.centre_rouge.ay_marche %}
 
@@ -155,7 +159,7 @@ de profiter d'un point de vue dédié à l'observation du massif rocheux pendant
 tard pour profiter des meilleures lumières.
 
 Plus tard dans la soirée, nous entendons des bruits étranges à proximité de notre chambre. Nous apercevons alors un dingo, canidé sauvage typique d'Australie, 
-consentieusement occupé à ranger à sa manière le contenu de la poubelle de la cuisine commune (ou de trier les déchets?!). Autant dire qu'il fait ça très bien ! 
+consentieusement occupé à ranger à sa manière le contenu de la poubelle de la cuisine commune (ou de trier les déchets ?!). Autant dire qu'il fait ça très bien ! 
 Nous n'avons pas de photo exploitable du moment malheureusement mais le spectacle est assez surprenant. Même les sacs plastiques ont l'air de l'intéresser ! 
 Un campeur voisin ira déloger le canidé et le fera déguerpir du camp. 
 Il faut savoir que ces situations sont assez fréquentes en Australie. Malgré son côté mignon et exotique pour nous, le dingo est en fait considéré comme un nuisible 
