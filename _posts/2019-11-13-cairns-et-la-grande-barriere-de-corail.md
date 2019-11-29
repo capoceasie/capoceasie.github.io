@@ -33,7 +33,7 @@ L'hôtel est situé face à la mer, et nous atteignions donc instantanément l'e
 L'atmosphère est très différente de celle que nous venons de quitter dans le centre rouge : il fait toujours chaud mais l'humidité dans l'air est bien plus 
 importante. On se rapproche cette fois bien du hammam et non plus du sauna, quoique modéré à cette heure. 
 
-Nous croisons nos premiers échassiers locaux et nous contemplons l'océan à marée basse laissant entrevoir un sol très vaseux.
+Nous croisons quelques échassiers et nous contemplons l'océan à marée basse laissant entrevoir un sol très vaseux.
 La ville ne possède effectivement aucune plage naturelle et les amateurs de bronzage ou de baignade préfèreront les nombreuses plages aux alentours, pour peu
 d'être véhiculé. Ceci dit, même sur les plages, la baignade est compliquée dans cette partie de l'Australie, comme nous le rappellent de nombreux panneaux 
 sur la côte. Les eaux chaudes attirantes pour l'homme ont aussi un effet attractif sur une faune très dangereuse, crocodiles et méduses mortelles 
@@ -60,7 +60,7 @@ complètement gratuite et librement accessible !
 {% include lightslider.html gallery=site.data.galleries.cairns.lagon %}
 
 Le début de l'entretien avec la société de location commence bien car nous profitons d'un surclassement : 
-plus de confort, GPS, caméra de recul et toute la panoplie, et même 4 couchages (vous auriez dû nous rejoindre !). La suite se corse : les cartes bancaires ne veulent pas payer à la fois les 16 jours de réservation 
+plus de confort, GPS, caméra de recul et toute la panoplie, et même 4 couchages. La suite se corse : les cartes bancaires ne veulent pas payer à la fois les 16 jours de réservation 
 et (surtout) la caution qui pète les plafonds ! Nous galérons à trouver une solution, l'augmentation de plafond via l'appli ne fonctionnant pas et aucune de nos 
 cartes bancaires n'étant compatissante ... Il doit être 2h du matin en France et appeler les banques n'est pas possible. Que faire ? 
 Heureusement, à force d'acharnement, une manip' via le site web de la banque résoudra le problème. Ouf ! 
@@ -114,7 +114,7 @@ pour dire au directeur de plongée que nous n'avons aucune expérience en milieu
 
 Le bateau démarre et notre directeur de plongée nous rappelle toutes les consignes de sécurité à la surface et sous l'eau, nous décrit le fonctionnement
 de notre équipement ainsi que les consignes d'organisation sur le bateau, indispensables à près de 80 personnes à bord dont une bonne quinzaine de plongeurs
- bouteille, une cinquantaine de snorkelers et le reste de staff.
+ bouteille.
  
 Les plongées du jour auront lieu sur le récif de Flynn, situé au large de Cairns dans la zone des récifs "extérieurs" (Outer Reef) offrant une meileure 
 visibilité et biodiversité que les récifs "intérieurs" (Inner Reef) plus proches de la côte et donc plus affectés par l'activité humaine. Au delà des récifs
@@ -128,7 +128,7 @@ extérieurs, la profondeur augmente drastiquement et nous arrivons dans ce que l
 Après une bonne heure pour rejoindre le récif, nous descendons pour nous équiper. 
 Le niveau dédié à la plongée est super bien organisé : les bouteilles pré-équipées des gilets et détendeurs sont alignées derrière des bancs et il suffit de 
 s'asseoir à sa place pour enfiler tout l'équipement d'un coup. Les ensembles masques + tubas sont juste au dessus et les ceintures avec les poids sont dans une caisse sous le banc. Tout est fait pour limiter les déplacements 
-sur le bateau. Notre guide de palanquée spécial débutant, surnommé "Richie", nous donne deux combinaisons : une fine en lycra intégrale pour éviter les contacts 
+sur le bateau. Richie, notre guide de palanquée spécial débutant, nous donne deux combinaisons : une fine en lycra intégrale pour éviter les contacts 
 avec les méduses, une autre plus grosse sans gants ni capuche en néoprène pour gérer le froid. Nous essayons vaillament de rentrer dans nos combinaisons, 
 étape plus longue que prévue car très proches du corps, vérifions nos équipements (quantité d'air disponible, fonctionnement des gilets et des détendeurs), 
 enfilons le tout, et attendons patiemment l'arrivée sur le site précis de plongée, dénommé "Ski Slope" ("pente de ski" littéralement). 
