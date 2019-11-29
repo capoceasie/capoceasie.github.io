@@ -121,6 +121,7 @@ visibilité et biodiversité que les récifs "intérieurs" (Inner Reef) plus pro
 extérieurs, la profondeur augmente drastiquement et nous arrivons dans ce que l'on appelle la "mer de corail".
 
 {% include lightslider.html gallery=site.data.galleries.cairns.recif_flynn %}
+(Source: [Site de la compagnie Silverswift](https://www.silverseries.com.au/swift_sites_flynn.htm#prettyPhoto)).
  
 ### Première plongée
  
