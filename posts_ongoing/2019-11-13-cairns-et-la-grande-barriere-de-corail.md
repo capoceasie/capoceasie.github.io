@@ -169,7 +169,11 @@ Même rituel pour s'équiper ainsi que s'immerger de nouveau et nous sommes à g
 Cette seconde plongée commence par nous réserver de belles surprises. En effet, nous avons la chance d'observer plusieurs
 "giant clams" ou "tridacne géant" (ou encore "bénitier géant" ;)), une murène, des poissons clowns, d'autres poissons de 2m de long environ, 
 et bien entendu toujours ces somptueux coraux (dont des bleus que nous voyons pour la première fois) et des nuées de petits
-poissons de toutes les couleurs. La deuxième partie de l'exploration nous demande un peu d'agilité car nous passons dans des tunnels naturellement 
+poissons de toutes les couleurs. 
+
+{% include lightslider.html gallery=site.data.galleries.cairns.trophees_plongee_2 %}
+
+La deuxième partie de l'exploration nous demande un peu d'agilité car nous passons dans des tunnels naturellement 
 formés par les coraux. Nous réussissons l'épreuve comme des chefs sans abimer le paysage. Certains de nos partenaires officiellement plus expérimentés
 ne pourront pas dire la même chose, même si aucune tragédie n'aura lieu ! Débutants vous avez dit ? 
 
@@ -198,6 +202,8 @@ chacune de ses brebis ...
 Nous arrivons malgré les efforts soutenus à observer un requin des récifs (inoffensif pour l'homme mais impressionnant), plusieurs "giant clam" et plein de 
 coraux et petits poissons fantastiques.
 
+{% include lightslider.html gallery=site.data.galleries.cairns.trophees_plongee_3 %}
+
 Nous remontons sur le bateau é-pui-sés, à la fois d'avoir enchainé trois plongées, mais aussi à lutter contre les courants sur la dernière.
 Nous tenons à peine debout pour amener nos blocs à leur place d'origine. Nous nous jettons sur les cafés disponibles et les choses à grignoter.
 
@@ -205,6 +211,8 @@ De retour dans la zone sèche, nous débrieffons avec Richie à propos des diff�
 des coraux qui n'a lieu **qu'une seule fois** par an, quand toutes les conditions de température et de courant sont remplies !
 Nous faisons ensuite le tour des poissons et autres animaux rencontrés et nous constatons que nous n'avons pas tout vu. Nous avons notamment
 loupé une raie et une grande seiche qui n'ont pas dû traîner longtemps dans les parages. Dommage, ce sera pour la prochaine fois.
+
+
 Nous faisons nos premiers ajouts dans notre carnet de plongée et le faisons tamponner ! C'est maintenant officiel et définitif : nous avons fait les premières 
 plongées en milieu naturel de notre vie sur **THE grande barrière de corail**.
 

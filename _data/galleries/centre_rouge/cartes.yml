@@ -1,0 +1,27 @@
+picture_path: centre_rouge/cartes
+preview:
+  filename: Sydney-centre-rouge-ConvertImage
+  original: sizes/Sydney-centre-rouge-ConvertImage.jpg_1606x2000.jpg
+  thumbnail: sizes/Sydney-centre-rouge-ConvertImage.jpg_201x250.jpg
+  sizes:
+  - sizes/Sydney-centre-rouge-ConvertImage.jpg_201x250.jpg
+  - sizes/Sydney-centre-rouge-ConvertImage.jpg_402x500.jpg
+  - sizes/Sydney-centre-rouge-ConvertImage.jpg_803x1000.jpg
+  - sizes/Sydney-centre-rouge-ConvertImage.jpg_1606x2000.jpg
+pictures:
+- filename: Sydney-centre-rouge-ConvertImage
+  original: sizes/Sydney-centre-rouge-ConvertImage.jpg_1606x2000.jpg
+  thumbnail: sizes/Sydney-centre-rouge-ConvertImage.jpg_201x250.jpg
+  sizes:
+  - sizes/Sydney-centre-rouge-ConvertImage.jpg_201x250.jpg
+  - sizes/Sydney-centre-rouge-ConvertImage.jpg_402x500.jpg
+  - sizes/Sydney-centre-rouge-ConvertImage.jpg_803x1000.jpg
+  - sizes/Sydney-centre-rouge-ConvertImage.jpg_1606x2000.jpg
+- filename: V-carte-centre-rouge-ConvertImage
+  original: sizes/V-carte-centre-rouge-ConvertImage.jpg_1459x2000.jpg
+  thumbnail: sizes/V-carte-centre-rouge-ConvertImage.jpg_182x250.jpg
+  sizes:
+  - sizes/V-carte-centre-rouge-ConvertImage.jpg_182x250.jpg
+  - sizes/V-carte-centre-rouge-ConvertImage.jpg_365x500.jpg
+  - sizes/V-carte-centre-rouge-ConvertImage.jpg_730x1000.jpg
+  - sizes/V-carte-centre-rouge-ConvertImage.jpg_1459x2000.jpg

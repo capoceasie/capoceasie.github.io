@@ -1,0 +1,19 @@
+picture_path: cairns/carte
+preview:
+  filename: map_etape_cairns-ConvertImage
+  original: sizes/map_etape_cairns-ConvertImage.jpg_1442x2000.jpg
+  thumbnail: sizes/map_etape_cairns-ConvertImage.jpg_180x250.jpg
+  sizes:
+  - sizes/map_etape_cairns-ConvertImage.jpg_180x250.jpg
+  - sizes/map_etape_cairns-ConvertImage.jpg_361x500.jpg
+  - sizes/map_etape_cairns-ConvertImage.jpg_721x1000.jpg
+  - sizes/map_etape_cairns-ConvertImage.jpg_1442x2000.jpg
+pictures:
+- filename: map_etape_cairns-ConvertImage
+  original: sizes/map_etape_cairns-ConvertImage.jpg_1442x2000.jpg
+  thumbnail: sizes/map_etape_cairns-ConvertImage.jpg_180x250.jpg
+  sizes:
+  - sizes/map_etape_cairns-ConvertImage.jpg_180x250.jpg
+  - sizes/map_etape_cairns-ConvertImage.jpg_361x500.jpg
+  - sizes/map_etape_cairns-ConvertImage.jpg_721x1000.jpg
+  - sizes/map_etape_cairns-ConvertImage.jpg_1442x2000.jpg
