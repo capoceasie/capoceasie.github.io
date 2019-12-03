@@ -1,0 +1,19 @@
+picture_path: foret_nord_cairns/panneau_cassowar
+preview:
+  filename: 20191116_112216
+  original: sizes/20191116_112216.jpg_2000x1500.jpg
+  thumbnail: sizes/20191116_112216.jpg_250x188.jpg
+  sizes:
+  - sizes/20191116_112216.jpg_250x188.jpg
+  - sizes/20191116_112216.jpg_500x375.jpg
+  - sizes/20191116_112216.jpg_1000x750.jpg
+  - sizes/20191116_112216.jpg_2000x1500.jpg
+pictures:
+- filename: 20191116_112216
+  original: sizes/20191116_112216.jpg_2000x1500.jpg
+  thumbnail: sizes/20191116_112216.jpg_250x188.jpg
+  sizes:
+  - sizes/20191116_112216.jpg_250x188.jpg
+  - sizes/20191116_112216.jpg_500x375.jpg
+  - sizes/20191116_112216.jpg_1000x750.jpg
+  - sizes/20191116_112216.jpg_2000x1500.jpg
