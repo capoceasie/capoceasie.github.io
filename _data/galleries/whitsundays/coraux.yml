@@ -1,0 +1,43 @@
+picture_path: whitsundays/coraux
+preview:
+  filename: 0P1070568
+  original: sizes/0P1070568.jpg_1500x2000.jpg
+  thumbnail: sizes/0P1070568.jpg_188x250.jpg
+  sizes:
+  - sizes/0P1070568.jpg_188x250.jpg
+  - sizes/0P1070568.jpg_375x500.jpg
+  - sizes/0P1070568.jpg_750x1000.jpg
+  - sizes/0P1070568.jpg_1500x2000.jpg
+pictures:
+- filename: 0P1070568
+  original: sizes/0P1070568.jpg_1500x2000.jpg
+  thumbnail: sizes/0P1070568.jpg_188x250.jpg
+  sizes:
+  - sizes/0P1070568.jpg_188x250.jpg
+  - sizes/0P1070568.jpg_375x500.jpg
+  - sizes/0P1070568.jpg_750x1000.jpg
+  - sizes/0P1070568.jpg_1500x2000.jpg
+- filename: 20191119_093754
+  original: sizes/20191119_093754.jpg_1500x2000.jpg
+  thumbnail: sizes/20191119_093754.jpg_188x250.jpg
+  sizes:
+  - sizes/20191119_093754.jpg_188x250.jpg
+  - sizes/20191119_093754.jpg_375x500.jpg
+  - sizes/20191119_093754.jpg_750x1000.jpg
+  - sizes/20191119_093754.jpg_1500x2000.jpg
+- filename: 20191119_093810
+  original: sizes/20191119_093810.jpg_1500x2000.jpg
+  thumbnail: sizes/20191119_093810.jpg_188x250.jpg
+  sizes:
+  - sizes/20191119_093810.jpg_188x250.jpg
+  - sizes/20191119_093810.jpg_375x500.jpg
+  - sizes/20191119_093810.jpg_750x1000.jpg
+  - sizes/20191119_093810.jpg_1500x2000.jpg
+- filename: 20191119_094046
+  original: sizes/20191119_094046.jpg_1500x2000.jpg
+  thumbnail: sizes/20191119_094046.jpg_188x250.jpg
+  sizes:
+  - sizes/20191119_094046.jpg_188x250.jpg
+  - sizes/20191119_094046.jpg_375x500.jpg
+  - sizes/20191119_094046.jpg_750x1000.jpg
+  - sizes/20191119_094046.jpg_1500x2000.jpg

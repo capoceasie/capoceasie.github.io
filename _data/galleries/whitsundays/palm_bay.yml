@@ -1,0 +1,51 @@
+picture_path: whitsundays/palm_bay
+preview:
+  filename: 20191119_151742
+  original: sizes/20191119_151742.jpg_2000x1500.jpg
+  thumbnail: sizes/20191119_151742.jpg_250x188.jpg
+  sizes:
+  - sizes/20191119_151742.jpg_250x188.jpg
+  - sizes/20191119_151742.jpg_500x375.jpg
+  - sizes/20191119_151742.jpg_1000x750.jpg
+  - sizes/20191119_151742.jpg_2000x1500.jpg
+pictures:
+- filename: 20191119_151742
+  original: sizes/20191119_151742.jpg_2000x1500.jpg
+  thumbnail: sizes/20191119_151742.jpg_250x188.jpg
+  sizes:
+  - sizes/20191119_151742.jpg_250x188.jpg
+  - sizes/20191119_151742.jpg_500x375.jpg
+  - sizes/20191119_151742.jpg_1000x750.jpg
+  - sizes/20191119_151742.jpg_2000x1500.jpg
+- filename: 20191119_151904
+  original: sizes/20191119_151904.jpg_1500x2000.jpg
+  thumbnail: sizes/20191119_151904.jpg_188x250.jpg
+  sizes:
+  - sizes/20191119_151904.jpg_188x250.jpg
+  - sizes/20191119_151904.jpg_375x500.jpg
+  - sizes/20191119_151904.jpg_750x1000.jpg
+  - sizes/20191119_151904.jpg_1500x2000.jpg
+- filename: P1070593
+  original: sizes/P1070593.jpg_2000x1500.jpg
+  thumbnail: sizes/P1070593.jpg_250x188.jpg
+  sizes:
+  - sizes/P1070593.jpg_250x188.jpg
+  - sizes/P1070593.jpg_500x375.jpg
+  - sizes/P1070593.jpg_1000x750.jpg
+  - sizes/P1070593.jpg_2000x1500.jpg
+- filename: P1070595
+  original: sizes/P1070595.jpg_1500x2000.jpg
+  thumbnail: sizes/P1070595.jpg_188x250.jpg
+  sizes:
+  - sizes/P1070595.jpg_188x250.jpg
+  - sizes/P1070595.jpg_375x500.jpg
+  - sizes/P1070595.jpg_750x1000.jpg
+  - sizes/P1070595.jpg_1500x2000.jpg
+- filename: P1070598
+  original: sizes/P1070598.jpg_1500x2000.jpg
+  thumbnail: sizes/P1070598.jpg_188x250.jpg
+  sizes:
+  - sizes/P1070598.jpg_188x250.jpg
+  - sizes/P1070598.jpg_375x500.jpg
+  - sizes/P1070598.jpg_750x1000.jpg
+  - sizes/P1070598.jpg_1500x2000.jpg

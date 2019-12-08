@@ -1,0 +1,27 @@
+picture_path: whitsundays/whitsundays_bateau
+preview:
+  filename: 20191119_135237
+  original: sizes/20191119_135237.jpg_1500x2000.jpg
+  thumbnail: sizes/20191119_135237.jpg_188x250.jpg
+  sizes:
+  - sizes/20191119_135237.jpg_188x250.jpg
+  - sizes/20191119_135237.jpg_375x500.jpg
+  - sizes/20191119_135237.jpg_750x1000.jpg
+  - sizes/20191119_135237.jpg_1500x2000.jpg
+pictures:
+- filename: 20191119_135237
+  original: sizes/20191119_135237.jpg_1500x2000.jpg
+  thumbnail: sizes/20191119_135237.jpg_188x250.jpg
+  sizes:
+  - sizes/20191119_135237.jpg_188x250.jpg
+  - sizes/20191119_135237.jpg_375x500.jpg
+  - sizes/20191119_135237.jpg_750x1000.jpg
+  - sizes/20191119_135237.jpg_1500x2000.jpg
+- filename: 20191119_140620
+  original: sizes/20191119_140620.jpg_1500x2000.jpg
+  thumbnail: sizes/20191119_140620.jpg_188x250.jpg
+  sizes:
+  - sizes/20191119_140620.jpg_188x250.jpg
+  - sizes/20191119_140620.jpg_375x500.jpg
+  - sizes/20191119_140620.jpg_750x1000.jpg
+  - sizes/20191119_140620.jpg_1500x2000.jpg
