@@ -71,7 +71,7 @@ Par réflexe, Anthony penchera la tête vers le bas pour regarder la tortue derr
 ce genre de contortionnement.
 
 Nous sommes heureux de pouvoir retrouver le majestueux récif coralien et profitons au maximum de nos deux heures sur place.
-Nous apprenons qu'il existe près de 700 espèces de coraux différents, aux noms assez équivoques, tout du moins en anglais : carrot coral, salad coral, ... [vérifier]
+Nous apprenons qu'il existe près de 700 espèces de coraux différents, certains aux noms assez équivoques, tout du moins en anglais : lettuce coral, grooved brain coral, ... [vérifier]
 Nous n'en distinguons pas autant mais les paysages sous-marins sont malgré tout magnifiques. Nous avons quelques photos mais, celles-ci étant "maison" contrairement
 aux [plongées de Cairns]({% post_url 2019-11-13-cairns-et-la-grande-barriere-de-corail %}), elles ne sont pas très représentatives de ce que l'on voit réellement.
 
@@ -90,7 +90,7 @@ faire des photos lui rendant correctement hommage.
 
 {% include lightslider.html gallery=site.data.galleries.whitsundays.plage_depuis_mer %}
 
-Nous accostons directement sur la plage au sable blanc constituée à presque 100% de [silica ??? des cristaux], ce qui au delà du record est très intéressant 
+Nous accostons directement sur la plage au sable blanc constituée à 98% de silice pure, ce qui, au delà du record, est très intéressant 
 puisque cela lui donne la propriété de ne pas bruler les pieds malgré les fortes températures ! Nous apprécions ce confort. Le sable reste bien sûr chaud mais 
 c'est largement supportable. La vue depuis le sable vers la mer est digne des plus belles cartes postales !
 
