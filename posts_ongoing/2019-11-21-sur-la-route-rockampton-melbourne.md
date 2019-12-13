@@ -41,24 +41,29 @@ des crocodiles, plein d'oiseaux aux couleurs fantastiques, des serpents, un vara
 {% include lightslider.html gallery=site.data.galleries.rockampton_melbourne.koalas_matin %}
 
 Ne sont-ils pas adorables, beaux, mignons ? De notre côté, on est à fond !
+
 Ne sont-ils pas vifs et rapides comme l'éclair ? Hum ... non ! Pas beaucoup d'action durant notre session avec eux.
+
 Il faut dire qu'un koala dort 20h par jour car l'eucalyptus qu'il mange ne contient pas beaucoup d'énergie ...
 Malgré tout, ce sont des créatures assez badass. Voici quelques "koala facts" pour vous convaincre.
-Déjà, ce sont les seuls mammifères à pouvoir se nourrir d'eucalyptus, une plante très toxique pour leurs congénères. 
+
+- Déjà, ce sont les seuls mammifères à pouvoir se nourrir d'eucalyptus, une plante très toxique pour leurs congénères. 
 Bon, la façon d'acquérir la flore intestinale pour un bébé koala n'est pas très "mignonne" (on vous laisse chercher) mais on ne va pas juger mère nature ! 
-L'eucalyptus leur procure tout ce dont ils ont besoin pour vivre, y compris l'eau ! *Koala* veut en effet dire "pas d'eau" en langue aborigène, 
+- L'eucalyptus leur procure tout ce dont ils ont besoin pour vivre, y compris l'eau ! *Koala* veut en effet dire "pas d'eau" en langue aborigène, 
 pour souligner cette particularité. À part lors de conditions exceptionnelles, comme des sécheresses intenses, le koala n'a donc pas besoin de boire,
  ce qui est très rare dans le règne animal ! 
-Pour finir, ce sont des animaux très solitaires, qui vivent chacun dans des arbres voire
+- Pour finir, ce sont des animaux très solitaires, qui vivent chacun dans des arbres voire
  bosquets différents. Chaque koala est donc une sorte de Chuck Norris de l'Outback (on sait, on ne dirait pas comme ça ...). 
- Du coup, pendant la saison des amours, ils savent produire un son apparemment très fort pour arriver à se retrouver les uns les autres.
+- Du coup, pendant la saison des amours, ils savent produire un son apparemment très fort pour arriver à se retrouver les uns les autres.
  Nous n'avons pas eu la chance d'entendre le "brame" du koala, mais ça doit être déroutant !
-Malgré leur badassitude, les koalas sont en voie de disparition, et on ne les trouve plus que sur la côte Est australienne alors qu'il y en avait dans une 
-bonne partie du pays avant la création des multiples voies routières et la déforestation. Les koalas sont aussi la proie d'espèces élevées par l'homme. 
+
+Malgré leur badassitude, les koalas sont menacés d'extinction, et on ne les trouve plus que sur la côte Est australienne alors qu'il y en avait dans 
+une bonne partie du pays avant la création des multiples voies routières et la déforestation. Les koalas sont aussi la proie d'espèces élevées par l'homme. 
 Nous ne parlons bien entendu pas des vaches ou des moutons, mais principalement des chiens.
 
 ![Equipement Anthony](/img/chihuahua.jpg){: style="border: 3px outset #1C6EA4;"}
 *Prédateur féroce du Koala ...*
+
 *(Par Steven Shigeo Yamada — Flickr: How is everything going?, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=31376036)*
 
 Après avoir trainé un temps avec les koalas, nous sortons du zoo pour apercevoir une pancarte indiquant les horaires de repas des animaux.
@@ -174,7 +179,8 @@ et l'idée ne nous motive pas beaucoup.
 On serre malgré tout les dents et on y va.
 
 Nous trouvons finalement un freecamp près de là où nous avons, pour la première fois depuis notre arrivée, **froid** toute la nuit.
-Comme pour les précents articles, voici la carte mise à jour.
+
+Comme pour les précédents articles, voici la carte mise à jour.
 
 {% include lightslider.html gallery=site.data.galleries.rockampton_melbourne.carte %}
 
