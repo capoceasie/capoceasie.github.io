@@ -62,8 +62,7 @@ une bonne partie du pays avant la création des multiples voies routières et la
 Nous ne parlons bien entendu pas des vaches ou des moutons, mais principalement des chiens.
 
 ![Equipement Anthony](/img/chihuahua.jpg){: style="border: 3px outset #1C6EA4;"}
-*Prédateur féroce du Koala ...*
-
+*Prédateur féroce du Koala ...*  
 *(Par Steven Shigeo Yamada — Flickr: How is everything going?, CC BY 2.0, https://commons.wikimedia.org/w/index.php?curid=31376036)*
 
 Après avoir trainé un temps avec les koalas, nous sortons du zoo pour apercevoir une pancarte indiquant les horaires de repas des animaux.
