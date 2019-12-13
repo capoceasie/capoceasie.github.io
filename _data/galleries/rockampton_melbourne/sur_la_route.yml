@@ -1,0 +1,51 @@
+picture_path: rockampton_melbourne/sur_la_route
+preview:
+  filename: 20191122_171233
+  original: sizes/20191122_171233.jpg_1500x2000.jpg
+  thumbnail: sizes/20191122_171233.jpg_188x250.jpg
+  sizes:
+  - sizes/20191122_171233.jpg_188x250.jpg
+  - sizes/20191122_171233.jpg_375x500.jpg
+  - sizes/20191122_171233.jpg_750x1000.jpg
+  - sizes/20191122_171233.jpg_1500x2000.jpg
+pictures:
+- filename: 20191122_171233
+  original: sizes/20191122_171233.jpg_1500x2000.jpg
+  thumbnail: sizes/20191122_171233.jpg_188x250.jpg
+  sizes:
+  - sizes/20191122_171233.jpg_188x250.jpg
+  - sizes/20191122_171233.jpg_375x500.jpg
+  - sizes/20191122_171233.jpg_750x1000.jpg
+  - sizes/20191122_171233.jpg_1500x2000.jpg
+- filename: 20191123_192547
+  original: sizes/20191123_192547.jpg_1500x2000.jpg
+  thumbnail: sizes/20191123_192547.jpg_188x250.jpg
+  sizes:
+  - sizes/20191123_192547.jpg_188x250.jpg
+  - sizes/20191123_192547.jpg_375x500.jpg
+  - sizes/20191123_192547.jpg_750x1000.jpg
+  - sizes/20191123_192547.jpg_1500x2000.jpg
+- filename: 20191124_083715
+  original: sizes/20191124_083715.jpg_2000x1500.jpg
+  thumbnail: sizes/20191124_083715.jpg_250x188.jpg
+  sizes:
+  - sizes/20191124_083715.jpg_250x188.jpg
+  - sizes/20191124_083715.jpg_500x375.jpg
+  - sizes/20191124_083715.jpg_1000x750.jpg
+  - sizes/20191124_083715.jpg_2000x1500.jpg
+- filename: 20191124_105109
+  original: sizes/20191124_105109.jpg_1500x2000.jpg
+  thumbnail: sizes/20191124_105109.jpg_188x250.jpg
+  sizes:
+  - sizes/20191124_105109.jpg_188x250.jpg
+  - sizes/20191124_105109.jpg_375x500.jpg
+  - sizes/20191124_105109.jpg_750x1000.jpg
+  - sizes/20191124_105109.jpg_1500x2000.jpg
+- filename: 20191124_105132
+  original: sizes/20191124_105132.jpg_1500x2000.jpg
+  thumbnail: sizes/20191124_105132.jpg_188x250.jpg
+  sizes:
+  - sizes/20191124_105132.jpg_188x250.jpg
+  - sizes/20191124_105132.jpg_375x500.jpg
+  - sizes/20191124_105132.jpg_750x1000.jpg
+  - sizes/20191124_105132.jpg_1500x2000.jpg

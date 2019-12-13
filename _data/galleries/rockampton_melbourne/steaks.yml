@@ -1,0 +1,19 @@
+picture_path: rockampton_melbourne/steaks
+preview:
+  filename: 20191121_122054
+  original: sizes/20191121_122054.jpg_2000x1500.jpg
+  thumbnail: sizes/20191121_122054.jpg_250x188.jpg
+  sizes:
+  - sizes/20191121_122054.jpg_250x188.jpg
+  - sizes/20191121_122054.jpg_500x375.jpg
+  - sizes/20191121_122054.jpg_1000x750.jpg
+  - sizes/20191121_122054.jpg_2000x1500.jpg
+pictures:
+- filename: 20191121_122054
+  original: sizes/20191121_122054.jpg_2000x1500.jpg
+  thumbnail: sizes/20191121_122054.jpg_250x188.jpg
+  sizes:
+  - sizes/20191121_122054.jpg_250x188.jpg
+  - sizes/20191121_122054.jpg_500x375.jpg
+  - sizes/20191121_122054.jpg_1000x750.jpg
+  - sizes/20191121_122054.jpg_2000x1500.jpg

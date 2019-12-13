@@ -1,0 +1,59 @@
+picture_path: rockampton_melbourne/kangourous
+preview:
+  filename: P1070752
+  original: sizes/P1070752.jpg_1500x2000.jpg
+  thumbnail: sizes/P1070752.jpg_188x250.jpg
+  sizes:
+  - sizes/P1070752.jpg_188x250.jpg
+  - sizes/P1070752.jpg_375x500.jpg
+  - sizes/P1070752.jpg_750x1000.jpg
+  - sizes/P1070752.jpg_1500x2000.jpg
+pictures:
+- filename: P1070752
+  original: sizes/P1070752.jpg_1500x2000.jpg
+  thumbnail: sizes/P1070752.jpg_188x250.jpg
+  sizes:
+  - sizes/P1070752.jpg_188x250.jpg
+  - sizes/P1070752.jpg_375x500.jpg
+  - sizes/P1070752.jpg_750x1000.jpg
+  - sizes/P1070752.jpg_1500x2000.jpg
+- filename: P1070757
+  original: sizes/P1070757.jpg_1500x2000.jpg
+  thumbnail: sizes/P1070757.jpg_187x250.jpg
+  sizes:
+  - sizes/P1070757.jpg_187x250.jpg
+  - sizes/P1070757.jpg_375x500.jpg
+  - sizes/P1070757.jpg_750x1000.jpg
+  - sizes/P1070757.jpg_1500x2000.jpg
+- filename: P1070766
+  original: sizes/P1070766.jpg_1500x2000.jpg
+  thumbnail: sizes/P1070766.jpg_188x250.jpg
+  sizes:
+  - sizes/P1070766.jpg_188x250.jpg
+  - sizes/P1070766.jpg_375x500.jpg
+  - sizes/P1070766.jpg_750x1000.jpg
+  - sizes/P1070766.jpg_1500x2000.jpg
+- filename: P1070771
+  original: sizes/P1070771.jpg_2000x1500.jpg
+  thumbnail: sizes/P1070771.jpg_250x188.jpg
+  sizes:
+  - sizes/P1070771.jpg_250x188.jpg
+  - sizes/P1070771.jpg_500x375.jpg
+  - sizes/P1070771.jpg_1000x750.jpg
+  - sizes/P1070771.jpg_2000x1500.jpg
+- filename: P1070775
+  original: sizes/P1070775.jpg_1500x2000.jpg
+  thumbnail: sizes/P1070775.jpg_187x250.jpg
+  sizes:
+  - sizes/P1070775.jpg_187x250.jpg
+  - sizes/P1070775.jpg_375x500.jpg
+  - sizes/P1070775.jpg_750x1000.jpg
+  - sizes/P1070775.jpg_1500x2000.jpg
+- filename: P1070831
+  original: sizes/P1070831.jpg_1500x2000.jpg
+  thumbnail: sizes/P1070831.jpg_188x250.jpg
+  sizes:
+  - sizes/P1070831.jpg_188x250.jpg
+  - sizes/P1070831.jpg_375x500.jpg
+  - sizes/P1070831.jpg_750x1000.jpg
+  - sizes/P1070831.jpg_1500x2000.jpg
