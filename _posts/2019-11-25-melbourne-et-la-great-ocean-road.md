@@ -126,7 +126,7 @@ difficulté, et reprenons la route vers Frankston South, dans la banlieue de Mel
 en retard, mais c'est sans compter les bouchons qui nous mettent dans une situation très inconfortable !
 
 Enfin arrivés, nous présentons nos plus plates excuses à nos hôtes qui nous accueillent avec de magnifiques scones anglais, tous frais et excellents avec du beurre, 
-de la confiture et de la crème! Nous comprenons enfin pourquoi les anglais en raffolent!
+de la confiture et de la crème ! Nous comprenons enfin pourquoi les anglais en raffolent !
  
 Nous avons ensuite le droit à de la bière faite maison par Alan de grande qualité et nous ouvrons le vin français apporté par nos soins et 
 du vin australien de la cave du couple alors que nous nous installons pour dîner. Nous passons un agréable repas en compagnie d'Alan, Sue et sa soeur, ainsi 
@@ -156,7 +156,7 @@ Nous rentrons enfin dans la banlieue pour rejoindre notre logement d'un soir pro
 Juste le temps de finaliser l'article sur [Cairns]({% post_url 2019-11-13-cairns-et-la-grande-barriere-de-corail %}) et nous nous couchons rapidement 
 afin de ne pas être trop fatigués le lendemain. Nous devons en effet nous lever à 4h du matin !
 
-Le lever est malgré tout difficile le lendemain mais nous parvenons à arriver sans encombre à l'aéroport qui est très calme à cette heure.
+Le lever est malgré tout difficile mais nous parvenons à arriver sans encombre à l'aéroport qui est très calme à cette heure.
 L'enregistrement des bagages se fait très facilement et nous avons ainsi largement le temps de prendre notre petit déjeuner avant de rejoindre 
 la porte d'embarquement de notre avion pour Christchurch. 
 
