@@ -1,0 +1,75 @@
+picture_path: got_melbourne/4kennett_river_oiseaux
+preview:
+  filename: 20191126_114029
+  original: sizes/20191126_114029.jpg_2000x1500.jpg
+  thumbnail: sizes/20191126_114029.jpg_250x187.jpg
+  sizes:
+  - sizes/20191126_114029.jpg_250x187.jpg
+  - sizes/20191126_114029.jpg_500x375.jpg
+  - sizes/20191126_114029.jpg_1000x750.jpg
+  - sizes/20191126_114029.jpg_2000x1500.jpg
+pictures:
+- filename: 20191126_114029
+  original: sizes/20191126_114029.jpg_2000x1500.jpg
+  thumbnail: sizes/20191126_114029.jpg_250x187.jpg
+  sizes:
+  - sizes/20191126_114029.jpg_250x187.jpg
+  - sizes/20191126_114029.jpg_500x375.jpg
+  - sizes/20191126_114029.jpg_1000x750.jpg
+  - sizes/20191126_114029.jpg_2000x1500.jpg
+- filename: 20191126_120656
+  original: sizes/20191126_120656.jpg_1500x2000.jpg
+  thumbnail: sizes/20191126_120656.jpg_188x250.jpg
+  sizes:
+  - sizes/20191126_120656.jpg_188x250.jpg
+  - sizes/20191126_120656.jpg_375x500.jpg
+  - sizes/20191126_120656.jpg_750x1000.jpg
+  - sizes/20191126_120656.jpg_1500x2000.jpg
+- filename: 20191126_120937
+  original: sizes/20191126_120937.jpg_2000x1500.jpg
+  thumbnail: sizes/20191126_120937.jpg_250x188.jpg
+  sizes:
+  - sizes/20191126_120937.jpg_250x188.jpg
+  - sizes/20191126_120937.jpg_500x375.jpg
+  - sizes/20191126_120937.jpg_1000x750.jpg
+  - sizes/20191126_120937.jpg_2000x1500.jpg
+- filename: 20191126_121023
+  original: sizes/20191126_121023.jpg_2000x1500.jpg
+  thumbnail: sizes/20191126_121023.jpg_250x188.jpg
+  sizes:
+  - sizes/20191126_121023.jpg_250x188.jpg
+  - sizes/20191126_121023.jpg_500x375.jpg
+  - sizes/20191126_121023.jpg_1000x750.jpg
+  - sizes/20191126_121023.jpg_2000x1500.jpg
+- filename: 20191126_121349
+  original: sizes/20191126_121349.jpg_2000x1500.jpg
+  thumbnail: sizes/20191126_121349.jpg_250x188.jpg
+  sizes:
+  - sizes/20191126_121349.jpg_250x188.jpg
+  - sizes/20191126_121349.jpg_500x375.jpg
+  - sizes/20191126_121349.jpg_1000x750.jpg
+  - sizes/20191126_121349.jpg_2000x1500.jpg
+- filename: P1080265
+  original: sizes/P1080265.jpg_2000x1500.jpg
+  thumbnail: sizes/P1080265.jpg_250x188.jpg
+  sizes:
+  - sizes/P1080265.jpg_250x188.jpg
+  - sizes/P1080265.jpg_500x375.jpg
+  - sizes/P1080265.jpg_1000x750.jpg
+  - sizes/P1080265.jpg_2000x1500.jpg
+- filename: P1080273
+  original: sizes/P1080273.jpg_2000x1500.jpg
+  thumbnail: sizes/P1080273.jpg_250x188.jpg
+  sizes:
+  - sizes/P1080273.jpg_250x188.jpg
+  - sizes/P1080273.jpg_500x375.jpg
+  - sizes/P1080273.jpg_1000x750.jpg
+  - sizes/P1080273.jpg_2000x1500.jpg
+- filename: P1080283
+  original: sizes/P1080283.jpg_2000x1500.jpg
+  thumbnail: sizes/P1080283.jpg_250x188.jpg
+  sizes:
+  - sizes/P1080283.jpg_250x188.jpg
+  - sizes/P1080283.jpg_500x375.jpg
+  - sizes/P1080283.jpg_1000x750.jpg
+  - sizes/P1080283.jpg_2000x1500.jpg

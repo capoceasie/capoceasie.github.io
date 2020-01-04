@@ -1,0 +1,67 @@
+picture_path: got_melbourne/7_12_apotres
+preview:
+  filename: 0_P1080363
+  original: sizes/0_P1080363.jpg_1500x2000.jpg
+  thumbnail: sizes/0_P1080363.jpg_188x250.jpg
+  sizes:
+  - sizes/0_P1080363.jpg_188x250.jpg
+  - sizes/0_P1080363.jpg_375x500.jpg
+  - sizes/0_P1080363.jpg_750x1000.jpg
+  - sizes/0_P1080363.jpg_1500x2000.jpg
+pictures:
+- filename: 0_P1080363
+  original: sizes/0_P1080363.jpg_1500x2000.jpg
+  thumbnail: sizes/0_P1080363.jpg_188x250.jpg
+  sizes:
+  - sizes/0_P1080363.jpg_188x250.jpg
+  - sizes/0_P1080363.jpg_375x500.jpg
+  - sizes/0_P1080363.jpg_750x1000.jpg
+  - sizes/0_P1080363.jpg_1500x2000.jpg
+- filename: 1_P1080398
+  original: sizes/1_P1080398.jpg_1500x2000.jpg
+  thumbnail: sizes/1_P1080398.jpg_188x250.jpg
+  sizes:
+  - sizes/1_P1080398.jpg_188x250.jpg
+  - sizes/1_P1080398.jpg_375x500.jpg
+  - sizes/1_P1080398.jpg_750x1000.jpg
+  - sizes/1_P1080398.jpg_1500x2000.jpg
+- filename: 20191126_185328
+  original: sizes/20191126_185328.jpg_1500x2000.jpg
+  thumbnail: sizes/20191126_185328.jpg_188x250.jpg
+  sizes:
+  - sizes/20191126_185328.jpg_188x250.jpg
+  - sizes/20191126_185328.jpg_375x500.jpg
+  - sizes/20191126_185328.jpg_750x1000.jpg
+  - sizes/20191126_185328.jpg_1500x2000.jpg
+- filename: P1080355
+  original: sizes/P1080355.jpg_2000x1500.jpg
+  thumbnail: sizes/P1080355.jpg_250x188.jpg
+  sizes:
+  - sizes/P1080355.jpg_250x188.jpg
+  - sizes/P1080355.jpg_500x375.jpg
+  - sizes/P1080355.jpg_1000x750.jpg
+  - sizes/P1080355.jpg_2000x1500.jpg
+- filename: P1080372
+  original: sizes/P1080372.jpg_1500x2000.jpg
+  thumbnail: sizes/P1080372.jpg_188x250.jpg
+  sizes:
+  - sizes/P1080372.jpg_188x250.jpg
+  - sizes/P1080372.jpg_375x500.jpg
+  - sizes/P1080372.jpg_750x1000.jpg
+  - sizes/P1080372.jpg_1500x2000.jpg
+- filename: P1080378
+  original: sizes/P1080378.jpg_2000x1500.jpg
+  thumbnail: sizes/P1080378.jpg_250x188.jpg
+  sizes:
+  - sizes/P1080378.jpg_250x188.jpg
+  - sizes/P1080378.jpg_500x375.jpg
+  - sizes/P1080378.jpg_1000x750.jpg
+  - sizes/P1080378.jpg_2000x1500.jpg
+- filename: P1080389
+  original: sizes/P1080389.jpg_1500x2000.jpg
+  thumbnail: sizes/P1080389.jpg_188x250.jpg
+  sizes:
+  - sizes/P1080389.jpg_188x250.jpg
+  - sizes/P1080389.jpg_375x500.jpg
+  - sizes/P1080389.jpg_750x1000.jpg
+  - sizes/P1080389.jpg_1500x2000.jpg

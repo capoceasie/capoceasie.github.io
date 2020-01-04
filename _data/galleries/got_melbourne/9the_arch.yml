@@ -1,0 +1,35 @@
+picture_path: got_melbourne/9the_arch
+preview:
+  filename: P1080558
+  original: sizes/P1080558.jpg_1500x2000.jpg
+  thumbnail: sizes/P1080558.jpg_188x250.jpg
+  sizes:
+  - sizes/P1080558.jpg_188x250.jpg
+  - sizes/P1080558.jpg_375x500.jpg
+  - sizes/P1080558.jpg_750x1000.jpg
+  - sizes/P1080558.jpg_1500x2000.jpg
+pictures:
+- filename: P1080558
+  original: sizes/P1080558.jpg_1500x2000.jpg
+  thumbnail: sizes/P1080558.jpg_188x250.jpg
+  sizes:
+  - sizes/P1080558.jpg_188x250.jpg
+  - sizes/P1080558.jpg_375x500.jpg
+  - sizes/P1080558.jpg_750x1000.jpg
+  - sizes/P1080558.jpg_1500x2000.jpg
+- filename: P1080564
+  original: sizes/P1080564.jpg_2000x1500.jpg
+  thumbnail: sizes/P1080564.jpg_250x188.jpg
+  sizes:
+  - sizes/P1080564.jpg_250x188.jpg
+  - sizes/P1080564.jpg_500x375.jpg
+  - sizes/P1080564.jpg_1000x750.jpg
+  - sizes/P1080564.jpg_2000x1500.jpg
+- filename: P1080566
+  original: sizes/P1080566.jpg_2000x1500.jpg
+  thumbnail: sizes/P1080566.jpg_250x188.jpg
+  sizes:
+  - sizes/P1080566.jpg_250x188.jpg
+  - sizes/P1080566.jpg_500x375.jpg
+  - sizes/P1080566.jpg_1000x750.jpg
+  - sizes/P1080566.jpg_2000x1500.jpg

@@ -1,0 +1,19 @@
+picture_path: got_melbourne/carte_gor
+preview:
+  filename: 20191125_174902
+  original: sizes/20191125_174902.jpg_972x2000.jpg
+  thumbnail: sizes/20191125_174902.jpg_121x250.jpg
+  sizes:
+  - sizes/20191125_174902.jpg_121x250.jpg
+  - sizes/20191125_174902.jpg_243x500.jpg
+  - sizes/20191125_174902.jpg_486x1000.jpg
+  - sizes/20191125_174902.jpg_972x2000.jpg
+pictures:
+- filename: 20191125_174902
+  original: sizes/20191125_174902.jpg_972x2000.jpg
+  thumbnail: sizes/20191125_174902.jpg_121x250.jpg
+  sizes:
+  - sizes/20191125_174902.jpg_121x250.jpg
+  - sizes/20191125_174902.jpg_243x500.jpg
+  - sizes/20191125_174902.jpg_486x1000.jpg
+  - sizes/20191125_174902.jpg_972x2000.jpg

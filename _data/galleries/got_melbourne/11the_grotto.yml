@@ -1,0 +1,43 @@
+picture_path: got_melbourne/11the_grotto
+preview:
+  filename: P1080512
+  original: sizes/P1080512.jpg_2000x1500.jpg
+  thumbnail: sizes/P1080512.jpg_250x188.jpg
+  sizes:
+  - sizes/P1080512.jpg_250x188.jpg
+  - sizes/P1080512.jpg_500x375.jpg
+  - sizes/P1080512.jpg_1000x750.jpg
+  - sizes/P1080512.jpg_2000x1500.jpg
+pictures:
+- filename: P1080512
+  original: sizes/P1080512.jpg_2000x1500.jpg
+  thumbnail: sizes/P1080512.jpg_250x188.jpg
+  sizes:
+  - sizes/P1080512.jpg_250x188.jpg
+  - sizes/P1080512.jpg_500x375.jpg
+  - sizes/P1080512.jpg_1000x750.jpg
+  - sizes/P1080512.jpg_2000x1500.jpg
+- filename: P1080519
+  original: sizes/P1080519.jpg_2000x1500.jpg
+  thumbnail: sizes/P1080519.jpg_250x188.jpg
+  sizes:
+  - sizes/P1080519.jpg_250x188.jpg
+  - sizes/P1080519.jpg_500x375.jpg
+  - sizes/P1080519.jpg_1000x750.jpg
+  - sizes/P1080519.jpg_2000x1500.jpg
+- filename: P1080530
+  original: sizes/P1080530.jpg_2000x1500.jpg
+  thumbnail: sizes/P1080530.jpg_250x188.jpg
+  sizes:
+  - sizes/P1080530.jpg_250x188.jpg
+  - sizes/P1080530.jpg_500x375.jpg
+  - sizes/P1080530.jpg_1000x750.jpg
+  - sizes/P1080530.jpg_2000x1500.jpg
+- filename: P1080534
+  original: sizes/P1080534.jpg_2000x1500.jpg
+  thumbnail: sizes/P1080534.jpg_250x188.jpg
+  sizes:
+  - sizes/P1080534.jpg_250x188.jpg
+  - sizes/P1080534.jpg_500x375.jpg
+  - sizes/P1080534.jpg_1000x750.jpg
+  - sizes/P1080534.jpg_2000x1500.jpg
