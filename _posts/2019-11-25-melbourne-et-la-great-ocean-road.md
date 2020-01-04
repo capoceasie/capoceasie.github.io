@@ -161,3 +161,7 @@ L'enregistrement des bagages se fait très facilement et nous avons ainsi largem
 la porte d'embarquement de notre avion pour Christchurch. 
 
 C'est avec un petit pincement au coeur que nous quittons l'Australie mais une grande excitation que nous rejoignons la Nouvelle-Zélande ! 
+
+PS : la carte mise à jour !
+
+{% include lightslider.html gallery=site.data.galleries.got_melbourne.cartes %}
