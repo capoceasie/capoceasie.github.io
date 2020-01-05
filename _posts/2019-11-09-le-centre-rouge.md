@@ -9,6 +9,9 @@ feature_image: P1070337.jpg
 comments: true
 social-message: "Le Centre Rouge"
 no_menu_item: true
+has_period: true
+begin_date: 09/11/2019
+end_date: 13/11/2019
 support: [jquery, gallery]
 ---
 

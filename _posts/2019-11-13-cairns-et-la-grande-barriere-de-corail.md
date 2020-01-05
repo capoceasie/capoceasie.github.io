@@ -9,6 +9,9 @@ feature_image: 632.jpg
 comments: true
 social-message: "Cai(r)ns et La Grande Barrière de Corail"
 no_menu_item: true
+has_period: true
+begin_date: 13/11/2019
+end_date: 15/11/2019
 support: [jquery, gallery]
 ---
 

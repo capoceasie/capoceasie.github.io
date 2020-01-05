@@ -9,6 +9,9 @@ feature_image: P1080466.jpg
 comments: true
 social-message: "Melbourne et la Great Ocean Road"
 no_menu_item: true
+has_period: true
+begin_date: 25/11/2019
+end_date: 30/11/2019
 support: [jquery, gallery]
 ---
 

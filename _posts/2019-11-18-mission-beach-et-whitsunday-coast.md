@@ -9,6 +9,9 @@ feature_image: P1070577.jpg
 comments: true
 social-message: "Mission Beach et Whitsunday Coast"
 no_menu_item: true
+has_period: true
+begin_date: 18/11/2019
+end_date: 20/11/2019
 support: [jquery, gallery]
 ---
 

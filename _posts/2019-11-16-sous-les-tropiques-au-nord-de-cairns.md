@@ -9,6 +9,9 @@ feature_image: 20191116_134446.jpg
 comments: true
 social-message: "Sous les Tropiques au Nord de Cairns"
 no_menu_item: true
+has_period: true
+begin_date: 16/11/2019
+end_date: 17/11/2019
 support: [jquery, gallery]
 ---
 

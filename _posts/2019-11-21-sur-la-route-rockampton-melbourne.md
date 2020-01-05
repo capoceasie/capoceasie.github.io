@@ -9,6 +9,9 @@ feature_image: P1070926.jpg
 comments: true
 social-message: "Sur la Route : 2 000 km de Rockampton à Melbourne"
 no_menu_item: true
+has_period: true
+begin_date: 21/11/2019
+end_date: 24/11/2019
 support: [jquery, gallery]
 ---
 
