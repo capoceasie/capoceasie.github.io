@@ -12,6 +12,7 @@ no_menu_item: true
 has_period: true
 begin_date: 09/11/2019
 end_date: 13/11/2019
+episode_id: 2
 support: [jquery, gallery]
 ---
 
