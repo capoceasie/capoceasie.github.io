@@ -24,7 +24,7 @@ markdown: kramdown
 
 nav_list:
   Home : ['Accueil', '/']
-  Australie : ['Ch1: Australie', '/category/australie']
+  Australie : ['1 - Australie', '/category/australie']
   #About : ['À Propos', '/about']
   #MarineAntho : ['Marine et Anthony', '/author/marine-antho']
   Contact : ['Contact', '/contact/']

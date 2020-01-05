@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-11-29 23:02:45
-categories: 
+categories: australie
 author_slug: marine-antho
 title: "Sous les Tropiques au Nord de Cairns"
 is_featured: false
