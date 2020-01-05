@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-12-08 23:02:45
-categories: récit australie
+categories: journal australie
 author_slug: marine-antho
 title: "Mission Beach et Whitsunday Coast"
 is_featured: false

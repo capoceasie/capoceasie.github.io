@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-11-29 23:02:45
-categories: récit australie
+categories: journal australie
 author_slug: marine-antho
 title: "Cai(r)ns et La Grande Barrière de Corail"
 is_featured: false
