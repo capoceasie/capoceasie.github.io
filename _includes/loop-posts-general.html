@@ -9,6 +9,9 @@
                       <div class="post-preview__info animated fadeInUp delay-3">
                           <div class="inner">
                               <h2><a href="{{post.url | prepend: site.baseurl }}">{{post.title}}</a></h2>
+							  {% if post.has_period %}
+								<p class="post-period-text" style="margin-bottom: 0; font-size: 14px">Du {{post.begin_date}} au {{post.end_date}}</span>
+							  {% endif %}
                               <p class="post-preview__meta"><!--Posted In-->
                                 {% for category in post.categories %}
                                     <a href="{{ category | prepend: "/category/" | prepend: site.baseurl }}">{{ category | capitalize }}</a>{% if forloop.last %}{% else %},{% endif %}
