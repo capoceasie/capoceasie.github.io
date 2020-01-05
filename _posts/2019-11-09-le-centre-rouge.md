@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-11-26 16:01:10
-categories: australie
+categories: recit australie
 author_slug: marine-antho
 title: "Le Centre Rouge"
 is_featured: false

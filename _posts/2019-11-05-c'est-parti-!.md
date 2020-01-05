@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-11-10 14:39:17
-categories: 
+categories: recit
 author_slug: marine-antho
 is_featured: false
 feature_image: c-est-parti/large/20191105_153314.jpg

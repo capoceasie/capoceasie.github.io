@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2019-12-13 17:10:45
-categories: australie
+categories: recit australie
 author_slug: marine-antho
 title: "Sur la Route : 2 000 km de Rockampton à Melbourne"
 is_featured: false
