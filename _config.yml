@@ -24,7 +24,7 @@ markdown: kramdown
 
 nav_list:
   Home : ['Accueil', '/']
-  Recit : ['Récit Complet', '/category/recit']
+  Recit : ['Récit Complet', '/category/récit']
   Australie : ['1 - Australie', '/category/australie']
   #About : ['À Propos', '/about']
   #MarineAntho : ['Marine et Anthony', '/author/marine-antho']
