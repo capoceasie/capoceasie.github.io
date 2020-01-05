@@ -6,6 +6,9 @@ author_slug: marine-antho
 is_featured: false
 feature_image: c-est-parti/large/20191105_153314.jpg
 comments: true
+has_period: true
+begin_date: 05/11/2019
+end_date: 07/11/2019
 social-message: "C'est parti !"
 ---
 

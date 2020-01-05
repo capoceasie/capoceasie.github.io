@@ -27,6 +27,9 @@ bodyclass: full-height
                       <div class="post-preview__info animated fadeInUp delay-3">
                           <div class="inner">
                               <h2><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2>
+							  {% if post.has_period %}
+							  <p class="post-period-text">Du {{post.begin_date}} au {{post.end_date}}</span>
+							  {% endif %}
                               <p class="post-preview__meta">
                                 {% for category in post.categories %}
                                     <a href="{{site.baseurl}}{{ category | prepend: "/category/"}}">{{ category | capitalize }}</a>{% if forloop.last %}{% else %},{% endif %}
