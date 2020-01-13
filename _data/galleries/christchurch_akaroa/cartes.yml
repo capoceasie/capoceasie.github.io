@@ -1,0 +1,27 @@
+picture_path: christchurch_akaroa/cartes
+preview:
+  filename: carte_detail_20191203_nz_akaroa
+  original: sizes/carte_detail_20191203_nz_akaroa.jpg_1457x2000.jpg
+  thumbnail: sizes/carte_detail_20191203_nz_akaroa.jpg_182x250.jpg
+  sizes:
+  - sizes/carte_detail_20191203_nz_akaroa.jpg_182x250.jpg
+  - sizes/carte_detail_20191203_nz_akaroa.jpg_364x500.jpg
+  - sizes/carte_detail_20191203_nz_akaroa.jpg_728x1000.jpg
+  - sizes/carte_detail_20191203_nz_akaroa.jpg_1457x2000.jpg
+pictures:
+- filename: carte_detail_20191203_nz_akaroa
+  original: sizes/carte_detail_20191203_nz_akaroa.jpg_1457x2000.jpg
+  thumbnail: sizes/carte_detail_20191203_nz_akaroa.jpg_182x250.jpg
+  sizes:
+  - sizes/carte_detail_20191203_nz_akaroa.jpg_182x250.jpg
+  - sizes/carte_detail_20191203_nz_akaroa.jpg_364x500.jpg
+  - sizes/carte_detail_20191203_nz_akaroa.jpg_728x1000.jpg
+  - sizes/carte_detail_20191203_nz_akaroa.jpg_1457x2000.jpg
+- filename: carte_global_20191130_nz
+  original: sizes/carte_global_20191130_nz.jpg_1290x2000.jpg
+  thumbnail: sizes/carte_global_20191130_nz.jpg_161x250.jpg
+  sizes:
+  - sizes/carte_global_20191130_nz.jpg_161x250.jpg
+  - sizes/carte_global_20191130_nz.jpg_323x500.jpg
+  - sizes/carte_global_20191130_nz.jpg_645x1000.jpg
+  - sizes/carte_global_20191130_nz.jpg_1290x2000.jpg
