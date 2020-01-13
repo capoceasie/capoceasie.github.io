@@ -19,7 +19,7 @@ support: [jquery, gallery]
 Déjà plus de 3 semaines que nous sommes partis et nous avons quitté le sol australien 
 (cf. [Article précédent]({% post_url 2019-11-25-melbourne-et-la-great-ocean-road %})).
 Nous avons un petit pincement au coeur car notre rythme nous oblige à manquer de nombreuses choses et nous sommes frustrés d'avoir 
-dû changer nos plans à cause des [bushfires]({% 2019-11-21-sur-la-route-rockampton-melbourne %}) qui ne feront d'ailleurs qu'empirer les semaines suivantes. 
+dû changer nos plans à cause des [bushfires]({% post_url 2019-11-21-sur-la-route-rockampton-melbourne %}) qui ne feront d'ailleurs qu'empirer les semaines suivantes. 
 Nous sommes néanmoins et avant tout ravis de tout ce que nous avons pu y voir et avons d'ores et déjà de nombreux souvenirs gravés en mémoire.
 
 Une page se tourne donc et nous changeons de terrain de jeu. Notre nouvelle destination : la **Nouvelle-Zélande** !
