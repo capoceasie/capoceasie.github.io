@@ -26,6 +26,7 @@ nav_list:
   Home : ['Accueil', '/']
   Journal : ['Journal de Bord', '/category/journal']
   Australie : ['1 - Australie', '/category/australie']
+  NZ : ['2 - Nouvelle-Zélande', '/category/nz']
   #About : ['À Propos', '/about']
   #MarineAntho : ['Marine et Anthony', '/author/marine-antho']
   Contact : ['Contact', '/contact/']

@@ -19,7 +19,7 @@ support: [jquery, gallery]
 Déjà plus de 3 semaines que nous sommes partis et nous avons quitté le sol australien 
 (cf. [Article précédent]({% post_url 2019-11-25-melbourne-et-la-great-ocean-road %})).
 Nous avons un petit pincement au coeur car notre rythme nous oblige à manquer de nombreuses choses et nous sommes frustrés d'avoir 
-dû changer nos plans à cause des [bushfires]({% post_url 2019-11-21-sur-la-route-rockampton-melbourne %}) qui ne feront d'ailleurs qu'empirer les semaines suivantes. 
+dû changer nos plans à cause des [bushfires]({% post_url 2019-11-21-sur-la-route-rockampton-melbourne %}). 
 Nous sommes néanmoins et avant tout ravis de tout ce que nous avons pu y voir et avons d'ores et déjà de nombreux souvenirs gravés en mémoire.
 
 Une page se tourne donc et nous changeons de terrain de jeu. Notre nouvelle destination : la **Nouvelle-Zélande** !
@@ -36,7 +36,7 @@ avec de la nature sauvage d'autres pays, incluant les chaussures et les maillots
 que toutes les déclarations plus usuelles comme une grosse quantité de monnaie ou des médicaments.
 
 Arrivant de 21 jours de roadtrip en Australie, nous sommes bien entendus concernés, au moins 
-à cause des vêtements qui ne sortiraient pas tout juste de la machine à laver. De plus, nous 
+à cause des vêtements qui ne sortent pas tout juste de la machine à laver. De plus, nous 
 avons un peu de nourriture sur nous. Nous déclarons donc le nécessaire et sommes surpris de 
 nous voir assigner des couloirs de sortie différents (Momiji passe sans encombre).
 
@@ -248,7 +248,7 @@ pour que le démontage de la roue soit nécessaire.
 
 {% include lightslider.html gallery=site.data.galleries.christchurch_akaroa.mecano %}
 
-Sur le conseil du mécano du métier, on bouscule nos plans et restons une nuit 
+Sur le conseil du mécano de métier, nous bousculons nos plans et restons une nuit 
 de plus à Akaroa afin de vérifier dès le lendemain le serrage de la roue chez 
 un professionnel outillé. Nous terminons donc la soirée par l'achat de bières 
 en remerciement des services rendus et à discuter de la vie en Nouvelle-Zélande 
