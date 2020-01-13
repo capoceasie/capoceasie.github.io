@@ -8,7 +8,6 @@ bodyclass: full-height
           {% for post in site.posts %}
               {% if forloop.index == 1 %}
               {% assign author = site.data.authors[post.author_slug] %}
-
               <div class="col-sm-12 hero" style="background-image: url({{ site.baseurl }}/img/{{post.feature_image}});">
                   <div class="overlay">
                       <h1 class="animated fadeIn delay-2"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h1>
