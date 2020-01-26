@@ -1,0 +1,19 @@
+picture_path: tekapo_queenstown/emmitoufles
+preview:
+  filename: 20191204_111934
+  original: sizes/20191204_111934.jpg_1500x2000.jpg
+  thumbnail: sizes/20191204_111934.jpg_188x250.jpg
+  sizes:
+  - sizes/20191204_111934.jpg_188x250.jpg
+  - sizes/20191204_111934.jpg_375x500.jpg
+  - sizes/20191204_111934.jpg_750x1000.jpg
+  - sizes/20191204_111934.jpg_1500x2000.jpg
+pictures:
+- filename: 20191204_111934
+  original: sizes/20191204_111934.jpg_1500x2000.jpg
+  thumbnail: sizes/20191204_111934.jpg_188x250.jpg
+  sizes:
+  - sizes/20191204_111934.jpg_188x250.jpg
+  - sizes/20191204_111934.jpg_375x500.jpg
+  - sizes/20191204_111934.jpg_750x1000.jpg
+  - sizes/20191204_111934.jpg_1500x2000.jpg

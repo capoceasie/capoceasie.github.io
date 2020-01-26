@@ -1,0 +1,83 @@
+picture_path: tekapo_queenstown/tekapo_mont_john
+preview:
+  filename: 20191204_143818
+  original: sizes/20191204_143818.jpg_1500x2000.jpg
+  thumbnail: sizes/20191204_143818.jpg_188x250.jpg
+  sizes:
+  - sizes/20191204_143818.jpg_188x250.jpg
+  - sizes/20191204_143818.jpg_375x500.jpg
+  - sizes/20191204_143818.jpg_750x1000.jpg
+  - sizes/20191204_143818.jpg_1500x2000.jpg
+pictures:
+- filename: 20191204_143818
+  original: sizes/20191204_143818.jpg_1500x2000.jpg
+  thumbnail: sizes/20191204_143818.jpg_188x250.jpg
+  sizes:
+  - sizes/20191204_143818.jpg_188x250.jpg
+  - sizes/20191204_143818.jpg_375x500.jpg
+  - sizes/20191204_143818.jpg_750x1000.jpg
+  - sizes/20191204_143818.jpg_1500x2000.jpg
+- filename: P1080893
+  original: sizes/P1080893.jpg_2000x1500.jpg
+  thumbnail: sizes/P1080893.jpg_250x188.jpg
+  sizes:
+  - sizes/P1080893.jpg_250x188.jpg
+  - sizes/P1080893.jpg_500x375.jpg
+  - sizes/P1080893.jpg_1000x750.jpg
+  - sizes/P1080893.jpg_2000x1500.jpg
+- filename: P1080896
+  original: sizes/P1080896.jpg_2000x1500.jpg
+  thumbnail: sizes/P1080896.jpg_250x188.jpg
+  sizes:
+  - sizes/P1080896.jpg_250x188.jpg
+  - sizes/P1080896.jpg_500x375.jpg
+  - sizes/P1080896.jpg_1000x750.jpg
+  - sizes/P1080896.jpg_2000x1500.jpg
+- filename: P1080898
+  original: sizes/P1080898.jpg_1500x2000.jpg
+  thumbnail: sizes/P1080898.jpg_188x250.jpg
+  sizes:
+  - sizes/P1080898.jpg_188x250.jpg
+  - sizes/P1080898.jpg_375x500.jpg
+  - sizes/P1080898.jpg_750x1000.jpg
+  - sizes/P1080898.jpg_1500x2000.jpg
+- filename: P1080903
+  original: sizes/P1080903.jpg_2000x1500.jpg
+  thumbnail: sizes/P1080903.jpg_250x188.jpg
+  sizes:
+  - sizes/P1080903.jpg_250x188.jpg
+  - sizes/P1080903.jpg_500x375.jpg
+  - sizes/P1080903.jpg_1000x750.jpg
+  - sizes/P1080903.jpg_2000x1500.jpg
+- filename: P1080905
+  original: sizes/P1080905.jpg_1500x2000.jpg
+  thumbnail: sizes/P1080905.jpg_188x250.jpg
+  sizes:
+  - sizes/P1080905.jpg_188x250.jpg
+  - sizes/P1080905.jpg_375x500.jpg
+  - sizes/P1080905.jpg_750x1000.jpg
+  - sizes/P1080905.jpg_1500x2000.jpg
+- filename: P1080908
+  original: sizes/P1080908.jpg_1500x2000.jpg
+  thumbnail: sizes/P1080908.jpg_188x250.jpg
+  sizes:
+  - sizes/P1080908.jpg_188x250.jpg
+  - sizes/P1080908.jpg_375x500.jpg
+  - sizes/P1080908.jpg_750x1000.jpg
+  - sizes/P1080908.jpg_1500x2000.jpg
+- filename: P1080911
+  original: sizes/P1080911.jpg_1500x2000.jpg
+  thumbnail: sizes/P1080911.jpg_188x250.jpg
+  sizes:
+  - sizes/P1080911.jpg_188x250.jpg
+  - sizes/P1080911.jpg_375x500.jpg
+  - sizes/P1080911.jpg_750x1000.jpg
+  - sizes/P1080911.jpg_1500x2000.jpg
+- filename: P1080916
+  original: sizes/P1080916.jpg_1500x2000.jpg
+  thumbnail: sizes/P1080916.jpg_188x250.jpg
+  sizes:
+  - sizes/P1080916.jpg_188x250.jpg
+  - sizes/P1080916.jpg_375x500.jpg
+  - sizes/P1080916.jpg_750x1000.jpg
+  - sizes/P1080916.jpg_1500x2000.jpg
