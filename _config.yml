@@ -29,6 +29,7 @@ nav_list:
   NZ : ['2 - Nouvelle-Zélande', '/category/nz']
   #About : ['À Propos', '/about']
   #MarineAntho : ['Marine et Anthony', '/author/marine-antho']
+  Suivi_Polarsteps : ['Suivi en Direct', 'https://www.polarsteps.com/AnthonyCoutant']
   Contact : ['Contact', '/contact/']
 
 defaults:

@@ -26,10 +26,10 @@ se dégotter une doudoune de compétition dans un magasin spécialisé (et en pl
 Nous restons au final l'essentiel de l'après-midi à Christchurch et il se fait un peu tard quand nous prenons réellement la route pour le lac. Le trajet 
 nous offre une nouvelle fois quelques beaux paysages made in New-Zealand.
 
+{% include lightslider.html gallery=site.data.galleries.tekapo_queenstown.route_tekapo %}
+
 Nous arrivons dans un freecamp boisé en début de soirée, quelques kilomètres en amont de notre objectif, à l'abri relatif des vents violents 
 ayant ponctué notre trajet. Nous sommes donc forcés de manger encore une fois dans notre mini-van inconfortable.
-
-{% include lightslider.html gallery=site.data.galleries.tekapo_queenstown.route_tekapo %}
 
 Nous nous réveillons le lendemain dans une ambiance apocalyptique : le ciel est gris foncé, la pluie bat son plein et frappe violemment notre 
 abri, et le vent est toujours très présent. Nous n'avons étrangement pas envie de sortir mais finissons malgré tout par nous mettre en route.
@@ -39,10 +39,12 @@ abri, et le vent est toujours très présent. Nous n'avons étrangement pas envi
 
 Dans un élan d'espoir que la situation météo se calme rapidement, nous filons directement au centre-ville pour prendre un petit-déjeuner, différant notre visite 
 du lac. Mais la situation ne s'améliore pas et le temps passe. Nous décidons d'aller enfin voir le lac dont on nous a loué les mérites, 
-ultra-emmitouflés sous de multiples couches de vêtements. Seul point faible : nous n'avons pas prévu de gants pour le voyage ! 
-Grave erreur que nous prévoyons de corriger dès que possible. 
+ultra-emmitouflés sous de multiples couches de vêtements.
 
 {% include lightslider.html gallery=site.data.galleries.tekapo_queenstown.emmitoufles %}
+
+Seul point faible : nous n'avons pas prévu de gants pour le voyage ! 
+Grave erreur que nous prévoyons de corriger dès que possible. 
 
 Le temps est absolument pourri mais, étrangement, cela met en valeur les couleurs turquoises du lac. 
 Nous sommes ébahis devant ce contraste ciel-eau invraisemblable qui nous permet de prendre de jolies photos. La beauté du lieu est 
