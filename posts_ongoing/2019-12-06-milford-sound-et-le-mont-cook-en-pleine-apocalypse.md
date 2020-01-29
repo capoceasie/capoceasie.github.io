@@ -16,7 +16,7 @@ episode_id: 10
 support: [jquery, gallery]
 ---
 
-Apres notre visite du Lac Tekapo puis de Queenstown et après l'apparition de notre problème de plomberie (cf. [Article précédent]({%post_url 2019-12-03-lac-tekapo-et-queenstown})), 
+Apres notre visite du Lac Tekapo puis de Queenstown et après l'apparition de notre problème de plomberie (cf. [Article précédent]({% post_url 2019-12-03-lac-tekapo-et-queenstown %})), 
 nous nous empressons de faire quelques courses avant de prendre la route pour *Te Anau*. Notre loueur de véhicule nous rappelle pour nous informer 
 que nous avons juste le temps d'y aller et qu'il ne faut pas trainer. Petit coup de pression qui nous donne un peu chaud ! Le timing est d'autant plus 
 serré que nous avons réservé une activité pour le lendemain matin aux aurores, ce qui ne nous laisse que très peu de marge de manœuvre. Notre repas 
