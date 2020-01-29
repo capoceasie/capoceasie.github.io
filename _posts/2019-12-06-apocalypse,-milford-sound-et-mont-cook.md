@@ -62,8 +62,6 @@ trempée sur les lieux et informe avoir payé 30 NZD de parking pour 3h !!! C'es
 Nous nous présentons au comptoir de la compagnie de croisière et récupérons nos places pour un départ à 8h30. Nous finissons par embarquer 
 sur le bateau et nous précipitons vers des places le long des vitres à bâbord, à l'intérieur. 
 
-{% include lightslider.html gallery=site.data.galleries.milford_wanaka_mtcook.embarquement %}
-
 Le bateau démarre et on nous présente les consignes de sécurité habituelles. On commence déjà à voir de nombreuses cascades au fur et à mesure que le 
 bateau quitte le quai. Une grosse bonne nouvelle à cette heure, après s'être levés de bon matin, est l'offre de petit déjeuner continental en mode buffet 
 à volonté ouvert pendant la première heure de trajet. Nous fonçons remplir nos plateaux et mangeons nos festins avec enthousiasme alors que les superbes 
