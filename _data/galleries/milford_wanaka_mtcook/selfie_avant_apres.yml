@@ -1,0 +1,27 @@
+picture_path: milford_wanaka_mtcook/selfie_avant_apres
+preview:
+  filename: 20191207_095932
+  original: sizes/20191207_095932.jpg_2000x1500.jpg
+  thumbnail: sizes/20191207_095932.jpg_250x188.jpg
+  sizes:
+  - sizes/20191207_095932.jpg_250x188.jpg
+  - sizes/20191207_095932.jpg_500x375.jpg
+  - sizes/20191207_095932.jpg_1000x750.jpg
+  - sizes/20191207_095932.jpg_2000x1500.jpg
+pictures:
+- filename: 20191207_095932
+  original: sizes/20191207_095932.jpg_2000x1500.jpg
+  thumbnail: sizes/20191207_095932.jpg_250x188.jpg
+  sizes:
+  - sizes/20191207_095932.jpg_250x188.jpg
+  - sizes/20191207_095932.jpg_500x375.jpg
+  - sizes/20191207_095932.jpg_1000x750.jpg
+  - sizes/20191207_095932.jpg_2000x1500.jpg
+- filename: 20191207_100051
+  original: sizes/20191207_100051.jpg_2000x1500.jpg
+  thumbnail: sizes/20191207_100051.jpg_250x188.jpg
+  sizes:
+  - sizes/20191207_100051.jpg_250x188.jpg
+  - sizes/20191207_100051.jpg_500x375.jpg
+  - sizes/20191207_100051.jpg_1000x750.jpg
+  - sizes/20191207_100051.jpg_2000x1500.jpg

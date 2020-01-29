@@ -1,0 +1,51 @@
+picture_path: milford_wanaka_mtcook/wanaka_lac
+preview:
+  filename: 20191207_190826
+  original: sizes/20191207_190826.jpg_1500x2000.jpg
+  thumbnail: sizes/20191207_190826.jpg_188x250.jpg
+  sizes:
+  - sizes/20191207_190826.jpg_188x250.jpg
+  - sizes/20191207_190826.jpg_375x500.jpg
+  - sizes/20191207_190826.jpg_750x1000.jpg
+  - sizes/20191207_190826.jpg_1500x2000.jpg
+pictures:
+- filename: 20191207_190826
+  original: sizes/20191207_190826.jpg_1500x2000.jpg
+  thumbnail: sizes/20191207_190826.jpg_188x250.jpg
+  sizes:
+  - sizes/20191207_190826.jpg_188x250.jpg
+  - sizes/20191207_190826.jpg_375x500.jpg
+  - sizes/20191207_190826.jpg_750x1000.jpg
+  - sizes/20191207_190826.jpg_1500x2000.jpg
+- filename: 20191207_191015
+  original: sizes/20191207_191015.jpg_2000x1500.jpg
+  thumbnail: sizes/20191207_191015.jpg_250x188.jpg
+  sizes:
+  - sizes/20191207_191015.jpg_250x188.jpg
+  - sizes/20191207_191015.jpg_500x375.jpg
+  - sizes/20191207_191015.jpg_1000x750.jpg
+  - sizes/20191207_191015.jpg_2000x1500.jpg
+- filename: 20191208_134447
+  original: sizes/20191208_134447.jpg_1500x2000.jpg
+  thumbnail: sizes/20191208_134447.jpg_188x250.jpg
+  sizes:
+  - sizes/20191208_134447.jpg_188x250.jpg
+  - sizes/20191208_134447.jpg_375x500.jpg
+  - sizes/20191208_134447.jpg_750x1000.jpg
+  - sizes/20191208_134447.jpg_1500x2000.jpg
+- filename: 20191208_151125
+  original: sizes/20191208_151125.jpg_1500x2000.jpg
+  thumbnail: sizes/20191208_151125.jpg_188x250.jpg
+  sizes:
+  - sizes/20191208_151125.jpg_188x250.jpg
+  - sizes/20191208_151125.jpg_375x500.jpg
+  - sizes/20191208_151125.jpg_750x1000.jpg
+  - sizes/20191208_151125.jpg_1500x2000.jpg
+- filename: 20191208_151240
+  original: sizes/20191208_151240.jpg_1500x2000.jpg
+  thumbnail: sizes/20191208_151240.jpg_188x250.jpg
+  sizes:
+  - sizes/20191208_151240.jpg_188x250.jpg
+  - sizes/20191208_151240.jpg_375x500.jpg
+  - sizes/20191208_151240.jpg_750x1000.jpg
+  - sizes/20191208_151240.jpg_1500x2000.jpg
