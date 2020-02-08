@@ -16,9 +16,9 @@ episode_id: 11
 support: [jquery, gallery]
 ---
 
-Après nos très beaux moments à Milford Sound, malgré le temps apocalyptique, et au Mont Cook, nous sommes sur les starting blocks près du lac Tekapo pour sortir au plus vite de notre zone de quarantaine imposée par la météo. Il est temps pour nous de rejoindre le Nord de l'île du Sud. 
+Après nos très beaux moments à Milford Sound, malgré le temps apocalyptique, et au Mont Cook (cf. [Article précédent]({% post_url 2019-12-06-apocalypse,-milford-sound-et-mont-cook %}), nous sommes sur les starting blocks près du lac Tekapo pour sortir au plus vite de notre zone de quarantaine imposée par la météo. Il est temps pour nous de rejoindre le Nord de l'île du Sud. 
 
-Nous nous précipitons dès le début de matinée vers le pont précédemment inondé bloquant l'accès et sommes ravis de voir que le trafic a repris. Nous sommes libres ! Nous faisons toujours le deuil de la côte Ouest mais nous sommes déjà ravis de pouvoir continuer notre voyage. Notre objectif est la ville de *Nelson*, où nous souhaitons avoir de plus amples informations sur les accès au *Abel Tasman National Park*, au Nord-Ouest. Nous avons un long trajet devant nous et le van avale les kilomètres. Nous nous arrêtons au *Greta Valley camping ground* en milieu d'après-midi afin de prendre une bonne douche chaude. Nous en profitons également pour faire une grosse lessive mais celle-ci prend plus de temps que prévu et nous restons bloqué plus de 2h sur place, retardant ainsi nos plans. Nous finissons tout de même par étendre notre linge humide dans le van, transformé pour l’occasion en séchoir ambulant. 
+Nous nous précipitons dès le début de matinée vers le pont précédemment inondé bloquant l'accès et sommes ravis de voir que le trafic a repris. Nous sommes libres ! Nous faisons toujours le deuil de la côte Ouest mais nous sommes déjà ravis de pouvoir continuer notre voyage. Notre objectif est la ville de *Nelson*, où nous souhaitons avoir de plus amples informations sur les accès au *Abel Tasman National Park*, au Nord-Ouest. Nous avons un long trajet devant nous et le van avale les kilomètres. Nous nous arrêtons au *Greta Valley camping ground* en milieu d'après-midi afin de prendre une bonne douche chaude. Nous en profitons également pour faire une grosse lessive mais celle-ci prend plus de temps que prévu et nous restons bloqués plus de 2h sur place, retardant ainsi nos plans. Nous finissons tout de même par étendre notre linge humide dans le van, transformé pour l’occasion en séchoir ambulant. 
 
 Nous sommes bien à la bourre alors que le soleil commence à se coucher et nous gagnons un peu de temps en avalant des tourtes industrielles froides et des bananes en guise de dîner (gros plaisir !). Nous n'avons plus qu'à rouler ~~une partie de~~ toute la soirée maintenant.  
 
@@ -80,17 +80,17 @@ Nous avons tout juste le temps d'observer la plongée d’une baleine, sa queue 
 
 Une seconde baleine est détectée peu de temps après ! Nous avons cette fois le temps de prendre en photo sa plongée qui ne tarde pas après notre arrivée.  
 
-{% include lightslider.html gallery=site.data.galleries. abeltasman_kaikoura.baleine1 %}
+{% include lightslider.html gallery=site.data.galleries.abeltasman_kaikoura.baleine1 %}
 
 L'équipage l'identifie et nous donne son nom : Holy Moly. Ils sont apparemment capables d'identifier une baleine à sa nageoire dorsale, avec sa forme et ses cicatrices uniques. Holy Moly est encore plus aisément identifiable car elle a un trou sur le dos. 
 
 Nous poursuivons notre périple et avons la chance d'attirer durant nos recherches un albatros qui se pose dans l'eau près de nous. De quoi patienter en toute beauté ! 
 
-{% include lightslider.html gallery=site.data.galleries. abeltasman_kaikoura.albatros %}
+{% include lightslider.html gallery=site.data.galleries.abeltasman_kaikoura.albatros %}
 
 Une troisième baleine est finalement détectée. Nous apercevons quelques otaries de façon brève sur le trajet pour la rejoindre. Celle-ci ne bouge pas trop et reste à la surface, sans doute en train de dormir. Elle finit par plonger mais de façon très nonchalante et beaucoup moins spectaculaire que les fois précédentes. 
 
-{% include lightslider.html gallery=site.data.galleries. abeltasman_kaikoura.baleine2 %}
+{% include lightslider.html gallery=site.data.galleries.abeltasman_kaikoura.baleine2 %}
 
 Coup de théâtre, il semblerait que Holy Molly soit remontée bien plus tôt que prévu, soit 20 min après sa dernière plongée. Nous accourrons, juste le temps de la voir plonger dans les règles. Et là, tout s'enchaîne. Un albatros nous rejoint encore une fois, suivi de près par un giant petrel à peine moins grand. 
 
