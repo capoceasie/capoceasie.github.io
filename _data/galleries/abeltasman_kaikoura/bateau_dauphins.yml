@@ -1,0 +1,27 @@
+picture_path: abeltasman_kaikoura/bateau_dauphins
+preview:
+  filename: 20191213_092912
+  original: sizes/20191213_092912.jpg_1500x2000.jpg
+  thumbnail: sizes/20191213_092912.jpg_188x250.jpg
+  sizes:
+  - sizes/20191213_092912.jpg_188x250.jpg
+  - sizes/20191213_092912.jpg_375x500.jpg
+  - sizes/20191213_092912.jpg_750x1000.jpg
+  - sizes/20191213_092912.jpg_1500x2000.jpg
+pictures:
+- filename: 20191213_092912
+  original: sizes/20191213_092912.jpg_1500x2000.jpg
+  thumbnail: sizes/20191213_092912.jpg_188x250.jpg
+  sizes:
+  - sizes/20191213_092912.jpg_188x250.jpg
+  - sizes/20191213_092912.jpg_375x500.jpg
+  - sizes/20191213_092912.jpg_750x1000.jpg
+  - sizes/20191213_092912.jpg_1500x2000.jpg
+- filename: 20191213_100205
+  original: sizes/20191213_100205.jpg_1500x2000.jpg
+  thumbnail: sizes/20191213_100205.jpg_188x250.jpg
+  sizes:
+  - sizes/20191213_100205.jpg_188x250.jpg
+  - sizes/20191213_100205.jpg_375x500.jpg
+  - sizes/20191213_100205.jpg_750x1000.jpg
+  - sizes/20191213_100205.jpg_1500x2000.jpg

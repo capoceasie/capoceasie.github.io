@@ -1,0 +1,51 @@
+picture_path: abeltasman_kaikoura/albatros_petrel
+preview:
+  filename: P1100125
+  original: sizes/P1100125.jpg_1500x2000.jpg
+  thumbnail: sizes/P1100125.jpg_188x250.jpg
+  sizes:
+  - sizes/P1100125.jpg_188x250.jpg
+  - sizes/P1100125.jpg_375x500.jpg
+  - sizes/P1100125.jpg_750x1000.jpg
+  - sizes/P1100125.jpg_1500x2000.jpg
+pictures:
+- filename: P1100125
+  original: sizes/P1100125.jpg_1500x2000.jpg
+  thumbnail: sizes/P1100125.jpg_188x250.jpg
+  sizes:
+  - sizes/P1100125.jpg_188x250.jpg
+  - sizes/P1100125.jpg_375x500.jpg
+  - sizes/P1100125.jpg_750x1000.jpg
+  - sizes/P1100125.jpg_1500x2000.jpg
+- filename: P1100129
+  original: sizes/P1100129.jpg_1500x2000.jpg
+  thumbnail: sizes/P1100129.jpg_188x250.jpg
+  sizes:
+  - sizes/P1100129.jpg_188x250.jpg
+  - sizes/P1100129.jpg_375x500.jpg
+  - sizes/P1100129.jpg_750x1000.jpg
+  - sizes/P1100129.jpg_1500x2000.jpg
+- filename: P1100156
+  original: sizes/P1100156.jpg_1500x2000.jpg
+  thumbnail: sizes/P1100156.jpg_188x250.jpg
+  sizes:
+  - sizes/P1100156.jpg_188x250.jpg
+  - sizes/P1100156.jpg_375x500.jpg
+  - sizes/P1100156.jpg_750x1000.jpg
+  - sizes/P1100156.jpg_1500x2000.jpg
+- filename: P1100164
+  original: sizes/P1100164.jpg_1500x2000.jpg
+  thumbnail: sizes/P1100164.jpg_188x250.jpg
+  sizes:
+  - sizes/P1100164.jpg_188x250.jpg
+  - sizes/P1100164.jpg_375x500.jpg
+  - sizes/P1100164.jpg_750x1000.jpg
+  - sizes/P1100164.jpg_1500x2000.jpg
+- filename: P1100169
+  original: sizes/P1100169.jpg_1500x2000.jpg
+  thumbnail: sizes/P1100169.jpg_187x250.jpg
+  sizes:
+  - sizes/P1100169.jpg_187x250.jpg
+  - sizes/P1100169.jpg_375x500.jpg
+  - sizes/P1100169.jpg_750x1000.jpg
+  - sizes/P1100169.jpg_1500x2000.jpg

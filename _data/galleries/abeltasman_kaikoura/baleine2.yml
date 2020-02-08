@@ -1,0 +1,43 @@
+picture_path: abeltasman_kaikoura/baleine2
+preview:
+  filename: P1100064
+  original: sizes/P1100064.jpg_1500x2000.jpg
+  thumbnail: sizes/P1100064.jpg_188x250.jpg
+  sizes:
+  - sizes/P1100064.jpg_188x250.jpg
+  - sizes/P1100064.jpg_375x500.jpg
+  - sizes/P1100064.jpg_750x1000.jpg
+  - sizes/P1100064.jpg_1500x2000.jpg
+pictures:
+- filename: P1100064
+  original: sizes/P1100064.jpg_1500x2000.jpg
+  thumbnail: sizes/P1100064.jpg_188x250.jpg
+  sizes:
+  - sizes/P1100064.jpg_188x250.jpg
+  - sizes/P1100064.jpg_375x500.jpg
+  - sizes/P1100064.jpg_750x1000.jpg
+  - sizes/P1100064.jpg_1500x2000.jpg
+- filename: P1100067
+  original: sizes/P1100067.jpg_1500x2000.jpg
+  thumbnail: sizes/P1100067.jpg_188x250.jpg
+  sizes:
+  - sizes/P1100067.jpg_188x250.jpg
+  - sizes/P1100067.jpg_375x500.jpg
+  - sizes/P1100067.jpg_750x1000.jpg
+  - sizes/P1100067.jpg_1500x2000.jpg
+- filename: P1100071
+  original: sizes/P1100071.jpg_1500x2000.jpg
+  thumbnail: sizes/P1100071.jpg_188x250.jpg
+  sizes:
+  - sizes/P1100071.jpg_188x250.jpg
+  - sizes/P1100071.jpg_375x500.jpg
+  - sizes/P1100071.jpg_750x1000.jpg
+  - sizes/P1100071.jpg_1500x2000.jpg
+- filename: P1100123
+  original: sizes/P1100123.jpg_2000x1500.jpg
+  thumbnail: sizes/P1100123.jpg_250x188.jpg
+  sizes:
+  - sizes/P1100123.jpg_250x188.jpg
+  - sizes/P1100123.jpg_500x375.jpg
+  - sizes/P1100123.jpg_1000x750.jpg
+  - sizes/P1100123.jpg_2000x1500.jpg
