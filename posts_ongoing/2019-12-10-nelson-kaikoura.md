@@ -16,7 +16,7 @@ episode_id: 11
 support: [jquery, gallery]
 ---
 
-Après nos très beaux moments à Milford Sound, malgré le temps apocalyptique, et au Mont Cook (cf. [Article précédent]({% post_url 2019-12-06-apocalypse,-milford-sound-et-mont-cook %}), nous sommes sur les starting blocks près du lac Tekapo pour sortir au plus vite de notre zone de quarantaine imposée par la météo. Il est temps pour nous de rejoindre le Nord de l'île du Sud. 
+Après nos très beaux moments à Milford Sound, malgré le temps apocalyptique, et au Mont Cook, nous sommes sur les starting blocks près du lac Tekapo pour sortir au plus vite de notre zone de quarantaine imposée par la météo. Il est temps pour nous de rejoindre le Nord de l'île du Sud. 
 
 Nous nous précipitons dès le début de matinée vers le pont précédemment inondé bloquant l'accès et sommes ravis de voir que le trafic a repris. Nous sommes libres ! Nous faisons toujours le deuil de la côte Ouest mais nous sommes déjà ravis de pouvoir continuer notre voyage. Notre objectif est la ville de *Nelson*, où nous souhaitons avoir de plus amples informations sur les accès au *Abel Tasman National Park*, au Nord-Ouest. Nous avons un long trajet devant nous et le van avale les kilomètres. Nous nous arrêtons au *Greta Valley camping ground* en milieu d'après-midi afin de prendre une bonne douche chaude. Nous en profitons également pour faire une grosse lessive mais celle-ci prend plus de temps que prévu et nous restons bloqué plus de 2h sur place, retardant ainsi nos plans. Nous finissons tout de même par étendre notre linge humide dans le van, transformé pour l’occasion en séchoir ambulant. 
 
@@ -94,7 +94,7 @@ Une troisième baleine est finalement détectée. Nous apercevons quelques otari
 
 Coup de théâtre, il semblerait que Holy Molly soit remontée bien plus tôt que prévu, soit 20 min après sa dernière plongée. Nous accourrons, juste le temps de la voir plonger dans les règles. Et là, tout s'enchaîne. Un albatros nous rejoint encore une fois, suivi de près par un giant petrel à peine moins grand. 
 
-{% include lightslider.html gallery=site.data.galleries.abeltasman_kaikoura.albatros_petrel%}
+{% include lightslider.html gallery=site.data.galleries.abeltasman_kaikoura.albatros_petrel %}
 
 Ensuite, ce sont des nageoires dorsales que nous apercevons à l'horizon. Une, puis deux, puis cinq ... Certains sautent et font des tours sur eux même : on parle bien entendu d'un groupe de dauphins ! Cette fois, ce ne sont pas des dauphins Hector comme à Akaroa mais des dauphins *Dusky* connus pour se déplacer en grands groupes et pour faire des cascades à tout bout de champs. Ils nous proposent un show virevoltant pendant plusieurs minutes, suivant le bateau et s'amusant avec les vagues qu'il génère. 
 
@@ -169,7 +169,7 @@ En regardant plus en détail autour de nous, nous réalisons que nous sommes en 
 
 Nous nous enfonçons assez loin dans les rochers et Anthony peine à avancer en claquettes ! Il se fait également agresser par des goélands qui lui tournent autour dans les airs en effectuant des piqués vers lui, le poussant à fuir. L'explication la plus probable est que l'on se soit rapprochés très près d'un nid d'où Anthony a essayé de faire fuir le couveur ou la couveuse en premier lieu. Tel est pris qui croyait prendre ! 
 
-{% include lightslider.html gallery=site.data.galleries.abeltasman_kaikoura.goeland%}
+{% include lightslider.html gallery=site.data.galleries.abeltasman_kaikoura.goeland %}
 
 Pendant ce temps-là, Marine tombe sur un drôle de coquillage, genre bête préhistorique. Quelques recherches sur le net lui apprendront plus tard qu’il s’agissait de la carapace d’un *chiton*, un mollusque marin.
 
