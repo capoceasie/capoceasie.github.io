@@ -1,0 +1,43 @@
+picture_path: tongariro/descente
+preview:
+  filename: 20191215_121839
+  original: sizes/20191215_121839.jpg_2000x1500.jpg
+  thumbnail: sizes/20191215_121839.jpg_250x187.jpg
+  sizes:
+  - sizes/20191215_121839.jpg_250x187.jpg
+  - sizes/20191215_121839.jpg_500x375.jpg
+  - sizes/20191215_121839.jpg_1000x750.jpg
+  - sizes/20191215_121839.jpg_2000x1500.jpg
+pictures:
+- filename: 20191215_121839
+  original: sizes/20191215_121839.jpg_2000x1500.jpg
+  thumbnail: sizes/20191215_121839.jpg_250x187.jpg
+  sizes:
+  - sizes/20191215_121839.jpg_250x187.jpg
+  - sizes/20191215_121839.jpg_500x375.jpg
+  - sizes/20191215_121839.jpg_1000x750.jpg
+  - sizes/20191215_121839.jpg_2000x1500.jpg
+- filename: P1100787
+  original: sizes/P1100787.jpg_1500x2000.jpg
+  thumbnail: sizes/P1100787.jpg_188x250.jpg
+  sizes:
+  - sizes/P1100787.jpg_188x250.jpg
+  - sizes/P1100787.jpg_375x500.jpg
+  - sizes/P1100787.jpg_750x1000.jpg
+  - sizes/P1100787.jpg_1500x2000.jpg
+- filename: P1100798
+  original: sizes/P1100798.jpg_1500x2000.jpg
+  thumbnail: sizes/P1100798.jpg_188x250.jpg
+  sizes:
+  - sizes/P1100798.jpg_188x250.jpg
+  - sizes/P1100798.jpg_375x500.jpg
+  - sizes/P1100798.jpg_750x1000.jpg
+  - sizes/P1100798.jpg_1500x2000.jpg
+- filename: P1100802
+  original: sizes/P1100802.jpg_1500x2000.jpg
+  thumbnail: sizes/P1100802.jpg_188x250.jpg
+  sizes:
+  - sizes/P1100802.jpg_188x250.jpg
+  - sizes/P1100802.jpg_375x500.jpg
+  - sizes/P1100802.jpg_750x1000.jpg
+  - sizes/P1100802.jpg_1500x2000.jpg

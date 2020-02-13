@@ -1,0 +1,27 @@
+picture_path: tongariro/carte
+preview:
+  filename: carte_detail_191215
+  original: sizes/carte_detail_191215.jpg_1782x2000.jpg
+  thumbnail: sizes/carte_detail_191215.jpg_223x250.jpg
+  sizes:
+  - sizes/carte_detail_191215.jpg_223x250.jpg
+  - sizes/carte_detail_191215.jpg_446x500.jpg
+  - sizes/carte_detail_191215.jpg_891x1000.jpg
+  - sizes/carte_detail_191215.jpg_1782x2000.jpg
+pictures:
+- filename: carte_detail_191215
+  original: sizes/carte_detail_191215.jpg_1782x2000.jpg
+  thumbnail: sizes/carte_detail_191215.jpg_223x250.jpg
+  sizes:
+  - sizes/carte_detail_191215.jpg_223x250.jpg
+  - sizes/carte_detail_191215.jpg_446x500.jpg
+  - sizes/carte_detail_191215.jpg_891x1000.jpg
+  - sizes/carte_detail_191215.jpg_1782x2000.jpg
+- filename: carte_global_191215
+  original: sizes/carte_global_191215.jpg_1963x2000.jpg
+  thumbnail: sizes/carte_global_191215.jpg_245x250.jpg
+  sizes:
+  - sizes/carte_global_191215.jpg_245x250.jpg
+  - sizes/carte_global_191215.jpg_491x500.jpg
+  - sizes/carte_global_191215.jpg_981x1000.jpg
+  - sizes/carte_global_191215.jpg_1963x2000.jpg

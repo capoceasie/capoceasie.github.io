@@ -1,0 +1,59 @@
+picture_path: tongariro/derniere_montee
+preview:
+  filename: 20191215_113929
+  original: sizes/20191215_113929.jpg_2000x1500.jpg
+  thumbnail: sizes/20191215_113929.jpg_250x188.jpg
+  sizes:
+  - sizes/20191215_113929.jpg_250x188.jpg
+  - sizes/20191215_113929.jpg_500x375.jpg
+  - sizes/20191215_113929.jpg_1000x750.jpg
+  - sizes/20191215_113929.jpg_2000x1500.jpg
+pictures:
+- filename: 20191215_113929
+  original: sizes/20191215_113929.jpg_2000x1500.jpg
+  thumbnail: sizes/20191215_113929.jpg_250x188.jpg
+  sizes:
+  - sizes/20191215_113929.jpg_250x188.jpg
+  - sizes/20191215_113929.jpg_500x375.jpg
+  - sizes/20191215_113929.jpg_1000x750.jpg
+  - sizes/20191215_113929.jpg_2000x1500.jpg
+- filename: P1100769
+  original: sizes/P1100769.jpg_1500x2000.jpg
+  thumbnail: sizes/P1100769.jpg_188x250.jpg
+  sizes:
+  - sizes/P1100769.jpg_188x250.jpg
+  - sizes/P1100769.jpg_375x500.jpg
+  - sizes/P1100769.jpg_750x1000.jpg
+  - sizes/P1100769.jpg_1500x2000.jpg
+- filename: P1100771
+  original: sizes/P1100771.jpg_1500x2000.jpg
+  thumbnail: sizes/P1100771.jpg_188x250.jpg
+  sizes:
+  - sizes/P1100771.jpg_188x250.jpg
+  - sizes/P1100771.jpg_375x500.jpg
+  - sizes/P1100771.jpg_750x1000.jpg
+  - sizes/P1100771.jpg_1500x2000.jpg
+- filename: P1100772
+  original: sizes/P1100772.jpg_1500x2000.jpg
+  thumbnail: sizes/P1100772.jpg_188x250.jpg
+  sizes:
+  - sizes/P1100772.jpg_188x250.jpg
+  - sizes/P1100772.jpg_375x500.jpg
+  - sizes/P1100772.jpg_750x1000.jpg
+  - sizes/P1100772.jpg_1500x2000.jpg
+- filename: P1100775
+  original: sizes/P1100775.jpg_1500x2000.jpg
+  thumbnail: sizes/P1100775.jpg_188x250.jpg
+  sizes:
+  - sizes/P1100775.jpg_188x250.jpg
+  - sizes/P1100775.jpg_375x500.jpg
+  - sizes/P1100775.jpg_750x1000.jpg
+  - sizes/P1100775.jpg_1500x2000.jpg
+- filename: P1100777
+  original: sizes/P1100777.jpg_1500x2000.jpg
+  thumbnail: sizes/P1100777.jpg_188x250.jpg
+  sizes:
+  - sizes/P1100777.jpg_188x250.jpg
+  - sizes/P1100777.jpg_375x500.jpg
+  - sizes/P1100777.jpg_750x1000.jpg
+  - sizes/P1100777.jpg_1500x2000.jpg

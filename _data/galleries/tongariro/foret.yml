@@ -1,0 +1,75 @@
+picture_path: tongariro/foret
+preview:
+  filename: P1100943
+  original: sizes/P1100943.jpg_2000x1500.jpg
+  thumbnail: sizes/P1100943.jpg_250x188.jpg
+  sizes:
+  - sizes/P1100943.jpg_250x188.jpg
+  - sizes/P1100943.jpg_500x375.jpg
+  - sizes/P1100943.jpg_1000x750.jpg
+  - sizes/P1100943.jpg_2000x1500.jpg
+pictures:
+- filename: P1100943
+  original: sizes/P1100943.jpg_2000x1500.jpg
+  thumbnail: sizes/P1100943.jpg_250x188.jpg
+  sizes:
+  - sizes/P1100943.jpg_250x188.jpg
+  - sizes/P1100943.jpg_500x375.jpg
+  - sizes/P1100943.jpg_1000x750.jpg
+  - sizes/P1100943.jpg_2000x1500.jpg
+- filename: P1100944
+  original: sizes/P1100944.jpg_2000x1500.jpg
+  thumbnail: sizes/P1100944.jpg_250x188.jpg
+  sizes:
+  - sizes/P1100944.jpg_250x188.jpg
+  - sizes/P1100944.jpg_500x375.jpg
+  - sizes/P1100944.jpg_1000x750.jpg
+  - sizes/P1100944.jpg_2000x1500.jpg
+- filename: P1100947
+  original: sizes/P1100947.jpg_2000x1500.jpg
+  thumbnail: sizes/P1100947.jpg_250x188.jpg
+  sizes:
+  - sizes/P1100947.jpg_250x188.jpg
+  - sizes/P1100947.jpg_500x375.jpg
+  - sizes/P1100947.jpg_1000x750.jpg
+  - sizes/P1100947.jpg_2000x1500.jpg
+- filename: P1100952
+  original: sizes/P1100952.jpg_1500x2000.jpg
+  thumbnail: sizes/P1100952.jpg_188x250.jpg
+  sizes:
+  - sizes/P1100952.jpg_188x250.jpg
+  - sizes/P1100952.jpg_375x500.jpg
+  - sizes/P1100952.jpg_750x1000.jpg
+  - sizes/P1100952.jpg_1500x2000.jpg
+- filename: P1100955
+  original: sizes/P1100955.jpg_2000x1500.jpg
+  thumbnail: sizes/P1100955.jpg_250x188.jpg
+  sizes:
+  - sizes/P1100955.jpg_250x188.jpg
+  - sizes/P1100955.jpg_500x375.jpg
+  - sizes/P1100955.jpg_1000x750.jpg
+  - sizes/P1100955.jpg_2000x1500.jpg
+- filename: P1100957
+  original: sizes/P1100957.jpg_2000x1500.jpg
+  thumbnail: sizes/P1100957.jpg_250x188.jpg
+  sizes:
+  - sizes/P1100957.jpg_250x188.jpg
+  - sizes/P1100957.jpg_500x375.jpg
+  - sizes/P1100957.jpg_1000x750.jpg
+  - sizes/P1100957.jpg_2000x1500.jpg
+- filename: P1100962
+  original: sizes/P1100962.jpg_1500x2000.jpg
+  thumbnail: sizes/P1100962.jpg_188x250.jpg
+  sizes:
+  - sizes/P1100962.jpg_188x250.jpg
+  - sizes/P1100962.jpg_375x500.jpg
+  - sizes/P1100962.jpg_750x1000.jpg
+  - sizes/P1100962.jpg_1500x2000.jpg
+- filename: zP1100958
+  original: sizes/zP1100958.jpg_1500x2000.jpg
+  thumbnail: sizes/zP1100958.jpg_187x250.jpg
+  sizes:
+  - sizes/zP1100958.jpg_187x250.jpg
+  - sizes/zP1100958.jpg_375x500.jpg
+  - sizes/zP1100958.jpg_750x1000.jpg
+  - sizes/zP1100958.jpg_1500x2000.jpg

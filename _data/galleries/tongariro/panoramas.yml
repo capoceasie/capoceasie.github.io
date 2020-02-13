@@ -1,0 +1,51 @@
+picture_path: tongariro/panoramas
+preview:
+  filename: 20191215_120716
+  original: sizes/20191215_120716.jpg_484x2000.jpg
+  thumbnail: sizes/20191215_120716.jpg_60x250.jpg
+  sizes:
+  - sizes/20191215_120716.jpg_60x250.jpg
+  - sizes/20191215_120716.jpg_121x500.jpg
+  - sizes/20191215_120716.jpg_242x1000.jpg
+  - sizes/20191215_120716.jpg_484x2000.jpg
+pictures:
+- filename: 20191215_120716
+  original: sizes/20191215_120716.jpg_484x2000.jpg
+  thumbnail: sizes/20191215_120716.jpg_60x250.jpg
+  sizes:
+  - sizes/20191215_120716.jpg_60x250.jpg
+  - sizes/20191215_120716.jpg_121x500.jpg
+  - sizes/20191215_120716.jpg_242x1000.jpg
+  - sizes/20191215_120716.jpg_484x2000.jpg
+- filename: 20191215_122901
+  original: sizes/20191215_122901.jpg_516x2000.jpg
+  thumbnail: sizes/20191215_122901.jpg_64x250.jpg
+  sizes:
+  - sizes/20191215_122901.jpg_64x250.jpg
+  - sizes/20191215_122901.jpg_129x500.jpg
+  - sizes/20191215_122901.jpg_258x1000.jpg
+  - sizes/20191215_122901.jpg_516x2000.jpg
+- filename: 20191215_124532
+  original: sizes/20191215_124532.jpg_684x2000.jpg
+  thumbnail: sizes/20191215_124532.jpg_85x250.jpg
+  sizes:
+  - sizes/20191215_124532.jpg_85x250.jpg
+  - sizes/20191215_124532.jpg_171x500.jpg
+  - sizes/20191215_124532.jpg_342x1000.jpg
+  - sizes/20191215_124532.jpg_684x2000.jpg
+- filename: 20191215_134335
+  original: sizes/20191215_134335.jpg_442x2000.jpg
+  thumbnail: sizes/20191215_134335.jpg_55x250.jpg
+  sizes:
+  - sizes/20191215_134335.jpg_55x250.jpg
+  - sizes/20191215_134335.jpg_111x500.jpg
+  - sizes/20191215_134335.jpg_221x1000.jpg
+  - sizes/20191215_134335.jpg_442x2000.jpg
+- filename: 20191215_150848
+  original: sizes/20191215_150848.jpg_497x2000.jpg
+  thumbnail: sizes/20191215_150848.jpg_62x250.jpg
+  sizes:
+  - sizes/20191215_150848.jpg_62x250.jpg
+  - sizes/20191215_150848.jpg_124x500.jpg
+  - sizes/20191215_150848.jpg_249x1000.jpg
+  - sizes/20191215_150848.jpg_497x2000.jpg
