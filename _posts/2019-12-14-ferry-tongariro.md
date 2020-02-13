@@ -112,6 +112,7 @@ L’arrivée au véhicule est une victoire pour nous. Nous l’avons fait ! 20 k
 {% include lightslider.html gallery=site.data.galleries.tongariro.panoramas %}
 
 Nous démarrons finalement notre véhicule pour rejoindre un endroit où nous pourrons nous reposer. Le parc national dans lequel nous sommes ne proposant pas de freecamp, il nous faut faire encore une petite heure de route pour arriver près du Lac Taupo et en trouver un. Installés, nous faisons l’inventaire de nos provisions pour le dîner et devons malheureusement jeter quelques-unes de nos denrées commençant à muter faute d’un frigo digne de ce nom. Il ne nous reste alors que des paquets de nouilles chinoises (LA valeur sûre en voyage) pour nous remettre de cette journée sportive ! Nous sommes trop vannés pour rester éveillés et nous couchons tout de suite après le dîner.
+
 Les journées suivantes nous offriront de bons moments à nous émerveiller par les divers phénomènes géologiques de la région, avant de rejoindre Auckland au pas de course pour y rendre notre van et vivre nos derniers moments en Nouvelle-Zélande avant l’Inde. Mais ça, on vous le raconte dans le prochain article !
 
 Have fun,
