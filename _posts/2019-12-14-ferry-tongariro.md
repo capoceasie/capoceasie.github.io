@@ -16,7 +16,7 @@ episode_id: 12
 support: [jquery, gallery]
 ---
 
-Après les aventures des jours précédents dans le parc national d'Abel Tasman et les superbes rencontres faunistiques à Kaikoura (cf. [Article précédent] ({% post_url 2019-12-10-nelson-kaikoura %})), et n'ayant pas réussi à prendre une place dans le freecamp du coin, c'est dans un camping à Picton que nous nous réveillons aux aurores pour prendre le ferry direction Wellington et l'île du Nord.
+Après les aventures des jours précédents dans le parc national d'Abel Tasman et les superbes rencontres faunistiques à Kaikoura (cf. [Article précédent]({% post_url 2019-12-10-nelson-kaikoura %})), et n'ayant pas réussi à prendre une place dans le freecamp du coin, c'est dans un camping à Picton que nous nous réveillons aux aurores pour prendre le ferry direction Wellington et l'île du Nord.
 
 Le trajet en voiture pour atteindre la zone d'embarquement du ferry ne dure que 10 minutes et nous sommes rapidement en train de faire la queue à l'accès qui n'est pas encore ouvert. Après 30 minutes d'attente, nous pouvons nous enregistrer… pour patienter un peu plus loin encore une heure !
 
