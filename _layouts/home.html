@@ -17,6 +17,11 @@ bodyclass: full-height
                           <!--<p class="hero__content animated fadeIn delay-2">{{ post.excerpt | truncatewords: 24 | strip_html }}</p>-->
                           <!--<a href="{{author.permalink  | prepend: site.baseurl}}" class="hero___avatar-link"><img src="{{ site.baseurl }}/img/{{author.avatar_image}}"  alt="{{post.author_name}}"class="hero__content__avatar animated fadeIn delay-2" alt=""></a>-->
                       <p class="hero__content post-preview__meta animated fadeIn delay-2">{{post.author_name}}</p>
+					  <p class="post-preview__meta">
+						{% for category in post.categories %}
+							<a href="{{site.baseurl}}{{ category | prepend: "/category/"}}">{{ category | capitalize }}</a>{% if forloop.last %}{% else %},{% endif %}
+						{% endfor %}
+					  </p>
                   </div>
               </div>
               {% else %}
