@@ -1,0 +1,27 @@
+picture_path: fin_sejour_nz/repas
+preview:
+  filename: 20191220_011211
+  original: sizes/20191220_011211.jpg_1125x2000.jpg
+  thumbnail: sizes/20191220_011211.jpg_141x250.jpg
+  sizes:
+  - sizes/20191220_011211.jpg_141x250.jpg
+  - sizes/20191220_011211.jpg_281x500.jpg
+  - sizes/20191220_011211.jpg_562x1000.jpg
+  - sizes/20191220_011211.jpg_1125x2000.jpg
+pictures:
+- filename: 20191220_011211
+  original: sizes/20191220_011211.jpg_1125x2000.jpg
+  thumbnail: sizes/20191220_011211.jpg_141x250.jpg
+  sizes:
+  - sizes/20191220_011211.jpg_141x250.jpg
+  - sizes/20191220_011211.jpg_281x500.jpg
+  - sizes/20191220_011211.jpg_562x1000.jpg
+  - sizes/20191220_011211.jpg_1125x2000.jpg
+- filename: 20191220_011229
+  original: sizes/20191220_011229.jpg_1125x2000.jpg
+  thumbnail: sizes/20191220_011229.jpg_141x250.jpg
+  sizes:
+  - sizes/20191220_011229.jpg_141x250.jpg
+  - sizes/20191220_011229.jpg_281x500.jpg
+  - sizes/20191220_011229.jpg_562x1000.jpg
+  - sizes/20191220_011229.jpg_1125x2000.jpg

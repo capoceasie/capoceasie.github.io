@@ -1,0 +1,27 @@
+picture_path: fin_sejour_nz/source_chaude
+preview:
+  filename: 20191216_161959
+  original: sizes/20191216_161959.jpg_1500x2000.jpg
+  thumbnail: sizes/20191216_161959.jpg_188x250.jpg
+  sizes:
+  - sizes/20191216_161959.jpg_188x250.jpg
+  - sizes/20191216_161959.jpg_375x500.jpg
+  - sizes/20191216_161959.jpg_750x1000.jpg
+  - sizes/20191216_161959.jpg_1500x2000.jpg
+pictures:
+- filename: 20191216_161959
+  original: sizes/20191216_161959.jpg_1500x2000.jpg
+  thumbnail: sizes/20191216_161959.jpg_188x250.jpg
+  sizes:
+  - sizes/20191216_161959.jpg_188x250.jpg
+  - sizes/20191216_161959.jpg_375x500.jpg
+  - sizes/20191216_161959.jpg_750x1000.jpg
+  - sizes/20191216_161959.jpg_1500x2000.jpg
+- filename: 20191216_162601
+  original: sizes/20191216_162601.jpg_1125x2000.jpg
+  thumbnail: sizes/20191216_162601.jpg_141x250.jpg
+  sizes:
+  - sizes/20191216_162601.jpg_141x250.jpg
+  - sizes/20191216_162601.jpg_281x500.jpg
+  - sizes/20191216_162601.jpg_563x1000.jpg
+  - sizes/20191216_162601.jpg_1125x2000.jpg

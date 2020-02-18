@@ -1,0 +1,51 @@
+picture_path: fin_sejour_nz/noel
+preview:
+  filename: 20191218_112840
+  original: sizes/20191218_112840.jpg_2000x1125.jpg
+  thumbnail: sizes/20191218_112840.jpg_250x141.jpg
+  sizes:
+  - sizes/20191218_112840.jpg_250x141.jpg
+  - sizes/20191218_112840.jpg_500x281.jpg
+  - sizes/20191218_112840.jpg_1000x562.jpg
+  - sizes/20191218_112840.jpg_2000x1125.jpg
+pictures:
+- filename: 20191218_112840
+  original: sizes/20191218_112840.jpg_2000x1125.jpg
+  thumbnail: sizes/20191218_112840.jpg_250x141.jpg
+  sizes:
+  - sizes/20191218_112840.jpg_250x141.jpg
+  - sizes/20191218_112840.jpg_500x281.jpg
+  - sizes/20191218_112840.jpg_1000x562.jpg
+  - sizes/20191218_112840.jpg_2000x1125.jpg
+- filename: 20191218_114651
+  original: sizes/20191218_114651.jpg_2000x1500.jpg
+  thumbnail: sizes/20191218_114651.jpg_250x188.jpg
+  sizes:
+  - sizes/20191218_114651.jpg_250x188.jpg
+  - sizes/20191218_114651.jpg_500x375.jpg
+  - sizes/20191218_114651.jpg_1000x750.jpg
+  - sizes/20191218_114651.jpg_2000x1500.jpg
+- filename: P1110012
+  original: sizes/P1110012.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110012.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110012.jpg_188x250.jpg
+  - sizes/P1110012.jpg_375x500.jpg
+  - sizes/P1110012.jpg_750x1000.jpg
+  - sizes/P1110012.jpg_1500x2000.jpg
+- filename: P1110042
+  original: sizes/P1110042.jpg_2000x1500.jpg
+  thumbnail: sizes/P1110042.jpg_250x188.jpg
+  sizes:
+  - sizes/P1110042.jpg_250x188.jpg
+  - sizes/P1110042.jpg_500x375.jpg
+  - sizes/P1110042.jpg_1000x750.jpg
+  - sizes/P1110042.jpg_2000x1500.jpg
+- filename: P1110045
+  original: sizes/P1110045.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110045.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110045.jpg_188x250.jpg
+  - sizes/P1110045.jpg_375x500.jpg
+  - sizes/P1110045.jpg_750x1000.jpg
+  - sizes/P1110045.jpg_1500x2000.jpg

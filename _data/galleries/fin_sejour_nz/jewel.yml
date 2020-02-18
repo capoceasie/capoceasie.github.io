@@ -1,0 +1,59 @@
+picture_path: fin_sejour_nz/jewel
+preview:
+  filename: 0P1110075
+  original: sizes/0P1110075.jpg_2000x1500.jpg
+  thumbnail: sizes/0P1110075.jpg_250x188.jpg
+  sizes:
+  - sizes/0P1110075.jpg_250x188.jpg
+  - sizes/0P1110075.jpg_500x375.jpg
+  - sizes/0P1110075.jpg_1000x750.jpg
+  - sizes/0P1110075.jpg_2000x1500.jpg
+pictures:
+- filename: 0P1110075
+  original: sizes/0P1110075.jpg_2000x1500.jpg
+  thumbnail: sizes/0P1110075.jpg_250x188.jpg
+  sizes:
+  - sizes/0P1110075.jpg_250x188.jpg
+  - sizes/0P1110075.jpg_500x375.jpg
+  - sizes/0P1110075.jpg_1000x750.jpg
+  - sizes/0P1110075.jpg_2000x1500.jpg
+- filename: P1110066
+  original: sizes/P1110066.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110066.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110066.jpg_188x250.jpg
+  - sizes/P1110066.jpg_375x500.jpg
+  - sizes/P1110066.jpg_750x1000.jpg
+  - sizes/P1110066.jpg_1500x2000.jpg
+- filename: P1110067
+  original: sizes/P1110067.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110067.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110067.jpg_188x250.jpg
+  - sizes/P1110067.jpg_375x500.jpg
+  - sizes/P1110067.jpg_750x1000.jpg
+  - sizes/P1110067.jpg_1500x2000.jpg
+- filename: P1110069
+  original: sizes/P1110069.jpg_2000x1500.jpg
+  thumbnail: sizes/P1110069.jpg_250x188.jpg
+  sizes:
+  - sizes/P1110069.jpg_250x188.jpg
+  - sizes/P1110069.jpg_500x375.jpg
+  - sizes/P1110069.jpg_1000x750.jpg
+  - sizes/P1110069.jpg_2000x1500.jpg
+- filename: P1110070
+  original: sizes/P1110070.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110070.jpg_187x250.jpg
+  sizes:
+  - sizes/P1110070.jpg_187x250.jpg
+  - sizes/P1110070.jpg_375x500.jpg
+  - sizes/P1110070.jpg_750x1000.jpg
+  - sizes/P1110070.jpg_1500x2000.jpg
+- filename: P1110072
+  original: sizes/P1110072.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110072.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110072.jpg_188x250.jpg
+  - sizes/P1110072.jpg_375x500.jpg
+  - sizes/P1110072.jpg_750x1000.jpg
+  - sizes/P1110072.jpg_1500x2000.jpg

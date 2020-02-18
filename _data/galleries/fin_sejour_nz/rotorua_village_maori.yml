@@ -1,0 +1,67 @@
+picture_path: fin_sejour_nz/rotorua_village_maori
+preview:
+  filename: 0P1100989
+  original: sizes/0P1100989.jpg_1500x2000.jpg
+  thumbnail: sizes/0P1100989.jpg_188x250.jpg
+  sizes:
+  - sizes/0P1100989.jpg_188x250.jpg
+  - sizes/0P1100989.jpg_375x500.jpg
+  - sizes/0P1100989.jpg_750x1000.jpg
+  - sizes/0P1100989.jpg_1500x2000.jpg
+pictures:
+- filename: 0P1100989
+  original: sizes/0P1100989.jpg_1500x2000.jpg
+  thumbnail: sizes/0P1100989.jpg_188x250.jpg
+  sizes:
+  - sizes/0P1100989.jpg_188x250.jpg
+  - sizes/0P1100989.jpg_375x500.jpg
+  - sizes/0P1100989.jpg_750x1000.jpg
+  - sizes/0P1100989.jpg_1500x2000.jpg
+- filename: 20191216_195614
+  original: sizes/20191216_195614.jpg_1500x2000.jpg
+  thumbnail: sizes/20191216_195614.jpg_188x250.jpg
+  sizes:
+  - sizes/20191216_195614.jpg_188x250.jpg
+  - sizes/20191216_195614.jpg_375x500.jpg
+  - sizes/20191216_195614.jpg_750x1000.jpg
+  - sizes/20191216_195614.jpg_1500x2000.jpg
+- filename: 20191217_101316
+  original: sizes/20191217_101316.jpg_2000x1500.jpg
+  thumbnail: sizes/20191217_101316.jpg_250x187.jpg
+  sizes:
+  - sizes/20191217_101316.jpg_250x187.jpg
+  - sizes/20191217_101316.jpg_500x375.jpg
+  - sizes/20191217_101316.jpg_1000x750.jpg
+  - sizes/20191217_101316.jpg_2000x1500.jpg
+- filename: P1100995
+  original: sizes/P1100995.jpg_1500x2000.jpg
+  thumbnail: sizes/P1100995.jpg_188x250.jpg
+  sizes:
+  - sizes/P1100995.jpg_188x250.jpg
+  - sizes/P1100995.jpg_375x500.jpg
+  - sizes/P1100995.jpg_750x1000.jpg
+  - sizes/P1100995.jpg_1500x2000.jpg
+- filename: P1100996
+  original: sizes/P1100996.jpg_2000x1500.jpg
+  thumbnail: sizes/P1100996.jpg_250x188.jpg
+  sizes:
+  - sizes/P1100996.jpg_250x188.jpg
+  - sizes/P1100996.jpg_500x375.jpg
+  - sizes/P1100996.jpg_1000x750.jpg
+  - sizes/P1100996.jpg_2000x1500.jpg
+- filename: P1110001
+  original: sizes/P1110001.jpg_2000x1500.jpg
+  thumbnail: sizes/P1110001.jpg_250x188.jpg
+  sizes:
+  - sizes/P1110001.jpg_250x188.jpg
+  - sizes/P1110001.jpg_500x375.jpg
+  - sizes/P1110001.jpg_1000x750.jpg
+  - sizes/P1110001.jpg_2000x1500.jpg
+- filename: P1110004
+  original: sizes/P1110004.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110004.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110004.jpg_188x250.jpg
+  - sizes/P1110004.jpg_375x500.jpg
+  - sizes/P1110004.jpg_750x1000.jpg
+  - sizes/P1110004.jpg_1500x2000.jpg

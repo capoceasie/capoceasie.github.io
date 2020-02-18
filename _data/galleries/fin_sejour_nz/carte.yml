@@ -1,0 +1,35 @@
+picture_path: fin_sejour_nz/carte
+preview:
+  filename: carte_detail_191219
+  original: sizes/carte_detail_191219.jpg_1435x2000.jpg
+  thumbnail: sizes/carte_detail_191219.jpg_179x250.jpg
+  sizes:
+  - sizes/carte_detail_191219.jpg_179x250.jpg
+  - sizes/carte_detail_191219.jpg_359x500.jpg
+  - sizes/carte_detail_191219.jpg_718x1000.jpg
+  - sizes/carte_detail_191219.jpg_1435x2000.jpg
+pictures:
+- filename: carte_detail_191219
+  original: sizes/carte_detail_191219.jpg_1435x2000.jpg
+  thumbnail: sizes/carte_detail_191219.jpg_179x250.jpg
+  sizes:
+  - sizes/carte_detail_191219.jpg_179x250.jpg
+  - sizes/carte_detail_191219.jpg_359x500.jpg
+  - sizes/carte_detail_191219.jpg_718x1000.jpg
+  - sizes/carte_detail_191219.jpg_1435x2000.jpg
+- filename: carte_global_191219
+  original: sizes/carte_global_191219.jpg_1537x2000.jpg
+  thumbnail: sizes/carte_global_191219.jpg_192x250.jpg
+  sizes:
+  - sizes/carte_global_191219.jpg_192x250.jpg
+  - sizes/carte_global_191219.jpg_384x500.jpg
+  - sizes/carte_global_191219.jpg_768x1000.jpg
+  - sizes/carte_global_191219.jpg_1537x2000.jpg
+- filename: carte_global_nz_191219
+  original: sizes/carte_global_nz_191219.jpg_2000x1870.jpg
+  thumbnail: sizes/carte_global_nz_191219.jpg_250x234.jpg
+  sizes:
+  - sizes/carte_global_nz_191219.jpg_250x234.jpg
+  - sizes/carte_global_nz_191219.jpg_500x467.jpg
+  - sizes/carte_global_nz_191219.jpg_1000x935.jpg
+  - sizes/carte_global_nz_191219.jpg_2000x1870.jpg
