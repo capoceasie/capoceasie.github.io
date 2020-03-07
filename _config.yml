@@ -27,6 +27,7 @@ nav_list:
   Journal : ['Journal de Bord', '/category/journal']
   Australie : ['1 - Australie', '/category/australie']
   NZ : ['2 - Nouvelle-Zélande', '/category/nz']
+  Inde : ['3 - Inde', '/category/inde']
   #About : ['À Propos', '/about']
   #MarineAntho : ['Marine et Anthony', '/author/marine-antho']
   Suivi_Polarsteps : ['Suivi en Direct', 'https://www.polarsteps.com/AnthonyCoutant']
