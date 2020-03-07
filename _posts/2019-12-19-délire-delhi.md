@@ -15,7 +15,7 @@ end_date: 23/12/2019
 episode_id: 14
 support: [jquery, gallery]
 --- 
-
+ 
 Après notre départ de Nouvelle-Zélande et notre installation pour la première nuit de transit de notre vie dans un aéroport à Singapour (cf. [Article précédent]({%post_url 2019-12-17-fin-nz %})), nous nous réveillons de façon intempestive plusieurs fois dans la nuit avant d’émerger vers 6h heure locale. Nous mettons un peu de temps avant d’être assez frais pour chercher un petit déjeuner que nous trouvons chez la célèbre marque de fast food B.K. Petite erreur de parcours car même si tout paraît appétissant sur les photos, nous n'avons ni aimé nos cafés, ni nos croissandwichs … La journée commence donc au top !
 
 {% include lightslider.html gallery=site.data.galleries.delhi.croissandwichs %}
