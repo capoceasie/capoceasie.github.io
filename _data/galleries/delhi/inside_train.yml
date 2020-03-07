@@ -1,0 +1,27 @@
+picture_path: delhi/inside_train
+preview:
+  filename: 20191223_070510
+  original: sizes/20191223_070510.jpg_2000x1500.jpg
+  thumbnail: sizes/20191223_070510.jpg_250x188.jpg
+  sizes:
+  - sizes/20191223_070510.jpg_250x188.jpg
+  - sizes/20191223_070510.jpg_500x375.jpg
+  - sizes/20191223_070510.jpg_1000x750.jpg
+  - sizes/20191223_070510.jpg_2000x1500.jpg
+pictures:
+- filename: 20191223_070510
+  original: sizes/20191223_070510.jpg_2000x1500.jpg
+  thumbnail: sizes/20191223_070510.jpg_250x188.jpg
+  sizes:
+  - sizes/20191223_070510.jpg_250x188.jpg
+  - sizes/20191223_070510.jpg_500x375.jpg
+  - sizes/20191223_070510.jpg_1000x750.jpg
+  - sizes/20191223_070510.jpg_2000x1500.jpg
+- filename: 20191223_081238
+  original: sizes/20191223_081238.jpg_1125x2000.jpg
+  thumbnail: sizes/20191223_081238.jpg_141x250.jpg
+  sizes:
+  - sizes/20191223_081238.jpg_141x250.jpg
+  - sizes/20191223_081238.jpg_281x500.jpg
+  - sizes/20191223_081238.jpg_562x1000.jpg
+  - sizes/20191223_081238.jpg_1125x2000.jpg

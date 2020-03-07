@@ -1,0 +1,19 @@
+picture_path: delhi/chauffeur
+preview:
+  filename: 20191221_065722
+  original: sizes/20191221_065722.jpg_2000x1125.jpg
+  thumbnail: sizes/20191221_065722.jpg_250x141.jpg
+  sizes:
+  - sizes/20191221_065722.jpg_250x141.jpg
+  - sizes/20191221_065722.jpg_500x281.jpg
+  - sizes/20191221_065722.jpg_1000x562.jpg
+  - sizes/20191221_065722.jpg_2000x1125.jpg
+pictures:
+- filename: 20191221_065722
+  original: sizes/20191221_065722.jpg_2000x1125.jpg
+  thumbnail: sizes/20191221_065722.jpg_250x141.jpg
+  sizes:
+  - sizes/20191221_065722.jpg_250x141.jpg
+  - sizes/20191221_065722.jpg_500x281.jpg
+  - sizes/20191221_065722.jpg_1000x562.jpg
+  - sizes/20191221_065722.jpg_2000x1125.jpg

@@ -1,0 +1,19 @@
+picture_path: delhi/carte
+preview:
+  filename: carte_globale_191223
+  original: sizes/carte_globale_191223.jpg_1586x2000.jpg
+  thumbnail: sizes/carte_globale_191223.jpg_198x250.jpg
+  sizes:
+  - sizes/carte_globale_191223.jpg_198x250.jpg
+  - sizes/carte_globale_191223.jpg_396x500.jpg
+  - sizes/carte_globale_191223.jpg_793x1000.jpg
+  - sizes/carte_globale_191223.jpg_1586x2000.jpg
+pictures:
+- filename: carte_globale_191223
+  original: sizes/carte_globale_191223.jpg_1586x2000.jpg
+  thumbnail: sizes/carte_globale_191223.jpg_198x250.jpg
+  sizes:
+  - sizes/carte_globale_191223.jpg_198x250.jpg
+  - sizes/carte_globale_191223.jpg_396x500.jpg
+  - sizes/carte_globale_191223.jpg_793x1000.jpg
+  - sizes/carte_globale_191223.jpg_1586x2000.jpg

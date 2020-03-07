@@ -1,0 +1,131 @@
+picture_path: delhi/museum
+preview:
+  filename: 20191222_183028
+  original: sizes/20191222_183028.jpg_1125x2000.jpg
+  thumbnail: sizes/20191222_183028.jpg_141x250.jpg
+  sizes:
+  - sizes/20191222_183028.jpg_141x250.jpg
+  - sizes/20191222_183028.jpg_281x500.jpg
+  - sizes/20191222_183028.jpg_562x1000.jpg
+  - sizes/20191222_183028.jpg_1125x2000.jpg
+pictures:
+- filename: 20191222_183028
+  original: sizes/20191222_183028.jpg_1125x2000.jpg
+  thumbnail: sizes/20191222_183028.jpg_141x250.jpg
+  sizes:
+  - sizes/20191222_183028.jpg_141x250.jpg
+  - sizes/20191222_183028.jpg_281x500.jpg
+  - sizes/20191222_183028.jpg_562x1000.jpg
+  - sizes/20191222_183028.jpg_1125x2000.jpg
+- filename: 20191222_183214
+  original: sizes/20191222_183214.jpg_2000x1500.jpg
+  thumbnail: sizes/20191222_183214.jpg_250x188.jpg
+  sizes:
+  - sizes/20191222_183214.jpg_250x188.jpg
+  - sizes/20191222_183214.jpg_500x375.jpg
+  - sizes/20191222_183214.jpg_1000x750.jpg
+  - sizes/20191222_183214.jpg_2000x1500.jpg
+- filename: P1110113
+  original: sizes/P1110113.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110113.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110113.jpg_188x250.jpg
+  - sizes/P1110113.jpg_375x500.jpg
+  - sizes/P1110113.jpg_750x1000.jpg
+  - sizes/P1110113.jpg_1500x2000.jpg
+- filename: P1110127
+  original: sizes/P1110127.jpg_2000x1500.jpg
+  thumbnail: sizes/P1110127.jpg_250x188.jpg
+  sizes:
+  - sizes/P1110127.jpg_250x188.jpg
+  - sizes/P1110127.jpg_500x375.jpg
+  - sizes/P1110127.jpg_1000x750.jpg
+  - sizes/P1110127.jpg_2000x1500.jpg
+- filename: P1110129
+  original: sizes/P1110129.jpg_2000x1500.jpg
+  thumbnail: sizes/P1110129.jpg_250x188.jpg
+  sizes:
+  - sizes/P1110129.jpg_250x188.jpg
+  - sizes/P1110129.jpg_500x375.jpg
+  - sizes/P1110129.jpg_1000x750.jpg
+  - sizes/P1110129.jpg_2000x1500.jpg
+- filename: P1110134
+  original: sizes/P1110134.jpg_2000x1500.jpg
+  thumbnail: sizes/P1110134.jpg_250x188.jpg
+  sizes:
+  - sizes/P1110134.jpg_250x188.jpg
+  - sizes/P1110134.jpg_500x375.jpg
+  - sizes/P1110134.jpg_1000x750.jpg
+  - sizes/P1110134.jpg_2000x1500.jpg
+- filename: P1110135
+  original: sizes/P1110135.jpg_2000x1500.jpg
+  thumbnail: sizes/P1110135.jpg_250x188.jpg
+  sizes:
+  - sizes/P1110135.jpg_250x188.jpg
+  - sizes/P1110135.jpg_500x375.jpg
+  - sizes/P1110135.jpg_1000x750.jpg
+  - sizes/P1110135.jpg_2000x1500.jpg
+- filename: P1110142
+  original: sizes/P1110142.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110142.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110142.jpg_188x250.jpg
+  - sizes/P1110142.jpg_375x500.jpg
+  - sizes/P1110142.jpg_750x1000.jpg
+  - sizes/P1110142.jpg_1500x2000.jpg
+- filename: P1110143
+  original: sizes/P1110143.jpg_2000x1500.jpg
+  thumbnail: sizes/P1110143.jpg_250x188.jpg
+  sizes:
+  - sizes/P1110143.jpg_250x188.jpg
+  - sizes/P1110143.jpg_500x375.jpg
+  - sizes/P1110143.jpg_1000x750.jpg
+  - sizes/P1110143.jpg_2000x1500.jpg
+- filename: P1110149
+  original: sizes/P1110149.jpg_2000x1500.jpg
+  thumbnail: sizes/P1110149.jpg_250x188.jpg
+  sizes:
+  - sizes/P1110149.jpg_250x188.jpg
+  - sizes/P1110149.jpg_500x375.jpg
+  - sizes/P1110149.jpg_1000x750.jpg
+  - sizes/P1110149.jpg_2000x1500.jpg
+- filename: P1110150
+  original: sizes/P1110150.jpg_2000x1500.jpg
+  thumbnail: sizes/P1110150.jpg_250x187.jpg
+  sizes:
+  - sizes/P1110150.jpg_250x187.jpg
+  - sizes/P1110150.jpg_500x375.jpg
+  - sizes/P1110150.jpg_1000x750.jpg
+  - sizes/P1110150.jpg_2000x1500.jpg
+- filename: P1110152
+  original: sizes/P1110152.jpg_2000x1500.jpg
+  thumbnail: sizes/P1110152.jpg_250x188.jpg
+  sizes:
+  - sizes/P1110152.jpg_250x188.jpg
+  - sizes/P1110152.jpg_500x375.jpg
+  - sizes/P1110152.jpg_1000x750.jpg
+  - sizes/P1110152.jpg_2000x1500.jpg
+- filename: P1110156
+  original: sizes/P1110156.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110156.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110156.jpg_188x250.jpg
+  - sizes/P1110156.jpg_375x500.jpg
+  - sizes/P1110156.jpg_750x1000.jpg
+  - sizes/P1110156.jpg_1500x2000.jpg
+- filename: P1110160
+  original: sizes/P1110160.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110160.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110160.jpg_188x250.jpg
+  - sizes/P1110160.jpg_375x500.jpg
+  - sizes/P1110160.jpg_750x1000.jpg
+  - sizes/P1110160.jpg_1500x2000.jpg
+- filename: P1110161
+  original: sizes/P1110161.jpg_2000x1500.jpg
+  thumbnail: sizes/P1110161.jpg_250x188.jpg
+  sizes:
+  - sizes/P1110161.jpg_250x188.jpg
+  - sizes/P1110161.jpg_500x375.jpg
+  - sizes/P1110161.jpg_1000x750.jpg
+  - sizes/P1110161.jpg_2000x1500.jpg
