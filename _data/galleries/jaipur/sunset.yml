@@ -1,0 +1,75 @@
+picture_path: jaipur/sunset
+preview:
+  filename: P1110275
+  original: sizes/P1110275.jpg_2000x1500.jpg
+  thumbnail: sizes/P1110275.jpg_250x188.jpg
+  sizes:
+  - sizes/P1110275.jpg_250x188.jpg
+  - sizes/P1110275.jpg_500x375.jpg
+  - sizes/P1110275.jpg_1000x750.jpg
+  - sizes/P1110275.jpg_2000x1500.jpg
+pictures:
+- filename: P1110275
+  original: sizes/P1110275.jpg_2000x1500.jpg
+  thumbnail: sizes/P1110275.jpg_250x188.jpg
+  sizes:
+  - sizes/P1110275.jpg_250x188.jpg
+  - sizes/P1110275.jpg_500x375.jpg
+  - sizes/P1110275.jpg_1000x750.jpg
+  - sizes/P1110275.jpg_2000x1500.jpg
+- filename: P1110276
+  original: sizes/P1110276.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110276.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110276.jpg_188x250.jpg
+  - sizes/P1110276.jpg_375x500.jpg
+  - sizes/P1110276.jpg_750x1000.jpg
+  - sizes/P1110276.jpg_1500x2000.jpg
+- filename: P1110281
+  original: sizes/P1110281.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110281.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110281.jpg_188x250.jpg
+  - sizes/P1110281.jpg_375x500.jpg
+  - sizes/P1110281.jpg_750x1000.jpg
+  - sizes/P1110281.jpg_1500x2000.jpg
+- filename: P1110283
+  original: sizes/P1110283.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110283.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110283.jpg_188x250.jpg
+  - sizes/P1110283.jpg_375x500.jpg
+  - sizes/P1110283.jpg_750x1000.jpg
+  - sizes/P1110283.jpg_1500x2000.jpg
+- filename: P1110284
+  original: sizes/P1110284.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110284.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110284.jpg_188x250.jpg
+  - sizes/P1110284.jpg_375x500.jpg
+  - sizes/P1110284.jpg_750x1000.jpg
+  - sizes/P1110284.jpg_1500x2000.jpg
+- filename: P1110289
+  original: sizes/P1110289.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110289.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110289.jpg_188x250.jpg
+  - sizes/P1110289.jpg_375x500.jpg
+  - sizes/P1110289.jpg_750x1000.jpg
+  - sizes/P1110289.jpg_1500x2000.jpg
+- filename: P1110293
+  original: sizes/P1110293.jpg_2000x1500.jpg
+  thumbnail: sizes/P1110293.jpg_250x188.jpg
+  sizes:
+  - sizes/P1110293.jpg_250x188.jpg
+  - sizes/P1110293.jpg_500x375.jpg
+  - sizes/P1110293.jpg_1000x750.jpg
+  - sizes/P1110293.jpg_2000x1500.jpg
+- filename: Z20191223_171817
+  original: sizes/Z20191223_171817.jpg_1500x2000.jpg
+  thumbnail: sizes/Z20191223_171817.jpg_188x250.jpg
+  sizes:
+  - sizes/Z20191223_171817.jpg_188x250.jpg
+  - sizes/Z20191223_171817.jpg_375x500.jpg
+  - sizes/Z20191223_171817.jpg_750x1000.jpg
+  - sizes/Z20191223_171817.jpg_1500x2000.jpg

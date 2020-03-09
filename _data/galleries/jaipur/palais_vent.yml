@@ -1,0 +1,27 @@
+picture_path: jaipur/palais_vent
+preview:
+  filename: P1110298
+  original: sizes/P1110298.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110298.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110298.jpg_188x250.jpg
+  - sizes/P1110298.jpg_375x500.jpg
+  - sizes/P1110298.jpg_750x1000.jpg
+  - sizes/P1110298.jpg_1500x2000.jpg
+pictures:
+- filename: P1110298
+  original: sizes/P1110298.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110298.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110298.jpg_188x250.jpg
+  - sizes/P1110298.jpg_375x500.jpg
+  - sizes/P1110298.jpg_750x1000.jpg
+  - sizes/P1110298.jpg_1500x2000.jpg
+- filename: P1110299
+  original: sizes/P1110299.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110299.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110299.jpg_188x250.jpg
+  - sizes/P1110299.jpg_375x500.jpg
+  - sizes/P1110299.jpg_750x1000.jpg
+  - sizes/P1110299.jpg_1500x2000.jpg

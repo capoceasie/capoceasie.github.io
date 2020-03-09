@@ -1,0 +1,27 @@
+picture_path: jaipur/gare
+preview:
+  filename: 20191225_084517
+  original: sizes/20191225_084517.jpg_2000x1500.jpg
+  thumbnail: sizes/20191225_084517.jpg_250x188.jpg
+  sizes:
+  - sizes/20191225_084517.jpg_250x188.jpg
+  - sizes/20191225_084517.jpg_500x375.jpg
+  - sizes/20191225_084517.jpg_1000x750.jpg
+  - sizes/20191225_084517.jpg_2000x1500.jpg
+pictures:
+- filename: 20191225_084517
+  original: sizes/20191225_084517.jpg_2000x1500.jpg
+  thumbnail: sizes/20191225_084517.jpg_250x188.jpg
+  sizes:
+  - sizes/20191225_084517.jpg_250x188.jpg
+  - sizes/20191225_084517.jpg_500x375.jpg
+  - sizes/20191225_084517.jpg_1000x750.jpg
+  - sizes/20191225_084517.jpg_2000x1500.jpg
+- filename: 20191225_084636
+  original: sizes/20191225_084636.jpg_1125x2000.jpg
+  thumbnail: sizes/20191225_084636.jpg_141x250.jpg
+  sizes:
+  - sizes/20191225_084636.jpg_141x250.jpg
+  - sizes/20191225_084636.jpg_281x500.jpg
+  - sizes/20191225_084636.jpg_563x1000.jpg
+  - sizes/20191225_084636.jpg_1125x2000.jpg

@@ -1,0 +1,51 @@
+picture_path: jaipur/temple_soleil
+preview:
+  filename: P1110169
+  original: sizes/P1110169.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110169.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110169.jpg_188x250.jpg
+  - sizes/P1110169.jpg_375x500.jpg
+  - sizes/P1110169.jpg_750x1000.jpg
+  - sizes/P1110169.jpg_1500x2000.jpg
+pictures:
+- filename: P1110169
+  original: sizes/P1110169.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110169.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110169.jpg_188x250.jpg
+  - sizes/P1110169.jpg_375x500.jpg
+  - sizes/P1110169.jpg_750x1000.jpg
+  - sizes/P1110169.jpg_1500x2000.jpg
+- filename: P1110170
+  original: sizes/P1110170.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110170.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110170.jpg_188x250.jpg
+  - sizes/P1110170.jpg_375x500.jpg
+  - sizes/P1110170.jpg_750x1000.jpg
+  - sizes/P1110170.jpg_1500x2000.jpg
+- filename: P1110171
+  original: sizes/P1110171.jpg_2000x1500.jpg
+  thumbnail: sizes/P1110171.jpg_250x188.jpg
+  sizes:
+  - sizes/P1110171.jpg_250x188.jpg
+  - sizes/P1110171.jpg_500x375.jpg
+  - sizes/P1110171.jpg_1000x750.jpg
+  - sizes/P1110171.jpg_2000x1500.jpg
+- filename: P1110173
+  original: sizes/P1110173.jpg_2000x1500.jpg
+  thumbnail: sizes/P1110173.jpg_250x188.jpg
+  sizes:
+  - sizes/P1110173.jpg_250x188.jpg
+  - sizes/P1110173.jpg_500x375.jpg
+  - sizes/P1110173.jpg_1000x750.jpg
+  - sizes/P1110173.jpg_2000x1500.jpg
+- filename: P1110178
+  original: sizes/P1110178.jpg_2000x1500.jpg
+  thumbnail: sizes/P1110178.jpg_250x188.jpg
+  sizes:
+  - sizes/P1110178.jpg_250x188.jpg
+  - sizes/P1110178.jpg_500x375.jpg
+  - sizes/P1110178.jpg_1000x750.jpg
+  - sizes/P1110178.jpg_2000x1500.jpg

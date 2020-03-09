@@ -1,0 +1,27 @@
+picture_path: jaipur/son_lumiere
+preview:
+  filename: P1110568
+  original: sizes/P1110568.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110568.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110568.jpg_188x250.jpg
+  - sizes/P1110568.jpg_375x500.jpg
+  - sizes/P1110568.jpg_750x1000.jpg
+  - sizes/P1110568.jpg_1500x2000.jpg
+pictures:
+- filename: P1110568
+  original: sizes/P1110568.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110568.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110568.jpg_188x250.jpg
+  - sizes/P1110568.jpg_375x500.jpg
+  - sizes/P1110568.jpg_750x1000.jpg
+  - sizes/P1110568.jpg_1500x2000.jpg
+- filename: P1110572
+  original: sizes/P1110572.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110572.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110572.jpg_188x250.jpg
+  - sizes/P1110572.jpg_375x500.jpg
+  - sizes/P1110572.jpg_750x1000.jpg
+  - sizes/P1110572.jpg_1500x2000.jpg
