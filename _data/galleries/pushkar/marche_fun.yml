@@ -1,0 +1,51 @@
+picture_path: pushkar/marche_fun
+preview:
+  filename: 20191226_172253
+  original: sizes/20191226_172253.jpg_1125x2000.jpg
+  thumbnail: sizes/20191226_172253.jpg_141x250.jpg
+  sizes:
+  - sizes/20191226_172253.jpg_141x250.jpg
+  - sizes/20191226_172253.jpg_281x500.jpg
+  - sizes/20191226_172253.jpg_562x1000.jpg
+  - sizes/20191226_172253.jpg_1125x2000.jpg
+pictures:
+- filename: 20191226_172253
+  original: sizes/20191226_172253.jpg_1125x2000.jpg
+  thumbnail: sizes/20191226_172253.jpg_141x250.jpg
+  sizes:
+  - sizes/20191226_172253.jpg_141x250.jpg
+  - sizes/20191226_172253.jpg_281x500.jpg
+  - sizes/20191226_172253.jpg_562x1000.jpg
+  - sizes/20191226_172253.jpg_1125x2000.jpg
+- filename: 20191226_172348
+  original: sizes/20191226_172348.jpg_1500x2000.jpg
+  thumbnail: sizes/20191226_172348.jpg_188x250.jpg
+  sizes:
+  - sizes/20191226_172348.jpg_188x250.jpg
+  - sizes/20191226_172348.jpg_375x500.jpg
+  - sizes/20191226_172348.jpg_750x1000.jpg
+  - sizes/20191226_172348.jpg_1500x2000.jpg
+- filename: 20191226_172508
+  original: sizes/20191226_172508.jpg_1500x2000.jpg
+  thumbnail: sizes/20191226_172508.jpg_188x250.jpg
+  sizes:
+  - sizes/20191226_172508.jpg_188x250.jpg
+  - sizes/20191226_172508.jpg_375x500.jpg
+  - sizes/20191226_172508.jpg_750x1000.jpg
+  - sizes/20191226_172508.jpg_1500x2000.jpg
+- filename: P1110704
+  original: sizes/P1110704.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110704.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110704.jpg_188x250.jpg
+  - sizes/P1110704.jpg_375x500.jpg
+  - sizes/P1110704.jpg_750x1000.jpg
+  - sizes/P1110704.jpg_1500x2000.jpg
+- filename: P1110705
+  original: sizes/P1110705.jpg_2000x1500.jpg
+  thumbnail: sizes/P1110705.jpg_250x188.jpg
+  sizes:
+  - sizes/P1110705.jpg_250x188.jpg
+  - sizes/P1110705.jpg_500x375.jpg
+  - sizes/P1110705.jpg_1000x750.jpg
+  - sizes/P1110705.jpg_2000x1500.jpg
