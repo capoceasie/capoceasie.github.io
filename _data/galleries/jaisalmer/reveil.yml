@@ -1,0 +1,59 @@
+picture_path: jaisalmer/reveil
+preview:
+  filename: 20191228_080122
+  original: sizes/20191228_080122.jpg_1125x2000.jpg
+  thumbnail: sizes/20191228_080122.jpg_141x250.jpg
+  sizes:
+  - sizes/20191228_080122.jpg_141x250.jpg
+  - sizes/20191228_080122.jpg_281x500.jpg
+  - sizes/20191228_080122.jpg_562x1000.jpg
+  - sizes/20191228_080122.jpg_1125x2000.jpg
+pictures:
+- filename: 20191228_080122
+  original: sizes/20191228_080122.jpg_1125x2000.jpg
+  thumbnail: sizes/20191228_080122.jpg_141x250.jpg
+  sizes:
+  - sizes/20191228_080122.jpg_141x250.jpg
+  - sizes/20191228_080122.jpg_281x500.jpg
+  - sizes/20191228_080122.jpg_562x1000.jpg
+  - sizes/20191228_080122.jpg_1125x2000.jpg
+- filename: P1110963
+  original: sizes/P1110963.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110963.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110963.jpg_188x250.jpg
+  - sizes/P1110963.jpg_375x500.jpg
+  - sizes/P1110963.jpg_750x1000.jpg
+  - sizes/P1110963.jpg_1500x2000.jpg
+- filename: P1110967
+  original: sizes/P1110967.jpg_2000x1500.jpg
+  thumbnail: sizes/P1110967.jpg_250x188.jpg
+  sizes:
+  - sizes/P1110967.jpg_250x188.jpg
+  - sizes/P1110967.jpg_500x375.jpg
+  - sizes/P1110967.jpg_1000x750.jpg
+  - sizes/P1110967.jpg_2000x1500.jpg
+- filename: P1110968
+  original: sizes/P1110968.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110968.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110968.jpg_188x250.jpg
+  - sizes/P1110968.jpg_375x500.jpg
+  - sizes/P1110968.jpg_750x1000.jpg
+  - sizes/P1110968.jpg_1500x2000.jpg
+- filename: P1110970
+  original: sizes/P1110970.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110970.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110970.jpg_188x250.jpg
+  - sizes/P1110970.jpg_375x500.jpg
+  - sizes/P1110970.jpg_750x1000.jpg
+  - sizes/P1110970.jpg_1500x2000.jpg
+- filename: P1110981
+  original: sizes/P1110981.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110981.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110981.jpg_188x250.jpg
+  - sizes/P1110981.jpg_375x500.jpg
+  - sizes/P1110981.jpg_750x1000.jpg
+  - sizes/P1110981.jpg_1500x2000.jpg

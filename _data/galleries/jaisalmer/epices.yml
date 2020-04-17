@@ -1,0 +1,19 @@
+picture_path: jaisalmer/epices
+preview:
+  filename: P1120076
+  original: sizes/P1120076.jpg_1500x2000.jpg
+  thumbnail: sizes/P1120076.jpg_188x250.jpg
+  sizes:
+  - sizes/P1120076.jpg_188x250.jpg
+  - sizes/P1120076.jpg_375x500.jpg
+  - sizes/P1120076.jpg_750x1000.jpg
+  - sizes/P1120076.jpg_1500x2000.jpg
+pictures:
+- filename: P1120076
+  original: sizes/P1120076.jpg_1500x2000.jpg
+  thumbnail: sizes/P1120076.jpg_188x250.jpg
+  sizes:
+  - sizes/P1120076.jpg_188x250.jpg
+  - sizes/P1120076.jpg_375x500.jpg
+  - sizes/P1120076.jpg_750x1000.jpg
+  - sizes/P1120076.jpg_1500x2000.jpg

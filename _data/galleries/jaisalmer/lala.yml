@@ -1,0 +1,27 @@
+picture_path: jaisalmer/lala
+preview:
+  filename: 20191227_123544
+  original: sizes/20191227_123544.jpg_1125x2000.jpg
+  thumbnail: sizes/20191227_123544.jpg_141x250.jpg
+  sizes:
+  - sizes/20191227_123544.jpg_141x250.jpg
+  - sizes/20191227_123544.jpg_281x500.jpg
+  - sizes/20191227_123544.jpg_562x1000.jpg
+  - sizes/20191227_123544.jpg_1125x2000.jpg
+pictures:
+- filename: 20191227_123544
+  original: sizes/20191227_123544.jpg_1125x2000.jpg
+  thumbnail: sizes/20191227_123544.jpg_141x250.jpg
+  sizes:
+  - sizes/20191227_123544.jpg_141x250.jpg
+  - sizes/20191227_123544.jpg_281x500.jpg
+  - sizes/20191227_123544.jpg_562x1000.jpg
+  - sizes/20191227_123544.jpg_1125x2000.jpg
+- filename: 20191227_131721
+  original: sizes/20191227_131721.jpg_1125x2000.jpg
+  thumbnail: sizes/20191227_131721.jpg_141x250.jpg
+  sizes:
+  - sizes/20191227_131721.jpg_141x250.jpg
+  - sizes/20191227_131721.jpg_281x500.jpg
+  - sizes/20191227_131721.jpg_562x1000.jpg
+  - sizes/20191227_131721.jpg_1125x2000.jpg

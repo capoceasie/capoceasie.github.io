@@ -1,0 +1,75 @@
+picture_path: jaisalmer/fort
+preview:
+  filename: 0P1110823
+  original: sizes/0P1110823.jpg_1500x2000.jpg
+  thumbnail: sizes/0P1110823.jpg_187x250.jpg
+  sizes:
+  - sizes/0P1110823.jpg_187x250.jpg
+  - sizes/0P1110823.jpg_375x500.jpg
+  - sizes/0P1110823.jpg_750x1000.jpg
+  - sizes/0P1110823.jpg_1500x2000.jpg
+pictures:
+- filename: 0P1110823
+  original: sizes/0P1110823.jpg_1500x2000.jpg
+  thumbnail: sizes/0P1110823.jpg_187x250.jpg
+  sizes:
+  - sizes/0P1110823.jpg_187x250.jpg
+  - sizes/0P1110823.jpg_375x500.jpg
+  - sizes/0P1110823.jpg_750x1000.jpg
+  - sizes/0P1110823.jpg_1500x2000.jpg
+- filename: P1110803
+  original: sizes/P1110803.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110803.jpg_187x250.jpg
+  sizes:
+  - sizes/P1110803.jpg_187x250.jpg
+  - sizes/P1110803.jpg_375x500.jpg
+  - sizes/P1110803.jpg_750x1000.jpg
+  - sizes/P1110803.jpg_1500x2000.jpg
+- filename: P1110808
+  original: sizes/P1110808.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110808.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110808.jpg_188x250.jpg
+  - sizes/P1110808.jpg_375x500.jpg
+  - sizes/P1110808.jpg_750x1000.jpg
+  - sizes/P1110808.jpg_1500x2000.jpg
+- filename: P1110812
+  original: sizes/P1110812.jpg_2000x1500.jpg
+  thumbnail: sizes/P1110812.jpg_250x187.jpg
+  sizes:
+  - sizes/P1110812.jpg_250x187.jpg
+  - sizes/P1110812.jpg_500x375.jpg
+  - sizes/P1110812.jpg_1000x750.jpg
+  - sizes/P1110812.jpg_2000x1500.jpg
+- filename: P1110815
+  original: sizes/P1110815.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110815.jpg_187x250.jpg
+  sizes:
+  - sizes/P1110815.jpg_187x250.jpg
+  - sizes/P1110815.jpg_375x500.jpg
+  - sizes/P1110815.jpg_750x1000.jpg
+  - sizes/P1110815.jpg_1500x2000.jpg
+- filename: P1110818
+  original: sizes/P1110818.jpg_2000x1500.jpg
+  thumbnail: sizes/P1110818.jpg_250x188.jpg
+  sizes:
+  - sizes/P1110818.jpg_250x188.jpg
+  - sizes/P1110818.jpg_500x375.jpg
+  - sizes/P1110818.jpg_1000x750.jpg
+  - sizes/P1110818.jpg_2000x1500.jpg
+- filename: P1110824
+  original: sizes/P1110824.jpg_2000x1500.jpg
+  thumbnail: sizes/P1110824.jpg_250x188.jpg
+  sizes:
+  - sizes/P1110824.jpg_250x188.jpg
+  - sizes/P1110824.jpg_500x375.jpg
+  - sizes/P1110824.jpg_1000x750.jpg
+  - sizes/P1110824.jpg_2000x1500.jpg
+- filename: P1110828
+  original: sizes/P1110828.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110828.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110828.jpg_188x250.jpg
+  - sizes/P1110828.jpg_375x500.jpg
+  - sizes/P1110828.jpg_750x1000.jpg
+  - sizes/P1110828.jpg_1500x2000.jpg

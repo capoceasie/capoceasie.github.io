@@ -1,0 +1,59 @@
+picture_path: jaisalmer/debut_balade
+preview:
+  filename: P1110850
+  original: sizes/P1110850.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110850.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110850.jpg_188x250.jpg
+  - sizes/P1110850.jpg_375x500.jpg
+  - sizes/P1110850.jpg_750x1000.jpg
+  - sizes/P1110850.jpg_1500x2000.jpg
+pictures:
+- filename: P1110850
+  original: sizes/P1110850.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110850.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110850.jpg_188x250.jpg
+  - sizes/P1110850.jpg_375x500.jpg
+  - sizes/P1110850.jpg_750x1000.jpg
+  - sizes/P1110850.jpg_1500x2000.jpg
+- filename: P1110857
+  original: sizes/P1110857.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110857.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110857.jpg_188x250.jpg
+  - sizes/P1110857.jpg_375x500.jpg
+  - sizes/P1110857.jpg_750x1000.jpg
+  - sizes/P1110857.jpg_1500x2000.jpg
+- filename: P1110860
+  original: sizes/P1110860.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110860.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110860.jpg_188x250.jpg
+  - sizes/P1110860.jpg_375x500.jpg
+  - sizes/P1110860.jpg_750x1000.jpg
+  - sizes/P1110860.jpg_1500x2000.jpg
+- filename: P1110861
+  original: sizes/P1110861.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110861.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110861.jpg_188x250.jpg
+  - sizes/P1110861.jpg_375x500.jpg
+  - sizes/P1110861.jpg_750x1000.jpg
+  - sizes/P1110861.jpg_1500x2000.jpg
+- filename: P1110867
+  original: sizes/P1110867.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110867.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110867.jpg_188x250.jpg
+  - sizes/P1110867.jpg_375x500.jpg
+  - sizes/P1110867.jpg_750x1000.jpg
+  - sizes/P1110867.jpg_1500x2000.jpg
+- filename: P1110879
+  original: sizes/P1110879.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110879.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110879.jpg_188x250.jpg
+  - sizes/P1110879.jpg_375x500.jpg
+  - sizes/P1110879.jpg_750x1000.jpg
+  - sizes/P1110879.jpg_1500x2000.jpg

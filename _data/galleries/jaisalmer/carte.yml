@@ -1,0 +1,19 @@
+picture_path: jaisalmer/carte
+preview:
+  filename: carte_detail_191229
+  original: sizes/carte_detail_191229.jpg_870x2000.jpg
+  thumbnail: sizes/carte_detail_191229.jpg_109x250.jpg
+  sizes:
+  - sizes/carte_detail_191229.jpg_109x250.jpg
+  - sizes/carte_detail_191229.jpg_217x500.jpg
+  - sizes/carte_detail_191229.jpg_435x1000.jpg
+  - sizes/carte_detail_191229.jpg_870x2000.jpg
+pictures:
+- filename: carte_detail_191229
+  original: sizes/carte_detail_191229.jpg_870x2000.jpg
+  thumbnail: sizes/carte_detail_191229.jpg_109x250.jpg
+  sizes:
+  - sizes/carte_detail_191229.jpg_109x250.jpg
+  - sizes/carte_detail_191229.jpg_217x500.jpg
+  - sizes/carte_detail_191229.jpg_435x1000.jpg
+  - sizes/carte_detail_191229.jpg_870x2000.jpg
