@@ -39,13 +39,13 @@ bodyclass: full-height
                           </div>
                       </div>
 					  <a class="post-link" href="{{post.url | prepend: site.baseurl}}"></a>
-					  <p class="post-preview__meta">
+					  <div class="post-preview__meta">
 						{% for category in post.categories %}
 							<div class="tag">
 								<a href="{{site.baseurl}}{{ category | prepend: "/category/"}}">{{ category | capitalize }}</a> 
 							</div>
 						{% endfor %}
-					  </p>
+					  </div>
                   </div>
               </div>
               {% endif %}
