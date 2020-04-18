@@ -32,11 +32,6 @@ bodyclass: full-height
                   <div class="overlay">
                       <div class="post-preview__info animated fadeInUp delay-3">
                           <div class="inner">
-                              <p class="post-preview__meta">
-                                {% for category in post.categories %}
-                                    <a href="{{site.baseurl}}{{ category | prepend: "/category/"}}">{{ category | capitalize }}</a>{% if forloop.last %}{% else %},{% endif %}
-                                {% endfor %}
-                              </p>
 							  {% if post.has_period %}
 							  <p class="post-period-text" style="margin-bottom: 0; font-size: 14px">Ep. {{post.episode_id}}, Du {{post.begin_date}} au {{post.end_date}}</span>
 							  {% endif %}
@@ -44,6 +39,14 @@ bodyclass: full-height
                           </div>
                       </div>
 					  <a class="post-link" href="{{post.url | prepend: site.baseurl}}"></a>
+					  <p class="post-preview__meta">
+						{% for category in post.categories %}
+							<div class="tag">
+								<label for="">Restaurant</label> 
+							</div>
+							<a href="{{site.baseurl}}{{ category | prepend: "/category/"}}">{{ category | capitalize }}</a>{% if forloop.last %}{% else %},{% endif %}
+						{% endfor %}
+					  </p>
                   </div>
               </div>
               {% endif %}
