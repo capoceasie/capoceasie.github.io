@@ -5,7 +5,7 @@ categories: journal nz
 author_slug: marine-antho
 title: "Festival Marin au Nord de l'Île du Sud"
 is_featured: false
-feature_image: cP1100259.jpg
+feature_image: P1100258.jpg
 comments: true
 social-message: "Festival Marin au Nord de l'Île du Sud"
 no_menu_item: true

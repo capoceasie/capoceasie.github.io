@@ -1,0 +1,179 @@
+picture_path: covers/covers
+preview:
+  filename: 20191116_134446
+  original: sizes/20191116_134446.jpg_496x2000.jpg
+  thumbnail: sizes/20191116_134446.jpg_62x250.jpg
+  sizes:
+  - sizes/20191116_134446.jpg_62x250.jpg
+  - sizes/20191116_134446.jpg_124x500.jpg
+  - sizes/20191116_134446.jpg_248x1000.jpg
+  - sizes/20191116_134446.jpg_496x2000.jpg
+pictures:
+- filename: 20191116_134446
+  original: sizes/20191116_134446.jpg_496x2000.jpg
+  thumbnail: sizes/20191116_134446.jpg_62x250.jpg
+  sizes:
+  - sizes/20191116_134446.jpg_62x250.jpg
+  - sizes/20191116_134446.jpg_124x500.jpg
+  - sizes/20191116_134446.jpg_248x1000.jpg
+  - sizes/20191116_134446.jpg_496x2000.jpg
+- filename: 20191209_110615
+  original: sizes/20191209_110615.jpg_651x2000.jpg
+  thumbnail: sizes/20191209_110615.jpg_81x250.jpg
+  sizes:
+  - sizes/20191209_110615.jpg_81x250.jpg
+  - sizes/20191209_110615.jpg_163x500.jpg
+  - sizes/20191209_110615.jpg_325x1000.jpg
+  - sizes/20191209_110615.jpg_651x2000.jpg
+- filename: 20191215_122901
+  original: sizes/20191215_122901.jpg_516x2000.jpg
+  thumbnail: sizes/20191215_122901.jpg_64x250.jpg
+  sizes:
+  - sizes/20191215_122901.jpg_64x250.jpg
+  - sizes/20191215_122901.jpg_129x500.jpg
+  - sizes/20191215_122901.jpg_258x1000.jpg
+  - sizes/20191215_122901.jpg_516x2000.jpg
+- filename: 20191217_095532
+  original: sizes/20191217_095532.jpg_974x2000.jpg
+  thumbnail: sizes/20191217_095532.jpg_122x250.jpg
+  sizes:
+  - sizes/20191217_095532.jpg_122x250.jpg
+  - sizes/20191217_095532.jpg_243x500.jpg
+  - sizes/20191217_095532.jpg_487x1000.jpg
+  - sizes/20191217_095532.jpg_974x2000.jpg
+- filename: 20191222_104352
+  original: sizes/20191222_104352.jpg_897x2000.jpg
+  thumbnail: sizes/20191222_104352.jpg_112x250.jpg
+  sizes:
+  - sizes/20191222_104352.jpg_112x250.jpg
+  - sizes/20191222_104352.jpg_224x500.jpg
+  - sizes/20191222_104352.jpg_449x1000.jpg
+  - sizes/20191222_104352.jpg_897x2000.jpg
+- filename: 632
+  original: sizes/632.jpg_1500x2000.jpg
+  thumbnail: sizes/632.jpg_188x250.jpg
+  sizes:
+  - sizes/632.jpg_188x250.jpg
+  - sizes/632.jpg_375x500.jpg
+  - sizes/632.jpg_750x1000.jpg
+  - sizes/632.jpg_1500x2000.jpg
+- filename: cP1100259
+  original: sizes/cP1100259.jpg_1125x2000.jpg
+  thumbnail: sizes/cP1100259.jpg_141x250.jpg
+  sizes:
+  - sizes/cP1100259.jpg_141x250.jpg
+  - sizes/cP1100259.jpg_281x500.jpg
+  - sizes/cP1100259.jpg_562x1000.jpg
+  - sizes/cP1100259.jpg_1125x2000.jpg
+- filename: P1060466_3712x2784
+  original: sizes/P1060466_3712x2784.jpg_1500x2000.jpg
+  thumbnail: sizes/P1060466_3712x2784.jpg_188x250.jpg
+  sizes:
+  - sizes/P1060466_3712x2784.jpg_188x250.jpg
+  - sizes/P1060466_3712x2784.jpg_375x500.jpg
+  - sizes/P1060466_3712x2784.jpg_750x1000.jpg
+  - sizes/P1060466_3712x2784.jpg_1500x2000.jpg
+- filename: P1060634
+  original: sizes/P1060634.jpg_1500x2000.jpg
+  thumbnail: sizes/P1060634.jpg_188x250.jpg
+  sizes:
+  - sizes/P1060634.jpg_188x250.jpg
+  - sizes/P1060634.jpg_375x500.jpg
+  - sizes/P1060634.jpg_750x1000.jpg
+  - sizes/P1060634.jpg_1500x2000.jpg
+- filename: P1070337
+  original: sizes/P1070337.jpg_1500x2000.jpg
+  thumbnail: sizes/P1070337.jpg_187x250.jpg
+  sizes:
+  - sizes/P1070337.jpg_187x250.jpg
+  - sizes/P1070337.jpg_375x500.jpg
+  - sizes/P1070337.jpg_750x1000.jpg
+  - sizes/P1070337.jpg_1500x2000.jpg
+- filename: P1070577
+  original: sizes/P1070577.jpg_1500x2000.jpg
+  thumbnail: sizes/P1070577.jpg_188x250.jpg
+  sizes:
+  - sizes/P1070577.jpg_188x250.jpg
+  - sizes/P1070577.jpg_375x500.jpg
+  - sizes/P1070577.jpg_750x1000.jpg
+  - sizes/P1070577.jpg_1500x2000.jpg
+- filename: P1070926
+  original: sizes/P1070926.jpg_1500x2000.jpg
+  thumbnail: sizes/P1070926.jpg_188x250.jpg
+  sizes:
+  - sizes/P1070926.jpg_188x250.jpg
+  - sizes/P1070926.jpg_375x500.jpg
+  - sizes/P1070926.jpg_750x1000.jpg
+  - sizes/P1070926.jpg_1500x2000.jpg
+- filename: P1080466
+  original: sizes/P1080466.jpg_470x2000.jpg
+  thumbnail: sizes/P1080466.jpg_59x250.jpg
+  sizes:
+  - sizes/P1080466.jpg_59x250.jpg
+  - sizes/P1080466.jpg_117x500.jpg
+  - sizes/P1080466.jpg_235x1000.jpg
+  - sizes/P1080466.jpg_470x2000.jpg
+- filename: P1080818
+  original: sizes/P1080818.jpg_1500x2000.jpg
+  thumbnail: sizes/P1080818.jpg_188x250.jpg
+  sizes:
+  - sizes/P1080818.jpg_188x250.jpg
+  - sizes/P1080818.jpg_375x500.jpg
+  - sizes/P1080818.jpg_750x1000.jpg
+  - sizes/P1080818.jpg_1500x2000.jpg
+- filename: P1080849
+  original: sizes/P1080849.jpg_1500x2000.jpg
+  thumbnail: sizes/P1080849.jpg_188x250.jpg
+  sizes:
+  - sizes/P1080849.jpg_188x250.jpg
+  - sizes/P1080849.jpg_375x500.jpg
+  - sizes/P1080849.jpg_750x1000.jpg
+  - sizes/P1080849.jpg_1500x2000.jpg
+- filename: P1100258
+  original: sizes/P1100258.jpg_1500x2000.jpg
+  thumbnail: sizes/P1100258.jpg_188x250.jpg
+  sizes:
+  - sizes/P1100258.jpg_188x250.jpg
+  - sizes/P1100258.jpg_375x500.jpg
+  - sizes/P1100258.jpg_750x1000.jpg
+  - sizes/P1100258.jpg_1500x2000.jpg
+- filename: P1110234
+  original: sizes/P1110234.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110234.jpg_187x250.jpg
+  sizes:
+  - sizes/P1110234.jpg_187x250.jpg
+  - sizes/P1110234.jpg_375x500.jpg
+  - sizes/P1110234.jpg_750x1000.jpg
+  - sizes/P1110234.jpg_1500x2000.jpg
+- filename: P1110706
+  original: sizes/P1110706.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110706.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110706.jpg_188x250.jpg
+  - sizes/P1110706.jpg_375x500.jpg
+  - sizes/P1110706.jpg_750x1000.jpg
+  - sizes/P1110706.jpg_1500x2000.jpg
+- filename: P1110905
+  original: sizes/P1110905.jpg_1500x2000.jpg
+  thumbnail: sizes/P1110905.jpg_188x250.jpg
+  sizes:
+  - sizes/P1110905.jpg_188x250.jpg
+  - sizes/P1110905.jpg_375x500.jpg
+  - sizes/P1110905.jpg_750x1000.jpg
+  - sizes/P1110905.jpg_1500x2000.jpg
+- filename: P1130520
+  original: sizes/P1130520.jpg_1500x2000.jpg
+  thumbnail: sizes/P1130520.jpg_188x250.jpg
+  sizes:
+  - sizes/P1130520.jpg_188x250.jpg
+  - sizes/P1130520.jpg_375x500.jpg
+  - sizes/P1130520.jpg_750x1000.jpg
+  - sizes/P1130520.jpg_1500x2000.jpg
+- filename: sydney-363244_1280
+  original: sizes/sydney-363244_1280.jpg_1334x2000.jpg
+  thumbnail: sizes/sydney-363244_1280.jpg_167x250.jpg
+  sizes:
+  - sizes/sydney-363244_1280.jpg_167x250.jpg
+  - sizes/sydney-363244_1280.jpg_334x500.jpg
+  - sizes/sydney-363244_1280.jpg_667x1000.jpg
+  - sizes/sydney-363244_1280.jpg_1334x2000.jpg
