@@ -5,7 +5,7 @@ categories: journal inde
 author_slug: marine-antho
 title: "Désert et Dromadaires à Jaisalmer"
 is_featured: false
-feature_image: "P1110905.jpg" 
+feature_image: "P1120014.jpg" 
 comments: true
 social-message: "Désert et Dromadaires à Jaisalmer"
 no_menu_item: true
