@@ -42,9 +42,8 @@ bodyclass: full-height
 					  <p class="post-preview__meta">
 						{% for category in post.categories %}
 							<div class="tag">
-								<label for="">Restaurant</label> 
+								<a href="{{site.baseurl}}{{ category | prepend: "/category/"}}">{{ category | capitalize }}</a> 
 							</div>
-							<a href="{{site.baseurl}}{{ category | prepend: "/category/"}}">{{ category | capitalize }}</a>{% if forloop.last %}{% else %},{% endif %}
 						{% endfor %}
 					  </p>
                   </div>
