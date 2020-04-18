@@ -1,7 +1,7 @@
 <div class="container full-container full">
     <div class="row full">
           {% for post in include.posts %}
-              <div class="col-sm-6 col-md-4 col-lg-3 post-preview {% if post.is_featured %} post--featured {% endif %}" style="background-image: url({{ site.baseurl }}/img/{{post.feature_image}});">
+              <div class="col-sm-6 col-md-4 col-lg-4 post-preview {% if post.is_featured %} post--featured {% endif %}" style="background-image: url({{ site.baseurl }}/img/{{post.feature_image}});">
                   {% if post.is_featured %}
                   <span class="post-featured-text">featured</span>
                   {% endif %}
