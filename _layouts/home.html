@@ -13,9 +13,9 @@ bodyclass: full-height
                       <div class="post-preview__info animated fadeInUp delay-3">
                           <div class="inner">
 							  {% if post.has_period %}
-							  <p class="post-period-text" style="margin-bottom: 0; font-size: 14px">Episode {{post.episode_id}}, Du {{post.begin_date}} au {{post.end_date}}</span>
+							  <p class="post-period-text" style="margin-bottom: 0; font-size: 22px">Episode {{post.episode_id}}, Du {{post.begin_date}} au {{post.end_date}}</span>
 							  {% endif %}
-							  <h2>{{post.title}}</h2>
+							  <h1 style="font-size: 42px">{{post.title}}</h1>
                           </div>
                       </div>
 					  <a class="post-link" href="{{post.url | prepend: site.baseurl}}"></a>
