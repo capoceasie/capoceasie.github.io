@@ -9,7 +9,7 @@ feature_image: 20191222_104352.jpg
 comments: true
 social-message: "Délire à Delhi !"
 no_menu_item: true
-has_period: true
+has_period: true 
 begin_date: 20/12/2019
 end_date: 23/12/2019
 episode_id: 14
