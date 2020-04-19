@@ -1,35 +1,39 @@
 picture_path: jaisalmer/veillee
 preview:
   filename: 20191227_192500
-  original: sizes/20191227_192500.jpg_2000x1500.jpg
-  thumbnail: sizes/20191227_192500.jpg_250x188.jpg
+  original: sizes/20191227_192500.jpg_550x412.jpg
+  thumbnail: sizes/20191227_192500.jpg_150x112.jpg
   sizes:
-  - sizes/20191227_192500.jpg_250x188.jpg
-  - sizes/20191227_192500.jpg_500x375.jpg
-  - sizes/20191227_192500.jpg_1000x750.jpg
-  - sizes/20191227_192500.jpg_2000x1500.jpg
+  - sizes/20191227_192500.jpg_112x150.jpg
+  - sizes/20191227_192500.jpg_188x250.jpg
+  - sizes/20191227_192500.jpg_262x350.jpg
+  - sizes/20191227_192500.jpg_338x450.jpg
+  - sizes/20191227_192500.jpg_412x550.jpg
 pictures:
 - filename: 20191227_192500
-  original: sizes/20191227_192500.jpg_2000x1500.jpg
-  thumbnail: sizes/20191227_192500.jpg_250x188.jpg
+  original: sizes/20191227_192500.jpg_550x412.jpg
+  thumbnail: sizes/20191227_192500.jpg_150x112.jpg
   sizes:
-  - sizes/20191227_192500.jpg_250x188.jpg
-  - sizes/20191227_192500.jpg_500x375.jpg
-  - sizes/20191227_192500.jpg_1000x750.jpg
-  - sizes/20191227_192500.jpg_2000x1500.jpg
+  - sizes/20191227_192500.jpg_112x150.jpg
+  - sizes/20191227_192500.jpg_188x250.jpg
+  - sizes/20191227_192500.jpg_262x350.jpg
+  - sizes/20191227_192500.jpg_338x450.jpg
+  - sizes/20191227_192500.jpg_412x550.jpg
 - filename: 20191227_192519
-  original: sizes/20191227_192519.jpg_1125x2000.jpg
-  thumbnail: sizes/20191227_192519.jpg_141x250.jpg
+  original: sizes/20191227_192519.jpg_309x550.jpg
+  thumbnail: sizes/20191227_192519.jpg_84x150.jpg
   sizes:
-  - sizes/20191227_192519.jpg_141x250.jpg
-  - sizes/20191227_192519.jpg_281x500.jpg
-  - sizes/20191227_192519.jpg_562x1000.jpg
-  - sizes/20191227_192519.jpg_1125x2000.jpg
+  - sizes/20191227_192519.jpg_267x150.jpg
+  - sizes/20191227_192519.jpg_444x250.jpg
+  - sizes/20191227_192519.jpg_622x350.jpg
+  - sizes/20191227_192519.jpg_800x450.jpg
+  - sizes/20191227_192519.jpg_978x550.jpg
 - filename: 20191227_193805
-  original: sizes/20191227_193805.jpg_2000x1125.jpg
-  thumbnail: sizes/20191227_193805.jpg_250x141.jpg
+  original: sizes/20191227_193805.jpg_550x309.jpg
+  thumbnail: sizes/20191227_193805.jpg_150x84.jpg
   sizes:
-  - sizes/20191227_193805.jpg_250x141.jpg
-  - sizes/20191227_193805.jpg_500x281.jpg
-  - sizes/20191227_193805.jpg_1000x562.jpg
-  - sizes/20191227_193805.jpg_2000x1125.jpg
+  - sizes/20191227_193805.jpg_84x150.jpg
+  - sizes/20191227_193805.jpg_141x250.jpg
+  - sizes/20191227_193805.jpg_197x350.jpg
+  - sizes/20191227_193805.jpg_253x450.jpg
+  - sizes/20191227_193805.jpg_309x550.jpg

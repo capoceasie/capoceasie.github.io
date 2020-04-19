@@ -1,27 +1,30 @@
 picture_path: jaisalmer/carte
 preview:
   filename: 0carte_global_191229
-  original: sizes/0carte_global_191229.jpg_2000x1902.jpg
-  thumbnail: sizes/0carte_global_191229.jpg_250x238.jpg
+  original: sizes/0carte_global_191229.jpg_550x523.jpg
+  thumbnail: sizes/0carte_global_191229.jpg_150x143.jpg
   sizes:
-  - sizes/0carte_global_191229.jpg_250x238.jpg
-  - sizes/0carte_global_191229.jpg_500x476.jpg
-  - sizes/0carte_global_191229.jpg_1000x951.jpg
-  - sizes/0carte_global_191229.jpg_2000x1902.jpg
+  - sizes/0carte_global_191229.jpg_143x150.jpg
+  - sizes/0carte_global_191229.jpg_238x250.jpg
+  - sizes/0carte_global_191229.jpg_333x350.jpg
+  - sizes/0carte_global_191229.jpg_428x450.jpg
+  - sizes/0carte_global_191229.jpg_523x550.jpg
 pictures:
 - filename: 0carte_global_191229
-  original: sizes/0carte_global_191229.jpg_2000x1902.jpg
-  thumbnail: sizes/0carte_global_191229.jpg_250x238.jpg
+  original: sizes/0carte_global_191229.jpg_550x523.jpg
+  thumbnail: sizes/0carte_global_191229.jpg_150x143.jpg
   sizes:
-  - sizes/0carte_global_191229.jpg_250x238.jpg
-  - sizes/0carte_global_191229.jpg_500x476.jpg
-  - sizes/0carte_global_191229.jpg_1000x951.jpg
-  - sizes/0carte_global_191229.jpg_2000x1902.jpg
+  - sizes/0carte_global_191229.jpg_143x150.jpg
+  - sizes/0carte_global_191229.jpg_238x250.jpg
+  - sizes/0carte_global_191229.jpg_333x350.jpg
+  - sizes/0carte_global_191229.jpg_428x450.jpg
+  - sizes/0carte_global_191229.jpg_523x550.jpg
 - filename: carte_detail_191229
-  original: sizes/carte_detail_191229.jpg_870x2000.jpg
-  thumbnail: sizes/carte_detail_191229.jpg_109x250.jpg
+  original: sizes/carte_detail_191229.jpg_239x550.jpg
+  thumbnail: sizes/carte_detail_191229.jpg_65x150.jpg
   sizes:
-  - sizes/carte_detail_191229.jpg_109x250.jpg
-  - sizes/carte_detail_191229.jpg_217x500.jpg
-  - sizes/carte_detail_191229.jpg_435x1000.jpg
-  - sizes/carte_detail_191229.jpg_870x2000.jpg
+  - sizes/carte_detail_191229.jpg_345x150.jpg
+  - sizes/carte_detail_191229.jpg_575x250.jpg
+  - sizes/carte_detail_191229.jpg_805x350.jpg
+  - sizes/carte_detail_191229.jpg_1035x450.jpg
+  - sizes/carte_detail_191229.jpg_1265x550.jpg
