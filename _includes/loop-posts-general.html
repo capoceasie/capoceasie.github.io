@@ -8,17 +8,20 @@
                   <div class="overlay">
                       <div class="post-preview__info animated fadeInUp delay-3">
                           <div class="inner">
-                              <h2><a href="{{post.url | prepend: site.baseurl }}">{{post.title}}</a></h2>
 							  {% if post.has_period %}
-								<p class="post-period-text" style="margin-bottom: 0; font-size: 14px">Ep. {{post.episode_id}}, Du {{post.begin_date}} au {{post.end_date}}</span>
+							  <p class="post-period-text" style="margin-bottom: 0; font-size: 14px">Ep. {{post.episode_id}}, Du {{post.begin_date}} au {{post.end_date}}</span>
 							  {% endif %}
-                              <p class="post-preview__meta"><!--Posted In-->
-                                {% for category in post.categories %}
-                                    <a href="{{ category | prepend: "/category/" | prepend: site.baseurl }}">{{ category | capitalize }}</a>{% if forloop.last %}{% else %},{% endif %}
-                                {% endfor %}
-                              </p>
+							  <h2>{{post.title}}</h2>
                           </div>
                       </div>
+					  <a class="post-link" href="{{post.url | prepend: site.baseurl}}"></a>
+					  <div class="post-preview__meta">
+						{% for category in post.categories %}
+							<div class="tag">
+								<a href="{{site.baseurl}}{{ category | prepend: "/category/"}}">{{ category | capitalize }}</a> 
+							</div>
+						{% endfor %}
+					  </div>
                   </div>
               </div>
           {% endfor %}
