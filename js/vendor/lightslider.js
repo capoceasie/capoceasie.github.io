@@ -21,7 +21,7 @@
         prevHtml: '',
         nextHtml: '',
         rtl: false,
-        adaptiveHeight: true,
+        adaptiveHeight: false,
         vertical: false,
         verticalHeight: 300,
         vThumbWidth: 100,
