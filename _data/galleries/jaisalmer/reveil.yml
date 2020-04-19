@@ -1,8 +1,8 @@
 picture_path: jaisalmer/reveil
 preview:
   filename: 20191228_080122
-  original: sizes/20191228_080122.jpg_309x550.jpg
-  thumbnail: sizes/20191228_080122.jpg_84x150.jpg
+  original: sizes/20191228_080122.jpg_978x550.jpg
+  thumbnail: sizes/20191228_080122.jpg_267x150.jpg
   sizes:
   - sizes/20191228_080122.jpg_267x150.jpg
   - sizes/20191228_080122.jpg_444x250.jpg
@@ -11,8 +11,8 @@ preview:
   - sizes/20191228_080122.jpg_978x550.jpg
 pictures:
 - filename: 20191228_080122
-  original: sizes/20191228_080122.jpg_309x550.jpg
-  thumbnail: sizes/20191228_080122.jpg_84x150.jpg
+  original: sizes/20191228_080122.jpg_978x550.jpg
+  thumbnail: sizes/20191228_080122.jpg_267x150.jpg
   sizes:
   - sizes/20191228_080122.jpg_267x150.jpg
   - sizes/20191228_080122.jpg_444x250.jpg
@@ -20,8 +20,8 @@ pictures:
   - sizes/20191228_080122.jpg_800x450.jpg
   - sizes/20191228_080122.jpg_978x550.jpg
 - filename: P1110963
-  original: sizes/P1110963.jpg_412x550.jpg
-  thumbnail: sizes/P1110963.jpg_112x150.jpg
+  original: sizes/P1110963.jpg_733x550.jpg
+  thumbnail: sizes/P1110963.jpg_200x150.jpg
   sizes:
   - sizes/P1110963.jpg_200x150.jpg
   - sizes/P1110963.jpg_333x250.jpg
@@ -29,8 +29,8 @@ pictures:
   - sizes/P1110963.jpg_600x450.jpg
   - sizes/P1110963.jpg_733x550.jpg
 - filename: P1110967
-  original: sizes/P1110967.jpg_550x412.jpg
-  thumbnail: sizes/P1110967.jpg_150x112.jpg
+  original: sizes/P1110967.jpg_412x550.jpg
+  thumbnail: sizes/P1110967.jpg_112x150.jpg
   sizes:
   - sizes/P1110967.jpg_112x150.jpg
   - sizes/P1110967.jpg_188x250.jpg
@@ -38,8 +38,8 @@ pictures:
   - sizes/P1110967.jpg_338x450.jpg
   - sizes/P1110967.jpg_412x550.jpg
 - filename: P1110968
-  original: sizes/P1110968.jpg_412x550.jpg
-  thumbnail: sizes/P1110968.jpg_112x150.jpg
+  original: sizes/P1110968.jpg_733x550.jpg
+  thumbnail: sizes/P1110968.jpg_200x150.jpg
   sizes:
   - sizes/P1110968.jpg_200x150.jpg
   - sizes/P1110968.jpg_333x250.jpg
@@ -47,8 +47,8 @@ pictures:
   - sizes/P1110968.jpg_600x450.jpg
   - sizes/P1110968.jpg_733x550.jpg
 - filename: P1110970
-  original: sizes/P1110970.jpg_412x550.jpg
-  thumbnail: sizes/P1110970.jpg_112x150.jpg
+  original: sizes/P1110970.jpg_733x550.jpg
+  thumbnail: sizes/P1110970.jpg_200x150.jpg
   sizes:
   - sizes/P1110970.jpg_200x150.jpg
   - sizes/P1110970.jpg_333x250.jpg
@@ -56,8 +56,8 @@ pictures:
   - sizes/P1110970.jpg_600x450.jpg
   - sizes/P1110970.jpg_733x550.jpg
 - filename: P1110981
-  original: sizes/P1110981.jpg_412x550.jpg
-  thumbnail: sizes/P1110981.jpg_112x150.jpg
+  original: sizes/P1110981.jpg_733x550.jpg
+  thumbnail: sizes/P1110981.jpg_200x150.jpg
   sizes:
   - sizes/P1110981.jpg_200x150.jpg
   - sizes/P1110981.jpg_333x250.jpg

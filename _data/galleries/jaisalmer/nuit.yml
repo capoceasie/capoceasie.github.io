@@ -1,8 +1,8 @@
 picture_path: jaisalmer/nuit
 preview:
   filename: 20191229_061507
-  original: sizes/20191229_061507.jpg_309x550.jpg
-  thumbnail: sizes/20191229_061507.jpg_84x150.jpg
+  original: sizes/20191229_061507.jpg_978x550.jpg
+  thumbnail: sizes/20191229_061507.jpg_267x150.jpg
   sizes:
   - sizes/20191229_061507.jpg_267x150.jpg
   - sizes/20191229_061507.jpg_444x250.jpg
@@ -11,8 +11,8 @@ preview:
   - sizes/20191229_061507.jpg_978x550.jpg
 pictures:
 - filename: 20191229_061507
-  original: sizes/20191229_061507.jpg_309x550.jpg
-  thumbnail: sizes/20191229_061507.jpg_84x150.jpg
+  original: sizes/20191229_061507.jpg_978x550.jpg
+  thumbnail: sizes/20191229_061507.jpg_267x150.jpg
   sizes:
   - sizes/20191229_061507.jpg_267x150.jpg
   - sizes/20191229_061507.jpg_444x250.jpg
@@ -20,8 +20,8 @@ pictures:
   - sizes/20191229_061507.jpg_800x450.jpg
   - sizes/20191229_061507.jpg_978x550.jpg
 - filename: P1120071
-  original: sizes/P1120071.jpg_550x412.jpg
-  thumbnail: sizes/P1120071.jpg_150x112.jpg
+  original: sizes/P1120071.jpg_412x550.jpg
+  thumbnail: sizes/P1120071.jpg_112x150.jpg
   sizes:
   - sizes/P1120071.jpg_112x150.jpg
   - sizes/P1120071.jpg_188x250.jpg
@@ -29,8 +29,8 @@ pictures:
   - sizes/P1120071.jpg_338x450.jpg
   - sizes/P1120071.jpg_412x550.jpg
 - filename: P1120074
-  original: sizes/P1120074.jpg_412x550.jpg
-  thumbnail: sizes/P1120074.jpg_112x150.jpg
+  original: sizes/P1120074.jpg_733x550.jpg
+  thumbnail: sizes/P1120074.jpg_200x150.jpg
   sizes:
   - sizes/P1120074.jpg_200x150.jpg
   - sizes/P1120074.jpg_333x250.jpg
@@ -38,8 +38,8 @@ pictures:
   - sizes/P1120074.jpg_600x450.jpg
   - sizes/P1120074.jpg_733x550.jpg
 - filename: P1120077
-  original: sizes/P1120077.jpg_412x550.jpg
-  thumbnail: sizes/P1120077.jpg_112x150.jpg
+  original: sizes/P1120077.jpg_733x550.jpg
+  thumbnail: sizes/P1120077.jpg_200x150.jpg
   sizes:
   - sizes/P1120077.jpg_200x150.jpg
   - sizes/P1120077.jpg_333x250.jpg

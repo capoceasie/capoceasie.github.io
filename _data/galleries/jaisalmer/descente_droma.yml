@@ -1,8 +1,8 @@
 picture_path: jaisalmer/descente_droma
 preview:
   filename: 20191227_181248
-  original: sizes/20191227_181248.jpg_412x550.jpg
-  thumbnail: sizes/20191227_181248.jpg_112x150.jpg
+  original: sizes/20191227_181248.jpg_733x550.jpg
+  thumbnail: sizes/20191227_181248.jpg_200x150.jpg
   sizes:
   - sizes/20191227_181248.jpg_200x150.jpg
   - sizes/20191227_181248.jpg_333x250.jpg
@@ -11,8 +11,8 @@ preview:
   - sizes/20191227_181248.jpg_733x550.jpg
 pictures:
 - filename: 20191227_181248
-  original: sizes/20191227_181248.jpg_412x550.jpg
-  thumbnail: sizes/20191227_181248.jpg_112x150.jpg
+  original: sizes/20191227_181248.jpg_733x550.jpg
+  thumbnail: sizes/20191227_181248.jpg_200x150.jpg
   sizes:
   - sizes/20191227_181248.jpg_200x150.jpg
   - sizes/20191227_181248.jpg_333x250.jpg
@@ -20,8 +20,8 @@ pictures:
   - sizes/20191227_181248.jpg_600x450.jpg
   - sizes/20191227_181248.jpg_733x550.jpg
 - filename: P1110924
-  original: sizes/P1110924.jpg_412x550.jpg
-  thumbnail: sizes/P1110924.jpg_112x150.jpg
+  original: sizes/P1110924.jpg_733x550.jpg
+  thumbnail: sizes/P1110924.jpg_200x150.jpg
   sizes:
   - sizes/P1110924.jpg_200x150.jpg
   - sizes/P1110924.jpg_333x250.jpg
@@ -29,8 +29,8 @@ pictures:
   - sizes/P1110924.jpg_600x450.jpg
   - sizes/P1110924.jpg_733x550.jpg
 - filename: P1110959
-  original: sizes/P1110959.jpg_550x412.jpg
-  thumbnail: sizes/P1110959.jpg_150x112.jpg
+  original: sizes/P1110959.jpg_412x550.jpg
+  thumbnail: sizes/P1110959.jpg_112x150.jpg
   sizes:
   - sizes/P1110959.jpg_112x150.jpg
   - sizes/P1110959.jpg_187x250.jpg

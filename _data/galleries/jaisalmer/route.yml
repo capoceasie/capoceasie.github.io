@@ -1,8 +1,8 @@
 picture_path: jaisalmer/route
 preview:
   filename: P1120025
-  original: sizes/P1120025.jpg_412x550.jpg
-  thumbnail: sizes/P1120025.jpg_112x150.jpg
+  original: sizes/P1120025.jpg_733x550.jpg
+  thumbnail: sizes/P1120025.jpg_200x150.jpg
   sizes:
   - sizes/P1120025.jpg_200x150.jpg
   - sizes/P1120025.jpg_333x250.jpg
@@ -11,8 +11,8 @@ preview:
   - sizes/P1120025.jpg_733x550.jpg
 pictures:
 - filename: P1120025
-  original: sizes/P1120025.jpg_412x550.jpg
-  thumbnail: sizes/P1120025.jpg_112x150.jpg
+  original: sizes/P1120025.jpg_733x550.jpg
+  thumbnail: sizes/P1120025.jpg_200x150.jpg
   sizes:
   - sizes/P1120025.jpg_200x150.jpg
   - sizes/P1120025.jpg_333x250.jpg

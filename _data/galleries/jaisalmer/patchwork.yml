@@ -1,8 +1,8 @@
 picture_path: jaisalmer/patchwork
 preview:
   filename: 20191228_171705
-  original: sizes/20191228_171705.jpg_550x309.jpg
-  thumbnail: sizes/20191228_171705.jpg_150x84.jpg
+  original: sizes/20191228_171705.jpg_309x550.jpg
+  thumbnail: sizes/20191228_171705.jpg_84x150.jpg
   sizes:
   - sizes/20191228_171705.jpg_84x150.jpg
   - sizes/20191228_171705.jpg_141x250.jpg
@@ -11,8 +11,8 @@ preview:
   - sizes/20191228_171705.jpg_309x550.jpg
 pictures:
 - filename: 20191228_171705
-  original: sizes/20191228_171705.jpg_550x309.jpg
-  thumbnail: sizes/20191228_171705.jpg_150x84.jpg
+  original: sizes/20191228_171705.jpg_309x550.jpg
+  thumbnail: sizes/20191228_171705.jpg_84x150.jpg
   sizes:
   - sizes/20191228_171705.jpg_84x150.jpg
   - sizes/20191228_171705.jpg_141x250.jpg
@@ -20,8 +20,8 @@ pictures:
   - sizes/20191228_171705.jpg_253x450.jpg
   - sizes/20191228_171705.jpg_309x550.jpg
 - filename: P1120040
-  original: sizes/P1120040.jpg_412x550.jpg
-  thumbnail: sizes/P1120040.jpg_112x150.jpg
+  original: sizes/P1120040.jpg_733x550.jpg
+  thumbnail: sizes/P1120040.jpg_200x150.jpg
   sizes:
   - sizes/P1120040.jpg_200x150.jpg
   - sizes/P1120040.jpg_333x250.jpg
