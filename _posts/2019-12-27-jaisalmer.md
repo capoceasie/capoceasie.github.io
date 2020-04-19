@@ -142,3 +142,5 @@ Nous échangeons sur nos modes de vie respectifs et sommes surpris de devoir ré
 Le train ne tardera pas à arriver à Jodhpur où nous ferons encore une belle rencontre, en sympathisant avec un marchand de street food au point d’être invités chez lui. Nous profiterons également de celle que l’on surnomme « la ville bleue » pour ses quartiers aux maisons indigo ainsi que ses monuments historiques, propices à de superbes photos. Mais il va falloir patienter jusqu’au prochain article pour cela !
 
 PS : les cartes, au trot s’il vous plait !
+
+{% include lightslider.html gallery=site.data.galleries.jaisalmer.carte %}
