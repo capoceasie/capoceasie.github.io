@@ -26,9 +26,11 @@ layout: default
                   <a href="{{ site.baseurl }}{{ category | prepend: "/category/" }}">{{ category | capitalize }}</a>
                   {% if forloop.last %}{% else %}&middot;{% endif %}
               {% endfor %}-->
+				{% for category in page.categories %}
 				<div class="tag">
 					<a href="{{site.baseurl}}{{ category | prepend: "/category/"}}">{{ category | capitalize }}</a> 
 				</div>
+				{% endfor %}
             </p>
         </div>
   </header>
