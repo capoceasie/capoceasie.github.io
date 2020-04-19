@@ -18,14 +18,17 @@ layout: default
         </div>
 
         <div class="hero-header__meta">
-            <p class="hero-header__tags animated fadeInDown">
+            <p class="hero-header__author animated fadeInUp">
+				<a href="{{author.permalink | prepend: site.baseurl}}">{{author.name}}</a>
+            </p>
+			<p class="hero-header__tags animated fadeInDown">
               <!--{% for category in page.categories %}
                   <a href="{{ site.baseurl }}{{ category | prepend: "/category/" }}">{{ category | capitalize }}</a>
                   {% if forloop.last %}{% else %}&middot;{% endif %}
               {% endfor %}-->
-            </p>
-            <p class="hero-header__author animated fadeInUp">
-            <a href="{{author.permalink | prepend: site.baseurl}}">{{author.name}}</a>
+				<div class="tag">
+					<a href="{{site.baseurl}}{{ category | prepend: "/category/"}}">{{ category | capitalize }}</a> 
+				</div>
             </p>
         </div>
   </header>
