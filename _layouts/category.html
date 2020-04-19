@@ -11,18 +11,18 @@ bodyclass: full-height
                       <div class="post-preview__info animated fadeInUp delay-3">
                           <div class="inner">
 							  <h1 style="font-size: 42px">Tous les articles de la catégorie {{page.category_name}}</h1>
+							  {% assign num_of_cat_posts = site.categories[page.category_slug] | size  %}
+							  {% if num_of_cat_posts <= 0 %}
+								{% assign post_qualifier = "Aucun article" %}
+							  {% elsif num_of_cat_posts == 1 %}
+								{% assign post_qualifier = "Un article" %}
+							  {% else %}
+								{% assign post_qualifier = num_of_cat_posts | append: " articles" %}
+							  {% endif %}
+							  <p class="hero__content  animated fadeIn delay-2">{{ post_qualifier }} dans la collection</p>
+							  <p class="hero__content  animated fadeIn delay-2">{{page.category_description}}</p>
                           </div>
                       </div>
-					  {% assign num_of_cat_posts = site.categories[page.category_slug] | size  %}
-                      {% if num_of_cat_posts <= 0 %}
-                        {% assign post_qualifier = "Aucun article" %}
-                      {% elsif num_of_cat_posts == 1 %}
-                        {% assign post_qualifier = "Un article" %}
-                      {% else %}
-                        {% assign post_qualifier = num_of_cat_posts | append: " articles" %}
-                      {% endif %}
-                      <p class="hero__content  animated fadeIn delay-2">{{ post_qualifier }} dans la collection</p>
-                      <p class="hero__content  animated fadeIn delay-2">{{page.category_description}}</p>
                   </div>
               </div>
             {% include loop-posts-general.html posts=posts_to_loop %}
