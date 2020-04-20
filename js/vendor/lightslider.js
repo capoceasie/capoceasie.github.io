@@ -27,7 +27,7 @@
         vThumbWidth: 100,
         thumbItem: 10,
         pager: true,
-        gallery: false,
+        gallery: true,
         galleryMargin: 5,
         thumbMargin: 5,
         currentPagerPosition: 'middle',
