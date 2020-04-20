@@ -1,51 +1,45 @@
 picture_path: abeltasman_kaikoura/baleine3
 preview:
   filename: P1100217
-  original: sizes/P1100217.jpg_1500x2000.jpg
-  thumbnail: sizes/P1100217.jpg_187x250.jpg
+  original: sizes/P1100217.jpg_467x350.jpg
+  thumbnail: sizes/P1100217.jpg_200x150.jpg
   sizes:
-  - sizes/P1100217.jpg_187x250.jpg
-  - sizes/P1100217.jpg_375x500.jpg
-  - sizes/P1100217.jpg_750x1000.jpg
-  - sizes/P1100217.jpg_1500x2000.jpg
+  - sizes/P1100217.jpg_200x150.jpg
+  - sizes/P1100217.jpg_333x250.jpg
+  - sizes/P1100217.jpg_467x350.jpg
 pictures:
 - filename: P1100217
-  original: sizes/P1100217.jpg_1500x2000.jpg
-  thumbnail: sizes/P1100217.jpg_187x250.jpg
+  original: sizes/P1100217.jpg_467x350.jpg
+  thumbnail: sizes/P1100217.jpg_200x150.jpg
   sizes:
-  - sizes/P1100217.jpg_187x250.jpg
-  - sizes/P1100217.jpg_375x500.jpg
-  - sizes/P1100217.jpg_750x1000.jpg
-  - sizes/P1100217.jpg_1500x2000.jpg
+  - sizes/P1100217.jpg_200x150.jpg
+  - sizes/P1100217.jpg_333x250.jpg
+  - sizes/P1100217.jpg_467x350.jpg
 - filename: P1100219
-  original: sizes/P1100219.jpg_1500x2000.jpg
-  thumbnail: sizes/P1100219.jpg_188x250.jpg
+  original: sizes/P1100219.jpg_467x350.jpg
+  thumbnail: sizes/P1100219.jpg_200x150.jpg
   sizes:
-  - sizes/P1100219.jpg_188x250.jpg
-  - sizes/P1100219.jpg_375x500.jpg
-  - sizes/P1100219.jpg_750x1000.jpg
-  - sizes/P1100219.jpg_1500x2000.jpg
+  - sizes/P1100219.jpg_200x150.jpg
+  - sizes/P1100219.jpg_333x250.jpg
+  - sizes/P1100219.jpg_467x350.jpg
 - filename: P1100224
-  original: sizes/P1100224.jpg_1500x2000.jpg
-  thumbnail: sizes/P1100224.jpg_188x250.jpg
+  original: sizes/P1100224.jpg_467x350.jpg
+  thumbnail: sizes/P1100224.jpg_200x150.jpg
   sizes:
-  - sizes/P1100224.jpg_188x250.jpg
-  - sizes/P1100224.jpg_375x500.jpg
-  - sizes/P1100224.jpg_750x1000.jpg
-  - sizes/P1100224.jpg_1500x2000.jpg
+  - sizes/P1100224.jpg_200x150.jpg
+  - sizes/P1100224.jpg_333x250.jpg
+  - sizes/P1100224.jpg_467x350.jpg
 - filename: P1100258
-  original: sizes/P1100258.jpg_1500x2000.jpg
-  thumbnail: sizes/P1100258.jpg_187x250.jpg
+  original: sizes/P1100258.jpg_467x350.jpg
+  thumbnail: sizes/P1100258.jpg_200x150.jpg
   sizes:
-  - sizes/P1100258.jpg_187x250.jpg
-  - sizes/P1100258.jpg_375x500.jpg
-  - sizes/P1100258.jpg_750x1000.jpg
-  - sizes/P1100258.jpg_1500x2000.jpg
+  - sizes/P1100258.jpg_200x150.jpg
+  - sizes/P1100258.jpg_333x250.jpg
+  - sizes/P1100258.jpg_467x350.jpg
 - filename: P1100261
-  original: sizes/P1100261.jpg_1500x2000.jpg
-  thumbnail: sizes/P1100261.jpg_188x250.jpg
+  original: sizes/P1100261.jpg_467x350.jpg
+  thumbnail: sizes/P1100261.jpg_200x150.jpg
   sizes:
-  - sizes/P1100261.jpg_188x250.jpg
-  - sizes/P1100261.jpg_375x500.jpg
-  - sizes/P1100261.jpg_750x1000.jpg
-  - sizes/P1100261.jpg_1500x2000.jpg
+  - sizes/P1100261.jpg_200x150.jpg
+  - sizes/P1100261.jpg_333x250.jpg
+  - sizes/P1100261.jpg_467x350.jpg

@@ -1,19 +1,17 @@
 picture_path: abeltasman_kaikoura/traversee
 preview:
   filename: P1100695
-  original: sizes/P1100695.jpg_2000x1500.jpg
-  thumbnail: sizes/P1100695.jpg_250x187.jpg
+  original: sizes/P1100695.jpg_262x350.jpg
+  thumbnail: sizes/P1100695.jpg_112x150.jpg
   sizes:
-  - sizes/P1100695.jpg_250x187.jpg
-  - sizes/P1100695.jpg_500x375.jpg
-  - sizes/P1100695.jpg_1000x750.jpg
-  - sizes/P1100695.jpg_2000x1500.jpg
+  - sizes/P1100695.jpg_112x150.jpg
+  - sizes/P1100695.jpg_187x250.jpg
+  - sizes/P1100695.jpg_262x350.jpg
 pictures:
 - filename: P1100695
-  original: sizes/P1100695.jpg_2000x1500.jpg
-  thumbnail: sizes/P1100695.jpg_250x187.jpg
+  original: sizes/P1100695.jpg_262x350.jpg
+  thumbnail: sizes/P1100695.jpg_112x150.jpg
   sizes:
-  - sizes/P1100695.jpg_250x187.jpg
-  - sizes/P1100695.jpg_500x375.jpg
-  - sizes/P1100695.jpg_1000x750.jpg
-  - sizes/P1100695.jpg_2000x1500.jpg
+  - sizes/P1100695.jpg_112x150.jpg
+  - sizes/P1100695.jpg_187x250.jpg
+  - sizes/P1100695.jpg_262x350.jpg

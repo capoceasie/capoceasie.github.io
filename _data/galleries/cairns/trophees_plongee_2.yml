@@ -1,43 +1,38 @@
 picture_path: cairns/trophees_plongee_2
 preview:
   filename: 980
-  original: sizes/980.jpg_1500x2000.jpg
-  thumbnail: sizes/980.jpg_188x250.jpg
+  original: sizes/980.jpg_467x350.jpg
+  thumbnail: sizes/980.jpg_200x150.jpg
   sizes:
-  - sizes/980.jpg_188x250.jpg
-  - sizes/980.jpg_375x500.jpg
-  - sizes/980.jpg_750x1000.jpg
-  - sizes/980.jpg_1500x2000.jpg
+  - sizes/980.jpg_200x150.jpg
+  - sizes/980.jpg_333x250.jpg
+  - sizes/980.jpg_467x350.jpg
 pictures:
 - filename: 980
-  original: sizes/980.jpg_1500x2000.jpg
-  thumbnail: sizes/980.jpg_188x250.jpg
+  original: sizes/980.jpg_467x350.jpg
+  thumbnail: sizes/980.jpg_200x150.jpg
   sizes:
-  - sizes/980.jpg_188x250.jpg
-  - sizes/980.jpg_375x500.jpg
-  - sizes/980.jpg_750x1000.jpg
-  - sizes/980.jpg_1500x2000.jpg
+  - sizes/980.jpg_200x150.jpg
+  - sizes/980.jpg_333x250.jpg
+  - sizes/980.jpg_467x350.jpg
 - filename: F905
-  original: sizes/F905.jpg_1500x2000.jpg
-  thumbnail: sizes/F905.jpg_188x250.jpg
+  original: sizes/F905.jpg_467x350.jpg
+  thumbnail: sizes/F905.jpg_200x150.jpg
   sizes:
-  - sizes/F905.jpg_188x250.jpg
-  - sizes/F905.jpg_375x500.jpg
-  - sizes/F905.jpg_750x1000.jpg
-  - sizes/F905.jpg_1500x2000.jpg
+  - sizes/F905.jpg_200x150.jpg
+  - sizes/F905.jpg_333x250.jpg
+  - sizes/F905.jpg_467x350.jpg
 - filename: F914
-  original: sizes/F914.jpg_1500x2000.jpg
-  thumbnail: sizes/F914.jpg_188x250.jpg
+  original: sizes/F914.jpg_467x350.jpg
+  thumbnail: sizes/F914.jpg_200x150.jpg
   sizes:
-  - sizes/F914.jpg_188x250.jpg
-  - sizes/F914.jpg_375x500.jpg
-  - sizes/F914.jpg_750x1000.jpg
-  - sizes/F914.jpg_1500x2000.jpg
+  - sizes/F914.jpg_200x150.jpg
+  - sizes/F914.jpg_333x250.jpg
+  - sizes/F914.jpg_467x350.jpg
 - filename: F921
-  original: sizes/F921.jpg_2000x1500.jpg
-  thumbnail: sizes/F921.jpg_250x188.jpg
+  original: sizes/F921.jpg_262x350.jpg
+  thumbnail: sizes/F921.jpg_112x150.jpg
   sizes:
-  - sizes/F921.jpg_250x188.jpg
-  - sizes/F921.jpg_500x375.jpg
-  - sizes/F921.jpg_1000x750.jpg
-  - sizes/F921.jpg_2000x1500.jpg
+  - sizes/F921.jpg_112x150.jpg
+  - sizes/F921.jpg_188x250.jpg
+  - sizes/F921.jpg_262x350.jpg

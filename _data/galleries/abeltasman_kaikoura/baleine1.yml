@@ -1,43 +1,38 @@
 picture_path: abeltasman_kaikoura/baleine1
 preview:
   filename: P1100039
-  original: sizes/P1100039.jpg_1500x2000.jpg
-  thumbnail: sizes/P1100039.jpg_188x250.jpg
+  original: sizes/P1100039.jpg_467x350.jpg
+  thumbnail: sizes/P1100039.jpg_200x150.jpg
   sizes:
-  - sizes/P1100039.jpg_188x250.jpg
-  - sizes/P1100039.jpg_375x500.jpg
-  - sizes/P1100039.jpg_750x1000.jpg
-  - sizes/P1100039.jpg_1500x2000.jpg
+  - sizes/P1100039.jpg_200x150.jpg
+  - sizes/P1100039.jpg_333x250.jpg
+  - sizes/P1100039.jpg_467x350.jpg
 pictures:
 - filename: P1100039
-  original: sizes/P1100039.jpg_1500x2000.jpg
-  thumbnail: sizes/P1100039.jpg_188x250.jpg
+  original: sizes/P1100039.jpg_467x350.jpg
+  thumbnail: sizes/P1100039.jpg_200x150.jpg
   sizes:
-  - sizes/P1100039.jpg_188x250.jpg
-  - sizes/P1100039.jpg_375x500.jpg
-  - sizes/P1100039.jpg_750x1000.jpg
-  - sizes/P1100039.jpg_1500x2000.jpg
+  - sizes/P1100039.jpg_200x150.jpg
+  - sizes/P1100039.jpg_333x250.jpg
+  - sizes/P1100039.jpg_467x350.jpg
 - filename: P1100040
-  original: sizes/P1100040.jpg_1500x2000.jpg
-  thumbnail: sizes/P1100040.jpg_188x250.jpg
+  original: sizes/P1100040.jpg_467x350.jpg
+  thumbnail: sizes/P1100040.jpg_200x150.jpg
   sizes:
-  - sizes/P1100040.jpg_188x250.jpg
-  - sizes/P1100040.jpg_375x500.jpg
-  - sizes/P1100040.jpg_750x1000.jpg
-  - sizes/P1100040.jpg_1500x2000.jpg
+  - sizes/P1100040.jpg_200x150.jpg
+  - sizes/P1100040.jpg_333x250.jpg
+  - sizes/P1100040.jpg_467x350.jpg
 - filename: P1100041
-  original: sizes/P1100041.jpg_1500x2000.jpg
-  thumbnail: sizes/P1100041.jpg_188x250.jpg
+  original: sizes/P1100041.jpg_467x350.jpg
+  thumbnail: sizes/P1100041.jpg_200x150.jpg
   sizes:
-  - sizes/P1100041.jpg_188x250.jpg
-  - sizes/P1100041.jpg_375x500.jpg
-  - sizes/P1100041.jpg_750x1000.jpg
-  - sizes/P1100041.jpg_1500x2000.jpg
+  - sizes/P1100041.jpg_200x150.jpg
+  - sizes/P1100041.jpg_333x250.jpg
+  - sizes/P1100041.jpg_467x350.jpg
 - filename: P1100042
-  original: sizes/P1100042.jpg_1500x2000.jpg
-  thumbnail: sizes/P1100042.jpg_187x250.jpg
+  original: sizes/P1100042.jpg_467x350.jpg
+  thumbnail: sizes/P1100042.jpg_200x150.jpg
   sizes:
-  - sizes/P1100042.jpg_187x250.jpg
-  - sizes/P1100042.jpg_375x500.jpg
-  - sizes/P1100042.jpg_750x1000.jpg
-  - sizes/P1100042.jpg_1500x2000.jpg
+  - sizes/P1100042.jpg_200x150.jpg
+  - sizes/P1100042.jpg_333x250.jpg
+  - sizes/P1100042.jpg_467x350.jpg

@@ -1,35 +1,31 @@
 picture_path: tongariro/descente_douce2
 preview:
   filename: 20191215_142755
-  original: sizes/20191215_142755.jpg_1125x2000.jpg
-  thumbnail: sizes/20191215_142755.jpg_141x250.jpg
+  original: sizes/20191215_142755.jpg_622x350.jpg
+  thumbnail: sizes/20191215_142755.jpg_267x150.jpg
   sizes:
-  - sizes/20191215_142755.jpg_141x250.jpg
-  - sizes/20191215_142755.jpg_281x500.jpg
-  - sizes/20191215_142755.jpg_562x1000.jpg
-  - sizes/20191215_142755.jpg_1125x2000.jpg
+  - sizes/20191215_142755.jpg_267x150.jpg
+  - sizes/20191215_142755.jpg_444x250.jpg
+  - sizes/20191215_142755.jpg_622x350.jpg
 pictures:
 - filename: 20191215_142755
-  original: sizes/20191215_142755.jpg_1125x2000.jpg
-  thumbnail: sizes/20191215_142755.jpg_141x250.jpg
+  original: sizes/20191215_142755.jpg_622x350.jpg
+  thumbnail: sizes/20191215_142755.jpg_267x150.jpg
   sizes:
-  - sizes/20191215_142755.jpg_141x250.jpg
-  - sizes/20191215_142755.jpg_281x500.jpg
-  - sizes/20191215_142755.jpg_562x1000.jpg
-  - sizes/20191215_142755.jpg_1125x2000.jpg
+  - sizes/20191215_142755.jpg_267x150.jpg
+  - sizes/20191215_142755.jpg_444x250.jpg
+  - sizes/20191215_142755.jpg_622x350.jpg
 - filename: P1100909
-  original: sizes/P1100909.jpg_1500x2000.jpg
-  thumbnail: sizes/P1100909.jpg_188x250.jpg
+  original: sizes/P1100909.jpg_467x350.jpg
+  thumbnail: sizes/P1100909.jpg_200x150.jpg
   sizes:
-  - sizes/P1100909.jpg_188x250.jpg
-  - sizes/P1100909.jpg_375x500.jpg
-  - sizes/P1100909.jpg_750x1000.jpg
-  - sizes/P1100909.jpg_1500x2000.jpg
+  - sizes/P1100909.jpg_200x150.jpg
+  - sizes/P1100909.jpg_333x250.jpg
+  - sizes/P1100909.jpg_467x350.jpg
 - filename: P1100922
-  original: sizes/P1100922.jpg_1500x2000.jpg
-  thumbnail: sizes/P1100922.jpg_188x250.jpg
+  original: sizes/P1100922.jpg_467x350.jpg
+  thumbnail: sizes/P1100922.jpg_200x150.jpg
   sizes:
-  - sizes/P1100922.jpg_188x250.jpg
-  - sizes/P1100922.jpg_375x500.jpg
-  - sizes/P1100922.jpg_750x1000.jpg
-  - sizes/P1100922.jpg_1500x2000.jpg
+  - sizes/P1100922.jpg_200x150.jpg
+  - sizes/P1100922.jpg_333x250.jpg
+  - sizes/P1100922.jpg_467x350.jpg

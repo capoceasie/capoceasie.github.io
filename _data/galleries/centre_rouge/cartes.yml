@@ -1,27 +1,24 @@
 picture_path: centre_rouge/cartes
 preview:
   filename: Sydney-centre-rouge-ConvertImage
-  original: sizes/Sydney-centre-rouge-ConvertImage.jpg_1606x2000.jpg
-  thumbnail: sizes/Sydney-centre-rouge-ConvertImage.jpg_201x250.jpg
+  original: sizes/Sydney-centre-rouge-ConvertImage.jpg_436x350.jpg
+  thumbnail: sizes/Sydney-centre-rouge-ConvertImage.jpg_187x150.jpg
   sizes:
-  - sizes/Sydney-centre-rouge-ConvertImage.jpg_201x250.jpg
-  - sizes/Sydney-centre-rouge-ConvertImage.jpg_402x500.jpg
-  - sizes/Sydney-centre-rouge-ConvertImage.jpg_803x1000.jpg
-  - sizes/Sydney-centre-rouge-ConvertImage.jpg_1606x2000.jpg
+  - sizes/Sydney-centre-rouge-ConvertImage.jpg_187x150.jpg
+  - sizes/Sydney-centre-rouge-ConvertImage.jpg_311x250.jpg
+  - sizes/Sydney-centre-rouge-ConvertImage.jpg_436x350.jpg
 pictures:
 - filename: Sydney-centre-rouge-ConvertImage
-  original: sizes/Sydney-centre-rouge-ConvertImage.jpg_1606x2000.jpg
-  thumbnail: sizes/Sydney-centre-rouge-ConvertImage.jpg_201x250.jpg
+  original: sizes/Sydney-centre-rouge-ConvertImage.jpg_436x350.jpg
+  thumbnail: sizes/Sydney-centre-rouge-ConvertImage.jpg_187x150.jpg
   sizes:
-  - sizes/Sydney-centre-rouge-ConvertImage.jpg_201x250.jpg
-  - sizes/Sydney-centre-rouge-ConvertImage.jpg_402x500.jpg
-  - sizes/Sydney-centre-rouge-ConvertImage.jpg_803x1000.jpg
-  - sizes/Sydney-centre-rouge-ConvertImage.jpg_1606x2000.jpg
+  - sizes/Sydney-centre-rouge-ConvertImage.jpg_187x150.jpg
+  - sizes/Sydney-centre-rouge-ConvertImage.jpg_311x250.jpg
+  - sizes/Sydney-centre-rouge-ConvertImage.jpg_436x350.jpg
 - filename: V-carte-centre-rouge-ConvertImage
-  original: sizes/V-carte-centre-rouge-ConvertImage.jpg_1459x2000.jpg
-  thumbnail: sizes/V-carte-centre-rouge-ConvertImage.jpg_182x250.jpg
+  original: sizes/V-carte-centre-rouge-ConvertImage.jpg_480x350.jpg
+  thumbnail: sizes/V-carte-centre-rouge-ConvertImage.jpg_206x150.jpg
   sizes:
-  - sizes/V-carte-centre-rouge-ConvertImage.jpg_182x250.jpg
-  - sizes/V-carte-centre-rouge-ConvertImage.jpg_365x500.jpg
-  - sizes/V-carte-centre-rouge-ConvertImage.jpg_730x1000.jpg
-  - sizes/V-carte-centre-rouge-ConvertImage.jpg_1459x2000.jpg
+  - sizes/V-carte-centre-rouge-ConvertImage.jpg_206x150.jpg
+  - sizes/V-carte-centre-rouge-ConvertImage.jpg_343x250.jpg
+  - sizes/V-carte-centre-rouge-ConvertImage.jpg_480x350.jpg

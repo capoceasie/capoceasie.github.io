@@ -1,27 +1,24 @@
 picture_path: tekapo_queenstown/nourriture
 preview:
   filename: 20191205_133643
-  original: sizes/20191205_133643.jpg_1500x2000.jpg
-  thumbnail: sizes/20191205_133643.jpg_188x250.jpg
+  original: sizes/20191205_133643.jpg_467x350.jpg
+  thumbnail: sizes/20191205_133643.jpg_200x150.jpg
   sizes:
-  - sizes/20191205_133643.jpg_188x250.jpg
-  - sizes/20191205_133643.jpg_375x500.jpg
-  - sizes/20191205_133643.jpg_750x1000.jpg
-  - sizes/20191205_133643.jpg_1500x2000.jpg
+  - sizes/20191205_133643.jpg_200x150.jpg
+  - sizes/20191205_133643.jpg_333x250.jpg
+  - sizes/20191205_133643.jpg_467x350.jpg
 pictures:
 - filename: 20191205_133643
-  original: sizes/20191205_133643.jpg_1500x2000.jpg
-  thumbnail: sizes/20191205_133643.jpg_188x250.jpg
+  original: sizes/20191205_133643.jpg_467x350.jpg
+  thumbnail: sizes/20191205_133643.jpg_200x150.jpg
   sizes:
-  - sizes/20191205_133643.jpg_188x250.jpg
-  - sizes/20191205_133643.jpg_375x500.jpg
-  - sizes/20191205_133643.jpg_750x1000.jpg
-  - sizes/20191205_133643.jpg_1500x2000.jpg
+  - sizes/20191205_133643.jpg_200x150.jpg
+  - sizes/20191205_133643.jpg_333x250.jpg
+  - sizes/20191205_133643.jpg_467x350.jpg
 - filename: 20191205_133648
-  original: sizes/20191205_133648.jpg_1500x2000.jpg
-  thumbnail: sizes/20191205_133648.jpg_188x250.jpg
+  original: sizes/20191205_133648.jpg_467x350.jpg
+  thumbnail: sizes/20191205_133648.jpg_200x150.jpg
   sizes:
-  - sizes/20191205_133648.jpg_188x250.jpg
-  - sizes/20191205_133648.jpg_375x500.jpg
-  - sizes/20191205_133648.jpg_750x1000.jpg
-  - sizes/20191205_133648.jpg_1500x2000.jpg
+  - sizes/20191205_133648.jpg_200x150.jpg
+  - sizes/20191205_133648.jpg_333x250.jpg
+  - sizes/20191205_133648.jpg_467x350.jpg

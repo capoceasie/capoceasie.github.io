@@ -1,43 +1,38 @@
 picture_path: fin_sejour_nz/cbd
 preview:
   filename: 020191218_112810
-  original: sizes/020191218_112810.jpg_2000x1500.jpg
-  thumbnail: sizes/020191218_112810.jpg_250x188.jpg
+  original: sizes/020191218_112810.jpg_262x350.jpg
+  thumbnail: sizes/020191218_112810.jpg_112x150.jpg
   sizes:
-  - sizes/020191218_112810.jpg_250x188.jpg
-  - sizes/020191218_112810.jpg_500x375.jpg
-  - sizes/020191218_112810.jpg_1000x750.jpg
-  - sizes/020191218_112810.jpg_2000x1500.jpg
+  - sizes/020191218_112810.jpg_112x150.jpg
+  - sizes/020191218_112810.jpg_188x250.jpg
+  - sizes/020191218_112810.jpg_262x350.jpg
 pictures:
 - filename: 020191218_112810
-  original: sizes/020191218_112810.jpg_2000x1500.jpg
-  thumbnail: sizes/020191218_112810.jpg_250x188.jpg
+  original: sizes/020191218_112810.jpg_262x350.jpg
+  thumbnail: sizes/020191218_112810.jpg_112x150.jpg
   sizes:
-  - sizes/020191218_112810.jpg_250x188.jpg
-  - sizes/020191218_112810.jpg_500x375.jpg
-  - sizes/020191218_112810.jpg_1000x750.jpg
-  - sizes/020191218_112810.jpg_2000x1500.jpg
+  - sizes/020191218_112810.jpg_112x150.jpg
+  - sizes/020191218_112810.jpg_188x250.jpg
+  - sizes/020191218_112810.jpg_262x350.jpg
 - filename: 20191218_112738
-  original: sizes/20191218_112738.jpg_2000x1500.jpg
-  thumbnail: sizes/20191218_112738.jpg_250x187.jpg
+  original: sizes/20191218_112738.jpg_262x350.jpg
+  thumbnail: sizes/20191218_112738.jpg_112x150.jpg
   sizes:
-  - sizes/20191218_112738.jpg_250x187.jpg
-  - sizes/20191218_112738.jpg_500x375.jpg
-  - sizes/20191218_112738.jpg_1000x750.jpg
-  - sizes/20191218_112738.jpg_2000x1500.jpg
+  - sizes/20191218_112738.jpg_112x150.jpg
+  - sizes/20191218_112738.jpg_187x250.jpg
+  - sizes/20191218_112738.jpg_262x350.jpg
 - filename: P1110020
-  original: sizes/P1110020.jpg_1500x2000.jpg
-  thumbnail: sizes/P1110020.jpg_187x250.jpg
+  original: sizes/P1110020.jpg_467x350.jpg
+  thumbnail: sizes/P1110020.jpg_200x150.jpg
   sizes:
-  - sizes/P1110020.jpg_187x250.jpg
-  - sizes/P1110020.jpg_375x500.jpg
-  - sizes/P1110020.jpg_750x1000.jpg
-  - sizes/P1110020.jpg_1500x2000.jpg
+  - sizes/P1110020.jpg_200x150.jpg
+  - sizes/P1110020.jpg_333x250.jpg
+  - sizes/P1110020.jpg_467x350.jpg
 - filename: P1110060
-  original: sizes/P1110060.jpg_1500x2000.jpg
-  thumbnail: sizes/P1110060.jpg_188x250.jpg
+  original: sizes/P1110060.jpg_467x350.jpg
+  thumbnail: sizes/P1110060.jpg_200x150.jpg
   sizes:
-  - sizes/P1110060.jpg_188x250.jpg
-  - sizes/P1110060.jpg_375x500.jpg
-  - sizes/P1110060.jpg_750x1000.jpg
-  - sizes/P1110060.jpg_1500x2000.jpg
+  - sizes/P1110060.jpg_200x150.jpg
+  - sizes/P1110060.jpg_333x250.jpg
+  - sizes/P1110060.jpg_467x350.jpg

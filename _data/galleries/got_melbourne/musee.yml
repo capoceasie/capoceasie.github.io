@@ -1,35 +1,31 @@
 picture_path: got_melbourne/musee
 preview:
   filename: P1080588
-  original: sizes/P1080588.jpg_1500x2000.jpg
-  thumbnail: sizes/P1080588.jpg_188x250.jpg
+  original: sizes/P1080588.jpg_467x350.jpg
+  thumbnail: sizes/P1080588.jpg_200x150.jpg
   sizes:
-  - sizes/P1080588.jpg_188x250.jpg
-  - sizes/P1080588.jpg_375x500.jpg
-  - sizes/P1080588.jpg_750x1000.jpg
-  - sizes/P1080588.jpg_1500x2000.jpg
+  - sizes/P1080588.jpg_200x150.jpg
+  - sizes/P1080588.jpg_333x250.jpg
+  - sizes/P1080588.jpg_467x350.jpg
 pictures:
 - filename: P1080588
-  original: sizes/P1080588.jpg_1500x2000.jpg
-  thumbnail: sizes/P1080588.jpg_188x250.jpg
+  original: sizes/P1080588.jpg_467x350.jpg
+  thumbnail: sizes/P1080588.jpg_200x150.jpg
   sizes:
-  - sizes/P1080588.jpg_188x250.jpg
-  - sizes/P1080588.jpg_375x500.jpg
-  - sizes/P1080588.jpg_750x1000.jpg
-  - sizes/P1080588.jpg_1500x2000.jpg
+  - sizes/P1080588.jpg_200x150.jpg
+  - sizes/P1080588.jpg_333x250.jpg
+  - sizes/P1080588.jpg_467x350.jpg
 - filename: P1080592
-  original: sizes/P1080592.jpg_1500x2000.jpg
-  thumbnail: sizes/P1080592.jpg_188x250.jpg
+  original: sizes/P1080592.jpg_467x350.jpg
+  thumbnail: sizes/P1080592.jpg_200x150.jpg
   sizes:
-  - sizes/P1080592.jpg_188x250.jpg
-  - sizes/P1080592.jpg_375x500.jpg
-  - sizes/P1080592.jpg_750x1000.jpg
-  - sizes/P1080592.jpg_1500x2000.jpg
+  - sizes/P1080592.jpg_200x150.jpg
+  - sizes/P1080592.jpg_333x250.jpg
+  - sizes/P1080592.jpg_467x350.jpg
 - filename: P1080595
-  original: sizes/P1080595.jpg_1500x2000.jpg
-  thumbnail: sizes/P1080595.jpg_188x250.jpg
+  original: sizes/P1080595.jpg_467x350.jpg
+  thumbnail: sizes/P1080595.jpg_200x150.jpg
   sizes:
-  - sizes/P1080595.jpg_188x250.jpg
-  - sizes/P1080595.jpg_375x500.jpg
-  - sizes/P1080595.jpg_750x1000.jpg
-  - sizes/P1080595.jpg_1500x2000.jpg
+  - sizes/P1080595.jpg_200x150.jpg
+  - sizes/P1080595.jpg_333x250.jpg
+  - sizes/P1080595.jpg_467x350.jpg

@@ -1,35 +1,31 @@
 picture_path: jaipur/petit_dej
 preview:
   filename: 20191224_094422
-  original: sizes/20191224_094422.jpg_1125x2000.jpg
-  thumbnail: sizes/20191224_094422.jpg_141x250.jpg
+  original: sizes/20191224_094422.jpg_622x350.jpg
+  thumbnail: sizes/20191224_094422.jpg_267x150.jpg
   sizes:
-  - sizes/20191224_094422.jpg_141x250.jpg
-  - sizes/20191224_094422.jpg_281x500.jpg
-  - sizes/20191224_094422.jpg_562x1000.jpg
-  - sizes/20191224_094422.jpg_1125x2000.jpg
+  - sizes/20191224_094422.jpg_267x150.jpg
+  - sizes/20191224_094422.jpg_444x250.jpg
+  - sizes/20191224_094422.jpg_622x350.jpg
 pictures:
 - filename: 20191224_094422
-  original: sizes/20191224_094422.jpg_1125x2000.jpg
-  thumbnail: sizes/20191224_094422.jpg_141x250.jpg
+  original: sizes/20191224_094422.jpg_622x350.jpg
+  thumbnail: sizes/20191224_094422.jpg_267x150.jpg
   sizes:
-  - sizes/20191224_094422.jpg_141x250.jpg
-  - sizes/20191224_094422.jpg_281x500.jpg
-  - sizes/20191224_094422.jpg_562x1000.jpg
-  - sizes/20191224_094422.jpg_1125x2000.jpg
+  - sizes/20191224_094422.jpg_267x150.jpg
+  - sizes/20191224_094422.jpg_444x250.jpg
+  - sizes/20191224_094422.jpg_622x350.jpg
 - filename: 20191224_100759
-  original: sizes/20191224_100759.jpg_1125x2000.jpg
-  thumbnail: sizes/20191224_100759.jpg_141x250.jpg
+  original: sizes/20191224_100759.jpg_622x350.jpg
+  thumbnail: sizes/20191224_100759.jpg_267x150.jpg
   sizes:
-  - sizes/20191224_100759.jpg_141x250.jpg
-  - sizes/20191224_100759.jpg_281x500.jpg
-  - sizes/20191224_100759.jpg_562x1000.jpg
-  - sizes/20191224_100759.jpg_1125x2000.jpg
+  - sizes/20191224_100759.jpg_267x150.jpg
+  - sizes/20191224_100759.jpg_444x250.jpg
+  - sizes/20191224_100759.jpg_622x350.jpg
 - filename: 20191224_102526
-  original: sizes/20191224_102526.jpg_1500x2000.jpg
-  thumbnail: sizes/20191224_102526.jpg_188x250.jpg
+  original: sizes/20191224_102526.jpg_467x350.jpg
+  thumbnail: sizes/20191224_102526.jpg_200x150.jpg
   sizes:
-  - sizes/20191224_102526.jpg_188x250.jpg
-  - sizes/20191224_102526.jpg_375x500.jpg
-  - sizes/20191224_102526.jpg_750x1000.jpg
-  - sizes/20191224_102526.jpg_1500x2000.jpg
+  - sizes/20191224_102526.jpg_200x150.jpg
+  - sizes/20191224_102526.jpg_333x250.jpg
+  - sizes/20191224_102526.jpg_467x350.jpg

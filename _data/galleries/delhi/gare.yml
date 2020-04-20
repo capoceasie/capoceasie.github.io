@@ -1,27 +1,24 @@
 picture_path: delhi/gare
 preview:
   filename: 20191222_113703
-  original: sizes/20191222_113703.jpg_2000x1500.jpg
-  thumbnail: sizes/20191222_113703.jpg_250x188.jpg
+  original: sizes/20191222_113703.jpg_262x350.jpg
+  thumbnail: sizes/20191222_113703.jpg_112x150.jpg
   sizes:
-  - sizes/20191222_113703.jpg_250x188.jpg
-  - sizes/20191222_113703.jpg_500x375.jpg
-  - sizes/20191222_113703.jpg_1000x750.jpg
-  - sizes/20191222_113703.jpg_2000x1500.jpg
+  - sizes/20191222_113703.jpg_112x150.jpg
+  - sizes/20191222_113703.jpg_188x250.jpg
+  - sizes/20191222_113703.jpg_262x350.jpg
 pictures:
 - filename: 20191222_113703
-  original: sizes/20191222_113703.jpg_2000x1500.jpg
-  thumbnail: sizes/20191222_113703.jpg_250x188.jpg
+  original: sizes/20191222_113703.jpg_262x350.jpg
+  thumbnail: sizes/20191222_113703.jpg_112x150.jpg
   sizes:
-  - sizes/20191222_113703.jpg_250x188.jpg
-  - sizes/20191222_113703.jpg_500x375.jpg
-  - sizes/20191222_113703.jpg_1000x750.jpg
-  - sizes/20191222_113703.jpg_2000x1500.jpg
+  - sizes/20191222_113703.jpg_112x150.jpg
+  - sizes/20191222_113703.jpg_188x250.jpg
+  - sizes/20191222_113703.jpg_262x350.jpg
 - filename: 20191222_125944
-  original: sizes/20191222_125944.jpg_2000x1500.jpg
-  thumbnail: sizes/20191222_125944.jpg_250x188.jpg
+  original: sizes/20191222_125944.jpg_262x350.jpg
+  thumbnail: sizes/20191222_125944.jpg_112x150.jpg
   sizes:
-  - sizes/20191222_125944.jpg_250x188.jpg
-  - sizes/20191222_125944.jpg_500x375.jpg
-  - sizes/20191222_125944.jpg_1000x750.jpg
-  - sizes/20191222_125944.jpg_2000x1500.jpg
+  - sizes/20191222_125944.jpg_112x150.jpg
+  - sizes/20191222_125944.jpg_188x250.jpg
+  - sizes/20191222_125944.jpg_262x350.jpg

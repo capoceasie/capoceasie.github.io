@@ -1,27 +1,24 @@
 picture_path: jaipur/carte
 preview:
   filename: carte_detail_191225
-  original: sizes/carte_detail_191225.jpg_1589x2000.jpg
-  thumbnail: sizes/carte_detail_191225.jpg_199x250.jpg
+  original: sizes/carte_detail_191225.jpg_441x350.jpg
+  thumbnail: sizes/carte_detail_191225.jpg_189x150.jpg
   sizes:
-  - sizes/carte_detail_191225.jpg_199x250.jpg
-  - sizes/carte_detail_191225.jpg_397x500.jpg
-  - sizes/carte_detail_191225.jpg_794x1000.jpg
-  - sizes/carte_detail_191225.jpg_1589x2000.jpg
+  - sizes/carte_detail_191225.jpg_189x150.jpg
+  - sizes/carte_detail_191225.jpg_315x250.jpg
+  - sizes/carte_detail_191225.jpg_441x350.jpg
 pictures:
 - filename: carte_detail_191225
-  original: sizes/carte_detail_191225.jpg_1589x2000.jpg
-  thumbnail: sizes/carte_detail_191225.jpg_199x250.jpg
+  original: sizes/carte_detail_191225.jpg_441x350.jpg
+  thumbnail: sizes/carte_detail_191225.jpg_189x150.jpg
   sizes:
-  - sizes/carte_detail_191225.jpg_199x250.jpg
-  - sizes/carte_detail_191225.jpg_397x500.jpg
-  - sizes/carte_detail_191225.jpg_794x1000.jpg
-  - sizes/carte_detail_191225.jpg_1589x2000.jpg
+  - sizes/carte_detail_191225.jpg_189x150.jpg
+  - sizes/carte_detail_191225.jpg_315x250.jpg
+  - sizes/carte_detail_191225.jpg_441x350.jpg
 - filename: carte_global_191225
-  original: sizes/carte_global_191225.jpg_1990x2000.jpg
-  thumbnail: sizes/carte_global_191225.jpg_249x250.jpg
+  original: sizes/carte_global_191225.jpg_352x350.jpg
+  thumbnail: sizes/carte_global_191225.jpg_151x150.jpg
   sizes:
-  - sizes/carte_global_191225.jpg_249x250.jpg
-  - sizes/carte_global_191225.jpg_498x500.jpg
-  - sizes/carte_global_191225.jpg_995x1000.jpg
-  - sizes/carte_global_191225.jpg_1990x2000.jpg
+  - sizes/carte_global_191225.jpg_151x150.jpg
+  - sizes/carte_global_191225.jpg_251x250.jpg
+  - sizes/carte_global_191225.jpg_352x350.jpg

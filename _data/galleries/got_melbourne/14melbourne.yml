@@ -1,147 +1,129 @@
 picture_path: got_melbourne/14melbourne
 preview:
   filename: 0_20191129_163628
-  original: sizes/0_20191129_163628.jpg_2000x1500.jpg
-  thumbnail: sizes/0_20191129_163628.jpg_250x188.jpg
+  original: sizes/0_20191129_163628.jpg_262x350.jpg
+  thumbnail: sizes/0_20191129_163628.jpg_112x150.jpg
   sizes:
-  - sizes/0_20191129_163628.jpg_250x188.jpg
-  - sizes/0_20191129_163628.jpg_500x375.jpg
-  - sizes/0_20191129_163628.jpg_1000x750.jpg
-  - sizes/0_20191129_163628.jpg_2000x1500.jpg
+  - sizes/0_20191129_163628.jpg_112x150.jpg
+  - sizes/0_20191129_163628.jpg_188x250.jpg
+  - sizes/0_20191129_163628.jpg_262x350.jpg
 pictures:
 - filename: 0_20191129_163628
-  original: sizes/0_20191129_163628.jpg_2000x1500.jpg
-  thumbnail: sizes/0_20191129_163628.jpg_250x188.jpg
+  original: sizes/0_20191129_163628.jpg_262x350.jpg
+  thumbnail: sizes/0_20191129_163628.jpg_112x150.jpg
   sizes:
-  - sizes/0_20191129_163628.jpg_250x188.jpg
-  - sizes/0_20191129_163628.jpg_500x375.jpg
-  - sizes/0_20191129_163628.jpg_1000x750.jpg
-  - sizes/0_20191129_163628.jpg_2000x1500.jpg
+  - sizes/0_20191129_163628.jpg_112x150.jpg
+  - sizes/0_20191129_163628.jpg_188x250.jpg
+  - sizes/0_20191129_163628.jpg_262x350.jpg
 - filename: 20191129_134147
-  original: sizes/20191129_134147.jpg_1500x2000.jpg
-  thumbnail: sizes/20191129_134147.jpg_188x250.jpg
+  original: sizes/20191129_134147.jpg_467x350.jpg
+  thumbnail: sizes/20191129_134147.jpg_200x150.jpg
   sizes:
-  - sizes/20191129_134147.jpg_188x250.jpg
-  - sizes/20191129_134147.jpg_375x500.jpg
-  - sizes/20191129_134147.jpg_750x1000.jpg
-  - sizes/20191129_134147.jpg_1500x2000.jpg
+  - sizes/20191129_134147.jpg_200x150.jpg
+  - sizes/20191129_134147.jpg_333x250.jpg
+  - sizes/20191129_134147.jpg_467x350.jpg
 - filename: 20191129_134350
-  original: sizes/20191129_134350.jpg_2000x1500.jpg
-  thumbnail: sizes/20191129_134350.jpg_250x188.jpg
+  original: sizes/20191129_134350.jpg_262x350.jpg
+  thumbnail: sizes/20191129_134350.jpg_112x150.jpg
   sizes:
-  - sizes/20191129_134350.jpg_250x188.jpg
-  - sizes/20191129_134350.jpg_500x375.jpg
-  - sizes/20191129_134350.jpg_1000x750.jpg
-  - sizes/20191129_134350.jpg_2000x1500.jpg
+  - sizes/20191129_134350.jpg_112x150.jpg
+  - sizes/20191129_134350.jpg_188x250.jpg
+  - sizes/20191129_134350.jpg_262x350.jpg
 - filename: 20191129_134543
-  original: sizes/20191129_134543.jpg_1500x2000.jpg
-  thumbnail: sizes/20191129_134543.jpg_188x250.jpg
+  original: sizes/20191129_134543.jpg_467x350.jpg
+  thumbnail: sizes/20191129_134543.jpg_200x150.jpg
   sizes:
-  - sizes/20191129_134543.jpg_188x250.jpg
-  - sizes/20191129_134543.jpg_375x500.jpg
-  - sizes/20191129_134543.jpg_750x1000.jpg
-  - sizes/20191129_134543.jpg_1500x2000.jpg
+  - sizes/20191129_134543.jpg_200x150.jpg
+  - sizes/20191129_134543.jpg_333x250.jpg
+  - sizes/20191129_134543.jpg_467x350.jpg
 - filename: 20191129_152618
-  original: sizes/20191129_152618.jpg_2000x1500.jpg
-  thumbnail: sizes/20191129_152618.jpg_250x188.jpg
+  original: sizes/20191129_152618.jpg_262x350.jpg
+  thumbnail: sizes/20191129_152618.jpg_112x150.jpg
   sizes:
-  - sizes/20191129_152618.jpg_250x188.jpg
-  - sizes/20191129_152618.jpg_500x375.jpg
-  - sizes/20191129_152618.jpg_1000x750.jpg
-  - sizes/20191129_152618.jpg_2000x1500.jpg
+  - sizes/20191129_152618.jpg_112x150.jpg
+  - sizes/20191129_152618.jpg_188x250.jpg
+  - sizes/20191129_152618.jpg_262x350.jpg
 - filename: 20191129_155654
-  original: sizes/20191129_155654.jpg_2000x1500.jpg
-  thumbnail: sizes/20191129_155654.jpg_250x187.jpg
+  original: sizes/20191129_155654.jpg_262x350.jpg
+  thumbnail: sizes/20191129_155654.jpg_112x150.jpg
   sizes:
-  - sizes/20191129_155654.jpg_250x187.jpg
-  - sizes/20191129_155654.jpg_500x375.jpg
-  - sizes/20191129_155654.jpg_1000x750.jpg
-  - sizes/20191129_155654.jpg_2000x1500.jpg
+  - sizes/20191129_155654.jpg_112x150.jpg
+  - sizes/20191129_155654.jpg_187x250.jpg
+  - sizes/20191129_155654.jpg_262x350.jpg
 - filename: 20191129_155747
-  original: sizes/20191129_155747.jpg_2000x1500.jpg
-  thumbnail: sizes/20191129_155747.jpg_250x188.jpg
+  original: sizes/20191129_155747.jpg_263x350.jpg
+  thumbnail: sizes/20191129_155747.jpg_113x150.jpg
   sizes:
-  - sizes/20191129_155747.jpg_250x188.jpg
-  - sizes/20191129_155747.jpg_500x375.jpg
-  - sizes/20191129_155747.jpg_1000x750.jpg
-  - sizes/20191129_155747.jpg_2000x1500.jpg
+  - sizes/20191129_155747.jpg_113x150.jpg
+  - sizes/20191129_155747.jpg_188x250.jpg
+  - sizes/20191129_155747.jpg_263x350.jpg
 - filename: 20191129_160311
-  original: sizes/20191129_160311.jpg_2000x1500.jpg
-  thumbnail: sizes/20191129_160311.jpg_250x188.jpg
+  original: sizes/20191129_160311.jpg_262x350.jpg
+  thumbnail: sizes/20191129_160311.jpg_112x150.jpg
   sizes:
-  - sizes/20191129_160311.jpg_250x188.jpg
-  - sizes/20191129_160311.jpg_500x375.jpg
-  - sizes/20191129_160311.jpg_1000x750.jpg
-  - sizes/20191129_160311.jpg_2000x1500.jpg
+  - sizes/20191129_160311.jpg_112x150.jpg
+  - sizes/20191129_160311.jpg_188x250.jpg
+  - sizes/20191129_160311.jpg_262x350.jpg
 - filename: 20191129_165305
-  original: sizes/20191129_165305.jpg_2000x1500.jpg
-  thumbnail: sizes/20191129_165305.jpg_250x188.jpg
+  original: sizes/20191129_165305.jpg_262x350.jpg
+  thumbnail: sizes/20191129_165305.jpg_112x150.jpg
   sizes:
-  - sizes/20191129_165305.jpg_250x188.jpg
-  - sizes/20191129_165305.jpg_500x375.jpg
-  - sizes/20191129_165305.jpg_1000x750.jpg
-  - sizes/20191129_165305.jpg_2000x1500.jpg
+  - sizes/20191129_165305.jpg_112x150.jpg
+  - sizes/20191129_165305.jpg_188x250.jpg
+  - sizes/20191129_165305.jpg_262x350.jpg
 - filename: 20191129_171042
-  original: sizes/20191129_171042.jpg_1500x2000.jpg
-  thumbnail: sizes/20191129_171042.jpg_188x250.jpg
+  original: sizes/20191129_171042.jpg_467x350.jpg
+  thumbnail: sizes/20191129_171042.jpg_200x150.jpg
   sizes:
-  - sizes/20191129_171042.jpg_188x250.jpg
-  - sizes/20191129_171042.jpg_375x500.jpg
-  - sizes/20191129_171042.jpg_750x1000.jpg
-  - sizes/20191129_171042.jpg_1500x2000.jpg
+  - sizes/20191129_171042.jpg_200x150.jpg
+  - sizes/20191129_171042.jpg_333x250.jpg
+  - sizes/20191129_171042.jpg_467x350.jpg
 - filename: 20191129_171611
-  original: sizes/20191129_171611.jpg_2000x1500.jpg
-  thumbnail: sizes/20191129_171611.jpg_250x187.jpg
+  original: sizes/20191129_171611.jpg_262x350.jpg
+  thumbnail: sizes/20191129_171611.jpg_112x150.jpg
   sizes:
-  - sizes/20191129_171611.jpg_250x187.jpg
-  - sizes/20191129_171611.jpg_500x375.jpg
-  - sizes/20191129_171611.jpg_1000x750.jpg
-  - sizes/20191129_171611.jpg_2000x1500.jpg
+  - sizes/20191129_171611.jpg_112x150.jpg
+  - sizes/20191129_171611.jpg_187x250.jpg
+  - sizes/20191129_171611.jpg_262x350.jpg
 - filename: 20191129_172034
-  original: sizes/20191129_172034.jpg_2000x1500.jpg
-  thumbnail: sizes/20191129_172034.jpg_250x188.jpg
+  original: sizes/20191129_172034.jpg_262x350.jpg
+  thumbnail: sizes/20191129_172034.jpg_112x150.jpg
   sizes:
-  - sizes/20191129_172034.jpg_250x188.jpg
-  - sizes/20191129_172034.jpg_500x375.jpg
-  - sizes/20191129_172034.jpg_1000x750.jpg
-  - sizes/20191129_172034.jpg_2000x1500.jpg
+  - sizes/20191129_172034.jpg_112x150.jpg
+  - sizes/20191129_172034.jpg_188x250.jpg
+  - sizes/20191129_172034.jpg_262x350.jpg
 - filename: 20191129_185520
-  original: sizes/20191129_185520.jpg_1500x2000.jpg
-  thumbnail: sizes/20191129_185520.jpg_187x250.jpg
+  original: sizes/20191129_185520.jpg_467x350.jpg
+  thumbnail: sizes/20191129_185520.jpg_200x150.jpg
   sizes:
-  - sizes/20191129_185520.jpg_187x250.jpg
-  - sizes/20191129_185520.jpg_375x500.jpg
-  - sizes/20191129_185520.jpg_750x1000.jpg
-  - sizes/20191129_185520.jpg_1500x2000.jpg
+  - sizes/20191129_185520.jpg_200x150.jpg
+  - sizes/20191129_185520.jpg_333x250.jpg
+  - sizes/20191129_185520.jpg_467x350.jpg
 - filename: 20191129_185737
-  original: sizes/20191129_185737.jpg_2000x1500.jpg
-  thumbnail: sizes/20191129_185737.jpg_250x188.jpg
+  original: sizes/20191129_185737.jpg_262x350.jpg
+  thumbnail: sizes/20191129_185737.jpg_112x150.jpg
   sizes:
-  - sizes/20191129_185737.jpg_250x188.jpg
-  - sizes/20191129_185737.jpg_500x375.jpg
-  - sizes/20191129_185737.jpg_1000x750.jpg
-  - sizes/20191129_185737.jpg_2000x1500.jpg
+  - sizes/20191129_185737.jpg_112x150.jpg
+  - sizes/20191129_185737.jpg_188x250.jpg
+  - sizes/20191129_185737.jpg_262x350.jpg
 - filename: 20191129_185854
-  original: sizes/20191129_185854.jpg_2000x1500.jpg
-  thumbnail: sizes/20191129_185854.jpg_250x188.jpg
+  original: sizes/20191129_185854.jpg_262x350.jpg
+  thumbnail: sizes/20191129_185854.jpg_112x150.jpg
   sizes:
-  - sizes/20191129_185854.jpg_250x188.jpg
-  - sizes/20191129_185854.jpg_500x375.jpg
-  - sizes/20191129_185854.jpg_1000x750.jpg
-  - sizes/20191129_185854.jpg_2000x1500.jpg
+  - sizes/20191129_185854.jpg_112x150.jpg
+  - sizes/20191129_185854.jpg_188x250.jpg
+  - sizes/20191129_185854.jpg_262x350.jpg
 - filename: P1080601
-  original: sizes/P1080601.jpg_1500x2000.jpg
-  thumbnail: sizes/P1080601.jpg_188x250.jpg
+  original: sizes/P1080601.jpg_467x350.jpg
+  thumbnail: sizes/P1080601.jpg_200x150.jpg
   sizes:
-  - sizes/P1080601.jpg_188x250.jpg
-  - sizes/P1080601.jpg_375x500.jpg
-  - sizes/P1080601.jpg_750x1000.jpg
-  - sizes/P1080601.jpg_1500x2000.jpg
+  - sizes/P1080601.jpg_200x150.jpg
+  - sizes/P1080601.jpg_333x250.jpg
+  - sizes/P1080601.jpg_467x350.jpg
 - filename: z_20191128_122046
-  original: sizes/z_20191128_122046.jpg_2000x1500.jpg
-  thumbnail: sizes/z_20191128_122046.jpg_250x188.jpg
+  original: sizes/z_20191128_122046.jpg_262x350.jpg
+  thumbnail: sizes/z_20191128_122046.jpg_112x150.jpg
   sizes:
-  - sizes/z_20191128_122046.jpg_250x188.jpg
-  - sizes/z_20191128_122046.jpg_500x375.jpg
-  - sizes/z_20191128_122046.jpg_1000x750.jpg
-  - sizes/z_20191128_122046.jpg_2000x1500.jpg
+  - sizes/z_20191128_122046.jpg_112x150.jpg
+  - sizes/z_20191128_122046.jpg_188x250.jpg
+  - sizes/z_20191128_122046.jpg_262x350.jpg

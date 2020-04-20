@@ -1,35 +1,31 @@
 picture_path: foret_nord_cairns/daintree
 preview:
   filename: 0P1070505
-  original: sizes/0P1070505.jpg_1500x2000.jpg
-  thumbnail: sizes/0P1070505.jpg_188x250.jpg
+  original: sizes/0P1070505.jpg_467x350.jpg
+  thumbnail: sizes/0P1070505.jpg_200x150.jpg
   sizes:
-  - sizes/0P1070505.jpg_188x250.jpg
-  - sizes/0P1070505.jpg_375x500.jpg
-  - sizes/0P1070505.jpg_750x1000.jpg
-  - sizes/0P1070505.jpg_1500x2000.jpg
+  - sizes/0P1070505.jpg_200x150.jpg
+  - sizes/0P1070505.jpg_333x250.jpg
+  - sizes/0P1070505.jpg_467x350.jpg
 pictures:
 - filename: 0P1070505
-  original: sizes/0P1070505.jpg_1500x2000.jpg
-  thumbnail: sizes/0P1070505.jpg_188x250.jpg
+  original: sizes/0P1070505.jpg_467x350.jpg
+  thumbnail: sizes/0P1070505.jpg_200x150.jpg
   sizes:
-  - sizes/0P1070505.jpg_188x250.jpg
-  - sizes/0P1070505.jpg_375x500.jpg
-  - sizes/0P1070505.jpg_750x1000.jpg
-  - sizes/0P1070505.jpg_1500x2000.jpg
+  - sizes/0P1070505.jpg_200x150.jpg
+  - sizes/0P1070505.jpg_333x250.jpg
+  - sizes/0P1070505.jpg_467x350.jpg
 - filename: 1P1070503
-  original: sizes/1P1070503.jpg_1500x2000.jpg
-  thumbnail: sizes/1P1070503.jpg_187x250.jpg
+  original: sizes/1P1070503.jpg_467x350.jpg
+  thumbnail: sizes/1P1070503.jpg_200x150.jpg
   sizes:
-  - sizes/1P1070503.jpg_187x250.jpg
-  - sizes/1P1070503.jpg_375x500.jpg
-  - sizes/1P1070503.jpg_750x1000.jpg
-  - sizes/1P1070503.jpg_1500x2000.jpg
+  - sizes/1P1070503.jpg_200x150.jpg
+  - sizes/1P1070503.jpg_333x250.jpg
+  - sizes/1P1070503.jpg_467x350.jpg
 - filename: 2P1070502
-  original: sizes/2P1070502.jpg_1500x2000.jpg
-  thumbnail: sizes/2P1070502.jpg_187x250.jpg
+  original: sizes/2P1070502.jpg_467x350.jpg
+  thumbnail: sizes/2P1070502.jpg_200x150.jpg
   sizes:
-  - sizes/2P1070502.jpg_187x250.jpg
-  - sizes/2P1070502.jpg_375x500.jpg
-  - sizes/2P1070502.jpg_750x1000.jpg
-  - sizes/2P1070502.jpg_1500x2000.jpg
+  - sizes/2P1070502.jpg_200x150.jpg
+  - sizes/2P1070502.jpg_333x250.jpg
+  - sizes/2P1070502.jpg_467x350.jpg

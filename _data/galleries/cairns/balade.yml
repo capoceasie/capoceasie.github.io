@@ -1,67 +1,59 @@
 picture_path: cairns/balade
 preview:
   filename: 20191114_101548
-  original: sizes/20191114_101548.jpg_2000x1500.jpg
-  thumbnail: sizes/20191114_101548.jpg_250x188.jpg
+  original: sizes/20191114_101548.jpg_262x350.jpg
+  thumbnail: sizes/20191114_101548.jpg_112x150.jpg
   sizes:
-  - sizes/20191114_101548.jpg_250x188.jpg
-  - sizes/20191114_101548.jpg_500x375.jpg
-  - sizes/20191114_101548.jpg_1000x750.jpg
-  - sizes/20191114_101548.jpg_2000x1500.jpg
+  - sizes/20191114_101548.jpg_112x150.jpg
+  - sizes/20191114_101548.jpg_188x250.jpg
+  - sizes/20191114_101548.jpg_262x350.jpg
 pictures:
 - filename: 20191114_101548
-  original: sizes/20191114_101548.jpg_2000x1500.jpg
-  thumbnail: sizes/20191114_101548.jpg_250x188.jpg
+  original: sizes/20191114_101548.jpg_262x350.jpg
+  thumbnail: sizes/20191114_101548.jpg_112x150.jpg
   sizes:
-  - sizes/20191114_101548.jpg_250x188.jpg
-  - sizes/20191114_101548.jpg_500x375.jpg
-  - sizes/20191114_101548.jpg_1000x750.jpg
-  - sizes/20191114_101548.jpg_2000x1500.jpg
+  - sizes/20191114_101548.jpg_112x150.jpg
+  - sizes/20191114_101548.jpg_188x250.jpg
+  - sizes/20191114_101548.jpg_262x350.jpg
 - filename: 20191114_154658
-  original: sizes/20191114_154658.jpg_2000x1500.jpg
-  thumbnail: sizes/20191114_154658.jpg_250x188.jpg
+  original: sizes/20191114_154658.jpg_262x350.jpg
+  thumbnail: sizes/20191114_154658.jpg_112x150.jpg
   sizes:
-  - sizes/20191114_154658.jpg_250x188.jpg
-  - sizes/20191114_154658.jpg_500x375.jpg
-  - sizes/20191114_154658.jpg_1000x750.jpg
-  - sizes/20191114_154658.jpg_2000x1500.jpg
+  - sizes/20191114_154658.jpg_112x150.jpg
+  - sizes/20191114_154658.jpg_188x250.jpg
+  - sizes/20191114_154658.jpg_262x350.jpg
 - filename: 20191114_154756
-  original: sizes/20191114_154756.jpg_2000x1500.jpg
-  thumbnail: sizes/20191114_154756.jpg_250x188.jpg
+  original: sizes/20191114_154756.jpg_262x350.jpg
+  thumbnail: sizes/20191114_154756.jpg_112x150.jpg
   sizes:
-  - sizes/20191114_154756.jpg_250x188.jpg
-  - sizes/20191114_154756.jpg_500x375.jpg
-  - sizes/20191114_154756.jpg_1000x750.jpg
-  - sizes/20191114_154756.jpg_2000x1500.jpg
+  - sizes/20191114_154756.jpg_112x150.jpg
+  - sizes/20191114_154756.jpg_188x250.jpg
+  - sizes/20191114_154756.jpg_262x350.jpg
 - filename: P1070346
-  original: sizes/P1070346.jpg_1500x2000.jpg
-  thumbnail: sizes/P1070346.jpg_188x250.jpg
+  original: sizes/P1070346.jpg_467x350.jpg
+  thumbnail: sizes/P1070346.jpg_200x150.jpg
   sizes:
-  - sizes/P1070346.jpg_188x250.jpg
-  - sizes/P1070346.jpg_375x500.jpg
-  - sizes/P1070346.jpg_750x1000.jpg
-  - sizes/P1070346.jpg_1500x2000.jpg
+  - sizes/P1070346.jpg_200x150.jpg
+  - sizes/P1070346.jpg_333x250.jpg
+  - sizes/P1070346.jpg_467x350.jpg
 - filename: P1070352
-  original: sizes/P1070352.jpg_1500x2000.jpg
-  thumbnail: sizes/P1070352.jpg_188x250.jpg
+  original: sizes/P1070352.jpg_467x350.jpg
+  thumbnail: sizes/P1070352.jpg_200x150.jpg
   sizes:
-  - sizes/P1070352.jpg_188x250.jpg
-  - sizes/P1070352.jpg_375x500.jpg
-  - sizes/P1070352.jpg_750x1000.jpg
-  - sizes/P1070352.jpg_1500x2000.jpg
+  - sizes/P1070352.jpg_200x150.jpg
+  - sizes/P1070352.jpg_333x250.jpg
+  - sizes/P1070352.jpg_467x350.jpg
 - filename: P1070366
-  original: sizes/P1070366.jpg_1500x2000.jpg
-  thumbnail: sizes/P1070366.jpg_188x250.jpg
+  original: sizes/P1070366.jpg_467x350.jpg
+  thumbnail: sizes/P1070366.jpg_200x150.jpg
   sizes:
-  - sizes/P1070366.jpg_188x250.jpg
-  - sizes/P1070366.jpg_375x500.jpg
-  - sizes/P1070366.jpg_750x1000.jpg
-  - sizes/P1070366.jpg_1500x2000.jpg
+  - sizes/P1070366.jpg_200x150.jpg
+  - sizes/P1070366.jpg_333x250.jpg
+  - sizes/P1070366.jpg_467x350.jpg
 - filename: P1070371
-  original: sizes/P1070371.jpg_2000x1500.jpg
-  thumbnail: sizes/P1070371.jpg_250x188.jpg
+  original: sizes/P1070371.jpg_262x350.jpg
+  thumbnail: sizes/P1070371.jpg_112x150.jpg
   sizes:
-  - sizes/P1070371.jpg_250x188.jpg
-  - sizes/P1070371.jpg_500x375.jpg
-  - sizes/P1070371.jpg_1000x750.jpg
-  - sizes/P1070371.jpg_2000x1500.jpg
+  - sizes/P1070371.jpg_112x150.jpg
+  - sizes/P1070371.jpg_188x250.jpg
+  - sizes/P1070371.jpg_262x350.jpg

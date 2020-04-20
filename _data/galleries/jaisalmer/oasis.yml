@@ -1,30 +1,24 @@
 picture_path: jaisalmer/oasis
 preview:
   filename: P1110782
-  original: sizes/P1110782.jpg_733x550.jpg
+  original: sizes/P1110782.jpg_467x350.jpg
   thumbnail: sizes/P1110782.jpg_200x150.jpg
   sizes:
   - sizes/P1110782.jpg_200x150.jpg
   - sizes/P1110782.jpg_333x250.jpg
   - sizes/P1110782.jpg_467x350.jpg
-  - sizes/P1110782.jpg_600x450.jpg
-  - sizes/P1110782.jpg_733x550.jpg
 pictures:
 - filename: P1110782
-  original: sizes/P1110782.jpg_733x550.jpg
+  original: sizes/P1110782.jpg_467x350.jpg
   thumbnail: sizes/P1110782.jpg_200x150.jpg
   sizes:
   - sizes/P1110782.jpg_200x150.jpg
   - sizes/P1110782.jpg_333x250.jpg
   - sizes/P1110782.jpg_467x350.jpg
-  - sizes/P1110782.jpg_600x450.jpg
-  - sizes/P1110782.jpg_733x550.jpg
 - filename: P1110792
-  original: sizes/P1110792.jpg_733x550.jpg
+  original: sizes/P1110792.jpg_467x350.jpg
   thumbnail: sizes/P1110792.jpg_200x150.jpg
   sizes:
   - sizes/P1110792.jpg_200x150.jpg
   - sizes/P1110792.jpg_333x250.jpg
   - sizes/P1110792.jpg_467x350.jpg
-  - sizes/P1110792.jpg_600x450.jpg
-  - sizes/P1110792.jpg_733x550.jpg

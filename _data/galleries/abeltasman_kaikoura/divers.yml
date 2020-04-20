@@ -1,35 +1,31 @@
 picture_path: abeltasman_kaikoura/divers
 preview:
   filename: 20191212_104600
-  original: sizes/20191212_104600.jpg_1500x2000.jpg
-  thumbnail: sizes/20191212_104600.jpg_187x250.jpg
+  original: sizes/20191212_104600.jpg_467x350.jpg
+  thumbnail: sizes/20191212_104600.jpg_200x150.jpg
   sizes:
-  - sizes/20191212_104600.jpg_187x250.jpg
-  - sizes/20191212_104600.jpg_375x500.jpg
-  - sizes/20191212_104600.jpg_750x1000.jpg
-  - sizes/20191212_104600.jpg_1500x2000.jpg
+  - sizes/20191212_104600.jpg_200x150.jpg
+  - sizes/20191212_104600.jpg_333x250.jpg
+  - sizes/20191212_104600.jpg_467x350.jpg
 pictures:
 - filename: 20191212_104600
-  original: sizes/20191212_104600.jpg_1500x2000.jpg
-  thumbnail: sizes/20191212_104600.jpg_187x250.jpg
+  original: sizes/20191212_104600.jpg_467x350.jpg
+  thumbnail: sizes/20191212_104600.jpg_200x150.jpg
   sizes:
-  - sizes/20191212_104600.jpg_187x250.jpg
-  - sizes/20191212_104600.jpg_375x500.jpg
-  - sizes/20191212_104600.jpg_750x1000.jpg
-  - sizes/20191212_104600.jpg_1500x2000.jpg
+  - sizes/20191212_104600.jpg_200x150.jpg
+  - sizes/20191212_104600.jpg_333x250.jpg
+  - sizes/20191212_104600.jpg_467x350.jpg
 - filename: 20191212_122514
-  original: sizes/20191212_122514.jpg_1500x2000.jpg
-  thumbnail: sizes/20191212_122514.jpg_188x250.jpg
+  original: sizes/20191212_122514.jpg_467x350.jpg
+  thumbnail: sizes/20191212_122514.jpg_200x150.jpg
   sizes:
-  - sizes/20191212_122514.jpg_188x250.jpg
-  - sizes/20191212_122514.jpg_375x500.jpg
-  - sizes/20191212_122514.jpg_750x1000.jpg
-  - sizes/20191212_122514.jpg_1500x2000.jpg
+  - sizes/20191212_122514.jpg_200x150.jpg
+  - sizes/20191212_122514.jpg_333x250.jpg
+  - sizes/20191212_122514.jpg_467x350.jpg
 - filename: 20191213_165127
-  original: sizes/20191213_165127.jpg_1125x2000.jpg
-  thumbnail: sizes/20191213_165127.jpg_141x250.jpg
+  original: sizes/20191213_165127.jpg_622x350.jpg
+  thumbnail: sizes/20191213_165127.jpg_267x150.jpg
   sizes:
-  - sizes/20191213_165127.jpg_141x250.jpg
-  - sizes/20191213_165127.jpg_281x500.jpg
-  - sizes/20191213_165127.jpg_562x1000.jpg
-  - sizes/20191213_165127.jpg_1125x2000.jpg
+  - sizes/20191213_165127.jpg_267x150.jpg
+  - sizes/20191213_165127.jpg_444x250.jpg
+  - sizes/20191213_165127.jpg_622x350.jpg

@@ -1,19 +1,17 @@
 picture_path: rockampton_melbourne/carte
 preview:
   filename: carte
-  original: sizes/carte.jpg_1613x2000.jpg
-  thumbnail: sizes/carte.jpg_202x250.jpg
+  original: sizes/carte.jpg_434x350.jpg
+  thumbnail: sizes/carte.jpg_186x150.jpg
   sizes:
-  - sizes/carte.jpg_202x250.jpg
-  - sizes/carte.jpg_403x500.jpg
-  - sizes/carte.jpg_806x1000.jpg
-  - sizes/carte.jpg_1613x2000.jpg
+  - sizes/carte.jpg_186x150.jpg
+  - sizes/carte.jpg_310x250.jpg
+  - sizes/carte.jpg_434x350.jpg
 pictures:
 - filename: carte
-  original: sizes/carte.jpg_1613x2000.jpg
-  thumbnail: sizes/carte.jpg_202x250.jpg
+  original: sizes/carte.jpg_434x350.jpg
+  thumbnail: sizes/carte.jpg_186x150.jpg
   sizes:
-  - sizes/carte.jpg_202x250.jpg
-  - sizes/carte.jpg_403x500.jpg
-  - sizes/carte.jpg_806x1000.jpg
-  - sizes/carte.jpg_1613x2000.jpg
+  - sizes/carte.jpg_186x150.jpg
+  - sizes/carte.jpg_310x250.jpg
+  - sizes/carte.jpg_434x350.jpg

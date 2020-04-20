@@ -1,67 +1,59 @@
 picture_path: fin_sejour_nz/wineyard
 preview:
   filename: P1110023
-  original: sizes/P1110023.jpg_1500x2000.jpg
-  thumbnail: sizes/P1110023.jpg_187x250.jpg
+  original: sizes/P1110023.jpg_467x350.jpg
+  thumbnail: sizes/P1110023.jpg_200x150.jpg
   sizes:
-  - sizes/P1110023.jpg_187x250.jpg
-  - sizes/P1110023.jpg_375x500.jpg
-  - sizes/P1110023.jpg_750x1000.jpg
-  - sizes/P1110023.jpg_1500x2000.jpg
+  - sizes/P1110023.jpg_200x150.jpg
+  - sizes/P1110023.jpg_333x250.jpg
+  - sizes/P1110023.jpg_467x350.jpg
 pictures:
 - filename: P1110023
-  original: sizes/P1110023.jpg_1500x2000.jpg
-  thumbnail: sizes/P1110023.jpg_187x250.jpg
+  original: sizes/P1110023.jpg_467x350.jpg
+  thumbnail: sizes/P1110023.jpg_200x150.jpg
   sizes:
-  - sizes/P1110023.jpg_187x250.jpg
-  - sizes/P1110023.jpg_375x500.jpg
-  - sizes/P1110023.jpg_750x1000.jpg
-  - sizes/P1110023.jpg_1500x2000.jpg
+  - sizes/P1110023.jpg_200x150.jpg
+  - sizes/P1110023.jpg_333x250.jpg
+  - sizes/P1110023.jpg_467x350.jpg
 - filename: P1110024
-  original: sizes/P1110024.jpg_1500x2000.jpg
-  thumbnail: sizes/P1110024.jpg_188x250.jpg
+  original: sizes/P1110024.jpg_467x350.jpg
+  thumbnail: sizes/P1110024.jpg_200x150.jpg
   sizes:
-  - sizes/P1110024.jpg_188x250.jpg
-  - sizes/P1110024.jpg_375x500.jpg
-  - sizes/P1110024.jpg_750x1000.jpg
-  - sizes/P1110024.jpg_1500x2000.jpg
+  - sizes/P1110024.jpg_200x150.jpg
+  - sizes/P1110024.jpg_333x250.jpg
+  - sizes/P1110024.jpg_467x350.jpg
 - filename: P1110026
-  original: sizes/P1110026.jpg_1500x2000.jpg
-  thumbnail: sizes/P1110026.jpg_188x250.jpg
+  original: sizes/P1110026.jpg_467x350.jpg
+  thumbnail: sizes/P1110026.jpg_200x150.jpg
   sizes:
-  - sizes/P1110026.jpg_188x250.jpg
-  - sizes/P1110026.jpg_375x500.jpg
-  - sizes/P1110026.jpg_750x1000.jpg
-  - sizes/P1110026.jpg_1500x2000.jpg
+  - sizes/P1110026.jpg_200x150.jpg
+  - sizes/P1110026.jpg_333x250.jpg
+  - sizes/P1110026.jpg_467x350.jpg
 - filename: P1110027
-  original: sizes/P1110027.jpg_1500x2000.jpg
-  thumbnail: sizes/P1110027.jpg_188x250.jpg
+  original: sizes/P1110027.jpg_467x350.jpg
+  thumbnail: sizes/P1110027.jpg_200x150.jpg
   sizes:
-  - sizes/P1110027.jpg_188x250.jpg
-  - sizes/P1110027.jpg_375x500.jpg
-  - sizes/P1110027.jpg_750x1000.jpg
-  - sizes/P1110027.jpg_1500x2000.jpg
+  - sizes/P1110027.jpg_200x150.jpg
+  - sizes/P1110027.jpg_333x250.jpg
+  - sizes/P1110027.jpg_467x350.jpg
 - filename: P1110029
-  original: sizes/P1110029.jpg_2000x1500.jpg
-  thumbnail: sizes/P1110029.jpg_250x188.jpg
+  original: sizes/P1110029.jpg_262x350.jpg
+  thumbnail: sizes/P1110029.jpg_112x150.jpg
   sizes:
-  - sizes/P1110029.jpg_250x188.jpg
-  - sizes/P1110029.jpg_500x375.jpg
-  - sizes/P1110029.jpg_1000x750.jpg
-  - sizes/P1110029.jpg_2000x1500.jpg
+  - sizes/P1110029.jpg_112x150.jpg
+  - sizes/P1110029.jpg_188x250.jpg
+  - sizes/P1110029.jpg_262x350.jpg
 - filename: P1110033
-  original: sizes/P1110033.jpg_1500x2000.jpg
-  thumbnail: sizes/P1110033.jpg_188x250.jpg
+  original: sizes/P1110033.jpg_467x350.jpg
+  thumbnail: sizes/P1110033.jpg_200x150.jpg
   sizes:
-  - sizes/P1110033.jpg_188x250.jpg
-  - sizes/P1110033.jpg_375x500.jpg
-  - sizes/P1110033.jpg_750x1000.jpg
-  - sizes/P1110033.jpg_1500x2000.jpg
+  - sizes/P1110033.jpg_200x150.jpg
+  - sizes/P1110033.jpg_333x250.jpg
+  - sizes/P1110033.jpg_467x350.jpg
 - filename: P1110035
-  original: sizes/P1110035.jpg_1500x2000.jpg
-  thumbnail: sizes/P1110035.jpg_188x250.jpg
+  original: sizes/P1110035.jpg_467x350.jpg
+  thumbnail: sizes/P1110035.jpg_200x150.jpg
   sizes:
-  - sizes/P1110035.jpg_188x250.jpg
-  - sizes/P1110035.jpg_375x500.jpg
-  - sizes/P1110035.jpg_750x1000.jpg
-  - sizes/P1110035.jpg_1500x2000.jpg
+  - sizes/P1110035.jpg_200x150.jpg
+  - sizes/P1110035.jpg_333x250.jpg
+  - sizes/P1110035.jpg_467x350.jpg

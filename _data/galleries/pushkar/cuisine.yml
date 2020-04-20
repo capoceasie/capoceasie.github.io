@@ -1,59 +1,52 @@
 picture_path: pushkar/cuisine
 preview:
   filename: 20191226_114107
-  original: sizes/20191226_114107.jpg_1125x2000.jpg
-  thumbnail: sizes/20191226_114107.jpg_141x250.jpg
+  original: sizes/20191226_114107.jpg_622x350.jpg
+  thumbnail: sizes/20191226_114107.jpg_267x150.jpg
   sizes:
-  - sizes/20191226_114107.jpg_141x250.jpg
-  - sizes/20191226_114107.jpg_281x500.jpg
-  - sizes/20191226_114107.jpg_562x1000.jpg
-  - sizes/20191226_114107.jpg_1125x2000.jpg
+  - sizes/20191226_114107.jpg_267x150.jpg
+  - sizes/20191226_114107.jpg_444x250.jpg
+  - sizes/20191226_114107.jpg_622x350.jpg
 pictures:
 - filename: 20191226_114107
-  original: sizes/20191226_114107.jpg_1125x2000.jpg
-  thumbnail: sizes/20191226_114107.jpg_141x250.jpg
+  original: sizes/20191226_114107.jpg_622x350.jpg
+  thumbnail: sizes/20191226_114107.jpg_267x150.jpg
   sizes:
-  - sizes/20191226_114107.jpg_141x250.jpg
-  - sizes/20191226_114107.jpg_281x500.jpg
-  - sizes/20191226_114107.jpg_562x1000.jpg
-  - sizes/20191226_114107.jpg_1125x2000.jpg
+  - sizes/20191226_114107.jpg_267x150.jpg
+  - sizes/20191226_114107.jpg_444x250.jpg
+  - sizes/20191226_114107.jpg_622x350.jpg
 - filename: 20191226_122919
-  original: sizes/20191226_122919.jpg_2000x1500.jpg
-  thumbnail: sizes/20191226_122919.jpg_250x188.jpg
+  original: sizes/20191226_122919.jpg_262x350.jpg
+  thumbnail: sizes/20191226_122919.jpg_112x150.jpg
   sizes:
-  - sizes/20191226_122919.jpg_250x188.jpg
-  - sizes/20191226_122919.jpg_500x375.jpg
-  - sizes/20191226_122919.jpg_1000x750.jpg
-  - sizes/20191226_122919.jpg_2000x1500.jpg
+  - sizes/20191226_122919.jpg_112x150.jpg
+  - sizes/20191226_122919.jpg_188x250.jpg
+  - sizes/20191226_122919.jpg_262x350.jpg
 - filename: 20191226_124041
-  original: sizes/20191226_124041.jpg_2000x1500.jpg
-  thumbnail: sizes/20191226_124041.jpg_250x188.jpg
+  original: sizes/20191226_124041.jpg_262x350.jpg
+  thumbnail: sizes/20191226_124041.jpg_112x150.jpg
   sizes:
-  - sizes/20191226_124041.jpg_250x188.jpg
-  - sizes/20191226_124041.jpg_500x375.jpg
-  - sizes/20191226_124041.jpg_1000x750.jpg
-  - sizes/20191226_124041.jpg_2000x1500.jpg
+  - sizes/20191226_124041.jpg_112x150.jpg
+  - sizes/20191226_124041.jpg_188x250.jpg
+  - sizes/20191226_124041.jpg_262x350.jpg
 - filename: 20191226_124354
-  original: sizes/20191226_124354.jpg_2000x1500.jpg
-  thumbnail: sizes/20191226_124354.jpg_250x188.jpg
+  original: sizes/20191226_124354.jpg_262x350.jpg
+  thumbnail: sizes/20191226_124354.jpg_112x150.jpg
   sizes:
-  - sizes/20191226_124354.jpg_250x188.jpg
-  - sizes/20191226_124354.jpg_500x375.jpg
-  - sizes/20191226_124354.jpg_1000x750.jpg
-  - sizes/20191226_124354.jpg_2000x1500.jpg
+  - sizes/20191226_124354.jpg_112x150.jpg
+  - sizes/20191226_124354.jpg_188x250.jpg
+  - sizes/20191226_124354.jpg_262x350.jpg
 - filename: 20191226_124833
-  original: sizes/20191226_124833.jpg_2000x1500.jpg
-  thumbnail: sizes/20191226_124833.jpg_250x188.jpg
+  original: sizes/20191226_124833.jpg_262x350.jpg
+  thumbnail: sizes/20191226_124833.jpg_112x150.jpg
   sizes:
-  - sizes/20191226_124833.jpg_250x188.jpg
-  - sizes/20191226_124833.jpg_500x375.jpg
-  - sizes/20191226_124833.jpg_1000x750.jpg
-  - sizes/20191226_124833.jpg_2000x1500.jpg
+  - sizes/20191226_124833.jpg_112x150.jpg
+  - sizes/20191226_124833.jpg_188x250.jpg
+  - sizes/20191226_124833.jpg_262x350.jpg
 - filename: 20191226_132504
-  original: sizes/20191226_132504.jpg_2000x1500.jpg
-  thumbnail: sizes/20191226_132504.jpg_250x188.jpg
+  original: sizes/20191226_132504.jpg_262x350.jpg
+  thumbnail: sizes/20191226_132504.jpg_112x150.jpg
   sizes:
-  - sizes/20191226_132504.jpg_250x188.jpg
-  - sizes/20191226_132504.jpg_500x375.jpg
-  - sizes/20191226_132504.jpg_1000x750.jpg
-  - sizes/20191226_132504.jpg_2000x1500.jpg
+  - sizes/20191226_132504.jpg_112x150.jpg
+  - sizes/20191226_132504.jpg_188x250.jpg
+  - sizes/20191226_132504.jpg_262x350.jpg

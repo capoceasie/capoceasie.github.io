@@ -1,27 +1,24 @@
 picture_path: foret_nord_cairns/mount_alexandra
 preview:
   filename: P1070380
-  original: sizes/P1070380.jpg_1500x2000.jpg
-  thumbnail: sizes/P1070380.jpg_188x250.jpg
+  original: sizes/P1070380.jpg_467x350.jpg
+  thumbnail: sizes/P1070380.jpg_200x150.jpg
   sizes:
-  - sizes/P1070380.jpg_188x250.jpg
-  - sizes/P1070380.jpg_375x500.jpg
-  - sizes/P1070380.jpg_750x1000.jpg
-  - sizes/P1070380.jpg_1500x2000.jpg
+  - sizes/P1070380.jpg_200x150.jpg
+  - sizes/P1070380.jpg_333x250.jpg
+  - sizes/P1070380.jpg_467x350.jpg
 pictures:
 - filename: P1070380
-  original: sizes/P1070380.jpg_1500x2000.jpg
-  thumbnail: sizes/P1070380.jpg_188x250.jpg
+  original: sizes/P1070380.jpg_467x350.jpg
+  thumbnail: sizes/P1070380.jpg_200x150.jpg
   sizes:
-  - sizes/P1070380.jpg_188x250.jpg
-  - sizes/P1070380.jpg_375x500.jpg
-  - sizes/P1070380.jpg_750x1000.jpg
-  - sizes/P1070380.jpg_1500x2000.jpg
+  - sizes/P1070380.jpg_200x150.jpg
+  - sizes/P1070380.jpg_333x250.jpg
+  - sizes/P1070380.jpg_467x350.jpg
 - filename: P1070382
-  original: sizes/P1070382.jpg_1500x2000.jpg
-  thumbnail: sizes/P1070382.jpg_188x250.jpg
+  original: sizes/P1070382.jpg_467x350.jpg
+  thumbnail: sizes/P1070382.jpg_200x150.jpg
   sizes:
-  - sizes/P1070382.jpg_188x250.jpg
-  - sizes/P1070382.jpg_375x500.jpg
-  - sizes/P1070382.jpg_750x1000.jpg
-  - sizes/P1070382.jpg_1500x2000.jpg
+  - sizes/P1070382.jpg_200x150.jpg
+  - sizes/P1070382.jpg_333x250.jpg
+  - sizes/P1070382.jpg_467x350.jpg

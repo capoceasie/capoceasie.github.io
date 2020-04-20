@@ -1,43 +1,38 @@
 picture_path: fin_sejour_nz/huka_fall
 preview:
   filename: P1100964
-  original: sizes/P1100964.jpg_2000x1500.jpg
-  thumbnail: sizes/P1100964.jpg_250x188.jpg
+  original: sizes/P1100964.jpg_262x350.jpg
+  thumbnail: sizes/P1100964.jpg_112x150.jpg
   sizes:
-  - sizes/P1100964.jpg_250x188.jpg
-  - sizes/P1100964.jpg_500x375.jpg
-  - sizes/P1100964.jpg_1000x750.jpg
-  - sizes/P1100964.jpg_2000x1500.jpg
+  - sizes/P1100964.jpg_112x150.jpg
+  - sizes/P1100964.jpg_188x250.jpg
+  - sizes/P1100964.jpg_262x350.jpg
 pictures:
 - filename: P1100964
-  original: sizes/P1100964.jpg_2000x1500.jpg
-  thumbnail: sizes/P1100964.jpg_250x188.jpg
+  original: sizes/P1100964.jpg_262x350.jpg
+  thumbnail: sizes/P1100964.jpg_112x150.jpg
   sizes:
-  - sizes/P1100964.jpg_250x188.jpg
-  - sizes/P1100964.jpg_500x375.jpg
-  - sizes/P1100964.jpg_1000x750.jpg
-  - sizes/P1100964.jpg_2000x1500.jpg
+  - sizes/P1100964.jpg_112x150.jpg
+  - sizes/P1100964.jpg_188x250.jpg
+  - sizes/P1100964.jpg_262x350.jpg
 - filename: P1100966
-  original: sizes/P1100966.jpg_2000x1500.jpg
-  thumbnail: sizes/P1100966.jpg_250x188.jpg
+  original: sizes/P1100966.jpg_262x350.jpg
+  thumbnail: sizes/P1100966.jpg_112x150.jpg
   sizes:
-  - sizes/P1100966.jpg_250x188.jpg
-  - sizes/P1100966.jpg_500x375.jpg
-  - sizes/P1100966.jpg_1000x750.jpg
-  - sizes/P1100966.jpg_2000x1500.jpg
+  - sizes/P1100966.jpg_112x150.jpg
+  - sizes/P1100966.jpg_188x250.jpg
+  - sizes/P1100966.jpg_262x350.jpg
 - filename: P1100969
-  original: sizes/P1100969.jpg_1500x2000.jpg
-  thumbnail: sizes/P1100969.jpg_188x250.jpg
+  original: sizes/P1100969.jpg_467x350.jpg
+  thumbnail: sizes/P1100969.jpg_200x150.jpg
   sizes:
-  - sizes/P1100969.jpg_188x250.jpg
-  - sizes/P1100969.jpg_375x500.jpg
-  - sizes/P1100969.jpg_750x1000.jpg
-  - sizes/P1100969.jpg_1500x2000.jpg
+  - sizes/P1100969.jpg_200x150.jpg
+  - sizes/P1100969.jpg_333x250.jpg
+  - sizes/P1100969.jpg_467x350.jpg
 - filename: P1100971
-  original: sizes/P1100971.jpg_1500x2000.jpg
-  thumbnail: sizes/P1100971.jpg_188x250.jpg
+  original: sizes/P1100971.jpg_467x350.jpg
+  thumbnail: sizes/P1100971.jpg_200x150.jpg
   sizes:
-  - sizes/P1100971.jpg_188x250.jpg
-  - sizes/P1100971.jpg_375x500.jpg
-  - sizes/P1100971.jpg_750x1000.jpg
-  - sizes/P1100971.jpg_1500x2000.jpg
+  - sizes/P1100971.jpg_200x150.jpg
+  - sizes/P1100971.jpg_333x250.jpg
+  - sizes/P1100971.jpg_467x350.jpg

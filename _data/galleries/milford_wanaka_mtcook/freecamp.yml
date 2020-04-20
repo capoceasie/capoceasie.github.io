@@ -1,43 +1,38 @@
 picture_path: milford_wanaka_mtcook/freecamp
 preview:
   filename: 20191208_204212
-  original: sizes/20191208_204212.jpg_1500x2000.jpg
-  thumbnail: sizes/20191208_204212.jpg_188x250.jpg
+  original: sizes/20191208_204212.jpg_467x350.jpg
+  thumbnail: sizes/20191208_204212.jpg_200x150.jpg
   sizes:
-  - sizes/20191208_204212.jpg_188x250.jpg
-  - sizes/20191208_204212.jpg_375x500.jpg
-  - sizes/20191208_204212.jpg_750x1000.jpg
-  - sizes/20191208_204212.jpg_1500x2000.jpg
+  - sizes/20191208_204212.jpg_200x150.jpg
+  - sizes/20191208_204212.jpg_333x250.jpg
+  - sizes/20191208_204212.jpg_467x350.jpg
 pictures:
 - filename: 20191208_204212
-  original: sizes/20191208_204212.jpg_1500x2000.jpg
-  thumbnail: sizes/20191208_204212.jpg_188x250.jpg
+  original: sizes/20191208_204212.jpg_467x350.jpg
+  thumbnail: sizes/20191208_204212.jpg_200x150.jpg
   sizes:
-  - sizes/20191208_204212.jpg_188x250.jpg
-  - sizes/20191208_204212.jpg_375x500.jpg
-  - sizes/20191208_204212.jpg_750x1000.jpg
-  - sizes/20191208_204212.jpg_1500x2000.jpg
+  - sizes/20191208_204212.jpg_200x150.jpg
+  - sizes/20191208_204212.jpg_333x250.jpg
+  - sizes/20191208_204212.jpg_467x350.jpg
 - filename: P1090610
-  original: sizes/P1090610.jpg_1500x2000.jpg
-  thumbnail: sizes/P1090610.jpg_188x250.jpg
+  original: sizes/P1090610.jpg_467x350.jpg
+  thumbnail: sizes/P1090610.jpg_200x150.jpg
   sizes:
-  - sizes/P1090610.jpg_188x250.jpg
-  - sizes/P1090610.jpg_375x500.jpg
-  - sizes/P1090610.jpg_750x1000.jpg
-  - sizes/P1090610.jpg_1500x2000.jpg
+  - sizes/P1090610.jpg_200x150.jpg
+  - sizes/P1090610.jpg_333x250.jpg
+  - sizes/P1090610.jpg_467x350.jpg
 - filename: P1090615
-  original: sizes/P1090615.jpg_1500x2000.jpg
-  thumbnail: sizes/P1090615.jpg_188x250.jpg
+  original: sizes/P1090615.jpg_467x350.jpg
+  thumbnail: sizes/P1090615.jpg_200x150.jpg
   sizes:
-  - sizes/P1090615.jpg_188x250.jpg
-  - sizes/P1090615.jpg_375x500.jpg
-  - sizes/P1090615.jpg_750x1000.jpg
-  - sizes/P1090615.jpg_1500x2000.jpg
+  - sizes/P1090615.jpg_200x150.jpg
+  - sizes/P1090615.jpg_333x250.jpg
+  - sizes/P1090615.jpg_467x350.jpg
 - filename: P1090616
-  original: sizes/P1090616.jpg_1500x2000.jpg
-  thumbnail: sizes/P1090616.jpg_188x250.jpg
+  original: sizes/P1090616.jpg_467x350.jpg
+  thumbnail: sizes/P1090616.jpg_200x150.jpg
   sizes:
-  - sizes/P1090616.jpg_188x250.jpg
-  - sizes/P1090616.jpg_375x500.jpg
-  - sizes/P1090616.jpg_750x1000.jpg
-  - sizes/P1090616.jpg_1500x2000.jpg
+  - sizes/P1090616.jpg_200x150.jpg
+  - sizes/P1090616.jpg_333x250.jpg
+  - sizes/P1090616.jpg_467x350.jpg

@@ -1,27 +1,24 @@
 picture_path: christchurch_akaroa/cartes
 preview:
   filename: carte_detail_20191203_nz_akaroa
-  original: sizes/carte_detail_20191203_nz_akaroa.jpg_1457x2000.jpg
-  thumbnail: sizes/carte_detail_20191203_nz_akaroa.jpg_182x250.jpg
+  original: sizes/carte_detail_20191203_nz_akaroa.jpg_480x350.jpg
+  thumbnail: sizes/carte_detail_20191203_nz_akaroa.jpg_206x150.jpg
   sizes:
-  - sizes/carte_detail_20191203_nz_akaroa.jpg_182x250.jpg
-  - sizes/carte_detail_20191203_nz_akaroa.jpg_364x500.jpg
-  - sizes/carte_detail_20191203_nz_akaroa.jpg_728x1000.jpg
-  - sizes/carte_detail_20191203_nz_akaroa.jpg_1457x2000.jpg
+  - sizes/carte_detail_20191203_nz_akaroa.jpg_206x150.jpg
+  - sizes/carte_detail_20191203_nz_akaroa.jpg_343x250.jpg
+  - sizes/carte_detail_20191203_nz_akaroa.jpg_480x350.jpg
 pictures:
 - filename: carte_detail_20191203_nz_akaroa
-  original: sizes/carte_detail_20191203_nz_akaroa.jpg_1457x2000.jpg
-  thumbnail: sizes/carte_detail_20191203_nz_akaroa.jpg_182x250.jpg
+  original: sizes/carte_detail_20191203_nz_akaroa.jpg_480x350.jpg
+  thumbnail: sizes/carte_detail_20191203_nz_akaroa.jpg_206x150.jpg
   sizes:
-  - sizes/carte_detail_20191203_nz_akaroa.jpg_182x250.jpg
-  - sizes/carte_detail_20191203_nz_akaroa.jpg_364x500.jpg
-  - sizes/carte_detail_20191203_nz_akaroa.jpg_728x1000.jpg
-  - sizes/carte_detail_20191203_nz_akaroa.jpg_1457x2000.jpg
+  - sizes/carte_detail_20191203_nz_akaroa.jpg_206x150.jpg
+  - sizes/carte_detail_20191203_nz_akaroa.jpg_343x250.jpg
+  - sizes/carte_detail_20191203_nz_akaroa.jpg_480x350.jpg
 - filename: carte_global_20191130_nz
-  original: sizes/carte_global_20191130_nz.jpg_1290x2000.jpg
-  thumbnail: sizes/carte_global_20191130_nz.jpg_161x250.jpg
+  original: sizes/carte_global_20191130_nz.jpg_543x350.jpg
+  thumbnail: sizes/carte_global_20191130_nz.jpg_233x150.jpg
   sizes:
-  - sizes/carte_global_20191130_nz.jpg_161x250.jpg
-  - sizes/carte_global_20191130_nz.jpg_323x500.jpg
-  - sizes/carte_global_20191130_nz.jpg_645x1000.jpg
-  - sizes/carte_global_20191130_nz.jpg_1290x2000.jpg
+  - sizes/carte_global_20191130_nz.jpg_233x150.jpg
+  - sizes/carte_global_20191130_nz.jpg_388x250.jpg
+  - sizes/carte_global_20191130_nz.jpg_543x350.jpg

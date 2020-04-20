@@ -1,35 +1,31 @@
 picture_path: centre_rouge/ay_visite_guidee
 preview:
   filename: P1060787
-  original: sizes/P1060787.jpg_1500x2000.jpg
-  thumbnail: sizes/P1060787.jpg_188x250.jpg
+  original: sizes/P1060787.jpg_467x350.jpg
+  thumbnail: sizes/P1060787.jpg_200x150.jpg
   sizes:
-  - sizes/P1060787.jpg_188x250.jpg
-  - sizes/P1060787.jpg_375x500.jpg
-  - sizes/P1060787.jpg_750x1000.jpg
-  - sizes/P1060787.jpg_1500x2000.jpg
+  - sizes/P1060787.jpg_200x150.jpg
+  - sizes/P1060787.jpg_333x250.jpg
+  - sizes/P1060787.jpg_467x350.jpg
 pictures:
 - filename: P1060787
-  original: sizes/P1060787.jpg_1500x2000.jpg
-  thumbnail: sizes/P1060787.jpg_188x250.jpg
+  original: sizes/P1060787.jpg_467x350.jpg
+  thumbnail: sizes/P1060787.jpg_200x150.jpg
   sizes:
-  - sizes/P1060787.jpg_188x250.jpg
-  - sizes/P1060787.jpg_375x500.jpg
-  - sizes/P1060787.jpg_750x1000.jpg
-  - sizes/P1060787.jpg_1500x2000.jpg
+  - sizes/P1060787.jpg_200x150.jpg
+  - sizes/P1060787.jpg_333x250.jpg
+  - sizes/P1060787.jpg_467x350.jpg
 - filename: P1060794
-  original: sizes/P1060794.jpg_1500x2000.jpg
-  thumbnail: sizes/P1060794.jpg_188x250.jpg
+  original: sizes/P1060794.jpg_467x350.jpg
+  thumbnail: sizes/P1060794.jpg_200x150.jpg
   sizes:
-  - sizes/P1060794.jpg_188x250.jpg
-  - sizes/P1060794.jpg_375x500.jpg
-  - sizes/P1060794.jpg_750x1000.jpg
-  - sizes/P1060794.jpg_1500x2000.jpg
+  - sizes/P1060794.jpg_200x150.jpg
+  - sizes/P1060794.jpg_333x250.jpg
+  - sizes/P1060794.jpg_467x350.jpg
 - filename: P1060795
-  original: sizes/P1060795.jpg_1500x2000.jpg
-  thumbnail: sizes/P1060795.jpg_188x250.jpg
+  original: sizes/P1060795.jpg_467x350.jpg
+  thumbnail: sizes/P1060795.jpg_200x150.jpg
   sizes:
-  - sizes/P1060795.jpg_188x250.jpg
-  - sizes/P1060795.jpg_375x500.jpg
-  - sizes/P1060795.jpg_750x1000.jpg
-  - sizes/P1060795.jpg_1500x2000.jpg
+  - sizes/P1060795.jpg_200x150.jpg
+  - sizes/P1060795.jpg_333x250.jpg
+  - sizes/P1060795.jpg_467x350.jpg

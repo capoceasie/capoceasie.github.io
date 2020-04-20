@@ -1,51 +1,45 @@
 picture_path: got_melbourne/4kennet_river_koala
 preview:
   filename: P1080269
-  original: sizes/P1080269.jpg_1500x2000.jpg
-  thumbnail: sizes/P1080269.jpg_188x250.jpg
+  original: sizes/P1080269.jpg_467x350.jpg
+  thumbnail: sizes/P1080269.jpg_200x150.jpg
   sizes:
-  - sizes/P1080269.jpg_188x250.jpg
-  - sizes/P1080269.jpg_375x500.jpg
-  - sizes/P1080269.jpg_750x1000.jpg
-  - sizes/P1080269.jpg_1500x2000.jpg
+  - sizes/P1080269.jpg_200x150.jpg
+  - sizes/P1080269.jpg_333x250.jpg
+  - sizes/P1080269.jpg_467x350.jpg
 pictures:
 - filename: P1080269
-  original: sizes/P1080269.jpg_1500x2000.jpg
-  thumbnail: sizes/P1080269.jpg_188x250.jpg
+  original: sizes/P1080269.jpg_467x350.jpg
+  thumbnail: sizes/P1080269.jpg_200x150.jpg
   sizes:
-  - sizes/P1080269.jpg_188x250.jpg
-  - sizes/P1080269.jpg_375x500.jpg
-  - sizes/P1080269.jpg_750x1000.jpg
-  - sizes/P1080269.jpg_1500x2000.jpg
+  - sizes/P1080269.jpg_200x150.jpg
+  - sizes/P1080269.jpg_333x250.jpg
+  - sizes/P1080269.jpg_467x350.jpg
 - filename: P1080275
-  original: sizes/P1080275.jpg_1500x2000.jpg
-  thumbnail: sizes/P1080275.jpg_188x250.jpg
+  original: sizes/P1080275.jpg_467x350.jpg
+  thumbnail: sizes/P1080275.jpg_200x150.jpg
   sizes:
-  - sizes/P1080275.jpg_188x250.jpg
-  - sizes/P1080275.jpg_375x500.jpg
-  - sizes/P1080275.jpg_750x1000.jpg
-  - sizes/P1080275.jpg_1500x2000.jpg
+  - sizes/P1080275.jpg_200x150.jpg
+  - sizes/P1080275.jpg_333x250.jpg
+  - sizes/P1080275.jpg_467x350.jpg
 - filename: P1080278
-  original: sizes/P1080278.jpg_1500x2000.jpg
-  thumbnail: sizes/P1080278.jpg_188x250.jpg
+  original: sizes/P1080278.jpg_467x350.jpg
+  thumbnail: sizes/P1080278.jpg_200x150.jpg
   sizes:
-  - sizes/P1080278.jpg_188x250.jpg
-  - sizes/P1080278.jpg_375x500.jpg
-  - sizes/P1080278.jpg_750x1000.jpg
-  - sizes/P1080278.jpg_1500x2000.jpg
+  - sizes/P1080278.jpg_200x150.jpg
+  - sizes/P1080278.jpg_333x250.jpg
+  - sizes/P1080278.jpg_467x350.jpg
 - filename: P1080308
-  original: sizes/P1080308.jpg_2000x1500.jpg
-  thumbnail: sizes/P1080308.jpg_250x188.jpg
+  original: sizes/P1080308.jpg_262x350.jpg
+  thumbnail: sizes/P1080308.jpg_112x150.jpg
   sizes:
-  - sizes/P1080308.jpg_250x188.jpg
-  - sizes/P1080308.jpg_500x375.jpg
-  - sizes/P1080308.jpg_1000x750.jpg
-  - sizes/P1080308.jpg_2000x1500.jpg
+  - sizes/P1080308.jpg_112x150.jpg
+  - sizes/P1080308.jpg_188x250.jpg
+  - sizes/P1080308.jpg_262x350.jpg
 - filename: P1080322
-  original: sizes/P1080322.jpg_2000x1500.jpg
-  thumbnail: sizes/P1080322.jpg_250x188.jpg
+  original: sizes/P1080322.jpg_263x350.jpg
+  thumbnail: sizes/P1080322.jpg_113x150.jpg
   sizes:
-  - sizes/P1080322.jpg_250x188.jpg
-  - sizes/P1080322.jpg_500x375.jpg
-  - sizes/P1080322.jpg_1000x750.jpg
-  - sizes/P1080322.jpg_2000x1500.jpg
+  - sizes/P1080322.jpg_113x150.jpg
+  - sizes/P1080322.jpg_188x250.jpg
+  - sizes/P1080322.jpg_263x350.jpg

@@ -1,35 +1,31 @@
 picture_path: cairns/bonus
 preview:
   filename: 418
-  original: sizes/418.jpg_1500x2000.jpg
-  thumbnail: sizes/418.jpg_188x250.jpg
+  original: sizes/418.jpg_467x350.jpg
+  thumbnail: sizes/418.jpg_200x150.jpg
   sizes:
-  - sizes/418.jpg_188x250.jpg
-  - sizes/418.jpg_375x500.jpg
-  - sizes/418.jpg_750x1000.jpg
-  - sizes/418.jpg_1500x2000.jpg
+  - sizes/418.jpg_200x150.jpg
+  - sizes/418.jpg_333x250.jpg
+  - sizes/418.jpg_467x350.jpg
 pictures:
 - filename: 418
-  original: sizes/418.jpg_1500x2000.jpg
-  thumbnail: sizes/418.jpg_188x250.jpg
+  original: sizes/418.jpg_467x350.jpg
+  thumbnail: sizes/418.jpg_200x150.jpg
   sizes:
-  - sizes/418.jpg_188x250.jpg
-  - sizes/418.jpg_375x500.jpg
-  - sizes/418.jpg_750x1000.jpg
-  - sizes/418.jpg_1500x2000.jpg
+  - sizes/418.jpg_200x150.jpg
+  - sizes/418.jpg_333x250.jpg
+  - sizes/418.jpg_467x350.jpg
 - filename: 449
-  original: sizes/449.jpg_1500x2000.jpg
-  thumbnail: sizes/449.jpg_188x250.jpg
+  original: sizes/449.jpg_467x350.jpg
+  thumbnail: sizes/449.jpg_200x150.jpg
   sizes:
-  - sizes/449.jpg_188x250.jpg
-  - sizes/449.jpg_375x500.jpg
-  - sizes/449.jpg_750x1000.jpg
-  - sizes/449.jpg_1500x2000.jpg
+  - sizes/449.jpg_200x150.jpg
+  - sizes/449.jpg_333x250.jpg
+  - sizes/449.jpg_467x350.jpg
 - filename: 504
-  original: sizes/504.jpg_1500x2000.jpg
-  thumbnail: sizes/504.jpg_188x250.jpg
+  original: sizes/504.jpg_467x350.jpg
+  thumbnail: sizes/504.jpg_200x150.jpg
   sizes:
-  - sizes/504.jpg_188x250.jpg
-  - sizes/504.jpg_375x500.jpg
-  - sizes/504.jpg_750x1000.jpg
-  - sizes/504.jpg_1500x2000.jpg
+  - sizes/504.jpg_200x150.jpg
+  - sizes/504.jpg_333x250.jpg
+  - sizes/504.jpg_467x350.jpg

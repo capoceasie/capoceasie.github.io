@@ -1,27 +1,24 @@
 picture_path: cairns/bateau
 preview:
   filename: 20191115_162949
-  original: sizes/20191115_162949.jpg_2000x1500.jpg
-  thumbnail: sizes/20191115_162949.jpg_250x187.jpg
+  original: sizes/20191115_162949.jpg_262x350.jpg
+  thumbnail: sizes/20191115_162949.jpg_112x150.jpg
   sizes:
-  - sizes/20191115_162949.jpg_250x187.jpg
-  - sizes/20191115_162949.jpg_500x375.jpg
-  - sizes/20191115_162949.jpg_1000x750.jpg
-  - sizes/20191115_162949.jpg_2000x1500.jpg
+  - sizes/20191115_162949.jpg_112x150.jpg
+  - sizes/20191115_162949.jpg_187x250.jpg
+  - sizes/20191115_162949.jpg_262x350.jpg
 pictures:
 - filename: 20191115_162949
-  original: sizes/20191115_162949.jpg_2000x1500.jpg
-  thumbnail: sizes/20191115_162949.jpg_250x187.jpg
+  original: sizes/20191115_162949.jpg_262x350.jpg
+  thumbnail: sizes/20191115_162949.jpg_112x150.jpg
   sizes:
-  - sizes/20191115_162949.jpg_250x187.jpg
-  - sizes/20191115_162949.jpg_500x375.jpg
-  - sizes/20191115_162949.jpg_1000x750.jpg
-  - sizes/20191115_162949.jpg_2000x1500.jpg
+  - sizes/20191115_162949.jpg_112x150.jpg
+  - sizes/20191115_162949.jpg_187x250.jpg
+  - sizes/20191115_162949.jpg_262x350.jpg
 - filename: 20191115_163035
-  original: sizes/20191115_163035.jpg_1500x2000.jpg
-  thumbnail: sizes/20191115_163035.jpg_188x250.jpg
+  original: sizes/20191115_163035.jpg_467x350.jpg
+  thumbnail: sizes/20191115_163035.jpg_200x150.jpg
   sizes:
-  - sizes/20191115_163035.jpg_188x250.jpg
-  - sizes/20191115_163035.jpg_375x500.jpg
-  - sizes/20191115_163035.jpg_750x1000.jpg
-  - sizes/20191115_163035.jpg_1500x2000.jpg
+  - sizes/20191115_163035.jpg_200x150.jpg
+  - sizes/20191115_163035.jpg_333x250.jpg
+  - sizes/20191115_163035.jpg_467x350.jpg

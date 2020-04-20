@@ -1,19 +1,17 @@
 picture_path: cairns/ma_combi
 preview:
   filename: 188
-  original: sizes/188.jpg_1333x2000.jpg
-  thumbnail: sizes/188.jpg_167x250.jpg
+  original: sizes/188.jpg_525x350.jpg
+  thumbnail: sizes/188.jpg_225x150.jpg
   sizes:
-  - sizes/188.jpg_167x250.jpg
-  - sizes/188.jpg_333x500.jpg
-  - sizes/188.jpg_667x1000.jpg
-  - sizes/188.jpg_1333x2000.jpg
+  - sizes/188.jpg_225x150.jpg
+  - sizes/188.jpg_375x250.jpg
+  - sizes/188.jpg_525x350.jpg
 pictures:
 - filename: 188
-  original: sizes/188.jpg_1333x2000.jpg
-  thumbnail: sizes/188.jpg_167x250.jpg
+  original: sizes/188.jpg_525x350.jpg
+  thumbnail: sizes/188.jpg_225x150.jpg
   sizes:
-  - sizes/188.jpg_167x250.jpg
-  - sizes/188.jpg_333x500.jpg
-  - sizes/188.jpg_667x1000.jpg
-  - sizes/188.jpg_1333x2000.jpg
+  - sizes/188.jpg_225x150.jpg
+  - sizes/188.jpg_375x250.jpg
+  - sizes/188.jpg_525x350.jpg

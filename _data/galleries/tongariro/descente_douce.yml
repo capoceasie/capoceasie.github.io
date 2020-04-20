@@ -1,35 +1,31 @@
 picture_path: tongariro/descente_douce
 preview:
   filename: P1100896
-  original: sizes/P1100896.jpg_1500x2000.jpg
-  thumbnail: sizes/P1100896.jpg_188x250.jpg
+  original: sizes/P1100896.jpg_467x350.jpg
+  thumbnail: sizes/P1100896.jpg_200x150.jpg
   sizes:
-  - sizes/P1100896.jpg_188x250.jpg
-  - sizes/P1100896.jpg_375x500.jpg
-  - sizes/P1100896.jpg_750x1000.jpg
-  - sizes/P1100896.jpg_1500x2000.jpg
+  - sizes/P1100896.jpg_200x150.jpg
+  - sizes/P1100896.jpg_333x250.jpg
+  - sizes/P1100896.jpg_467x350.jpg
 pictures:
 - filename: P1100896
-  original: sizes/P1100896.jpg_1500x2000.jpg
-  thumbnail: sizes/P1100896.jpg_188x250.jpg
+  original: sizes/P1100896.jpg_467x350.jpg
+  thumbnail: sizes/P1100896.jpg_200x150.jpg
   sizes:
-  - sizes/P1100896.jpg_188x250.jpg
-  - sizes/P1100896.jpg_375x500.jpg
-  - sizes/P1100896.jpg_750x1000.jpg
-  - sizes/P1100896.jpg_1500x2000.jpg
+  - sizes/P1100896.jpg_200x150.jpg
+  - sizes/P1100896.jpg_333x250.jpg
+  - sizes/P1100896.jpg_467x350.jpg
 - filename: P1100897
-  original: sizes/P1100897.jpg_2000x1500.jpg
-  thumbnail: sizes/P1100897.jpg_250x188.jpg
+  original: sizes/P1100897.jpg_262x350.jpg
+  thumbnail: sizes/P1100897.jpg_112x150.jpg
   sizes:
-  - sizes/P1100897.jpg_250x188.jpg
-  - sizes/P1100897.jpg_500x375.jpg
-  - sizes/P1100897.jpg_1000x750.jpg
-  - sizes/P1100897.jpg_2000x1500.jpg
+  - sizes/P1100897.jpg_112x150.jpg
+  - sizes/P1100897.jpg_188x250.jpg
+  - sizes/P1100897.jpg_262x350.jpg
 - filename: P1100907
-  original: sizes/P1100907.jpg_1500x2000.jpg
-  thumbnail: sizes/P1100907.jpg_188x250.jpg
+  original: sizes/P1100907.jpg_467x350.jpg
+  thumbnail: sizes/P1100907.jpg_200x150.jpg
   sizes:
-  - sizes/P1100907.jpg_188x250.jpg
-  - sizes/P1100907.jpg_375x500.jpg
-  - sizes/P1100907.jpg_750x1000.jpg
-  - sizes/P1100907.jpg_1500x2000.jpg
+  - sizes/P1100907.jpg_200x150.jpg
+  - sizes/P1100907.jpg_333x250.jpg
+  - sizes/P1100907.jpg_467x350.jpg

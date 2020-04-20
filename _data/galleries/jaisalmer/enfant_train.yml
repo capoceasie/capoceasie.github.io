@@ -1,21 +1,17 @@
 picture_path: jaisalmer/enfant_train
 preview:
   filename: 20191229_100801
-  original: sizes/20191229_100801.jpg_412x550.jpg
+  original: sizes/20191229_100801.jpg_262x350.jpg
   thumbnail: sizes/20191229_100801.jpg_112x150.jpg
   sizes:
   - sizes/20191229_100801.jpg_112x150.jpg
   - sizes/20191229_100801.jpg_188x250.jpg
   - sizes/20191229_100801.jpg_262x350.jpg
-  - sizes/20191229_100801.jpg_338x450.jpg
-  - sizes/20191229_100801.jpg_412x550.jpg
 pictures:
 - filename: 20191229_100801
-  original: sizes/20191229_100801.jpg_412x550.jpg
+  original: sizes/20191229_100801.jpg_262x350.jpg
   thumbnail: sizes/20191229_100801.jpg_112x150.jpg
   sizes:
   - sizes/20191229_100801.jpg_112x150.jpg
   - sizes/20191229_100801.jpg_188x250.jpg
   - sizes/20191229_100801.jpg_262x350.jpg
-  - sizes/20191229_100801.jpg_338x450.jpg
-  - sizes/20191229_100801.jpg_412x550.jpg

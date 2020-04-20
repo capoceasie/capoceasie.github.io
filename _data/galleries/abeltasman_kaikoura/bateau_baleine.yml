@@ -1,27 +1,24 @@
 picture_path: abeltasman_kaikoura/bateau_baleine
 preview:
   filename: 20191212_162132
-  original: sizes/20191212_162132.jpg_1500x2000.jpg
-  thumbnail: sizes/20191212_162132.jpg_188x250.jpg
+  original: sizes/20191212_162132.jpg_467x350.jpg
+  thumbnail: sizes/20191212_162132.jpg_200x150.jpg
   sizes:
-  - sizes/20191212_162132.jpg_188x250.jpg
-  - sizes/20191212_162132.jpg_375x500.jpg
-  - sizes/20191212_162132.jpg_750x1000.jpg
-  - sizes/20191212_162132.jpg_1500x2000.jpg
+  - sizes/20191212_162132.jpg_200x150.jpg
+  - sizes/20191212_162132.jpg_333x250.jpg
+  - sizes/20191212_162132.jpg_467x350.jpg
 pictures:
 - filename: 20191212_162132
-  original: sizes/20191212_162132.jpg_1500x2000.jpg
-  thumbnail: sizes/20191212_162132.jpg_188x250.jpg
+  original: sizes/20191212_162132.jpg_467x350.jpg
+  thumbnail: sizes/20191212_162132.jpg_200x150.jpg
   sizes:
-  - sizes/20191212_162132.jpg_188x250.jpg
-  - sizes/20191212_162132.jpg_375x500.jpg
-  - sizes/20191212_162132.jpg_750x1000.jpg
-  - sizes/20191212_162132.jpg_1500x2000.jpg
+  - sizes/20191212_162132.jpg_200x150.jpg
+  - sizes/20191212_162132.jpg_333x250.jpg
+  - sizes/20191212_162132.jpg_467x350.jpg
 - filename: 20191212_181633
-  original: sizes/20191212_181633.jpg_1500x2000.jpg
-  thumbnail: sizes/20191212_181633.jpg_188x250.jpg
+  original: sizes/20191212_181633.jpg_467x350.jpg
+  thumbnail: sizes/20191212_181633.jpg_200x150.jpg
   sizes:
-  - sizes/20191212_181633.jpg_188x250.jpg
-  - sizes/20191212_181633.jpg_375x500.jpg
-  - sizes/20191212_181633.jpg_750x1000.jpg
-  - sizes/20191212_181633.jpg_1500x2000.jpg
+  - sizes/20191212_181633.jpg_200x150.jpg
+  - sizes/20191212_181633.jpg_333x250.jpg
+  - sizes/20191212_181633.jpg_467x350.jpg

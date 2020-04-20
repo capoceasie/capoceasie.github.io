@@ -1,115 +1,101 @@
 picture_path: milford_wanaka_mtcook/route_wanaka
 preview:
   filename: 0P1090455
-  original: sizes/0P1090455.jpg_1500x2000.jpg
-  thumbnail: sizes/0P1090455.jpg_188x250.jpg
+  original: sizes/0P1090455.jpg_467x350.jpg
+  thumbnail: sizes/0P1090455.jpg_200x150.jpg
   sizes:
-  - sizes/0P1090455.jpg_188x250.jpg
-  - sizes/0P1090455.jpg_375x500.jpg
-  - sizes/0P1090455.jpg_750x1000.jpg
-  - sizes/0P1090455.jpg_1500x2000.jpg
+  - sizes/0P1090455.jpg_200x150.jpg
+  - sizes/0P1090455.jpg_333x250.jpg
+  - sizes/0P1090455.jpg_467x350.jpg
 pictures:
 - filename: 0P1090455
-  original: sizes/0P1090455.jpg_1500x2000.jpg
-  thumbnail: sizes/0P1090455.jpg_188x250.jpg
+  original: sizes/0P1090455.jpg_467x350.jpg
+  thumbnail: sizes/0P1090455.jpg_200x150.jpg
   sizes:
-  - sizes/0P1090455.jpg_188x250.jpg
-  - sizes/0P1090455.jpg_375x500.jpg
-  - sizes/0P1090455.jpg_750x1000.jpg
-  - sizes/0P1090455.jpg_1500x2000.jpg
+  - sizes/0P1090455.jpg_200x150.jpg
+  - sizes/0P1090455.jpg_333x250.jpg
+  - sizes/0P1090455.jpg_467x350.jpg
 - filename: 20191208_101559
-  original: sizes/20191208_101559.jpg_1500x2000.jpg
-  thumbnail: sizes/20191208_101559.jpg_187x250.jpg
+  original: sizes/20191208_101559.jpg_467x350.jpg
+  thumbnail: sizes/20191208_101559.jpg_200x150.jpg
   sizes:
-  - sizes/20191208_101559.jpg_187x250.jpg
-  - sizes/20191208_101559.jpg_375x500.jpg
-  - sizes/20191208_101559.jpg_750x1000.jpg
-  - sizes/20191208_101559.jpg_1500x2000.jpg
+  - sizes/20191208_101559.jpg_200x150.jpg
+  - sizes/20191208_101559.jpg_333x250.jpg
+  - sizes/20191208_101559.jpg_467x350.jpg
 - filename: 20191208_101604
-  original: sizes/20191208_101604.jpg_1500x2000.jpg
-  thumbnail: sizes/20191208_101604.jpg_187x250.jpg
+  original: sizes/20191208_101604.jpg_467x350.jpg
+  thumbnail: sizes/20191208_101604.jpg_200x150.jpg
   sizes:
-  - sizes/20191208_101604.jpg_187x250.jpg
-  - sizes/20191208_101604.jpg_375x500.jpg
-  - sizes/20191208_101604.jpg_750x1000.jpg
-  - sizes/20191208_101604.jpg_1500x2000.jpg
+  - sizes/20191208_101604.jpg_200x150.jpg
+  - sizes/20191208_101604.jpg_333x250.jpg
+  - sizes/20191208_101604.jpg_467x350.jpg
 - filename: P1090440
-  original: sizes/P1090440.jpg_1500x2000.jpg
-  thumbnail: sizes/P1090440.jpg_188x250.jpg
+  original: sizes/P1090440.jpg_467x350.jpg
+  thumbnail: sizes/P1090440.jpg_200x150.jpg
   sizes:
-  - sizes/P1090440.jpg_188x250.jpg
-  - sizes/P1090440.jpg_375x500.jpg
-  - sizes/P1090440.jpg_750x1000.jpg
-  - sizes/P1090440.jpg_1500x2000.jpg
+  - sizes/P1090440.jpg_200x150.jpg
+  - sizes/P1090440.jpg_333x250.jpg
+  - sizes/P1090440.jpg_467x350.jpg
 - filename: P1090443
-  original: sizes/P1090443.jpg_1500x2000.jpg
-  thumbnail: sizes/P1090443.jpg_188x250.jpg
+  original: sizes/P1090443.jpg_467x350.jpg
+  thumbnail: sizes/P1090443.jpg_200x150.jpg
   sizes:
-  - sizes/P1090443.jpg_188x250.jpg
-  - sizes/P1090443.jpg_375x500.jpg
-  - sizes/P1090443.jpg_750x1000.jpg
-  - sizes/P1090443.jpg_1500x2000.jpg
+  - sizes/P1090443.jpg_200x150.jpg
+  - sizes/P1090443.jpg_333x250.jpg
+  - sizes/P1090443.jpg_467x350.jpg
 - filename: P1090466
-  original: sizes/P1090466.jpg_1500x2000.jpg
-  thumbnail: sizes/P1090466.jpg_188x250.jpg
+  original: sizes/P1090466.jpg_467x350.jpg
+  thumbnail: sizes/P1090466.jpg_200x150.jpg
   sizes:
-  - sizes/P1090466.jpg_188x250.jpg
-  - sizes/P1090466.jpg_375x500.jpg
-  - sizes/P1090466.jpg_750x1000.jpg
-  - sizes/P1090466.jpg_1500x2000.jpg
+  - sizes/P1090466.jpg_200x150.jpg
+  - sizes/P1090466.jpg_333x250.jpg
+  - sizes/P1090466.jpg_467x350.jpg
 - filename: P1090488
-  original: sizes/P1090488.jpg_1500x2000.jpg
-  thumbnail: sizes/P1090488.jpg_188x250.jpg
+  original: sizes/P1090488.jpg_467x350.jpg
+  thumbnail: sizes/P1090488.jpg_200x150.jpg
   sizes:
-  - sizes/P1090488.jpg_188x250.jpg
-  - sizes/P1090488.jpg_375x500.jpg
-  - sizes/P1090488.jpg_750x1000.jpg
-  - sizes/P1090488.jpg_1500x2000.jpg
+  - sizes/P1090488.jpg_200x150.jpg
+  - sizes/P1090488.jpg_333x250.jpg
+  - sizes/P1090488.jpg_467x350.jpg
 - filename: P1090492
-  original: sizes/P1090492.jpg_1500x2000.jpg
-  thumbnail: sizes/P1090492.jpg_188x250.jpg
+  original: sizes/P1090492.jpg_467x350.jpg
+  thumbnail: sizes/P1090492.jpg_200x150.jpg
   sizes:
-  - sizes/P1090492.jpg_188x250.jpg
-  - sizes/P1090492.jpg_375x500.jpg
-  - sizes/P1090492.jpg_750x1000.jpg
-  - sizes/P1090492.jpg_1500x2000.jpg
+  - sizes/P1090492.jpg_200x150.jpg
+  - sizes/P1090492.jpg_333x250.jpg
+  - sizes/P1090492.jpg_467x350.jpg
 - filename: P1090501
-  original: sizes/P1090501.jpg_1500x2000.jpg
-  thumbnail: sizes/P1090501.jpg_187x250.jpg
+  original: sizes/P1090501.jpg_467x350.jpg
+  thumbnail: sizes/P1090501.jpg_200x150.jpg
   sizes:
-  - sizes/P1090501.jpg_187x250.jpg
-  - sizes/P1090501.jpg_375x500.jpg
-  - sizes/P1090501.jpg_750x1000.jpg
-  - sizes/P1090501.jpg_1500x2000.jpg
+  - sizes/P1090501.jpg_200x150.jpg
+  - sizes/P1090501.jpg_333x250.jpg
+  - sizes/P1090501.jpg_467x350.jpg
 - filename: P1090507
-  original: sizes/P1090507.jpg_1500x2000.jpg
-  thumbnail: sizes/P1090507.jpg_188x250.jpg
+  original: sizes/P1090507.jpg_467x350.jpg
+  thumbnail: sizes/P1090507.jpg_200x150.jpg
   sizes:
-  - sizes/P1090507.jpg_188x250.jpg
-  - sizes/P1090507.jpg_375x500.jpg
-  - sizes/P1090507.jpg_750x1000.jpg
-  - sizes/P1090507.jpg_1500x2000.jpg
+  - sizes/P1090507.jpg_200x150.jpg
+  - sizes/P1090507.jpg_333x250.jpg
+  - sizes/P1090507.jpg_467x350.jpg
 - filename: P1090508
-  original: sizes/P1090508.jpg_1500x2000.jpg
-  thumbnail: sizes/P1090508.jpg_188x250.jpg
+  original: sizes/P1090508.jpg_467x350.jpg
+  thumbnail: sizes/P1090508.jpg_200x150.jpg
   sizes:
-  - sizes/P1090508.jpg_188x250.jpg
-  - sizes/P1090508.jpg_375x500.jpg
-  - sizes/P1090508.jpg_750x1000.jpg
-  - sizes/P1090508.jpg_1500x2000.jpg
+  - sizes/P1090508.jpg_200x150.jpg
+  - sizes/P1090508.jpg_333x250.jpg
+  - sizes/P1090508.jpg_467x350.jpg
 - filename: P1090511
-  original: sizes/P1090511.jpg_1500x2000.jpg
-  thumbnail: sizes/P1090511.jpg_188x250.jpg
+  original: sizes/P1090511.jpg_467x350.jpg
+  thumbnail: sizes/P1090511.jpg_200x150.jpg
   sizes:
-  - sizes/P1090511.jpg_188x250.jpg
-  - sizes/P1090511.jpg_375x500.jpg
-  - sizes/P1090511.jpg_750x1000.jpg
-  - sizes/P1090511.jpg_1500x2000.jpg
+  - sizes/P1090511.jpg_200x150.jpg
+  - sizes/P1090511.jpg_333x250.jpg
+  - sizes/P1090511.jpg_467x350.jpg
 - filename: P1090513
-  original: sizes/P1090513.jpg_1500x2000.jpg
-  thumbnail: sizes/P1090513.jpg_188x250.jpg
+  original: sizes/P1090513.jpg_467x350.jpg
+  thumbnail: sizes/P1090513.jpg_200x150.jpg
   sizes:
-  - sizes/P1090513.jpg_188x250.jpg
-  - sizes/P1090513.jpg_375x500.jpg
-  - sizes/P1090513.jpg_750x1000.jpg
-  - sizes/P1090513.jpg_1500x2000.jpg
+  - sizes/P1090513.jpg_200x150.jpg
+  - sizes/P1090513.jpg_333x250.jpg
+  - sizes/P1090513.jpg_467x350.jpg

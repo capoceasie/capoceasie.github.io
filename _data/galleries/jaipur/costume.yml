@@ -1,19 +1,17 @@
 picture_path: jaipur/costume
 preview:
   filename: P1110413
-  original: sizes/P1110413.jpg_2000x1500.jpg
-  thumbnail: sizes/P1110413.jpg_250x188.jpg
+  original: sizes/P1110413.jpg_262x350.jpg
+  thumbnail: sizes/P1110413.jpg_112x150.jpg
   sizes:
-  - sizes/P1110413.jpg_250x188.jpg
-  - sizes/P1110413.jpg_500x375.jpg
-  - sizes/P1110413.jpg_1000x750.jpg
-  - sizes/P1110413.jpg_2000x1500.jpg
+  - sizes/P1110413.jpg_112x150.jpg
+  - sizes/P1110413.jpg_188x250.jpg
+  - sizes/P1110413.jpg_262x350.jpg
 pictures:
 - filename: P1110413
-  original: sizes/P1110413.jpg_2000x1500.jpg
-  thumbnail: sizes/P1110413.jpg_250x188.jpg
+  original: sizes/P1110413.jpg_262x350.jpg
+  thumbnail: sizes/P1110413.jpg_112x150.jpg
   sizes:
-  - sizes/P1110413.jpg_250x188.jpg
-  - sizes/P1110413.jpg_500x375.jpg
-  - sizes/P1110413.jpg_1000x750.jpg
-  - sizes/P1110413.jpg_2000x1500.jpg
+  - sizes/P1110413.jpg_112x150.jpg
+  - sizes/P1110413.jpg_188x250.jpg
+  - sizes/P1110413.jpg_262x350.jpg

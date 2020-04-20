@@ -1,51 +1,45 @@
 picture_path: got_melbourne/12bay_of_martyrs
 preview:
   filename: P1080481
-  original: sizes/P1080481.jpg_1500x2000.jpg
-  thumbnail: sizes/P1080481.jpg_187x250.jpg
+  original: sizes/P1080481.jpg_467x350.jpg
+  thumbnail: sizes/P1080481.jpg_200x150.jpg
   sizes:
-  - sizes/P1080481.jpg_187x250.jpg
-  - sizes/P1080481.jpg_375x500.jpg
-  - sizes/P1080481.jpg_750x1000.jpg
-  - sizes/P1080481.jpg_1500x2000.jpg
+  - sizes/P1080481.jpg_200x150.jpg
+  - sizes/P1080481.jpg_333x250.jpg
+  - sizes/P1080481.jpg_467x350.jpg
 pictures:
 - filename: P1080481
-  original: sizes/P1080481.jpg_1500x2000.jpg
-  thumbnail: sizes/P1080481.jpg_187x250.jpg
+  original: sizes/P1080481.jpg_467x350.jpg
+  thumbnail: sizes/P1080481.jpg_200x150.jpg
   sizes:
-  - sizes/P1080481.jpg_187x250.jpg
-  - sizes/P1080481.jpg_375x500.jpg
-  - sizes/P1080481.jpg_750x1000.jpg
-  - sizes/P1080481.jpg_1500x2000.jpg
+  - sizes/P1080481.jpg_200x150.jpg
+  - sizes/P1080481.jpg_333x250.jpg
+  - sizes/P1080481.jpg_467x350.jpg
 - filename: P1080484
-  original: sizes/P1080484.jpg_1500x2000.jpg
-  thumbnail: sizes/P1080484.jpg_188x250.jpg
+  original: sizes/P1080484.jpg_467x350.jpg
+  thumbnail: sizes/P1080484.jpg_200x150.jpg
   sizes:
-  - sizes/P1080484.jpg_188x250.jpg
-  - sizes/P1080484.jpg_375x500.jpg
-  - sizes/P1080484.jpg_750x1000.jpg
-  - sizes/P1080484.jpg_1500x2000.jpg
+  - sizes/P1080484.jpg_200x150.jpg
+  - sizes/P1080484.jpg_333x250.jpg
+  - sizes/P1080484.jpg_467x350.jpg
 - filename: P1080488
-  original: sizes/P1080488.jpg_2000x1500.jpg
-  thumbnail: sizes/P1080488.jpg_250x188.jpg
+  original: sizes/P1080488.jpg_263x350.jpg
+  thumbnail: sizes/P1080488.jpg_113x150.jpg
   sizes:
-  - sizes/P1080488.jpg_250x188.jpg
-  - sizes/P1080488.jpg_500x375.jpg
-  - sizes/P1080488.jpg_1000x750.jpg
-  - sizes/P1080488.jpg_2000x1500.jpg
+  - sizes/P1080488.jpg_113x150.jpg
+  - sizes/P1080488.jpg_188x250.jpg
+  - sizes/P1080488.jpg_263x350.jpg
 - filename: P1080494
-  original: sizes/P1080494.jpg_1500x2000.jpg
-  thumbnail: sizes/P1080494.jpg_188x250.jpg
+  original: sizes/P1080494.jpg_467x350.jpg
+  thumbnail: sizes/P1080494.jpg_200x150.jpg
   sizes:
-  - sizes/P1080494.jpg_188x250.jpg
-  - sizes/P1080494.jpg_375x500.jpg
-  - sizes/P1080494.jpg_750x1000.jpg
-  - sizes/P1080494.jpg_1500x2000.jpg
+  - sizes/P1080494.jpg_200x150.jpg
+  - sizes/P1080494.jpg_333x250.jpg
+  - sizes/P1080494.jpg_467x350.jpg
 - filename: P1080502
-  original: sizes/P1080502.jpg_1500x2000.jpg
-  thumbnail: sizes/P1080502.jpg_188x250.jpg
+  original: sizes/P1080502.jpg_467x350.jpg
+  thumbnail: sizes/P1080502.jpg_200x150.jpg
   sizes:
-  - sizes/P1080502.jpg_188x250.jpg
-  - sizes/P1080502.jpg_375x500.jpg
-  - sizes/P1080502.jpg_750x1000.jpg
-  - sizes/P1080502.jpg_1500x2000.jpg
+  - sizes/P1080502.jpg_200x150.jpg
+  - sizes/P1080502.jpg_333x250.jpg
+  - sizes/P1080502.jpg_467x350.jpg

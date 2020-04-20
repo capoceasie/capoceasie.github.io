@@ -1,27 +1,24 @@
 picture_path: fin_sejour_nz/lac_boue_route
 preview:
   filename: 20191216_184823
-  original: sizes/20191216_184823.jpg_1125x2000.jpg
-  thumbnail: sizes/20191216_184823.jpg_141x250.jpg
+  original: sizes/20191216_184823.jpg_622x350.jpg
+  thumbnail: sizes/20191216_184823.jpg_267x150.jpg
   sizes:
-  - sizes/20191216_184823.jpg_141x250.jpg
-  - sizes/20191216_184823.jpg_281x500.jpg
-  - sizes/20191216_184823.jpg_562x1000.jpg
-  - sizes/20191216_184823.jpg_1125x2000.jpg
+  - sizes/20191216_184823.jpg_267x150.jpg
+  - sizes/20191216_184823.jpg_444x250.jpg
+  - sizes/20191216_184823.jpg_622x350.jpg
 pictures:
 - filename: 20191216_184823
-  original: sizes/20191216_184823.jpg_1125x2000.jpg
-  thumbnail: sizes/20191216_184823.jpg_141x250.jpg
+  original: sizes/20191216_184823.jpg_622x350.jpg
+  thumbnail: sizes/20191216_184823.jpg_267x150.jpg
   sizes:
-  - sizes/20191216_184823.jpg_141x250.jpg
-  - sizes/20191216_184823.jpg_281x500.jpg
-  - sizes/20191216_184823.jpg_562x1000.jpg
-  - sizes/20191216_184823.jpg_1125x2000.jpg
+  - sizes/20191216_184823.jpg_267x150.jpg
+  - sizes/20191216_184823.jpg_444x250.jpg
+  - sizes/20191216_184823.jpg_622x350.jpg
 - filename: 20191216_185037
-  original: sizes/20191216_185037.jpg_1125x2000.jpg
-  thumbnail: sizes/20191216_185037.jpg_141x250.jpg
+  original: sizes/20191216_185037.jpg_622x350.jpg
+  thumbnail: sizes/20191216_185037.jpg_267x150.jpg
   sizes:
-  - sizes/20191216_185037.jpg_141x250.jpg
-  - sizes/20191216_185037.jpg_281x500.jpg
-  - sizes/20191216_185037.jpg_562x1000.jpg
-  - sizes/20191216_185037.jpg_1125x2000.jpg
+  - sizes/20191216_185037.jpg_267x150.jpg
+  - sizes/20191216_185037.jpg_444x250.jpg
+  - sizes/20191216_185037.jpg_622x350.jpg

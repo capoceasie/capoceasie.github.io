@@ -1,67 +1,59 @@
 picture_path: whitsundays/plage
 preview:
   filename: 20191120_115440
-  original: sizes/20191120_115440.jpg_1500x2000.jpg
-  thumbnail: sizes/20191120_115440.jpg_188x250.jpg
+  original: sizes/20191120_115440.jpg_467x350.jpg
+  thumbnail: sizes/20191120_115440.jpg_200x150.jpg
   sizes:
-  - sizes/20191120_115440.jpg_188x250.jpg
-  - sizes/20191120_115440.jpg_375x500.jpg
-  - sizes/20191120_115440.jpg_750x1000.jpg
-  - sizes/20191120_115440.jpg_1500x2000.jpg
+  - sizes/20191120_115440.jpg_200x150.jpg
+  - sizes/20191120_115440.jpg_333x250.jpg
+  - sizes/20191120_115440.jpg_467x350.jpg
 pictures:
 - filename: 20191120_115440
-  original: sizes/20191120_115440.jpg_1500x2000.jpg
-  thumbnail: sizes/20191120_115440.jpg_188x250.jpg
+  original: sizes/20191120_115440.jpg_467x350.jpg
+  thumbnail: sizes/20191120_115440.jpg_200x150.jpg
   sizes:
-  - sizes/20191120_115440.jpg_188x250.jpg
-  - sizes/20191120_115440.jpg_375x500.jpg
-  - sizes/20191120_115440.jpg_750x1000.jpg
-  - sizes/20191120_115440.jpg_1500x2000.jpg
+  - sizes/20191120_115440.jpg_200x150.jpg
+  - sizes/20191120_115440.jpg_333x250.jpg
+  - sizes/20191120_115440.jpg_467x350.jpg
 - filename: P1070619
-  original: sizes/P1070619.jpg_1500x2000.jpg
-  thumbnail: sizes/P1070619.jpg_188x250.jpg
+  original: sizes/P1070619.jpg_467x350.jpg
+  thumbnail: sizes/P1070619.jpg_200x150.jpg
   sizes:
-  - sizes/P1070619.jpg_188x250.jpg
-  - sizes/P1070619.jpg_375x500.jpg
-  - sizes/P1070619.jpg_750x1000.jpg
-  - sizes/P1070619.jpg_1500x2000.jpg
+  - sizes/P1070619.jpg_200x150.jpg
+  - sizes/P1070619.jpg_333x250.jpg
+  - sizes/P1070619.jpg_467x350.jpg
 - filename: P1070623
-  original: sizes/P1070623.jpg_2000x1500.jpg
-  thumbnail: sizes/P1070623.jpg_250x188.jpg
+  original: sizes/P1070623.jpg_262x350.jpg
+  thumbnail: sizes/P1070623.jpg_112x150.jpg
   sizes:
-  - sizes/P1070623.jpg_250x188.jpg
-  - sizes/P1070623.jpg_500x375.jpg
-  - sizes/P1070623.jpg_1000x750.jpg
-  - sizes/P1070623.jpg_2000x1500.jpg
+  - sizes/P1070623.jpg_112x150.jpg
+  - sizes/P1070623.jpg_188x250.jpg
+  - sizes/P1070623.jpg_262x350.jpg
 - filename: P1070626
-  original: sizes/P1070626.jpg_1500x2000.jpg
-  thumbnail: sizes/P1070626.jpg_188x250.jpg
+  original: sizes/P1070626.jpg_467x350.jpg
+  thumbnail: sizes/P1070626.jpg_200x150.jpg
   sizes:
-  - sizes/P1070626.jpg_188x250.jpg
-  - sizes/P1070626.jpg_375x500.jpg
-  - sizes/P1070626.jpg_750x1000.jpg
-  - sizes/P1070626.jpg_1500x2000.jpg
+  - sizes/P1070626.jpg_200x150.jpg
+  - sizes/P1070626.jpg_333x250.jpg
+  - sizes/P1070626.jpg_467x350.jpg
 - filename: P1070633
-  original: sizes/P1070633.jpg_2000x1500.jpg
-  thumbnail: sizes/P1070633.jpg_250x188.jpg
+  original: sizes/P1070633.jpg_263x350.jpg
+  thumbnail: sizes/P1070633.jpg_113x150.jpg
   sizes:
-  - sizes/P1070633.jpg_250x188.jpg
-  - sizes/P1070633.jpg_500x375.jpg
-  - sizes/P1070633.jpg_1000x750.jpg
-  - sizes/P1070633.jpg_2000x1500.jpg
+  - sizes/P1070633.jpg_113x150.jpg
+  - sizes/P1070633.jpg_188x250.jpg
+  - sizes/P1070633.jpg_263x350.jpg
 - filename: P1070634
-  original: sizes/P1070634.jpg_1500x2000.jpg
-  thumbnail: sizes/P1070634.jpg_188x250.jpg
+  original: sizes/P1070634.jpg_467x350.jpg
+  thumbnail: sizes/P1070634.jpg_200x150.jpg
   sizes:
-  - sizes/P1070634.jpg_188x250.jpg
-  - sizes/P1070634.jpg_375x500.jpg
-  - sizes/P1070634.jpg_750x1000.jpg
-  - sizes/P1070634.jpg_1500x2000.jpg
+  - sizes/P1070634.jpg_200x150.jpg
+  - sizes/P1070634.jpg_333x250.jpg
+  - sizes/P1070634.jpg_467x350.jpg
 - filename: P1070641
-  original: sizes/P1070641.jpg_1500x2000.jpg
-  thumbnail: sizes/P1070641.jpg_187x250.jpg
+  original: sizes/P1070641.jpg_467x350.jpg
+  thumbnail: sizes/P1070641.jpg_200x150.jpg
   sizes:
-  - sizes/P1070641.jpg_187x250.jpg
-  - sizes/P1070641.jpg_375x500.jpg
-  - sizes/P1070641.jpg_750x1000.jpg
-  - sizes/P1070641.jpg_1500x2000.jpg
+  - sizes/P1070641.jpg_200x150.jpg
+  - sizes/P1070641.jpg_333x250.jpg
+  - sizes/P1070641.jpg_467x350.jpg

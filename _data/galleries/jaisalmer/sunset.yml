@@ -1,57 +1,45 @@
 picture_path: jaisalmer/sunset
 preview:
   filename: 20191227_174059
-  original: sizes/20191227_174059.jpg_978x550.jpg
+  original: sizes/20191227_174059.jpg_622x350.jpg
   thumbnail: sizes/20191227_174059.jpg_267x150.jpg
   sizes:
   - sizes/20191227_174059.jpg_267x150.jpg
   - sizes/20191227_174059.jpg_444x250.jpg
   - sizes/20191227_174059.jpg_622x350.jpg
-  - sizes/20191227_174059.jpg_800x450.jpg
-  - sizes/20191227_174059.jpg_978x550.jpg
 pictures:
 - filename: 20191227_174059
-  original: sizes/20191227_174059.jpg_978x550.jpg
+  original: sizes/20191227_174059.jpg_622x350.jpg
   thumbnail: sizes/20191227_174059.jpg_267x150.jpg
   sizes:
   - sizes/20191227_174059.jpg_267x150.jpg
   - sizes/20191227_174059.jpg_444x250.jpg
   - sizes/20191227_174059.jpg_622x350.jpg
-  - sizes/20191227_174059.jpg_800x450.jpg
-  - sizes/20191227_174059.jpg_978x550.jpg
 - filename: P1110940
-  original: sizes/P1110940.jpg_733x550.jpg
+  original: sizes/P1110940.jpg_467x350.jpg
   thumbnail: sizes/P1110940.jpg_200x150.jpg
   sizes:
   - sizes/P1110940.jpg_200x150.jpg
   - sizes/P1110940.jpg_333x250.jpg
   - sizes/P1110940.jpg_467x350.jpg
-  - sizes/P1110940.jpg_600x450.jpg
-  - sizes/P1110940.jpg_733x550.jpg
 - filename: P1110953
-  original: sizes/P1110953.jpg_412x550.jpg
+  original: sizes/P1110953.jpg_262x350.jpg
   thumbnail: sizes/P1110953.jpg_112x150.jpg
   sizes:
   - sizes/P1110953.jpg_112x150.jpg
   - sizes/P1110953.jpg_188x250.jpg
   - sizes/P1110953.jpg_262x350.jpg
-  - sizes/P1110953.jpg_338x450.jpg
-  - sizes/P1110953.jpg_412x550.jpg
 - filename: P1110956
-  original: sizes/P1110956.jpg_412x550.jpg
+  original: sizes/P1110956.jpg_262x350.jpg
   thumbnail: sizes/P1110956.jpg_112x150.jpg
   sizes:
   - sizes/P1110956.jpg_112x150.jpg
   - sizes/P1110956.jpg_187x250.jpg
   - sizes/P1110956.jpg_262x350.jpg
-  - sizes/P1110956.jpg_337x450.jpg
-  - sizes/P1110956.jpg_412x550.jpg
 - filename: P1110957
-  original: sizes/P1110957.jpg_733x550.jpg
+  original: sizes/P1110957.jpg_467x350.jpg
   thumbnail: sizes/P1110957.jpg_200x150.jpg
   sizes:
   - sizes/P1110957.jpg_200x150.jpg
   - sizes/P1110957.jpg_333x250.jpg
   - sizes/P1110957.jpg_467x350.jpg
-  - sizes/P1110957.jpg_600x450.jpg
-  - sizes/P1110957.jpg_733x550.jpg

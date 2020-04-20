@@ -1,43 +1,38 @@
 picture_path: jaipur/amber_ascension
 preview:
   filename: P1110427
-  original: sizes/P1110427.jpg_1500x2000.jpg
-  thumbnail: sizes/P1110427.jpg_187x250.jpg
+  original: sizes/P1110427.jpg_467x350.jpg
+  thumbnail: sizes/P1110427.jpg_200x150.jpg
   sizes:
-  - sizes/P1110427.jpg_187x250.jpg
-  - sizes/P1110427.jpg_375x500.jpg
-  - sizes/P1110427.jpg_750x1000.jpg
-  - sizes/P1110427.jpg_1500x2000.jpg
+  - sizes/P1110427.jpg_200x150.jpg
+  - sizes/P1110427.jpg_333x250.jpg
+  - sizes/P1110427.jpg_467x350.jpg
 pictures:
 - filename: P1110427
-  original: sizes/P1110427.jpg_1500x2000.jpg
-  thumbnail: sizes/P1110427.jpg_187x250.jpg
+  original: sizes/P1110427.jpg_467x350.jpg
+  thumbnail: sizes/P1110427.jpg_200x150.jpg
   sizes:
-  - sizes/P1110427.jpg_187x250.jpg
-  - sizes/P1110427.jpg_375x500.jpg
-  - sizes/P1110427.jpg_750x1000.jpg
-  - sizes/P1110427.jpg_1500x2000.jpg
+  - sizes/P1110427.jpg_200x150.jpg
+  - sizes/P1110427.jpg_333x250.jpg
+  - sizes/P1110427.jpg_467x350.jpg
 - filename: P1110430
-  original: sizes/P1110430.jpg_1500x2000.jpg
-  thumbnail: sizes/P1110430.jpg_188x250.jpg
+  original: sizes/P1110430.jpg_467x350.jpg
+  thumbnail: sizes/P1110430.jpg_200x150.jpg
   sizes:
-  - sizes/P1110430.jpg_188x250.jpg
-  - sizes/P1110430.jpg_375x500.jpg
-  - sizes/P1110430.jpg_750x1000.jpg
-  - sizes/P1110430.jpg_1500x2000.jpg
+  - sizes/P1110430.jpg_200x150.jpg
+  - sizes/P1110430.jpg_333x250.jpg
+  - sizes/P1110430.jpg_467x350.jpg
 - filename: P1110435
-  original: sizes/P1110435.jpg_1500x2000.jpg
-  thumbnail: sizes/P1110435.jpg_188x250.jpg
+  original: sizes/P1110435.jpg_467x350.jpg
+  thumbnail: sizes/P1110435.jpg_200x150.jpg
   sizes:
-  - sizes/P1110435.jpg_188x250.jpg
-  - sizes/P1110435.jpg_375x500.jpg
-  - sizes/P1110435.jpg_750x1000.jpg
-  - sizes/P1110435.jpg_1500x2000.jpg
+  - sizes/P1110435.jpg_200x150.jpg
+  - sizes/P1110435.jpg_333x250.jpg
+  - sizes/P1110435.jpg_467x350.jpg
 - filename: P1110473
-  original: sizes/P1110473.jpg_1500x2000.jpg
-  thumbnail: sizes/P1110473.jpg_188x250.jpg
+  original: sizes/P1110473.jpg_467x350.jpg
+  thumbnail: sizes/P1110473.jpg_200x150.jpg
   sizes:
-  - sizes/P1110473.jpg_188x250.jpg
-  - sizes/P1110473.jpg_375x500.jpg
-  - sizes/P1110473.jpg_750x1000.jpg
-  - sizes/P1110473.jpg_1500x2000.jpg
+  - sizes/P1110473.jpg_200x150.jpg
+  - sizes/P1110473.jpg_333x250.jpg
+  - sizes/P1110473.jpg_467x350.jpg

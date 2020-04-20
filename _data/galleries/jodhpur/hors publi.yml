@@ -1,0 +1,52 @@
+picture_path: jodhpur/hors publi
+preview:
+  filename: 20191230_125401
+  original: sizes/20191230_125401.jpg_467x350.jpg
+  thumbnail: sizes/20191230_125401.jpg_200x150.jpg
+  sizes:
+  - sizes/20191230_125401.jpg_200x150.jpg
+  - sizes/20191230_125401.jpg_333x250.jpg
+  - sizes/20191230_125401.jpg_467x350.jpg
+pictures:
+- filename: 20191230_125401
+  original: sizes/20191230_125401.jpg_467x350.jpg
+  thumbnail: sizes/20191230_125401.jpg_200x150.jpg
+  sizes:
+  - sizes/20191230_125401.jpg_200x150.jpg
+  - sizes/20191230_125401.jpg_333x250.jpg
+  - sizes/20191230_125401.jpg_467x350.jpg
+- filename: 20191230_125458
+  original: sizes/20191230_125458.jpg_467x350.jpg
+  thumbnail: sizes/20191230_125458.jpg_200x150.jpg
+  sizes:
+  - sizes/20191230_125458.jpg_200x150.jpg
+  - sizes/20191230_125458.jpg_333x250.jpg
+  - sizes/20191230_125458.jpg_467x350.jpg
+- filename: 20191231_193849
+  original: sizes/20191231_193849.jpg_622x350.jpg
+  thumbnail: sizes/20191231_193849.jpg_267x150.jpg
+  sizes:
+  - sizes/20191231_193849.jpg_267x150.jpg
+  - sizes/20191231_193849.jpg_444x250.jpg
+  - sizes/20191231_193849.jpg_622x350.jpg
+- filename: P1120169
+  original: sizes/P1120169.jpg_467x350.jpg
+  thumbnail: sizes/P1120169.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120169.jpg_200x150.jpg
+  - sizes/P1120169.jpg_333x250.jpg
+  - sizes/P1120169.jpg_467x350.jpg
+- filename: P1120544
+  original: sizes/P1120544.jpg_467x350.jpg
+  thumbnail: sizes/P1120544.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120544.jpg_200x150.jpg
+  - sizes/P1120544.jpg_333x250.jpg
+  - sizes/P1120544.jpg_467x350.jpg
+- filename: P1120549
+  original: sizes/P1120549.jpg_467x350.jpg
+  thumbnail: sizes/P1120549.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120549.jpg_200x150.jpg
+  - sizes/P1120549.jpg_333x250.jpg
+  - sizes/P1120549.jpg_467x350.jpg

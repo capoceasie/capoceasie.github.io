@@ -1,27 +1,24 @@
 picture_path: cairns/tortue
 preview:
   filename: 613
-  original: sizes/613.jpg_1500x2000.jpg
-  thumbnail: sizes/613.jpg_188x250.jpg
+  original: sizes/613.jpg_467x350.jpg
+  thumbnail: sizes/613.jpg_200x150.jpg
   sizes:
-  - sizes/613.jpg_188x250.jpg
-  - sizes/613.jpg_375x500.jpg
-  - sizes/613.jpg_750x1000.jpg
-  - sizes/613.jpg_1500x2000.jpg
+  - sizes/613.jpg_200x150.jpg
+  - sizes/613.jpg_333x250.jpg
+  - sizes/613.jpg_467x350.jpg
 pictures:
 - filename: 613
-  original: sizes/613.jpg_1500x2000.jpg
-  thumbnail: sizes/613.jpg_188x250.jpg
+  original: sizes/613.jpg_467x350.jpg
+  thumbnail: sizes/613.jpg_200x150.jpg
   sizes:
-  - sizes/613.jpg_188x250.jpg
-  - sizes/613.jpg_375x500.jpg
-  - sizes/613.jpg_750x1000.jpg
-  - sizes/613.jpg_1500x2000.jpg
+  - sizes/613.jpg_200x150.jpg
+  - sizes/613.jpg_333x250.jpg
+  - sizes/613.jpg_467x350.jpg
 - filename: 632
-  original: sizes/632.jpg_1500x2000.jpg
-  thumbnail: sizes/632.jpg_188x250.jpg
+  original: sizes/632.jpg_467x350.jpg
+  thumbnail: sizes/632.jpg_200x150.jpg
   sizes:
-  - sizes/632.jpg_188x250.jpg
-  - sizes/632.jpg_375x500.jpg
-  - sizes/632.jpg_750x1000.jpg
-  - sizes/632.jpg_1500x2000.jpg
+  - sizes/632.jpg_200x150.jpg
+  - sizes/632.jpg_333x250.jpg
+  - sizes/632.jpg_467x350.jpg

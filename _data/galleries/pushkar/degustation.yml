@@ -1,27 +1,24 @@
 picture_path: pushkar/degustation
 preview:
   filename: 20191226_133701
-  original: sizes/20191226_133701.jpg_2000x1500.jpg
-  thumbnail: sizes/20191226_133701.jpg_250x188.jpg
+  original: sizes/20191226_133701.jpg_262x350.jpg
+  thumbnail: sizes/20191226_133701.jpg_112x150.jpg
   sizes:
-  - sizes/20191226_133701.jpg_250x188.jpg
-  - sizes/20191226_133701.jpg_500x375.jpg
-  - sizes/20191226_133701.jpg_1000x750.jpg
-  - sizes/20191226_133701.jpg_2000x1500.jpg
+  - sizes/20191226_133701.jpg_112x150.jpg
+  - sizes/20191226_133701.jpg_188x250.jpg
+  - sizes/20191226_133701.jpg_262x350.jpg
 pictures:
 - filename: 20191226_133701
-  original: sizes/20191226_133701.jpg_2000x1500.jpg
-  thumbnail: sizes/20191226_133701.jpg_250x188.jpg
+  original: sizes/20191226_133701.jpg_262x350.jpg
+  thumbnail: sizes/20191226_133701.jpg_112x150.jpg
   sizes:
-  - sizes/20191226_133701.jpg_250x188.jpg
-  - sizes/20191226_133701.jpg_500x375.jpg
-  - sizes/20191226_133701.jpg_1000x750.jpg
-  - sizes/20191226_133701.jpg_2000x1500.jpg
+  - sizes/20191226_133701.jpg_112x150.jpg
+  - sizes/20191226_133701.jpg_188x250.jpg
+  - sizes/20191226_133701.jpg_262x350.jpg
 - filename: 20191226_140826
-  original: sizes/20191226_140826.jpg_1500x2000.jpg
-  thumbnail: sizes/20191226_140826.jpg_188x250.jpg
+  original: sizes/20191226_140826.jpg_467x350.jpg
+  thumbnail: sizes/20191226_140826.jpg_200x150.jpg
   sizes:
-  - sizes/20191226_140826.jpg_188x250.jpg
-  - sizes/20191226_140826.jpg_375x500.jpg
-  - sizes/20191226_140826.jpg_750x1000.jpg
-  - sizes/20191226_140826.jpg_1500x2000.jpg
+  - sizes/20191226_140826.jpg_200x150.jpg
+  - sizes/20191226_140826.jpg_333x250.jpg
+  - sizes/20191226_140826.jpg_467x350.jpg

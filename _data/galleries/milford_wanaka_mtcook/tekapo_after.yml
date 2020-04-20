@@ -1,27 +1,24 @@
 picture_path: milford_wanaka_mtcook/tekapo_after
 preview:
   filename: 20191209_202207
-  original: sizes/20191209_202207.jpg_1125x2000.jpg
-  thumbnail: sizes/20191209_202207.jpg_141x250.jpg
+  original: sizes/20191209_202207.jpg_622x350.jpg
+  thumbnail: sizes/20191209_202207.jpg_267x150.jpg
   sizes:
-  - sizes/20191209_202207.jpg_141x250.jpg
-  - sizes/20191209_202207.jpg_281x500.jpg
-  - sizes/20191209_202207.jpg_563x1000.jpg
-  - sizes/20191209_202207.jpg_1125x2000.jpg
+  - sizes/20191209_202207.jpg_267x150.jpg
+  - sizes/20191209_202207.jpg_444x250.jpg
+  - sizes/20191209_202207.jpg_622x350.jpg
 pictures:
 - filename: 20191209_202207
-  original: sizes/20191209_202207.jpg_1125x2000.jpg
-  thumbnail: sizes/20191209_202207.jpg_141x250.jpg
+  original: sizes/20191209_202207.jpg_622x350.jpg
+  thumbnail: sizes/20191209_202207.jpg_267x150.jpg
   sizes:
-  - sizes/20191209_202207.jpg_141x250.jpg
-  - sizes/20191209_202207.jpg_281x500.jpg
-  - sizes/20191209_202207.jpg_563x1000.jpg
-  - sizes/20191209_202207.jpg_1125x2000.jpg
+  - sizes/20191209_202207.jpg_267x150.jpg
+  - sizes/20191209_202207.jpg_444x250.jpg
+  - sizes/20191209_202207.jpg_622x350.jpg
 - filename: P1090794
-  original: sizes/P1090794.jpg_1500x2000.jpg
-  thumbnail: sizes/P1090794.jpg_188x250.jpg
+  original: sizes/P1090794.jpg_467x350.jpg
+  thumbnail: sizes/P1090794.jpg_200x150.jpg
   sizes:
-  - sizes/P1090794.jpg_188x250.jpg
-  - sizes/P1090794.jpg_375x500.jpg
-  - sizes/P1090794.jpg_750x1000.jpg
-  - sizes/P1090794.jpg_1500x2000.jpg
+  - sizes/P1090794.jpg_200x150.jpg
+  - sizes/P1090794.jpg_333x250.jpg
+  - sizes/P1090794.jpg_467x350.jpg

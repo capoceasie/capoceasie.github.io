@@ -1,27 +1,24 @@
 picture_path: whitsundays/carte
 preview:
   filename: carte_detail_20191121
-  original: sizes/carte_detail_20191121.jpg_1651x2000.jpg
-  thumbnail: sizes/carte_detail_20191121.jpg_206x250.jpg
+  original: sizes/carte_detail_20191121.jpg_424x350.jpg
+  thumbnail: sizes/carte_detail_20191121.jpg_182x150.jpg
   sizes:
-  - sizes/carte_detail_20191121.jpg_206x250.jpg
-  - sizes/carte_detail_20191121.jpg_413x500.jpg
-  - sizes/carte_detail_20191121.jpg_826x1000.jpg
-  - sizes/carte_detail_20191121.jpg_1651x2000.jpg
+  - sizes/carte_detail_20191121.jpg_182x150.jpg
+  - sizes/carte_detail_20191121.jpg_303x250.jpg
+  - sizes/carte_detail_20191121.jpg_424x350.jpg
 pictures:
 - filename: carte_detail_20191121
-  original: sizes/carte_detail_20191121.jpg_1651x2000.jpg
-  thumbnail: sizes/carte_detail_20191121.jpg_206x250.jpg
+  original: sizes/carte_detail_20191121.jpg_424x350.jpg
+  thumbnail: sizes/carte_detail_20191121.jpg_182x150.jpg
   sizes:
-  - sizes/carte_detail_20191121.jpg_206x250.jpg
-  - sizes/carte_detail_20191121.jpg_413x500.jpg
-  - sizes/carte_detail_20191121.jpg_826x1000.jpg
-  - sizes/carte_detail_20191121.jpg_1651x2000.jpg
+  - sizes/carte_detail_20191121.jpg_182x150.jpg
+  - sizes/carte_detail_20191121.jpg_303x250.jpg
+  - sizes/carte_detail_20191121.jpg_424x350.jpg
 - filename: carte_global_20191121
-  original: sizes/carte_global_20191121.jpg_1672x2000.jpg
-  thumbnail: sizes/carte_global_20191121.jpg_209x250.jpg
+  original: sizes/carte_global_20191121.jpg_419x350.jpg
+  thumbnail: sizes/carte_global_20191121.jpg_179x150.jpg
   sizes:
-  - sizes/carte_global_20191121.jpg_209x250.jpg
-  - sizes/carte_global_20191121.jpg_418x500.jpg
-  - sizes/carte_global_20191121.jpg_836x1000.jpg
-  - sizes/carte_global_20191121.jpg_1672x2000.jpg
+  - sizes/carte_global_20191121.jpg_179x150.jpg
+  - sizes/carte_global_20191121.jpg_299x250.jpg
+  - sizes/carte_global_20191121.jpg_419x350.jpg

@@ -1,19 +1,17 @@
 picture_path: delhi/rue
 preview:
   filename: 20191222_104352
-  original: sizes/20191222_104352.jpg_1125x2000.jpg
-  thumbnail: sizes/20191222_104352.jpg_141x250.jpg
+  original: sizes/20191222_104352.jpg_622x350.jpg
+  thumbnail: sizes/20191222_104352.jpg_267x150.jpg
   sizes:
-  - sizes/20191222_104352.jpg_141x250.jpg
-  - sizes/20191222_104352.jpg_281x500.jpg
-  - sizes/20191222_104352.jpg_562x1000.jpg
-  - sizes/20191222_104352.jpg_1125x2000.jpg
+  - sizes/20191222_104352.jpg_267x150.jpg
+  - sizes/20191222_104352.jpg_444x250.jpg
+  - sizes/20191222_104352.jpg_622x350.jpg
 pictures:
 - filename: 20191222_104352
-  original: sizes/20191222_104352.jpg_1125x2000.jpg
-  thumbnail: sizes/20191222_104352.jpg_141x250.jpg
+  original: sizes/20191222_104352.jpg_622x350.jpg
+  thumbnail: sizes/20191222_104352.jpg_267x150.jpg
   sizes:
-  - sizes/20191222_104352.jpg_141x250.jpg
-  - sizes/20191222_104352.jpg_281x500.jpg
-  - sizes/20191222_104352.jpg_562x1000.jpg
-  - sizes/20191222_104352.jpg_1125x2000.jpg
+  - sizes/20191222_104352.jpg_267x150.jpg
+  - sizes/20191222_104352.jpg_444x250.jpg
+  - sizes/20191222_104352.jpg_622x350.jpg

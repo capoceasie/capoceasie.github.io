@@ -1,19 +1,17 @@
 picture_path: fin_sejour_nz/rotorua_lac
 preview:
   filename: P1110008
-  original: sizes/P1110008.jpg_1500x2000.jpg
-  thumbnail: sizes/P1110008.jpg_188x250.jpg
+  original: sizes/P1110008.jpg_467x350.jpg
+  thumbnail: sizes/P1110008.jpg_200x150.jpg
   sizes:
-  - sizes/P1110008.jpg_188x250.jpg
-  - sizes/P1110008.jpg_375x500.jpg
-  - sizes/P1110008.jpg_750x1000.jpg
-  - sizes/P1110008.jpg_1500x2000.jpg
+  - sizes/P1110008.jpg_200x150.jpg
+  - sizes/P1110008.jpg_333x250.jpg
+  - sizes/P1110008.jpg_467x350.jpg
 pictures:
 - filename: P1110008
-  original: sizes/P1110008.jpg_1500x2000.jpg
-  thumbnail: sizes/P1110008.jpg_188x250.jpg
+  original: sizes/P1110008.jpg_467x350.jpg
+  thumbnail: sizes/P1110008.jpg_200x150.jpg
   sizes:
-  - sizes/P1110008.jpg_188x250.jpg
-  - sizes/P1110008.jpg_375x500.jpg
-  - sizes/P1110008.jpg_750x1000.jpg
-  - sizes/P1110008.jpg_1500x2000.jpg
+  - sizes/P1110008.jpg_200x150.jpg
+  - sizes/P1110008.jpg_333x250.jpg
+  - sizes/P1110008.jpg_467x350.jpg

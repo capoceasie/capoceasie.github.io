@@ -1,59 +1,52 @@
 picture_path: tekapo_queenstown/queenstown_gardens
 preview:
   filename: 0P1090086
-  original: sizes/0P1090086.jpg_2000x1500.jpg
-  thumbnail: sizes/0P1090086.jpg_250x188.jpg
+  original: sizes/0P1090086.jpg_262x350.jpg
+  thumbnail: sizes/0P1090086.jpg_112x150.jpg
   sizes:
-  - sizes/0P1090086.jpg_250x188.jpg
-  - sizes/0P1090086.jpg_500x375.jpg
-  - sizes/0P1090086.jpg_1000x750.jpg
-  - sizes/0P1090086.jpg_2000x1500.jpg
+  - sizes/0P1090086.jpg_112x150.jpg
+  - sizes/0P1090086.jpg_188x250.jpg
+  - sizes/0P1090086.jpg_262x350.jpg
 pictures:
 - filename: 0P1090086
-  original: sizes/0P1090086.jpg_2000x1500.jpg
-  thumbnail: sizes/0P1090086.jpg_250x188.jpg
+  original: sizes/0P1090086.jpg_262x350.jpg
+  thumbnail: sizes/0P1090086.jpg_112x150.jpg
   sizes:
-  - sizes/0P1090086.jpg_250x188.jpg
-  - sizes/0P1090086.jpg_500x375.jpg
-  - sizes/0P1090086.jpg_1000x750.jpg
-  - sizes/0P1090086.jpg_2000x1500.jpg
+  - sizes/0P1090086.jpg_112x150.jpg
+  - sizes/0P1090086.jpg_188x250.jpg
+  - sizes/0P1090086.jpg_262x350.jpg
 - filename: P1090087
-  original: sizes/P1090087.jpg_1500x2000.jpg
-  thumbnail: sizes/P1090087.jpg_187x250.jpg
+  original: sizes/P1090087.jpg_467x350.jpg
+  thumbnail: sizes/P1090087.jpg_200x150.jpg
   sizes:
-  - sizes/P1090087.jpg_187x250.jpg
-  - sizes/P1090087.jpg_375x500.jpg
-  - sizes/P1090087.jpg_750x1000.jpg
-  - sizes/P1090087.jpg_1500x2000.jpg
+  - sizes/P1090087.jpg_200x150.jpg
+  - sizes/P1090087.jpg_333x250.jpg
+  - sizes/P1090087.jpg_467x350.jpg
 - filename: P1090089
-  original: sizes/P1090089.jpg_2000x1500.jpg
-  thumbnail: sizes/P1090089.jpg_250x187.jpg
+  original: sizes/P1090089.jpg_262x350.jpg
+  thumbnail: sizes/P1090089.jpg_112x150.jpg
   sizes:
-  - sizes/P1090089.jpg_250x187.jpg
-  - sizes/P1090089.jpg_500x375.jpg
-  - sizes/P1090089.jpg_1000x750.jpg
-  - sizes/P1090089.jpg_2000x1500.jpg
+  - sizes/P1090089.jpg_112x150.jpg
+  - sizes/P1090089.jpg_187x250.jpg
+  - sizes/P1090089.jpg_262x350.jpg
 - filename: P1090090
-  original: sizes/P1090090.jpg_1500x2000.jpg
-  thumbnail: sizes/P1090090.jpg_187x250.jpg
+  original: sizes/P1090090.jpg_467x350.jpg
+  thumbnail: sizes/P1090090.jpg_200x150.jpg
   sizes:
-  - sizes/P1090090.jpg_187x250.jpg
-  - sizes/P1090090.jpg_375x500.jpg
-  - sizes/P1090090.jpg_750x1000.jpg
-  - sizes/P1090090.jpg_1500x2000.jpg
+  - sizes/P1090090.jpg_200x150.jpg
+  - sizes/P1090090.jpg_333x250.jpg
+  - sizes/P1090090.jpg_467x350.jpg
 - filename: P1090093
-  original: sizes/P1090093.jpg_2000x1500.jpg
-  thumbnail: sizes/P1090093.jpg_250x188.jpg
+  original: sizes/P1090093.jpg_263x350.jpg
+  thumbnail: sizes/P1090093.jpg_113x150.jpg
   sizes:
-  - sizes/P1090093.jpg_250x188.jpg
-  - sizes/P1090093.jpg_500x375.jpg
-  - sizes/P1090093.jpg_1000x750.jpg
-  - sizes/P1090093.jpg_2000x1500.jpg
+  - sizes/P1090093.jpg_113x150.jpg
+  - sizes/P1090093.jpg_188x250.jpg
+  - sizes/P1090093.jpg_263x350.jpg
 - filename: P1090098
-  original: sizes/P1090098.jpg_2000x1500.jpg
-  thumbnail: sizes/P1090098.jpg_250x187.jpg
+  original: sizes/P1090098.jpg_262x350.jpg
+  thumbnail: sizes/P1090098.jpg_112x150.jpg
   sizes:
-  - sizes/P1090098.jpg_250x187.jpg
-  - sizes/P1090098.jpg_500x375.jpg
-  - sizes/P1090098.jpg_1000x750.jpg
-  - sizes/P1090098.jpg_2000x1500.jpg
+  - sizes/P1090098.jpg_112x150.jpg
+  - sizes/P1090098.jpg_187x250.jpg
+  - sizes/P1090098.jpg_262x350.jpg

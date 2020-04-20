@@ -1,0 +1,24 @@
+picture_path: jodhpur/carte
+preview:
+  filename: 0carte_global_200101
+  original: sizes/0carte_global_200101.jpg_364x350.jpg
+  thumbnail: sizes/0carte_global_200101.jpg_156x150.jpg
+  sizes:
+  - sizes/0carte_global_200101.jpg_156x150.jpg
+  - sizes/0carte_global_200101.jpg_260x250.jpg
+  - sizes/0carte_global_200101.jpg_364x350.jpg
+pictures:
+- filename: 0carte_global_200101
+  original: sizes/0carte_global_200101.jpg_364x350.jpg
+  thumbnail: sizes/0carte_global_200101.jpg_156x150.jpg
+  sizes:
+  - sizes/0carte_global_200101.jpg_156x150.jpg
+  - sizes/0carte_global_200101.jpg_260x250.jpg
+  - sizes/0carte_global_200101.jpg_364x350.jpg
+- filename: carte_detail_200101
+  original: sizes/carte_detail_200101.jpg_788x350.jpg
+  thumbnail: sizes/carte_detail_200101.jpg_338x150.jpg
+  sizes:
+  - sizes/carte_detail_200101.jpg_338x150.jpg
+  - sizes/carte_detail_200101.jpg_563x250.jpg
+  - sizes/carte_detail_200101.jpg_788x350.jpg

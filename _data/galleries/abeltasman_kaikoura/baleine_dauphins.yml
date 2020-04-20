@@ -1,59 +1,52 @@
 picture_path: abeltasman_kaikoura/baleine_dauphins
 preview:
   filename: 20191212_174206
-  original: sizes/20191212_174206.jpg_2000x1500.jpg
-  thumbnail: sizes/20191212_174206.jpg_250x188.jpg
+  original: sizes/20191212_174206.jpg_263x350.jpg
+  thumbnail: sizes/20191212_174206.jpg_113x150.jpg
   sizes:
-  - sizes/20191212_174206.jpg_250x188.jpg
-  - sizes/20191212_174206.jpg_500x375.jpg
-  - sizes/20191212_174206.jpg_1000x750.jpg
-  - sizes/20191212_174206.jpg_2000x1500.jpg
+  - sizes/20191212_174206.jpg_113x150.jpg
+  - sizes/20191212_174206.jpg_188x250.jpg
+  - sizes/20191212_174206.jpg_263x350.jpg
 pictures:
 - filename: 20191212_174206
-  original: sizes/20191212_174206.jpg_2000x1500.jpg
-  thumbnail: sizes/20191212_174206.jpg_250x188.jpg
+  original: sizes/20191212_174206.jpg_263x350.jpg
+  thumbnail: sizes/20191212_174206.jpg_113x150.jpg
   sizes:
-  - sizes/20191212_174206.jpg_250x188.jpg
-  - sizes/20191212_174206.jpg_500x375.jpg
-  - sizes/20191212_174206.jpg_1000x750.jpg
-  - sizes/20191212_174206.jpg_2000x1500.jpg
+  - sizes/20191212_174206.jpg_113x150.jpg
+  - sizes/20191212_174206.jpg_188x250.jpg
+  - sizes/20191212_174206.jpg_263x350.jpg
 - filename: 20191212_174213
-  original: sizes/20191212_174213.jpg_2000x1500.jpg
-  thumbnail: sizes/20191212_174213.jpg_250x188.jpg
+  original: sizes/20191212_174213.jpg_262x350.jpg
+  thumbnail: sizes/20191212_174213.jpg_112x150.jpg
   sizes:
-  - sizes/20191212_174213.jpg_250x188.jpg
-  - sizes/20191212_174213.jpg_500x375.jpg
-  - sizes/20191212_174213.jpg_1000x750.jpg
-  - sizes/20191212_174213.jpg_2000x1500.jpg
+  - sizes/20191212_174213.jpg_112x150.jpg
+  - sizes/20191212_174213.jpg_188x250.jpg
+  - sizes/20191212_174213.jpg_262x350.jpg
 - filename: 20191212_174214
-  original: sizes/20191212_174214.jpg_2000x1500.jpg
-  thumbnail: sizes/20191212_174214.jpg_250x188.jpg
+  original: sizes/20191212_174214.jpg_262x350.jpg
+  thumbnail: sizes/20191212_174214.jpg_112x150.jpg
   sizes:
-  - sizes/20191212_174214.jpg_250x188.jpg
-  - sizes/20191212_174214.jpg_500x375.jpg
-  - sizes/20191212_174214.jpg_1000x750.jpg
-  - sizes/20191212_174214.jpg_2000x1500.jpg
+  - sizes/20191212_174214.jpg_112x150.jpg
+  - sizes/20191212_174214.jpg_188x250.jpg
+  - sizes/20191212_174214.jpg_262x350.jpg
 - filename: 20191212_174236
-  original: sizes/20191212_174236.jpg_2000x1500.jpg
-  thumbnail: sizes/20191212_174236.jpg_250x188.jpg
+  original: sizes/20191212_174236.jpg_262x350.jpg
+  thumbnail: sizes/20191212_174236.jpg_112x150.jpg
   sizes:
-  - sizes/20191212_174236.jpg_250x188.jpg
-  - sizes/20191212_174236.jpg_500x375.jpg
-  - sizes/20191212_174236.jpg_1000x750.jpg
-  - sizes/20191212_174236.jpg_2000x1500.jpg
+  - sizes/20191212_174236.jpg_112x150.jpg
+  - sizes/20191212_174236.jpg_188x250.jpg
+  - sizes/20191212_174236.jpg_262x350.jpg
 - filename: P1100195
-  original: sizes/P1100195.jpg_1500x2000.jpg
-  thumbnail: sizes/P1100195.jpg_188x250.jpg
+  original: sizes/P1100195.jpg_467x350.jpg
+  thumbnail: sizes/P1100195.jpg_200x150.jpg
   sizes:
-  - sizes/P1100195.jpg_188x250.jpg
-  - sizes/P1100195.jpg_375x500.jpg
-  - sizes/P1100195.jpg_750x1000.jpg
-  - sizes/P1100195.jpg_1500x2000.jpg
+  - sizes/P1100195.jpg_200x150.jpg
+  - sizes/P1100195.jpg_333x250.jpg
+  - sizes/P1100195.jpg_467x350.jpg
 - filename: P1100200
-  original: sizes/P1100200.jpg_1500x2000.jpg
-  thumbnail: sizes/P1100200.jpg_188x250.jpg
+  original: sizes/P1100200.jpg_467x350.jpg
+  thumbnail: sizes/P1100200.jpg_200x150.jpg
   sizes:
-  - sizes/P1100200.jpg_188x250.jpg
-  - sizes/P1100200.jpg_375x500.jpg
-  - sizes/P1100200.jpg_750x1000.jpg
-  - sizes/P1100200.jpg_1500x2000.jpg
+  - sizes/P1100200.jpg_200x150.jpg
+  - sizes/P1100200.jpg_333x250.jpg
+  - sizes/P1100200.jpg_467x350.jpg

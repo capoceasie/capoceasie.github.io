@@ -1,27 +1,24 @@
 picture_path: abeltasman_kaikoura/carte
 preview:
   filename: carte_detail_191213
-  original: sizes/carte_detail_191213.jpg_1957x2000.jpg
-  thumbnail: sizes/carte_detail_191213.jpg_245x250.jpg
+  original: sizes/carte_detail_191213.jpg_358x350.jpg
+  thumbnail: sizes/carte_detail_191213.jpg_153x150.jpg
   sizes:
-  - sizes/carte_detail_191213.jpg_245x250.jpg
-  - sizes/carte_detail_191213.jpg_489x500.jpg
-  - sizes/carte_detail_191213.jpg_979x1000.jpg
-  - sizes/carte_detail_191213.jpg_1957x2000.jpg
+  - sizes/carte_detail_191213.jpg_153x150.jpg
+  - sizes/carte_detail_191213.jpg_255x250.jpg
+  - sizes/carte_detail_191213.jpg_358x350.jpg
 pictures:
 - filename: carte_detail_191213
-  original: sizes/carte_detail_191213.jpg_1957x2000.jpg
-  thumbnail: sizes/carte_detail_191213.jpg_245x250.jpg
+  original: sizes/carte_detail_191213.jpg_358x350.jpg
+  thumbnail: sizes/carte_detail_191213.jpg_153x150.jpg
   sizes:
-  - sizes/carte_detail_191213.jpg_245x250.jpg
-  - sizes/carte_detail_191213.jpg_489x500.jpg
-  - sizes/carte_detail_191213.jpg_979x1000.jpg
-  - sizes/carte_detail_191213.jpg_1957x2000.jpg
+  - sizes/carte_detail_191213.jpg_153x150.jpg
+  - sizes/carte_detail_191213.jpg_255x250.jpg
+  - sizes/carte_detail_191213.jpg_358x350.jpg
 - filename: carte_global_191213
-  original: sizes/carte_global_191213.jpg_2000x1965.jpg
-  thumbnail: sizes/carte_global_191213.jpg_250x246.jpg
+  original: sizes/carte_global_191213.jpg_344x350.jpg
+  thumbnail: sizes/carte_global_191213.jpg_147x150.jpg
   sizes:
-  - sizes/carte_global_191213.jpg_250x246.jpg
-  - sizes/carte_global_191213.jpg_500x491.jpg
-  - sizes/carte_global_191213.jpg_1000x983.jpg
-  - sizes/carte_global_191213.jpg_2000x1965.jpg
+  - sizes/carte_global_191213.jpg_147x150.jpg
+  - sizes/carte_global_191213.jpg_246x250.jpg
+  - sizes/carte_global_191213.jpg_344x350.jpg

@@ -1,27 +1,24 @@
 picture_path: fin_sejour_nz/port
 preview:
   filename: P1110014
-  original: sizes/P1110014.jpg_2000x1500.jpg
-  thumbnail: sizes/P1110014.jpg_250x188.jpg
+  original: sizes/P1110014.jpg_262x350.jpg
+  thumbnail: sizes/P1110014.jpg_112x150.jpg
   sizes:
-  - sizes/P1110014.jpg_250x188.jpg
-  - sizes/P1110014.jpg_500x375.jpg
-  - sizes/P1110014.jpg_1000x750.jpg
-  - sizes/P1110014.jpg_2000x1500.jpg
+  - sizes/P1110014.jpg_112x150.jpg
+  - sizes/P1110014.jpg_188x250.jpg
+  - sizes/P1110014.jpg_262x350.jpg
 pictures:
 - filename: P1110014
-  original: sizes/P1110014.jpg_2000x1500.jpg
-  thumbnail: sizes/P1110014.jpg_250x188.jpg
+  original: sizes/P1110014.jpg_262x350.jpg
+  thumbnail: sizes/P1110014.jpg_112x150.jpg
   sizes:
-  - sizes/P1110014.jpg_250x188.jpg
-  - sizes/P1110014.jpg_500x375.jpg
-  - sizes/P1110014.jpg_1000x750.jpg
-  - sizes/P1110014.jpg_2000x1500.jpg
+  - sizes/P1110014.jpg_112x150.jpg
+  - sizes/P1110014.jpg_188x250.jpg
+  - sizes/P1110014.jpg_262x350.jpg
 - filename: P1110017
-  original: sizes/P1110017.jpg_1500x2000.jpg
-  thumbnail: sizes/P1110017.jpg_188x250.jpg
+  original: sizes/P1110017.jpg_467x350.jpg
+  thumbnail: sizes/P1110017.jpg_200x150.jpg
   sizes:
-  - sizes/P1110017.jpg_188x250.jpg
-  - sizes/P1110017.jpg_375x500.jpg
-  - sizes/P1110017.jpg_750x1000.jpg
-  - sizes/P1110017.jpg_1500x2000.jpg
+  - sizes/P1110017.jpg_200x150.jpg
+  - sizes/P1110017.jpg_333x250.jpg
+  - sizes/P1110017.jpg_467x350.jpg

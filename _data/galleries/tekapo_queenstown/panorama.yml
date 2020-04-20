@@ -1,19 +1,17 @@
 picture_path: tekapo_queenstown/panorama
 preview:
   filename: P1090073
-  original: sizes/P1090073.jpg_596x2000.jpg
-  thumbnail: sizes/P1090073.jpg_74x250.jpg
+  original: sizes/P1090073.jpg_1175x350.jpg
+  thumbnail: sizes/P1090073.jpg_504x150.jpg
   sizes:
-  - sizes/P1090073.jpg_74x250.jpg
-  - sizes/P1090073.jpg_149x500.jpg
-  - sizes/P1090073.jpg_298x1000.jpg
-  - sizes/P1090073.jpg_596x2000.jpg
+  - sizes/P1090073.jpg_504x150.jpg
+  - sizes/P1090073.jpg_840x250.jpg
+  - sizes/P1090073.jpg_1175x350.jpg
 pictures:
 - filename: P1090073
-  original: sizes/P1090073.jpg_596x2000.jpg
-  thumbnail: sizes/P1090073.jpg_74x250.jpg
+  original: sizes/P1090073.jpg_1175x350.jpg
+  thumbnail: sizes/P1090073.jpg_504x150.jpg
   sizes:
-  - sizes/P1090073.jpg_74x250.jpg
-  - sizes/P1090073.jpg_149x500.jpg
-  - sizes/P1090073.jpg_298x1000.jpg
-  - sizes/P1090073.jpg_596x2000.jpg
+  - sizes/P1090073.jpg_504x150.jpg
+  - sizes/P1090073.jpg_840x250.jpg
+  - sizes/P1090073.jpg_1175x350.jpg

@@ -1,19 +1,17 @@
 picture_path: tongariro/avertissement1
 preview:
   filename: P1100733
-  original: sizes/P1100733.jpg_1500x2000.jpg
-  thumbnail: sizes/P1100733.jpg_188x250.jpg
+  original: sizes/P1100733.jpg_467x350.jpg
+  thumbnail: sizes/P1100733.jpg_200x150.jpg
   sizes:
-  - sizes/P1100733.jpg_188x250.jpg
-  - sizes/P1100733.jpg_375x500.jpg
-  - sizes/P1100733.jpg_750x1000.jpg
-  - sizes/P1100733.jpg_1500x2000.jpg
+  - sizes/P1100733.jpg_200x150.jpg
+  - sizes/P1100733.jpg_333x250.jpg
+  - sizes/P1100733.jpg_467x350.jpg
 pictures:
 - filename: P1100733
-  original: sizes/P1100733.jpg_1500x2000.jpg
-  thumbnail: sizes/P1100733.jpg_188x250.jpg
+  original: sizes/P1100733.jpg_467x350.jpg
+  thumbnail: sizes/P1100733.jpg_200x150.jpg
   sizes:
-  - sizes/P1100733.jpg_188x250.jpg
-  - sizes/P1100733.jpg_375x500.jpg
-  - sizes/P1100733.jpg_750x1000.jpg
-  - sizes/P1100733.jpg_1500x2000.jpg
+  - sizes/P1100733.jpg_200x150.jpg
+  - sizes/P1100733.jpg_333x250.jpg
+  - sizes/P1100733.jpg_467x350.jpg

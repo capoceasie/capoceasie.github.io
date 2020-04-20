@@ -1,139 +1,122 @@
 picture_path: centre_rouge/ay_marche
 preview:
   filename: 0_P1060782
-  original: sizes/0_P1060782.jpg_1500x2000.jpg
-  thumbnail: sizes/0_P1060782.jpg_188x250.jpg
+  original: sizes/0_P1060782.jpg_467x350.jpg
+  thumbnail: sizes/0_P1060782.jpg_200x150.jpg
   sizes:
-  - sizes/0_P1060782.jpg_188x250.jpg
-  - sizes/0_P1060782.jpg_375x500.jpg
-  - sizes/0_P1060782.jpg_750x1000.jpg
-  - sizes/0_P1060782.jpg_1500x2000.jpg
+  - sizes/0_P1060782.jpg_200x150.jpg
+  - sizes/0_P1060782.jpg_333x250.jpg
+  - sizes/0_P1060782.jpg_467x350.jpg
 pictures:
 - filename: 0_P1060782
-  original: sizes/0_P1060782.jpg_1500x2000.jpg
-  thumbnail: sizes/0_P1060782.jpg_188x250.jpg
+  original: sizes/0_P1060782.jpg_467x350.jpg
+  thumbnail: sizes/0_P1060782.jpg_200x150.jpg
   sizes:
-  - sizes/0_P1060782.jpg_188x250.jpg
-  - sizes/0_P1060782.jpg_375x500.jpg
-  - sizes/0_P1060782.jpg_750x1000.jpg
-  - sizes/0_P1060782.jpg_1500x2000.jpg
+  - sizes/0_P1060782.jpg_200x150.jpg
+  - sizes/0_P1060782.jpg_333x250.jpg
+  - sizes/0_P1060782.jpg_467x350.jpg
 - filename: 1_P1060810
-  original: sizes/1_P1060810.jpg_1500x2000.jpg
-  thumbnail: sizes/1_P1060810.jpg_187x250.jpg
+  original: sizes/1_P1060810.jpg_467x350.jpg
+  thumbnail: sizes/1_P1060810.jpg_200x150.jpg
   sizes:
-  - sizes/1_P1060810.jpg_187x250.jpg
-  - sizes/1_P1060810.jpg_375x500.jpg
-  - sizes/1_P1060810.jpg_750x1000.jpg
-  - sizes/1_P1060810.jpg_1500x2000.jpg
+  - sizes/1_P1060810.jpg_200x150.jpg
+  - sizes/1_P1060810.jpg_333x250.jpg
+  - sizes/1_P1060810.jpg_467x350.jpg
 - filename: P1060797
-  original: sizes/P1060797.jpg_2000x1500.jpg
-  thumbnail: sizes/P1060797.jpg_250x188.jpg
+  original: sizes/P1060797.jpg_262x350.jpg
+  thumbnail: sizes/P1060797.jpg_112x150.jpg
   sizes:
-  - sizes/P1060797.jpg_250x188.jpg
-  - sizes/P1060797.jpg_500x375.jpg
-  - sizes/P1060797.jpg_1000x750.jpg
-  - sizes/P1060797.jpg_2000x1500.jpg
+  - sizes/P1060797.jpg_112x150.jpg
+  - sizes/P1060797.jpg_188x250.jpg
+  - sizes/P1060797.jpg_262x350.jpg
 - filename: P1060799
-  original: sizes/P1060799.jpg_2000x1500.jpg
-  thumbnail: sizes/P1060799.jpg_250x188.jpg
+  original: sizes/P1060799.jpg_262x350.jpg
+  thumbnail: sizes/P1060799.jpg_112x150.jpg
   sizes:
-  - sizes/P1060799.jpg_250x188.jpg
-  - sizes/P1060799.jpg_500x375.jpg
-  - sizes/P1060799.jpg_1000x750.jpg
-  - sizes/P1060799.jpg_2000x1500.jpg
+  - sizes/P1060799.jpg_112x150.jpg
+  - sizes/P1060799.jpg_188x250.jpg
+  - sizes/P1060799.jpg_262x350.jpg
 - filename: P1060802
-  original: sizes/P1060802.jpg_1500x2000.jpg
-  thumbnail: sizes/P1060802.jpg_188x250.jpg
+  original: sizes/P1060802.jpg_467x350.jpg
+  thumbnail: sizes/P1060802.jpg_200x150.jpg
   sizes:
-  - sizes/P1060802.jpg_188x250.jpg
-  - sizes/P1060802.jpg_375x500.jpg
-  - sizes/P1060802.jpg_750x1000.jpg
-  - sizes/P1060802.jpg_1500x2000.jpg
+  - sizes/P1060802.jpg_200x150.jpg
+  - sizes/P1060802.jpg_333x250.jpg
+  - sizes/P1060802.jpg_467x350.jpg
 - filename: P1060803
-  original: sizes/P1060803.jpg_2000x1500.jpg
-  thumbnail: sizes/P1060803.jpg_250x188.jpg
+  original: sizes/P1060803.jpg_262x350.jpg
+  thumbnail: sizes/P1060803.jpg_112x150.jpg
   sizes:
-  - sizes/P1060803.jpg_250x188.jpg
-  - sizes/P1060803.jpg_500x375.jpg
-  - sizes/P1060803.jpg_1000x750.jpg
-  - sizes/P1060803.jpg_2000x1500.jpg
+  - sizes/P1060803.jpg_112x150.jpg
+  - sizes/P1060803.jpg_188x250.jpg
+  - sizes/P1060803.jpg_262x350.jpg
 - filename: P1060805
-  original: sizes/P1060805.jpg_2000x1500.jpg
-  thumbnail: sizes/P1060805.jpg_250x188.jpg
+  original: sizes/P1060805.jpg_262x350.jpg
+  thumbnail: sizes/P1060805.jpg_112x150.jpg
   sizes:
-  - sizes/P1060805.jpg_250x188.jpg
-  - sizes/P1060805.jpg_500x375.jpg
-  - sizes/P1060805.jpg_1000x750.jpg
-  - sizes/P1060805.jpg_2000x1500.jpg
+  - sizes/P1060805.jpg_112x150.jpg
+  - sizes/P1060805.jpg_188x250.jpg
+  - sizes/P1060805.jpg_262x350.jpg
 - filename: P1060817
-  original: sizes/P1060817.jpg_2000x1500.jpg
-  thumbnail: sizes/P1060817.jpg_250x188.jpg
+  original: sizes/P1060817.jpg_262x350.jpg
+  thumbnail: sizes/P1060817.jpg_112x150.jpg
   sizes:
-  - sizes/P1060817.jpg_250x188.jpg
-  - sizes/P1060817.jpg_500x375.jpg
-  - sizes/P1060817.jpg_1000x750.jpg
-  - sizes/P1060817.jpg_2000x1500.jpg
+  - sizes/P1060817.jpg_112x150.jpg
+  - sizes/P1060817.jpg_188x250.jpg
+  - sizes/P1060817.jpg_262x350.jpg
 - filename: P1060818
-  original: sizes/P1060818.jpg_1500x2000.jpg
-  thumbnail: sizes/P1060818.jpg_188x250.jpg
+  original: sizes/P1060818.jpg_467x350.jpg
+  thumbnail: sizes/P1060818.jpg_200x150.jpg
   sizes:
-  - sizes/P1060818.jpg_188x250.jpg
-  - sizes/P1060818.jpg_375x500.jpg
-  - sizes/P1060818.jpg_750x1000.jpg
-  - sizes/P1060818.jpg_1500x2000.jpg
+  - sizes/P1060818.jpg_200x150.jpg
+  - sizes/P1060818.jpg_333x250.jpg
+  - sizes/P1060818.jpg_467x350.jpg
 - filename: P1060825
-  original: sizes/P1060825.jpg_2000x1500.jpg
-  thumbnail: sizes/P1060825.jpg_250x188.jpg
+  original: sizes/P1060825.jpg_262x350.jpg
+  thumbnail: sizes/P1060825.jpg_112x150.jpg
   sizes:
-  - sizes/P1060825.jpg_250x188.jpg
-  - sizes/P1060825.jpg_500x375.jpg
-  - sizes/P1060825.jpg_1000x750.jpg
-  - sizes/P1060825.jpg_2000x1500.jpg
+  - sizes/P1060825.jpg_112x150.jpg
+  - sizes/P1060825.jpg_188x250.jpg
+  - sizes/P1060825.jpg_262x350.jpg
 - filename: P1060828
-  original: sizes/P1060828.jpg_2000x1500.jpg
-  thumbnail: sizes/P1060828.jpg_250x187.jpg
+  original: sizes/P1060828.jpg_262x350.jpg
+  thumbnail: sizes/P1060828.jpg_112x150.jpg
   sizes:
-  - sizes/P1060828.jpg_250x187.jpg
-  - sizes/P1060828.jpg_500x375.jpg
-  - sizes/P1060828.jpg_1000x750.jpg
-  - sizes/P1060828.jpg_2000x1500.jpg
+  - sizes/P1060828.jpg_112x150.jpg
+  - sizes/P1060828.jpg_187x250.jpg
+  - sizes/P1060828.jpg_262x350.jpg
 - filename: P1060836
-  original: sizes/P1060836.jpg_1500x2000.jpg
-  thumbnail: sizes/P1060836.jpg_188x250.jpg
+  original: sizes/P1060836.jpg_467x350.jpg
+  thumbnail: sizes/P1060836.jpg_200x150.jpg
   sizes:
-  - sizes/P1060836.jpg_188x250.jpg
-  - sizes/P1060836.jpg_375x500.jpg
-  - sizes/P1060836.jpg_750x1000.jpg
-  - sizes/P1060836.jpg_1500x2000.jpg
+  - sizes/P1060836.jpg_200x150.jpg
+  - sizes/P1060836.jpg_333x250.jpg
+  - sizes/P1060836.jpg_467x350.jpg
 - filename: P1060837
-  original: sizes/P1060837.jpg_1500x2000.jpg
-  thumbnail: sizes/P1060837.jpg_188x250.jpg
+  original: sizes/P1060837.jpg_467x350.jpg
+  thumbnail: sizes/P1060837.jpg_200x150.jpg
   sizes:
-  - sizes/P1060837.jpg_188x250.jpg
-  - sizes/P1060837.jpg_375x500.jpg
-  - sizes/P1060837.jpg_750x1000.jpg
-  - sizes/P1060837.jpg_1500x2000.jpg
+  - sizes/P1060837.jpg_200x150.jpg
+  - sizes/P1060837.jpg_333x250.jpg
+  - sizes/P1060837.jpg_467x350.jpg
 - filename: P1060842
-  original: sizes/P1060842.jpg_1500x2000.jpg
-  thumbnail: sizes/P1060842.jpg_188x250.jpg
+  original: sizes/P1060842.jpg_467x350.jpg
+  thumbnail: sizes/P1060842.jpg_200x150.jpg
   sizes:
-  - sizes/P1060842.jpg_188x250.jpg
-  - sizes/P1060842.jpg_375x500.jpg
-  - sizes/P1060842.jpg_750x1000.jpg
-  - sizes/P1060842.jpg_1500x2000.jpg
+  - sizes/P1060842.jpg_200x150.jpg
+  - sizes/P1060842.jpg_333x250.jpg
+  - sizes/P1060842.jpg_467x350.jpg
 - filename: P1060845
-  original: sizes/P1060845.jpg_2000x1500.jpg
-  thumbnail: sizes/P1060845.jpg_250x188.jpg
+  original: sizes/P1060845.jpg_262x350.jpg
+  thumbnail: sizes/P1060845.jpg_112x150.jpg
   sizes:
-  - sizes/P1060845.jpg_250x188.jpg
-  - sizes/P1060845.jpg_500x375.jpg
-  - sizes/P1060845.jpg_1000x750.jpg
-  - sizes/P1060845.jpg_2000x1500.jpg
+  - sizes/P1060845.jpg_112x150.jpg
+  - sizes/P1060845.jpg_188x250.jpg
+  - sizes/P1060845.jpg_262x350.jpg
 - filename: z_20191110_122339
-  original: sizes/z_20191110_122339.jpg_1500x2000.jpg
-  thumbnail: sizes/z_20191110_122339.jpg_187x250.jpg
+  original: sizes/z_20191110_122339.jpg_467x350.jpg
+  thumbnail: sizes/z_20191110_122339.jpg_200x150.jpg
   sizes:
-  - sizes/z_20191110_122339.jpg_187x250.jpg
-  - sizes/z_20191110_122339.jpg_375x500.jpg
-  - sizes/z_20191110_122339.jpg_750x1000.jpg
-  - sizes/z_20191110_122339.jpg_1500x2000.jpg
+  - sizes/z_20191110_122339.jpg_200x150.jpg
+  - sizes/z_20191110_122339.jpg_333x250.jpg
+  - sizes/z_20191110_122339.jpg_467x350.jpg

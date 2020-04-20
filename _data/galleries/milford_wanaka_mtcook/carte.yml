@@ -1,27 +1,24 @@
 picture_path: milford_wanaka_mtcook/carte
 preview:
   filename: carte_detail_191209
-  original: sizes/carte_detail_191209.jpg_1466x2000.jpg
-  thumbnail: sizes/carte_detail_191209.jpg_183x250.jpg
+  original: sizes/carte_detail_191209.jpg_478x350.jpg
+  thumbnail: sizes/carte_detail_191209.jpg_205x150.jpg
   sizes:
-  - sizes/carte_detail_191209.jpg_183x250.jpg
-  - sizes/carte_detail_191209.jpg_366x500.jpg
-  - sizes/carte_detail_191209.jpg_733x1000.jpg
-  - sizes/carte_detail_191209.jpg_1466x2000.jpg
+  - sizes/carte_detail_191209.jpg_205x150.jpg
+  - sizes/carte_detail_191209.jpg_341x250.jpg
+  - sizes/carte_detail_191209.jpg_478x350.jpg
 pictures:
 - filename: carte_detail_191209
-  original: sizes/carte_detail_191209.jpg_1466x2000.jpg
-  thumbnail: sizes/carte_detail_191209.jpg_183x250.jpg
+  original: sizes/carte_detail_191209.jpg_478x350.jpg
+  thumbnail: sizes/carte_detail_191209.jpg_205x150.jpg
   sizes:
-  - sizes/carte_detail_191209.jpg_183x250.jpg
-  - sizes/carte_detail_191209.jpg_366x500.jpg
-  - sizes/carte_detail_191209.jpg_733x1000.jpg
-  - sizes/carte_detail_191209.jpg_1466x2000.jpg
+  - sizes/carte_detail_191209.jpg_205x150.jpg
+  - sizes/carte_detail_191209.jpg_341x250.jpg
+  - sizes/carte_detail_191209.jpg_478x350.jpg
 - filename: carte_global_191209
-  original: sizes/carte_global_191209.jpg_1825x2000.jpg
-  thumbnail: sizes/carte_global_191209.jpg_228x250.jpg
+  original: sizes/carte_global_191209.jpg_383x350.jpg
+  thumbnail: sizes/carte_global_191209.jpg_164x150.jpg
   sizes:
-  - sizes/carte_global_191209.jpg_228x250.jpg
-  - sizes/carte_global_191209.jpg_456x500.jpg
-  - sizes/carte_global_191209.jpg_913x1000.jpg
-  - sizes/carte_global_191209.jpg_1825x2000.jpg
+  - sizes/carte_global_191209.jpg_164x150.jpg
+  - sizes/carte_global_191209.jpg_274x250.jpg
+  - sizes/carte_global_191209.jpg_383x350.jpg

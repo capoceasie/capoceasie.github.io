@@ -1,19 +1,17 @@
 picture_path: fin_sejour_nz/snooze
 preview:
   filename: 20191220_082322
-  original: sizes/20191220_082322.jpg_1500x2000.jpg
-  thumbnail: sizes/20191220_082322.jpg_188x250.jpg
+  original: sizes/20191220_082322.jpg_467x350.jpg
+  thumbnail: sizes/20191220_082322.jpg_200x150.jpg
   sizes:
-  - sizes/20191220_082322.jpg_188x250.jpg
-  - sizes/20191220_082322.jpg_375x500.jpg
-  - sizes/20191220_082322.jpg_750x1000.jpg
-  - sizes/20191220_082322.jpg_1500x2000.jpg
+  - sizes/20191220_082322.jpg_200x150.jpg
+  - sizes/20191220_082322.jpg_333x250.jpg
+  - sizes/20191220_082322.jpg_467x350.jpg
 pictures:
 - filename: 20191220_082322
-  original: sizes/20191220_082322.jpg_1500x2000.jpg
-  thumbnail: sizes/20191220_082322.jpg_188x250.jpg
+  original: sizes/20191220_082322.jpg_467x350.jpg
+  thumbnail: sizes/20191220_082322.jpg_200x150.jpg
   sizes:
-  - sizes/20191220_082322.jpg_188x250.jpg
-  - sizes/20191220_082322.jpg_375x500.jpg
-  - sizes/20191220_082322.jpg_750x1000.jpg
-  - sizes/20191220_082322.jpg_1500x2000.jpg
+  - sizes/20191220_082322.jpg_200x150.jpg
+  - sizes/20191220_082322.jpg_333x250.jpg
+  - sizes/20191220_082322.jpg_467x350.jpg

@@ -1,27 +1,24 @@
 picture_path: pushkar/carte
 preview:
   filename: carte_detaillee_191226
-  original: sizes/carte_detaillee_191226.jpg_967x2000.jpg
-  thumbnail: sizes/carte_detaillee_191226.jpg_121x250.jpg
+  original: sizes/carte_detaillee_191226.jpg_724x350.jpg
+  thumbnail: sizes/carte_detaillee_191226.jpg_310x150.jpg
   sizes:
-  - sizes/carte_detaillee_191226.jpg_121x250.jpg
-  - sizes/carte_detaillee_191226.jpg_242x500.jpg
-  - sizes/carte_detaillee_191226.jpg_483x1000.jpg
-  - sizes/carte_detaillee_191226.jpg_967x2000.jpg
+  - sizes/carte_detaillee_191226.jpg_310x150.jpg
+  - sizes/carte_detaillee_191226.jpg_517x250.jpg
+  - sizes/carte_detaillee_191226.jpg_724x350.jpg
 pictures:
 - filename: carte_detaillee_191226
-  original: sizes/carte_detaillee_191226.jpg_967x2000.jpg
-  thumbnail: sizes/carte_detaillee_191226.jpg_121x250.jpg
+  original: sizes/carte_detaillee_191226.jpg_724x350.jpg
+  thumbnail: sizes/carte_detaillee_191226.jpg_310x150.jpg
   sizes:
-  - sizes/carte_detaillee_191226.jpg_121x250.jpg
-  - sizes/carte_detaillee_191226.jpg_242x500.jpg
-  - sizes/carte_detaillee_191226.jpg_483x1000.jpg
-  - sizes/carte_detaillee_191226.jpg_967x2000.jpg
+  - sizes/carte_detaillee_191226.jpg_310x150.jpg
+  - sizes/carte_detaillee_191226.jpg_517x250.jpg
+  - sizes/carte_detaillee_191226.jpg_724x350.jpg
 - filename: carte_global_191226
-  original: sizes/carte_global_191226.jpg_2000x1805.jpg
-  thumbnail: sizes/carte_global_191226.jpg_250x226.jpg
+  original: sizes/carte_global_191226.jpg_316x350.jpg
+  thumbnail: sizes/carte_global_191226.jpg_135x150.jpg
   sizes:
-  - sizes/carte_global_191226.jpg_250x226.jpg
-  - sizes/carte_global_191226.jpg_500x451.jpg
-  - sizes/carte_global_191226.jpg_1000x902.jpg
-  - sizes/carte_global_191226.jpg_2000x1805.jpg
+  - sizes/carte_global_191226.jpg_135x150.jpg
+  - sizes/carte_global_191226.jpg_226x250.jpg
+  - sizes/carte_global_191226.jpg_316x350.jpg

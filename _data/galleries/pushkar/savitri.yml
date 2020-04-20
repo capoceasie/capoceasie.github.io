@@ -1,43 +1,38 @@
 picture_path: pushkar/savitri
 preview:
   filename: P1110659
-  original: sizes/P1110659.jpg_1500x2000.jpg
-  thumbnail: sizes/P1110659.jpg_188x250.jpg
+  original: sizes/P1110659.jpg_467x350.jpg
+  thumbnail: sizes/P1110659.jpg_200x150.jpg
   sizes:
-  - sizes/P1110659.jpg_188x250.jpg
-  - sizes/P1110659.jpg_375x500.jpg
-  - sizes/P1110659.jpg_750x1000.jpg
-  - sizes/P1110659.jpg_1500x2000.jpg
+  - sizes/P1110659.jpg_200x150.jpg
+  - sizes/P1110659.jpg_333x250.jpg
+  - sizes/P1110659.jpg_467x350.jpg
 pictures:
 - filename: P1110659
-  original: sizes/P1110659.jpg_1500x2000.jpg
-  thumbnail: sizes/P1110659.jpg_188x250.jpg
+  original: sizes/P1110659.jpg_467x350.jpg
+  thumbnail: sizes/P1110659.jpg_200x150.jpg
   sizes:
-  - sizes/P1110659.jpg_188x250.jpg
-  - sizes/P1110659.jpg_375x500.jpg
-  - sizes/P1110659.jpg_750x1000.jpg
-  - sizes/P1110659.jpg_1500x2000.jpg
+  - sizes/P1110659.jpg_200x150.jpg
+  - sizes/P1110659.jpg_333x250.jpg
+  - sizes/P1110659.jpg_467x350.jpg
 - filename: P1110663
-  original: sizes/P1110663.jpg_1500x2000.jpg
-  thumbnail: sizes/P1110663.jpg_188x250.jpg
+  original: sizes/P1110663.jpg_467x350.jpg
+  thumbnail: sizes/P1110663.jpg_200x150.jpg
   sizes:
-  - sizes/P1110663.jpg_188x250.jpg
-  - sizes/P1110663.jpg_375x500.jpg
-  - sizes/P1110663.jpg_750x1000.jpg
-  - sizes/P1110663.jpg_1500x2000.jpg
+  - sizes/P1110663.jpg_200x150.jpg
+  - sizes/P1110663.jpg_333x250.jpg
+  - sizes/P1110663.jpg_467x350.jpg
 - filename: P1110683
-  original: sizes/P1110683.jpg_1500x2000.jpg
-  thumbnail: sizes/P1110683.jpg_188x250.jpg
+  original: sizes/P1110683.jpg_467x350.jpg
+  thumbnail: sizes/P1110683.jpg_200x150.jpg
   sizes:
-  - sizes/P1110683.jpg_188x250.jpg
-  - sizes/P1110683.jpg_375x500.jpg
-  - sizes/P1110683.jpg_750x1000.jpg
-  - sizes/P1110683.jpg_1500x2000.jpg
+  - sizes/P1110683.jpg_200x150.jpg
+  - sizes/P1110683.jpg_333x250.jpg
+  - sizes/P1110683.jpg_467x350.jpg
 - filename: P1110692
-  original: sizes/P1110692.jpg_1500x2000.jpg
-  thumbnail: sizes/P1110692.jpg_187x250.jpg
+  original: sizes/P1110692.jpg_467x350.jpg
+  thumbnail: sizes/P1110692.jpg_200x150.jpg
   sizes:
-  - sizes/P1110692.jpg_187x250.jpg
-  - sizes/P1110692.jpg_375x500.jpg
-  - sizes/P1110692.jpg_750x1000.jpg
-  - sizes/P1110692.jpg_1500x2000.jpg
+  - sizes/P1110692.jpg_200x150.jpg
+  - sizes/P1110692.jpg_333x250.jpg
+  - sizes/P1110692.jpg_467x350.jpg

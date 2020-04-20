@@ -1,35 +1,31 @@
 picture_path: abeltasman_kaikoura/rencontre_dauphins
 preview:
   filename: 0020191213_101417
-  original: sizes/0020191213_101417.jpg_1500x2000.jpg
-  thumbnail: sizes/0020191213_101417.jpg_187x250.jpg
+  original: sizes/0020191213_101417.jpg_467x350.jpg
+  thumbnail: sizes/0020191213_101417.jpg_200x150.jpg
   sizes:
-  - sizes/0020191213_101417.jpg_187x250.jpg
-  - sizes/0020191213_101417.jpg_375x500.jpg
-  - sizes/0020191213_101417.jpg_750x1000.jpg
-  - sizes/0020191213_101417.jpg_1500x2000.jpg
+  - sizes/0020191213_101417.jpg_200x150.jpg
+  - sizes/0020191213_101417.jpg_333x250.jpg
+  - sizes/0020191213_101417.jpg_467x350.jpg
 pictures:
 - filename: 0020191213_101417
-  original: sizes/0020191213_101417.jpg_1500x2000.jpg
-  thumbnail: sizes/0020191213_101417.jpg_187x250.jpg
+  original: sizes/0020191213_101417.jpg_467x350.jpg
+  thumbnail: sizes/0020191213_101417.jpg_200x150.jpg
   sizes:
-  - sizes/0020191213_101417.jpg_187x250.jpg
-  - sizes/0020191213_101417.jpg_375x500.jpg
-  - sizes/0020191213_101417.jpg_750x1000.jpg
-  - sizes/0020191213_101417.jpg_1500x2000.jpg
+  - sizes/0020191213_101417.jpg_200x150.jpg
+  - sizes/0020191213_101417.jpg_333x250.jpg
+  - sizes/0020191213_101417.jpg_467x350.jpg
 - filename: 020191213_101219
-  original: sizes/020191213_101219.jpg_1500x2000.jpg
-  thumbnail: sizes/020191213_101219.jpg_188x250.jpg
+  original: sizes/020191213_101219.jpg_467x350.jpg
+  thumbnail: sizes/020191213_101219.jpg_200x150.jpg
   sizes:
-  - sizes/020191213_101219.jpg_188x250.jpg
-  - sizes/020191213_101219.jpg_375x500.jpg
-  - sizes/020191213_101219.jpg_750x1000.jpg
-  - sizes/020191213_101219.jpg_1500x2000.jpg
+  - sizes/020191213_101219.jpg_200x150.jpg
+  - sizes/020191213_101219.jpg_333x250.jpg
+  - sizes/020191213_101219.jpg_467x350.jpg
 - filename: 20191213_100950
-  original: sizes/20191213_100950.jpg_2000x1500.jpg
-  thumbnail: sizes/20191213_100950.jpg_250x188.jpg
+  original: sizes/20191213_100950.jpg_262x350.jpg
+  thumbnail: sizes/20191213_100950.jpg_112x150.jpg
   sizes:
-  - sizes/20191213_100950.jpg_250x188.jpg
-  - sizes/20191213_100950.jpg_500x375.jpg
-  - sizes/20191213_100950.jpg_1000x750.jpg
-  - sizes/20191213_100950.jpg_2000x1500.jpg
+  - sizes/20191213_100950.jpg_112x150.jpg
+  - sizes/20191213_100950.jpg_188x250.jpg
+  - sizes/20191213_100950.jpg_262x350.jpg

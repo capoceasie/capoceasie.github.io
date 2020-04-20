@@ -1,35 +1,31 @@
 picture_path: fin_sejour_nz/environnement
 preview:
   filename: 20191218_140418
-  original: sizes/20191218_140418.jpg_2000x1500.jpg
-  thumbnail: sizes/20191218_140418.jpg_250x188.jpg
+  original: sizes/20191218_140418.jpg_262x350.jpg
+  thumbnail: sizes/20191218_140418.jpg_112x150.jpg
   sizes:
-  - sizes/20191218_140418.jpg_250x188.jpg
-  - sizes/20191218_140418.jpg_500x375.jpg
-  - sizes/20191218_140418.jpg_1000x750.jpg
-  - sizes/20191218_140418.jpg_2000x1500.jpg
+  - sizes/20191218_140418.jpg_112x150.jpg
+  - sizes/20191218_140418.jpg_188x250.jpg
+  - sizes/20191218_140418.jpg_262x350.jpg
 pictures:
 - filename: 20191218_140418
-  original: sizes/20191218_140418.jpg_2000x1500.jpg
-  thumbnail: sizes/20191218_140418.jpg_250x188.jpg
+  original: sizes/20191218_140418.jpg_262x350.jpg
+  thumbnail: sizes/20191218_140418.jpg_112x150.jpg
   sizes:
-  - sizes/20191218_140418.jpg_250x188.jpg
-  - sizes/20191218_140418.jpg_500x375.jpg
-  - sizes/20191218_140418.jpg_1000x750.jpg
-  - sizes/20191218_140418.jpg_2000x1500.jpg
+  - sizes/20191218_140418.jpg_112x150.jpg
+  - sizes/20191218_140418.jpg_188x250.jpg
+  - sizes/20191218_140418.jpg_262x350.jpg
 - filename: 20191218_163155
-  original: sizes/20191218_163155.jpg_2000x1500.jpg
-  thumbnail: sizes/20191218_163155.jpg_250x188.jpg
+  original: sizes/20191218_163155.jpg_262x350.jpg
+  thumbnail: sizes/20191218_163155.jpg_112x150.jpg
   sizes:
-  - sizes/20191218_163155.jpg_250x188.jpg
-  - sizes/20191218_163155.jpg_500x375.jpg
-  - sizes/20191218_163155.jpg_1000x750.jpg
-  - sizes/20191218_163155.jpg_2000x1500.jpg
+  - sizes/20191218_163155.jpg_112x150.jpg
+  - sizes/20191218_163155.jpg_188x250.jpg
+  - sizes/20191218_163155.jpg_262x350.jpg
 - filename: P1110018
-  original: sizes/P1110018.jpg_1500x2000.jpg
-  thumbnail: sizes/P1110018.jpg_188x250.jpg
+  original: sizes/P1110018.jpg_467x350.jpg
+  thumbnail: sizes/P1110018.jpg_200x150.jpg
   sizes:
-  - sizes/P1110018.jpg_188x250.jpg
-  - sizes/P1110018.jpg_375x500.jpg
-  - sizes/P1110018.jpg_750x1000.jpg
-  - sizes/P1110018.jpg_1500x2000.jpg
+  - sizes/P1110018.jpg_200x150.jpg
+  - sizes/P1110018.jpg_333x250.jpg
+  - sizes/P1110018.jpg_467x350.jpg

@@ -1,27 +1,24 @@
 picture_path: centre_rouge/incendies
 preview:
   filename: 20191109_164912
-  original: sizes/20191109_164912.jpg_1500x2000.jpg
-  thumbnail: sizes/20191109_164912.jpg_188x250.jpg
+  original: sizes/20191109_164912.jpg_467x350.jpg
+  thumbnail: sizes/20191109_164912.jpg_200x150.jpg
   sizes:
-  - sizes/20191109_164912.jpg_188x250.jpg
-  - sizes/20191109_164912.jpg_375x500.jpg
-  - sizes/20191109_164912.jpg_750x1000.jpg
-  - sizes/20191109_164912.jpg_1500x2000.jpg
+  - sizes/20191109_164912.jpg_200x150.jpg
+  - sizes/20191109_164912.jpg_333x250.jpg
+  - sizes/20191109_164912.jpg_467x350.jpg
 pictures:
 - filename: 20191109_164912
-  original: sizes/20191109_164912.jpg_1500x2000.jpg
-  thumbnail: sizes/20191109_164912.jpg_188x250.jpg
+  original: sizes/20191109_164912.jpg_467x350.jpg
+  thumbnail: sizes/20191109_164912.jpg_200x150.jpg
   sizes:
-  - sizes/20191109_164912.jpg_188x250.jpg
-  - sizes/20191109_164912.jpg_375x500.jpg
-  - sizes/20191109_164912.jpg_750x1000.jpg
-  - sizes/20191109_164912.jpg_1500x2000.jpg
+  - sizes/20191109_164912.jpg_200x150.jpg
+  - sizes/20191109_164912.jpg_333x250.jpg
+  - sizes/20191109_164912.jpg_467x350.jpg
 - filename: 20191113_113931
-  original: sizes/20191113_113931.jpg_1500x2000.jpg
-  thumbnail: sizes/20191113_113931.jpg_188x250.jpg
+  original: sizes/20191113_113931.jpg_467x350.jpg
+  thumbnail: sizes/20191113_113931.jpg_200x150.jpg
   sizes:
-  - sizes/20191113_113931.jpg_188x250.jpg
-  - sizes/20191113_113931.jpg_375x500.jpg
-  - sizes/20191113_113931.jpg_750x1000.jpg
-  - sizes/20191113_113931.jpg_1500x2000.jpg
+  - sizes/20191113_113931.jpg_200x150.jpg
+  - sizes/20191113_113931.jpg_333x250.jpg
+  - sizes/20191113_113931.jpg_467x350.jpg
