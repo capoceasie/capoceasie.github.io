@@ -1,38 +1,43 @@
 picture_path: fin_sejour_nz/huka_fall
 preview:
   filename: P1100964
+  large: sizes/P1100964.jpg_1500x2000.jpg
   original: sizes/P1100964.jpg_262x350.jpg
   thumbnail: sizes/P1100964.jpg_112x150.jpg
   sizes:
   - sizes/P1100964.jpg_112x150.jpg
-  - sizes/P1100964.jpg_188x250.jpg
   - sizes/P1100964.jpg_262x350.jpg
+  - sizes/P1100964.jpg_1500x2000.jpg
 pictures:
 - filename: P1100964
+  large: sizes/P1100964.jpg_1500x2000.jpg
   original: sizes/P1100964.jpg_262x350.jpg
   thumbnail: sizes/P1100964.jpg_112x150.jpg
   sizes:
   - sizes/P1100964.jpg_112x150.jpg
-  - sizes/P1100964.jpg_188x250.jpg
   - sizes/P1100964.jpg_262x350.jpg
+  - sizes/P1100964.jpg_1500x2000.jpg
 - filename: P1100966
+  large: sizes/P1100966.jpg_1500x2000.jpg
   original: sizes/P1100966.jpg_262x350.jpg
   thumbnail: sizes/P1100966.jpg_112x150.jpg
   sizes:
   - sizes/P1100966.jpg_112x150.jpg
-  - sizes/P1100966.jpg_188x250.jpg
   - sizes/P1100966.jpg_262x350.jpg
+  - sizes/P1100966.jpg_1500x2000.jpg
 - filename: P1100969
+  large: sizes/P1100969.jpg_2667x2000.jpg
   original: sizes/P1100969.jpg_467x350.jpg
   thumbnail: sizes/P1100969.jpg_200x150.jpg
   sizes:
   - sizes/P1100969.jpg_200x150.jpg
-  - sizes/P1100969.jpg_333x250.jpg
   - sizes/P1100969.jpg_467x350.jpg
+  - sizes/P1100969.jpg_2667x2000.jpg
 - filename: P1100971
+  large: sizes/P1100971.jpg_2667x2000.jpg
   original: sizes/P1100971.jpg_467x350.jpg
   thumbnail: sizes/P1100971.jpg_200x150.jpg
   sizes:
   - sizes/P1100971.jpg_200x150.jpg
-  - sizes/P1100971.jpg_333x250.jpg
   - sizes/P1100971.jpg_467x350.jpg
+  - sizes/P1100971.jpg_2667x2000.jpg

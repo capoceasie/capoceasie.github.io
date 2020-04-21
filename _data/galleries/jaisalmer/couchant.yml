@@ -1,101 +1,115 @@
 picture_path: jaisalmer/couchant
 preview:
   filename: P1120028
+  large: sizes/P1120028.jpg_2667x2000.jpg
   original: sizes/P1120028.jpg_467x350.jpg
   thumbnail: sizes/P1120028.jpg_200x150.jpg
   sizes:
   - sizes/P1120028.jpg_200x150.jpg
-  - sizes/P1120028.jpg_333x250.jpg
   - sizes/P1120028.jpg_467x350.jpg
+  - sizes/P1120028.jpg_2667x2000.jpg
 pictures:
 - filename: P1120028
+  large: sizes/P1120028.jpg_2667x2000.jpg
   original: sizes/P1120028.jpg_467x350.jpg
   thumbnail: sizes/P1120028.jpg_200x150.jpg
   sizes:
   - sizes/P1120028.jpg_200x150.jpg
-  - sizes/P1120028.jpg_333x250.jpg
   - sizes/P1120028.jpg_467x350.jpg
+  - sizes/P1120028.jpg_2667x2000.jpg
 - filename: P1120037
+  large: sizes/P1120037.jpg_1500x2000.jpg
   original: sizes/P1120037.jpg_262x350.jpg
   thumbnail: sizes/P1120037.jpg_112x150.jpg
   sizes:
   - sizes/P1120037.jpg_112x150.jpg
-  - sizes/P1120037.jpg_188x250.jpg
   - sizes/P1120037.jpg_262x350.jpg
+  - sizes/P1120037.jpg_1500x2000.jpg
 - filename: P1120038
+  large: sizes/P1120038.jpg_1500x2000.jpg
   original: sizes/P1120038.jpg_262x350.jpg
   thumbnail: sizes/P1120038.jpg_112x150.jpg
   sizes:
   - sizes/P1120038.jpg_112x150.jpg
-  - sizes/P1120038.jpg_188x250.jpg
   - sizes/P1120038.jpg_262x350.jpg
+  - sizes/P1120038.jpg_1500x2000.jpg
 - filename: P1120039
+  large: sizes/P1120039.jpg_1500x2000.jpg
   original: sizes/P1120039.jpg_262x350.jpg
   thumbnail: sizes/P1120039.jpg_112x150.jpg
   sizes:
   - sizes/P1120039.jpg_112x150.jpg
-  - sizes/P1120039.jpg_188x250.jpg
   - sizes/P1120039.jpg_262x350.jpg
+  - sizes/P1120039.jpg_1500x2000.jpg
 - filename: P1120043
+  large: sizes/P1120043.jpg_2667x2000.jpg
   original: sizes/P1120043.jpg_467x350.jpg
   thumbnail: sizes/P1120043.jpg_200x150.jpg
   sizes:
   - sizes/P1120043.jpg_200x150.jpg
-  - sizes/P1120043.jpg_333x250.jpg
   - sizes/P1120043.jpg_467x350.jpg
+  - sizes/P1120043.jpg_2667x2000.jpg
 - filename: P1120046
+  large: sizes/P1120046.jpg_2667x2000.jpg
   original: sizes/P1120046.jpg_467x350.jpg
   thumbnail: sizes/P1120046.jpg_200x150.jpg
   sizes:
   - sizes/P1120046.jpg_200x150.jpg
-  - sizes/P1120046.jpg_333x250.jpg
   - sizes/P1120046.jpg_467x350.jpg
+  - sizes/P1120046.jpg_2667x2000.jpg
 - filename: P1120047
+  large: sizes/P1120047.jpg_2667x2000.jpg
   original: sizes/P1120047.jpg_467x350.jpg
   thumbnail: sizes/P1120047.jpg_200x150.jpg
   sizes:
   - sizes/P1120047.jpg_200x150.jpg
-  - sizes/P1120047.jpg_333x250.jpg
   - sizes/P1120047.jpg_467x350.jpg
+  - sizes/P1120047.jpg_2667x2000.jpg
 - filename: P1120049
+  large: sizes/P1120049.jpg_2667x2000.jpg
   original: sizes/P1120049.jpg_467x350.jpg
   thumbnail: sizes/P1120049.jpg_200x150.jpg
   sizes:
   - sizes/P1120049.jpg_200x150.jpg
-  - sizes/P1120049.jpg_333x250.jpg
   - sizes/P1120049.jpg_467x350.jpg
+  - sizes/P1120049.jpg_2667x2000.jpg
 - filename: P1120051
+  large: sizes/P1120051.jpg_2667x2000.jpg
   original: sizes/P1120051.jpg_467x350.jpg
   thumbnail: sizes/P1120051.jpg_200x150.jpg
   sizes:
   - sizes/P1120051.jpg_200x150.jpg
-  - sizes/P1120051.jpg_333x250.jpg
   - sizes/P1120051.jpg_467x350.jpg
+  - sizes/P1120051.jpg_2667x2000.jpg
 - filename: P1120052
+  large: sizes/P1120052.jpg_1500x2000.jpg
   original: sizes/P1120052.jpg_262x350.jpg
   thumbnail: sizes/P1120052.jpg_112x150.jpg
   sizes:
   - sizes/P1120052.jpg_112x150.jpg
-  - sizes/P1120052.jpg_188x250.jpg
   - sizes/P1120052.jpg_262x350.jpg
+  - sizes/P1120052.jpg_1500x2000.jpg
 - filename: P1120062
+  large: sizes/P1120062.jpg_1500x2000.jpg
   original: sizes/P1120062.jpg_262x350.jpg
   thumbnail: sizes/P1120062.jpg_112x150.jpg
   sizes:
   - sizes/P1120062.jpg_112x150.jpg
-  - sizes/P1120062.jpg_188x250.jpg
   - sizes/P1120062.jpg_262x350.jpg
+  - sizes/P1120062.jpg_1500x2000.jpg
 - filename: P1120068
+  large: sizes/P1120068.jpg_1500x2000.jpg
   original: sizes/P1120068.jpg_262x350.jpg
   thumbnail: sizes/P1120068.jpg_112x150.jpg
   sizes:
   - sizes/P1120068.jpg_112x150.jpg
-  - sizes/P1120068.jpg_188x250.jpg
   - sizes/P1120068.jpg_262x350.jpg
+  - sizes/P1120068.jpg_1500x2000.jpg
 - filename: P1120069
+  large: sizes/P1120069.jpg_1500x2000.jpg
   original: sizes/P1120069.jpg_262x350.jpg
   thumbnail: sizes/P1120069.jpg_112x150.jpg
   sizes:
   - sizes/P1120069.jpg_112x150.jpg
-  - sizes/P1120069.jpg_188x250.jpg
   - sizes/P1120069.jpg_262x350.jpg
+  - sizes/P1120069.jpg_1500x2000.jpg

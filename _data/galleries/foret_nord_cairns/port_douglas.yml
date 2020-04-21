@@ -1,87 +1,99 @@
 picture_path: foret_nord_cairns/port_douglas
 preview:
   filename: P1070509
+  large: sizes/P1070509.jpg_1500x2000.jpg
   original: sizes/P1070509.jpg_262x350.jpg
   thumbnail: sizes/P1070509.jpg_112x150.jpg
   sizes:
   - sizes/P1070509.jpg_112x150.jpg
-  - sizes/P1070509.jpg_188x250.jpg
   - sizes/P1070509.jpg_262x350.jpg
+  - sizes/P1070509.jpg_1500x2000.jpg
 pictures:
 - filename: P1070509
+  large: sizes/P1070509.jpg_1500x2000.jpg
   original: sizes/P1070509.jpg_262x350.jpg
   thumbnail: sizes/P1070509.jpg_112x150.jpg
   sizes:
   - sizes/P1070509.jpg_112x150.jpg
-  - sizes/P1070509.jpg_188x250.jpg
   - sizes/P1070509.jpg_262x350.jpg
+  - sizes/P1070509.jpg_1500x2000.jpg
 - filename: P1070518
+  large: sizes/P1070518.jpg_2667x2000.jpg
   original: sizes/P1070518.jpg_467x350.jpg
   thumbnail: sizes/P1070518.jpg_200x150.jpg
   sizes:
   - sizes/P1070518.jpg_200x150.jpg
-  - sizes/P1070518.jpg_333x250.jpg
   - sizes/P1070518.jpg_467x350.jpg
+  - sizes/P1070518.jpg_2667x2000.jpg
 - filename: P1070524
+  large: sizes/P1070524.jpg_1500x2000.jpg
   original: sizes/P1070524.jpg_262x350.jpg
   thumbnail: sizes/P1070524.jpg_112x150.jpg
   sizes:
   - sizes/P1070524.jpg_112x150.jpg
-  - sizes/P1070524.jpg_188x250.jpg
   - sizes/P1070524.jpg_262x350.jpg
+  - sizes/P1070524.jpg_1500x2000.jpg
 - filename: P1070526
+  large: sizes/P1070526.jpg_1500x2000.jpg
   original: sizes/P1070526.jpg_262x350.jpg
   thumbnail: sizes/P1070526.jpg_112x150.jpg
   sizes:
   - sizes/P1070526.jpg_112x150.jpg
-  - sizes/P1070526.jpg_188x250.jpg
   - sizes/P1070526.jpg_262x350.jpg
+  - sizes/P1070526.jpg_1500x2000.jpg
 - filename: P1070533
+  large: sizes/P1070533.jpg_2667x2000.jpg
   original: sizes/P1070533.jpg_467x350.jpg
   thumbnail: sizes/P1070533.jpg_200x150.jpg
   sizes:
   - sizes/P1070533.jpg_200x150.jpg
-  - sizes/P1070533.jpg_333x250.jpg
   - sizes/P1070533.jpg_467x350.jpg
+  - sizes/P1070533.jpg_2667x2000.jpg
 - filename: P1070543
+  large: sizes/P1070543.jpg_2667x2000.jpg
   original: sizes/P1070543.jpg_467x350.jpg
   thumbnail: sizes/P1070543.jpg_200x150.jpg
   sizes:
   - sizes/P1070543.jpg_200x150.jpg
-  - sizes/P1070543.jpg_333x250.jpg
   - sizes/P1070543.jpg_467x350.jpg
+  - sizes/P1070543.jpg_2667x2000.jpg
 - filename: P1070546
+  large: sizes/P1070546.jpg_2667x2000.jpg
   original: sizes/P1070546.jpg_467x350.jpg
   thumbnail: sizes/P1070546.jpg_200x150.jpg
   sizes:
   - sizes/P1070546.jpg_200x150.jpg
-  - sizes/P1070546.jpg_333x250.jpg
   - sizes/P1070546.jpg_467x350.jpg
+  - sizes/P1070546.jpg_2667x2000.jpg
 - filename: P1070555
+  large: sizes/P1070555.jpg_2667x2000.jpg
   original: sizes/P1070555.jpg_467x350.jpg
   thumbnail: sizes/P1070555.jpg_200x150.jpg
   sizes:
   - sizes/P1070555.jpg_200x150.jpg
-  - sizes/P1070555.jpg_333x250.jpg
   - sizes/P1070555.jpg_467x350.jpg
+  - sizes/P1070555.jpg_2667x2000.jpg
 - filename: P1070562
+  large: sizes/P1070562.jpg_1500x2000.jpg
   original: sizes/P1070562.jpg_262x350.jpg
   thumbnail: sizes/P1070562.jpg_112x150.jpg
   sizes:
   - sizes/P1070562.jpg_112x150.jpg
-  - sizes/P1070562.jpg_188x250.jpg
   - sizes/P1070562.jpg_262x350.jpg
+  - sizes/P1070562.jpg_1500x2000.jpg
 - filename: P1070565
+  large: sizes/P1070565.jpg_2667x2000.jpg
   original: sizes/P1070565.jpg_467x350.jpg
   thumbnail: sizes/P1070565.jpg_200x150.jpg
   sizes:
   - sizes/P1070565.jpg_200x150.jpg
-  - sizes/P1070565.jpg_333x250.jpg
   - sizes/P1070565.jpg_467x350.jpg
+  - sizes/P1070565.jpg_2667x2000.jpg
 - filename: P1070566
+  large: sizes/P1070566.jpg_2667x2000.jpg
   original: sizes/P1070566.jpg_467x350.jpg
   thumbnail: sizes/P1070566.jpg_200x150.jpg
   sizes:
   - sizes/P1070566.jpg_200x150.jpg
-  - sizes/P1070566.jpg_333x250.jpg
   - sizes/P1070566.jpg_467x350.jpg
+  - sizes/P1070566.jpg_2667x2000.jpg

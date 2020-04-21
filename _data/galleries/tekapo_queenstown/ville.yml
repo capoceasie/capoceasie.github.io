@@ -1,52 +1,59 @@
 picture_path: tekapo_queenstown/ville
 preview:
   filename: 20191205_141044
+  large: sizes/20191205_141044.jpg_2667x2000.jpg
   original: sizes/20191205_141044.jpg_467x350.jpg
   thumbnail: sizes/20191205_141044.jpg_200x150.jpg
   sizes:
   - sizes/20191205_141044.jpg_200x150.jpg
-  - sizes/20191205_141044.jpg_333x250.jpg
   - sizes/20191205_141044.jpg_467x350.jpg
+  - sizes/20191205_141044.jpg_2667x2000.jpg
 pictures:
 - filename: 20191205_141044
+  large: sizes/20191205_141044.jpg_2667x2000.jpg
   original: sizes/20191205_141044.jpg_467x350.jpg
   thumbnail: sizes/20191205_141044.jpg_200x150.jpg
   sizes:
   - sizes/20191205_141044.jpg_200x150.jpg
-  - sizes/20191205_141044.jpg_333x250.jpg
   - sizes/20191205_141044.jpg_467x350.jpg
+  - sizes/20191205_141044.jpg_2667x2000.jpg
 - filename: 20191205_152755
+  large: sizes/20191205_152755.jpg_1500x2000.jpg
   original: sizes/20191205_152755.jpg_262x350.jpg
   thumbnail: sizes/20191205_152755.jpg_112x150.jpg
   sizes:
   - sizes/20191205_152755.jpg_112x150.jpg
-  - sizes/20191205_152755.jpg_188x250.jpg
   - sizes/20191205_152755.jpg_262x350.jpg
+  - sizes/20191205_152755.jpg_1500x2000.jpg
 - filename: 20191206_105724
+  large: sizes/20191206_105724.jpg_2667x2000.jpg
   original: sizes/20191206_105724.jpg_467x350.jpg
   thumbnail: sizes/20191206_105724.jpg_200x150.jpg
   sizes:
   - sizes/20191206_105724.jpg_200x150.jpg
-  - sizes/20191206_105724.jpg_333x250.jpg
   - sizes/20191206_105724.jpg_467x350.jpg
+  - sizes/20191206_105724.jpg_2667x2000.jpg
 - filename: P1090104
+  large: sizes/P1090104.jpg_1500x2000.jpg
   original: sizes/P1090104.jpg_262x350.jpg
   thumbnail: sizes/P1090104.jpg_112x150.jpg
   sizes:
   - sizes/P1090104.jpg_112x150.jpg
-  - sizes/P1090104.jpg_187x250.jpg
   - sizes/P1090104.jpg_262x350.jpg
+  - sizes/P1090104.jpg_1500x2000.jpg
 - filename: P1090107
+  large: sizes/P1090107.jpg_1500x2000.jpg
   original: sizes/P1090107.jpg_262x350.jpg
   thumbnail: sizes/P1090107.jpg_112x150.jpg
   sizes:
   - sizes/P1090107.jpg_112x150.jpg
-  - sizes/P1090107.jpg_188x250.jpg
   - sizes/P1090107.jpg_262x350.jpg
+  - sizes/P1090107.jpg_1500x2000.jpg
 - filename: P1090111
+  large: sizes/P1090111.jpg_2667x2000.jpg
   original: sizes/P1090111.jpg_467x350.jpg
   thumbnail: sizes/P1090111.jpg_200x150.jpg
   sizes:
   - sizes/P1090111.jpg_200x150.jpg
-  - sizes/P1090111.jpg_333x250.jpg
   - sizes/P1090111.jpg_467x350.jpg
+  - sizes/P1090111.jpg_2667x2000.jpg

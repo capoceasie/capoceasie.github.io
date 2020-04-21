@@ -1,38 +1,43 @@
 picture_path: cairns/van_int
 preview:
   filename: 20191114_145518
+  large: sizes/20191114_145518.jpg_2667x2000.jpg
   original: sizes/20191114_145518.jpg_467x350.jpg
   thumbnail: sizes/20191114_145518.jpg_200x150.jpg
   sizes:
   - sizes/20191114_145518.jpg_200x150.jpg
-  - sizes/20191114_145518.jpg_333x250.jpg
   - sizes/20191114_145518.jpg_467x350.jpg
+  - sizes/20191114_145518.jpg_2667x2000.jpg
 pictures:
 - filename: 20191114_145518
+  large: sizes/20191114_145518.jpg_2667x2000.jpg
   original: sizes/20191114_145518.jpg_467x350.jpg
   thumbnail: sizes/20191114_145518.jpg_200x150.jpg
   sizes:
   - sizes/20191114_145518.jpg_200x150.jpg
-  - sizes/20191114_145518.jpg_333x250.jpg
   - sizes/20191114_145518.jpg_467x350.jpg
+  - sizes/20191114_145518.jpg_2667x2000.jpg
 - filename: 20191114_145609
+  large: sizes/20191114_145609.jpg_2667x2000.jpg
   original: sizes/20191114_145609.jpg_467x350.jpg
   thumbnail: sizes/20191114_145609.jpg_200x150.jpg
   sizes:
   - sizes/20191114_145609.jpg_200x150.jpg
-  - sizes/20191114_145609.jpg_333x250.jpg
   - sizes/20191114_145609.jpg_467x350.jpg
+  - sizes/20191114_145609.jpg_2667x2000.jpg
 - filename: 20191114_150630
+  large: sizes/20191114_150630.jpg_2667x2000.jpg
   original: sizes/20191114_150630.jpg_467x350.jpg
   thumbnail: sizes/20191114_150630.jpg_200x150.jpg
   sizes:
   - sizes/20191114_150630.jpg_200x150.jpg
-  - sizes/20191114_150630.jpg_333x250.jpg
   - sizes/20191114_150630.jpg_467x350.jpg
+  - sizes/20191114_150630.jpg_2667x2000.jpg
 - filename: 20191114_151322
+  large: sizes/20191114_151322.jpg_1500x2000.jpg
   original: sizes/20191114_151322.jpg_262x350.jpg
   thumbnail: sizes/20191114_151322.jpg_112x150.jpg
   sizes:
   - sizes/20191114_151322.jpg_112x150.jpg
-  - sizes/20191114_151322.jpg_188x250.jpg
   - sizes/20191114_151322.jpg_262x350.jpg
+  - sizes/20191114_151322.jpg_1500x2000.jpg

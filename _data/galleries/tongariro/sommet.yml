@@ -1,59 +1,67 @@
 picture_path: tongariro/sommet
 preview:
   filename: 20191215_120812
+  large: sizes/20191215_120812.jpg_3556x2000.jpg
   original: sizes/20191215_120812.jpg_622x350.jpg
   thumbnail: sizes/20191215_120812.jpg_267x150.jpg
   sizes:
   - sizes/20191215_120812.jpg_267x150.jpg
-  - sizes/20191215_120812.jpg_444x250.jpg
   - sizes/20191215_120812.jpg_622x350.jpg
+  - sizes/20191215_120812.jpg_3556x2000.jpg
 pictures:
 - filename: 20191215_120812
+  large: sizes/20191215_120812.jpg_3556x2000.jpg
   original: sizes/20191215_120812.jpg_622x350.jpg
   thumbnail: sizes/20191215_120812.jpg_267x150.jpg
   sizes:
   - sizes/20191215_120812.jpg_267x150.jpg
-  - sizes/20191215_120812.jpg_444x250.jpg
   - sizes/20191215_120812.jpg_622x350.jpg
+  - sizes/20191215_120812.jpg_3556x2000.jpg
 - filename: 20191215_121130
+  large: sizes/20191215_121130.jpg_2667x2000.jpg
   original: sizes/20191215_121130.jpg_467x350.jpg
   thumbnail: sizes/20191215_121130.jpg_200x150.jpg
   sizes:
   - sizes/20191215_121130.jpg_200x150.jpg
-  - sizes/20191215_121130.jpg_333x250.jpg
   - sizes/20191215_121130.jpg_467x350.jpg
+  - sizes/20191215_121130.jpg_2667x2000.jpg
 - filename: P1100782
+  large: sizes/P1100782.jpg_2667x2000.jpg
   original: sizes/P1100782.jpg_467x350.jpg
   thumbnail: sizes/P1100782.jpg_200x150.jpg
   sizes:
   - sizes/P1100782.jpg_200x150.jpg
-  - sizes/P1100782.jpg_333x250.jpg
   - sizes/P1100782.jpg_467x350.jpg
+  - sizes/P1100782.jpg_2667x2000.jpg
 - filename: P1100783
+  large: sizes/P1100783.jpg_2667x2000.jpg
   original: sizes/P1100783.jpg_467x350.jpg
   thumbnail: sizes/P1100783.jpg_200x150.jpg
   sizes:
   - sizes/P1100783.jpg_200x150.jpg
-  - sizes/P1100783.jpg_333x250.jpg
   - sizes/P1100783.jpg_467x350.jpg
+  - sizes/P1100783.jpg_2667x2000.jpg
 - filename: P1100792
+  large: sizes/P1100792.jpg_2667x2000.jpg
   original: sizes/P1100792.jpg_467x350.jpg
   thumbnail: sizes/P1100792.jpg_200x150.jpg
   sizes:
   - sizes/P1100792.jpg_200x150.jpg
-  - sizes/P1100792.jpg_333x250.jpg
   - sizes/P1100792.jpg_467x350.jpg
+  - sizes/P1100792.jpg_2667x2000.jpg
 - filename: P1100794
+  large: sizes/P1100794.jpg_2667x2000.jpg
   original: sizes/P1100794.jpg_467x350.jpg
   thumbnail: sizes/P1100794.jpg_200x150.jpg
   sizes:
   - sizes/P1100794.jpg_200x150.jpg
-  - sizes/P1100794.jpg_333x250.jpg
   - sizes/P1100794.jpg_467x350.jpg
+  - sizes/P1100794.jpg_2667x2000.jpg
 - filename: P1100797
+  large: sizes/P1100797.jpg_1500x2000.jpg
   original: sizes/P1100797.jpg_262x350.jpg
   thumbnail: sizes/P1100797.jpg_112x150.jpg
   sizes:
   - sizes/P1100797.jpg_112x150.jpg
-  - sizes/P1100797.jpg_188x250.jpg
   - sizes/P1100797.jpg_262x350.jpg
+  - sizes/P1100797.jpg_1500x2000.jpg

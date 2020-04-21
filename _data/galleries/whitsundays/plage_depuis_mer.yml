@@ -1,17 +1,19 @@
 picture_path: whitsundays/plage_depuis_mer
 preview:
   filename: 20191119_111834
+  large: sizes/20191119_111834.jpg_2666x2000.jpg
   original: sizes/20191119_111834.jpg_467x350.jpg
   thumbnail: sizes/20191119_111834.jpg_200x150.jpg
   sizes:
   - sizes/20191119_111834.jpg_200x150.jpg
-  - sizes/20191119_111834.jpg_333x250.jpg
   - sizes/20191119_111834.jpg_467x350.jpg
+  - sizes/20191119_111834.jpg_2666x2000.jpg
 pictures:
 - filename: 20191119_111834
+  large: sizes/20191119_111834.jpg_2666x2000.jpg
   original: sizes/20191119_111834.jpg_467x350.jpg
   thumbnail: sizes/20191119_111834.jpg_200x150.jpg
   sizes:
   - sizes/20191119_111834.jpg_200x150.jpg
-  - sizes/20191119_111834.jpg_333x250.jpg
   - sizes/20191119_111834.jpg_467x350.jpg
+  - sizes/20191119_111834.jpg_2666x2000.jpg

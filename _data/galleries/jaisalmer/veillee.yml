@@ -1,31 +1,35 @@
 picture_path: jaisalmer/veillee
 preview:
   filename: 20191227_192500
+  large: sizes/20191227_192500.jpg_1500x2000.jpg
   original: sizes/20191227_192500.jpg_262x350.jpg
   thumbnail: sizes/20191227_192500.jpg_112x150.jpg
   sizes:
   - sizes/20191227_192500.jpg_112x150.jpg
-  - sizes/20191227_192500.jpg_188x250.jpg
   - sizes/20191227_192500.jpg_262x350.jpg
+  - sizes/20191227_192500.jpg_1500x2000.jpg
 pictures:
 - filename: 20191227_192500
+  large: sizes/20191227_192500.jpg_1500x2000.jpg
   original: sizes/20191227_192500.jpg_262x350.jpg
   thumbnail: sizes/20191227_192500.jpg_112x150.jpg
   sizes:
   - sizes/20191227_192500.jpg_112x150.jpg
-  - sizes/20191227_192500.jpg_188x250.jpg
   - sizes/20191227_192500.jpg_262x350.jpg
+  - sizes/20191227_192500.jpg_1500x2000.jpg
 - filename: 20191227_192519
+  large: sizes/20191227_192519.jpg_3556x2000.jpg
   original: sizes/20191227_192519.jpg_622x350.jpg
   thumbnail: sizes/20191227_192519.jpg_267x150.jpg
   sizes:
   - sizes/20191227_192519.jpg_267x150.jpg
-  - sizes/20191227_192519.jpg_444x250.jpg
   - sizes/20191227_192519.jpg_622x350.jpg
+  - sizes/20191227_192519.jpg_3556x2000.jpg
 - filename: 20191227_193805
+  large: sizes/20191227_193805.jpg_1125x2000.jpg
   original: sizes/20191227_193805.jpg_197x350.jpg
   thumbnail: sizes/20191227_193805.jpg_84x150.jpg
   sizes:
   - sizes/20191227_193805.jpg_84x150.jpg
-  - sizes/20191227_193805.jpg_141x250.jpg
   - sizes/20191227_193805.jpg_197x350.jpg
+  - sizes/20191227_193805.jpg_1125x2000.jpg

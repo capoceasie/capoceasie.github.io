@@ -1,80 +1,91 @@
 picture_path: christchurch_akaroa/parc_christchurch
 preview:
   filename: P1080648
+  large: sizes/P1080648.jpg_1500x2000.jpg
   original: sizes/P1080648.jpg_262x350.jpg
   thumbnail: sizes/P1080648.jpg_112x150.jpg
   sizes:
   - sizes/P1080648.jpg_112x150.jpg
-  - sizes/P1080648.jpg_188x250.jpg
   - sizes/P1080648.jpg_262x350.jpg
+  - sizes/P1080648.jpg_1500x2000.jpg
 pictures:
 - filename: P1080648
+  large: sizes/P1080648.jpg_1500x2000.jpg
   original: sizes/P1080648.jpg_262x350.jpg
   thumbnail: sizes/P1080648.jpg_112x150.jpg
   sizes:
   - sizes/P1080648.jpg_112x150.jpg
-  - sizes/P1080648.jpg_188x250.jpg
   - sizes/P1080648.jpg_262x350.jpg
+  - sizes/P1080648.jpg_1500x2000.jpg
 - filename: P1080653
+  large: sizes/P1080653.jpg_2667x2000.jpg
   original: sizes/P1080653.jpg_467x350.jpg
   thumbnail: sizes/P1080653.jpg_200x150.jpg
   sizes:
   - sizes/P1080653.jpg_200x150.jpg
-  - sizes/P1080653.jpg_333x250.jpg
   - sizes/P1080653.jpg_467x350.jpg
+  - sizes/P1080653.jpg_2667x2000.jpg
 - filename: P1080672
+  large: sizes/P1080672.jpg_1500x2000.jpg
   original: sizes/P1080672.jpg_262x350.jpg
   thumbnail: sizes/P1080672.jpg_112x150.jpg
   sizes:
   - sizes/P1080672.jpg_112x150.jpg
-  - sizes/P1080672.jpg_188x250.jpg
   - sizes/P1080672.jpg_262x350.jpg
+  - sizes/P1080672.jpg_1500x2000.jpg
 - filename: P1080680
+  large: sizes/P1080680.jpg_2667x2000.jpg
   original: sizes/P1080680.jpg_467x350.jpg
   thumbnail: sizes/P1080680.jpg_200x150.jpg
   sizes:
   - sizes/P1080680.jpg_200x150.jpg
-  - sizes/P1080680.jpg_333x250.jpg
   - sizes/P1080680.jpg_467x350.jpg
+  - sizes/P1080680.jpg_2667x2000.jpg
 - filename: P1080688
+  large: sizes/P1080688.jpg_1500x2000.jpg
   original: sizes/P1080688.jpg_262x350.jpg
   thumbnail: sizes/P1080688.jpg_112x150.jpg
   sizes:
   - sizes/P1080688.jpg_112x150.jpg
-  - sizes/P1080688.jpg_188x250.jpg
   - sizes/P1080688.jpg_262x350.jpg
+  - sizes/P1080688.jpg_1500x2000.jpg
 - filename: P1080690
+  large: sizes/P1080690.jpg_2667x2000.jpg
   original: sizes/P1080690.jpg_467x350.jpg
   thumbnail: sizes/P1080690.jpg_200x150.jpg
   sizes:
   - sizes/P1080690.jpg_200x150.jpg
-  - sizes/P1080690.jpg_333x250.jpg
   - sizes/P1080690.jpg_467x350.jpg
+  - sizes/P1080690.jpg_2667x2000.jpg
 - filename: P1080696
+  large: sizes/P1080696.jpg_1500x2000.jpg
   original: sizes/P1080696.jpg_262x350.jpg
   thumbnail: sizes/P1080696.jpg_112x150.jpg
   sizes:
   - sizes/P1080696.jpg_112x150.jpg
-  - sizes/P1080696.jpg_188x250.jpg
   - sizes/P1080696.jpg_262x350.jpg
+  - sizes/P1080696.jpg_1500x2000.jpg
 - filename: P1080706
+  large: sizes/P1080706.jpg_2666x2000.jpg
   original: sizes/P1080706.jpg_467x350.jpg
   thumbnail: sizes/P1080706.jpg_200x150.jpg
   sizes:
   - sizes/P1080706.jpg_200x150.jpg
-  - sizes/P1080706.jpg_333x250.jpg
   - sizes/P1080706.jpg_467x350.jpg
+  - sizes/P1080706.jpg_2666x2000.jpg
 - filename: P1080711
+  large: sizes/P1080711.jpg_2667x2000.jpg
   original: sizes/P1080711.jpg_467x350.jpg
   thumbnail: sizes/P1080711.jpg_200x150.jpg
   sizes:
   - sizes/P1080711.jpg_200x150.jpg
-  - sizes/P1080711.jpg_333x250.jpg
   - sizes/P1080711.jpg_467x350.jpg
+  - sizes/P1080711.jpg_2667x2000.jpg
 - filename: P1080713
+  large: sizes/P1080713.jpg_2667x2000.jpg
   original: sizes/P1080713.jpg_467x350.jpg
   thumbnail: sizes/P1080713.jpg_200x150.jpg
   sizes:
   - sizes/P1080713.jpg_200x150.jpg
-  - sizes/P1080713.jpg_333x250.jpg
   - sizes/P1080713.jpg_467x350.jpg
+  - sizes/P1080713.jpg_2667x2000.jpg

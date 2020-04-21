@@ -1,38 +1,43 @@
 picture_path: pushkar/savitri
 preview:
   filename: P1110659
+  large: sizes/P1110659.jpg_2667x2000.jpg
   original: sizes/P1110659.jpg_467x350.jpg
   thumbnail: sizes/P1110659.jpg_200x150.jpg
   sizes:
   - sizes/P1110659.jpg_200x150.jpg
-  - sizes/P1110659.jpg_333x250.jpg
   - sizes/P1110659.jpg_467x350.jpg
+  - sizes/P1110659.jpg_2667x2000.jpg
 pictures:
 - filename: P1110659
+  large: sizes/P1110659.jpg_2667x2000.jpg
   original: sizes/P1110659.jpg_467x350.jpg
   thumbnail: sizes/P1110659.jpg_200x150.jpg
   sizes:
   - sizes/P1110659.jpg_200x150.jpg
-  - sizes/P1110659.jpg_333x250.jpg
   - sizes/P1110659.jpg_467x350.jpg
+  - sizes/P1110659.jpg_2667x2000.jpg
 - filename: P1110663
+  large: sizes/P1110663.jpg_2667x2000.jpg
   original: sizes/P1110663.jpg_467x350.jpg
   thumbnail: sizes/P1110663.jpg_200x150.jpg
   sizes:
   - sizes/P1110663.jpg_200x150.jpg
-  - sizes/P1110663.jpg_333x250.jpg
   - sizes/P1110663.jpg_467x350.jpg
+  - sizes/P1110663.jpg_2667x2000.jpg
 - filename: P1110683
+  large: sizes/P1110683.jpg_2667x2000.jpg
   original: sizes/P1110683.jpg_467x350.jpg
   thumbnail: sizes/P1110683.jpg_200x150.jpg
   sizes:
   - sizes/P1110683.jpg_200x150.jpg
-  - sizes/P1110683.jpg_333x250.jpg
   - sizes/P1110683.jpg_467x350.jpg
+  - sizes/P1110683.jpg_2667x2000.jpg
 - filename: P1110692
+  large: sizes/P1110692.jpg_2667x2000.jpg
   original: sizes/P1110692.jpg_467x350.jpg
   thumbnail: sizes/P1110692.jpg_200x150.jpg
   sizes:
   - sizes/P1110692.jpg_200x150.jpg
-  - sizes/P1110692.jpg_333x250.jpg
   - sizes/P1110692.jpg_467x350.jpg
+  - sizes/P1110692.jpg_2667x2000.jpg

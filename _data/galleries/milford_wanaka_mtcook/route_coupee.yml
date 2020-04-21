@@ -1,17 +1,19 @@
 picture_path: milford_wanaka_mtcook/route_coupee
 preview:
   filename: Screenshot_20191209-200235_Chrome
+  large: sizes/Screenshot_20191209-200235_Chrome.jpg_1285x2000.jpg
   original: sizes/Screenshot_20191209-200235_Chrome.jpg_225x350.jpg
   thumbnail: sizes/Screenshot_20191209-200235_Chrome.jpg_96x150.jpg
   sizes:
   - sizes/Screenshot_20191209-200235_Chrome.jpg_96x150.jpg
-  - sizes/Screenshot_20191209-200235_Chrome.jpg_161x250.jpg
   - sizes/Screenshot_20191209-200235_Chrome.jpg_225x350.jpg
+  - sizes/Screenshot_20191209-200235_Chrome.jpg_1285x2000.jpg
 pictures:
 - filename: Screenshot_20191209-200235_Chrome
+  large: sizes/Screenshot_20191209-200235_Chrome.jpg_1285x2000.jpg
   original: sizes/Screenshot_20191209-200235_Chrome.jpg_225x350.jpg
   thumbnail: sizes/Screenshot_20191209-200235_Chrome.jpg_96x150.jpg
   sizes:
   - sizes/Screenshot_20191209-200235_Chrome.jpg_96x150.jpg
-  - sizes/Screenshot_20191209-200235_Chrome.jpg_161x250.jpg
   - sizes/Screenshot_20191209-200235_Chrome.jpg_225x350.jpg
+  - sizes/Screenshot_20191209-200235_Chrome.jpg_1285x2000.jpg

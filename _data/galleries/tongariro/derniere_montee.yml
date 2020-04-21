@@ -1,52 +1,59 @@
 picture_path: tongariro/derniere_montee
 preview:
   filename: 20191215_113929
+  large: sizes/20191215_113929.jpg_1500x2000.jpg
   original: sizes/20191215_113929.jpg_262x350.jpg
   thumbnail: sizes/20191215_113929.jpg_112x150.jpg
   sizes:
   - sizes/20191215_113929.jpg_112x150.jpg
-  - sizes/20191215_113929.jpg_188x250.jpg
   - sizes/20191215_113929.jpg_262x350.jpg
+  - sizes/20191215_113929.jpg_1500x2000.jpg
 pictures:
 - filename: 20191215_113929
+  large: sizes/20191215_113929.jpg_1500x2000.jpg
   original: sizes/20191215_113929.jpg_262x350.jpg
   thumbnail: sizes/20191215_113929.jpg_112x150.jpg
   sizes:
   - sizes/20191215_113929.jpg_112x150.jpg
-  - sizes/20191215_113929.jpg_188x250.jpg
   - sizes/20191215_113929.jpg_262x350.jpg
+  - sizes/20191215_113929.jpg_1500x2000.jpg
 - filename: P1100769
+  large: sizes/P1100769.jpg_2667x2000.jpg
   original: sizes/P1100769.jpg_467x350.jpg
   thumbnail: sizes/P1100769.jpg_200x150.jpg
   sizes:
   - sizes/P1100769.jpg_200x150.jpg
-  - sizes/P1100769.jpg_333x250.jpg
   - sizes/P1100769.jpg_467x350.jpg
+  - sizes/P1100769.jpg_2667x2000.jpg
 - filename: P1100771
+  large: sizes/P1100771.jpg_2667x2000.jpg
   original: sizes/P1100771.jpg_467x350.jpg
   thumbnail: sizes/P1100771.jpg_200x150.jpg
   sizes:
   - sizes/P1100771.jpg_200x150.jpg
-  - sizes/P1100771.jpg_333x250.jpg
   - sizes/P1100771.jpg_467x350.jpg
+  - sizes/P1100771.jpg_2667x2000.jpg
 - filename: P1100772
+  large: sizes/P1100772.jpg_2666x2000.jpg
   original: sizes/P1100772.jpg_467x350.jpg
   thumbnail: sizes/P1100772.jpg_200x150.jpg
   sizes:
   - sizes/P1100772.jpg_200x150.jpg
-  - sizes/P1100772.jpg_333x250.jpg
   - sizes/P1100772.jpg_467x350.jpg
+  - sizes/P1100772.jpg_2666x2000.jpg
 - filename: P1100775
+  large: sizes/P1100775.jpg_2667x2000.jpg
   original: sizes/P1100775.jpg_467x350.jpg
   thumbnail: sizes/P1100775.jpg_200x150.jpg
   sizes:
   - sizes/P1100775.jpg_200x150.jpg
-  - sizes/P1100775.jpg_333x250.jpg
   - sizes/P1100775.jpg_467x350.jpg
+  - sizes/P1100775.jpg_2667x2000.jpg
 - filename: P1100777
+  large: sizes/P1100777.jpg_2667x2000.jpg
   original: sizes/P1100777.jpg_467x350.jpg
   thumbnail: sizes/P1100777.jpg_200x150.jpg
   sizes:
   - sizes/P1100777.jpg_200x150.jpg
-  - sizes/P1100777.jpg_333x250.jpg
   - sizes/P1100777.jpg_467x350.jpg
+  - sizes/P1100777.jpg_2667x2000.jpg

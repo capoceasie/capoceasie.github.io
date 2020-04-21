@@ -1,52 +1,59 @@
 picture_path: abeltasman_kaikoura/pinguin
 preview:
   filename: P1090937
+  large: sizes/P1090937.jpg_2667x2000.jpg
   original: sizes/P1090937.jpg_467x350.jpg
   thumbnail: sizes/P1090937.jpg_200x150.jpg
   sizes:
   - sizes/P1090937.jpg_200x150.jpg
-  - sizes/P1090937.jpg_333x250.jpg
   - sizes/P1090937.jpg_467x350.jpg
+  - sizes/P1090937.jpg_2667x2000.jpg
 pictures:
 - filename: P1090937
+  large: sizes/P1090937.jpg_2667x2000.jpg
   original: sizes/P1090937.jpg_467x350.jpg
   thumbnail: sizes/P1090937.jpg_200x150.jpg
   sizes:
   - sizes/P1090937.jpg_200x150.jpg
-  - sizes/P1090937.jpg_333x250.jpg
   - sizes/P1090937.jpg_467x350.jpg
+  - sizes/P1090937.jpg_2667x2000.jpg
 - filename: P1090951
+  large: sizes/P1090951.jpg_2667x2000.jpg
   original: sizes/P1090951.jpg_467x350.jpg
   thumbnail: sizes/P1090951.jpg_200x150.jpg
   sizes:
   - sizes/P1090951.jpg_200x150.jpg
-  - sizes/P1090951.jpg_333x250.jpg
   - sizes/P1090951.jpg_467x350.jpg
+  - sizes/P1090951.jpg_2667x2000.jpg
 - filename: P1090973
+  large: sizes/P1090973.jpg_2667x2000.jpg
   original: sizes/P1090973.jpg_467x350.jpg
   thumbnail: sizes/P1090973.jpg_200x150.jpg
   sizes:
   - sizes/P1090973.jpg_200x150.jpg
-  - sizes/P1090973.jpg_333x250.jpg
   - sizes/P1090973.jpg_467x350.jpg
+  - sizes/P1090973.jpg_2667x2000.jpg
 - filename: P1090981
+  large: sizes/P1090981.jpg_2667x2000.jpg
   original: sizes/P1090981.jpg_467x350.jpg
   thumbnail: sizes/P1090981.jpg_200x150.jpg
   sizes:
   - sizes/P1090981.jpg_200x150.jpg
-  - sizes/P1090981.jpg_333x250.jpg
   - sizes/P1090981.jpg_467x350.jpg
+  - sizes/P1090981.jpg_2667x2000.jpg
 - filename: P1090991
+  large: sizes/P1090991.jpg_2667x2000.jpg
   original: sizes/P1090991.jpg_467x350.jpg
   thumbnail: sizes/P1090991.jpg_200x150.jpg
   sizes:
   - sizes/P1090991.jpg_200x150.jpg
-  - sizes/P1090991.jpg_333x250.jpg
   - sizes/P1090991.jpg_467x350.jpg
+  - sizes/P1090991.jpg_2667x2000.jpg
 - filename: P1090999
+  large: sizes/P1090999.jpg_2667x2000.jpg
   original: sizes/P1090999.jpg_467x350.jpg
   thumbnail: sizes/P1090999.jpg_200x150.jpg
   sizes:
   - sizes/P1090999.jpg_200x150.jpg
-  - sizes/P1090999.jpg_333x250.jpg
   - sizes/P1090999.jpg_467x350.jpg
+  - sizes/P1090999.jpg_2667x2000.jpg

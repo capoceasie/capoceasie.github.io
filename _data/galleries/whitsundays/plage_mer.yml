@@ -1,24 +1,27 @@
 picture_path: whitsundays/plage_mer
 preview:
   filename: 20191119_131247
+  large: sizes/20191119_131247.jpg_2667x2000.jpg
   original: sizes/20191119_131247.jpg_467x350.jpg
   thumbnail: sizes/20191119_131247.jpg_200x150.jpg
   sizes:
   - sizes/20191119_131247.jpg_200x150.jpg
-  - sizes/20191119_131247.jpg_333x250.jpg
   - sizes/20191119_131247.jpg_467x350.jpg
+  - sizes/20191119_131247.jpg_2667x2000.jpg
 pictures:
 - filename: 20191119_131247
+  large: sizes/20191119_131247.jpg_2667x2000.jpg
   original: sizes/20191119_131247.jpg_467x350.jpg
   thumbnail: sizes/20191119_131247.jpg_200x150.jpg
   sizes:
   - sizes/20191119_131247.jpg_200x150.jpg
-  - sizes/20191119_131247.jpg_333x250.jpg
   - sizes/20191119_131247.jpg_467x350.jpg
+  - sizes/20191119_131247.jpg_2667x2000.jpg
 - filename: P1070590
+  large: sizes/P1070590.jpg_2666x2000.jpg
   original: sizes/P1070590.jpg_467x350.jpg
   thumbnail: sizes/P1070590.jpg_200x150.jpg
   sizes:
   - sizes/P1070590.jpg_200x150.jpg
-  - sizes/P1070590.jpg_333x250.jpg
   - sizes/P1070590.jpg_467x350.jpg
+  - sizes/P1070590.jpg_2666x2000.jpg

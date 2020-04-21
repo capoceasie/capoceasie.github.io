@@ -1,87 +1,99 @@
 picture_path: rockampton_melbourne/koala_actif
 preview:
   filename: P1070917
+  large: sizes/P1070917.jpg_2667x2000.jpg
   original: sizes/P1070917.jpg_467x350.jpg
   thumbnail: sizes/P1070917.jpg_200x150.jpg
   sizes:
   - sizes/P1070917.jpg_200x150.jpg
-  - sizes/P1070917.jpg_333x250.jpg
   - sizes/P1070917.jpg_467x350.jpg
+  - sizes/P1070917.jpg_2667x2000.jpg
 pictures:
 - filename: P1070917
+  large: sizes/P1070917.jpg_2667x2000.jpg
   original: sizes/P1070917.jpg_467x350.jpg
   thumbnail: sizes/P1070917.jpg_200x150.jpg
   sizes:
   - sizes/P1070917.jpg_200x150.jpg
-  - sizes/P1070917.jpg_333x250.jpg
   - sizes/P1070917.jpg_467x350.jpg
+  - sizes/P1070917.jpg_2667x2000.jpg
 - filename: P1070918
+  large: sizes/P1070918.jpg_2667x2000.jpg
   original: sizes/P1070918.jpg_467x350.jpg
   thumbnail: sizes/P1070918.jpg_200x150.jpg
   sizes:
   - sizes/P1070918.jpg_200x150.jpg
-  - sizes/P1070918.jpg_333x250.jpg
   - sizes/P1070918.jpg_467x350.jpg
+  - sizes/P1070918.jpg_2667x2000.jpg
 - filename: P1070921
+  large: sizes/P1070921.jpg_2667x2000.jpg
   original: sizes/P1070921.jpg_467x350.jpg
   thumbnail: sizes/P1070921.jpg_200x150.jpg
   sizes:
   - sizes/P1070921.jpg_200x150.jpg
-  - sizes/P1070921.jpg_333x250.jpg
   - sizes/P1070921.jpg_467x350.jpg
+  - sizes/P1070921.jpg_2667x2000.jpg
 - filename: P1070926
+  large: sizes/P1070926.jpg_2667x2000.jpg
   original: sizes/P1070926.jpg_467x350.jpg
   thumbnail: sizes/P1070926.jpg_200x150.jpg
   sizes:
   - sizes/P1070926.jpg_200x150.jpg
-  - sizes/P1070926.jpg_333x250.jpg
   - sizes/P1070926.jpg_467x350.jpg
+  - sizes/P1070926.jpg_2667x2000.jpg
 - filename: P1070933
+  large: sizes/P1070933.jpg_1500x2000.jpg
   original: sizes/P1070933.jpg_262x350.jpg
   thumbnail: sizes/P1070933.jpg_112x150.jpg
   sizes:
   - sizes/P1070933.jpg_112x150.jpg
-  - sizes/P1070933.jpg_188x250.jpg
   - sizes/P1070933.jpg_262x350.jpg
+  - sizes/P1070933.jpg_1500x2000.jpg
 - filename: P1070950
+  large: sizes/P1070950.jpg_1500x2000.jpg
   original: sizes/P1070950.jpg_262x350.jpg
   thumbnail: sizes/P1070950.jpg_112x150.jpg
   sizes:
   - sizes/P1070950.jpg_112x150.jpg
-  - sizes/P1070950.jpg_188x250.jpg
   - sizes/P1070950.jpg_262x350.jpg
+  - sizes/P1070950.jpg_1500x2000.jpg
 - filename: P1070964
+  large: sizes/P1070964.jpg_1500x2000.jpg
   original: sizes/P1070964.jpg_262x350.jpg
   thumbnail: sizes/P1070964.jpg_112x150.jpg
   sizes:
   - sizes/P1070964.jpg_112x150.jpg
-  - sizes/P1070964.jpg_187x250.jpg
   - sizes/P1070964.jpg_262x350.jpg
+  - sizes/P1070964.jpg_1500x2000.jpg
 - filename: P1070984
+  large: sizes/P1070984.jpg_2667x2000.jpg
   original: sizes/P1070984.jpg_467x350.jpg
   thumbnail: sizes/P1070984.jpg_200x150.jpg
   sizes:
   - sizes/P1070984.jpg_200x150.jpg
-  - sizes/P1070984.jpg_333x250.jpg
   - sizes/P1070984.jpg_467x350.jpg
+  - sizes/P1070984.jpg_2667x2000.jpg
 - filename: P1070999
+  large: sizes/P1070999.jpg_1500x2000.jpg
   original: sizes/P1070999.jpg_263x350.jpg
   thumbnail: sizes/P1070999.jpg_113x150.jpg
   sizes:
   - sizes/P1070999.jpg_113x150.jpg
-  - sizes/P1070999.jpg_188x250.jpg
   - sizes/P1070999.jpg_263x350.jpg
+  - sizes/P1070999.jpg_1500x2000.jpg
 - filename: P1080007
+  large: sizes/P1080007.jpg_2667x2000.jpg
   original: sizes/P1080007.jpg_467x350.jpg
   thumbnail: sizes/P1080007.jpg_200x150.jpg
   sizes:
   - sizes/P1080007.jpg_200x150.jpg
-  - sizes/P1080007.jpg_333x250.jpg
   - sizes/P1080007.jpg_467x350.jpg
+  - sizes/P1080007.jpg_2667x2000.jpg
 - filename: P1080020
+  large: sizes/P1080020.jpg_1500x2000.jpg
   original: sizes/P1080020.jpg_263x350.jpg
   thumbnail: sizes/P1080020.jpg_113x150.jpg
   sizes:
   - sizes/P1080020.jpg_113x150.jpg
-  - sizes/P1080020.jpg_188x250.jpg
   - sizes/P1080020.jpg_263x350.jpg
+  - sizes/P1080020.jpg_1500x2000.jpg

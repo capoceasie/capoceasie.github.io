@@ -1,45 +1,51 @@
 picture_path: whitsundays/palm_bay
 preview:
   filename: 20191119_151742
+  large: sizes/20191119_151742.jpg_1500x2000.jpg
   original: sizes/20191119_151742.jpg_263x350.jpg
   thumbnail: sizes/20191119_151742.jpg_113x150.jpg
   sizes:
   - sizes/20191119_151742.jpg_113x150.jpg
-  - sizes/20191119_151742.jpg_188x250.jpg
   - sizes/20191119_151742.jpg_263x350.jpg
+  - sizes/20191119_151742.jpg_1500x2000.jpg
 pictures:
 - filename: 20191119_151742
+  large: sizes/20191119_151742.jpg_1500x2000.jpg
   original: sizes/20191119_151742.jpg_263x350.jpg
   thumbnail: sizes/20191119_151742.jpg_113x150.jpg
   sizes:
   - sizes/20191119_151742.jpg_113x150.jpg
-  - sizes/20191119_151742.jpg_188x250.jpg
   - sizes/20191119_151742.jpg_263x350.jpg
+  - sizes/20191119_151742.jpg_1500x2000.jpg
 - filename: 20191119_151904
+  large: sizes/20191119_151904.jpg_2667x2000.jpg
   original: sizes/20191119_151904.jpg_467x350.jpg
   thumbnail: sizes/20191119_151904.jpg_200x150.jpg
   sizes:
   - sizes/20191119_151904.jpg_200x150.jpg
-  - sizes/20191119_151904.jpg_333x250.jpg
   - sizes/20191119_151904.jpg_467x350.jpg
+  - sizes/20191119_151904.jpg_2667x2000.jpg
 - filename: P1070593
+  large: sizes/P1070593.jpg_1500x2000.jpg
   original: sizes/P1070593.jpg_262x350.jpg
   thumbnail: sizes/P1070593.jpg_112x150.jpg
   sizes:
   - sizes/P1070593.jpg_112x150.jpg
-  - sizes/P1070593.jpg_188x250.jpg
   - sizes/P1070593.jpg_262x350.jpg
+  - sizes/P1070593.jpg_1500x2000.jpg
 - filename: P1070595
+  large: sizes/P1070595.jpg_2666x2000.jpg
   original: sizes/P1070595.jpg_467x350.jpg
   thumbnail: sizes/P1070595.jpg_200x150.jpg
   sizes:
   - sizes/P1070595.jpg_200x150.jpg
-  - sizes/P1070595.jpg_333x250.jpg
   - sizes/P1070595.jpg_467x350.jpg
+  - sizes/P1070595.jpg_2666x2000.jpg
 - filename: P1070598
+  large: sizes/P1070598.jpg_2667x2000.jpg
   original: sizes/P1070598.jpg_467x350.jpg
   thumbnail: sizes/P1070598.jpg_200x150.jpg
   sizes:
   - sizes/P1070598.jpg_200x150.jpg
-  - sizes/P1070598.jpg_333x250.jpg
   - sizes/P1070598.jpg_467x350.jpg
+  - sizes/P1070598.jpg_2667x2000.jpg

@@ -1,59 +1,67 @@
 picture_path: fin_sejour_nz/wineyard
 preview:
   filename: P1110023
+  large: sizes/P1110023.jpg_2667x2000.jpg
   original: sizes/P1110023.jpg_467x350.jpg
   thumbnail: sizes/P1110023.jpg_200x150.jpg
   sizes:
   - sizes/P1110023.jpg_200x150.jpg
-  - sizes/P1110023.jpg_333x250.jpg
   - sizes/P1110023.jpg_467x350.jpg
+  - sizes/P1110023.jpg_2667x2000.jpg
 pictures:
 - filename: P1110023
+  large: sizes/P1110023.jpg_2667x2000.jpg
   original: sizes/P1110023.jpg_467x350.jpg
   thumbnail: sizes/P1110023.jpg_200x150.jpg
   sizes:
   - sizes/P1110023.jpg_200x150.jpg
-  - sizes/P1110023.jpg_333x250.jpg
   - sizes/P1110023.jpg_467x350.jpg
+  - sizes/P1110023.jpg_2667x2000.jpg
 - filename: P1110024
+  large: sizes/P1110024.jpg_2667x2000.jpg
   original: sizes/P1110024.jpg_467x350.jpg
   thumbnail: sizes/P1110024.jpg_200x150.jpg
   sizes:
   - sizes/P1110024.jpg_200x150.jpg
-  - sizes/P1110024.jpg_333x250.jpg
   - sizes/P1110024.jpg_467x350.jpg
+  - sizes/P1110024.jpg_2667x2000.jpg
 - filename: P1110026
+  large: sizes/P1110026.jpg_2667x2000.jpg
   original: sizes/P1110026.jpg_467x350.jpg
   thumbnail: sizes/P1110026.jpg_200x150.jpg
   sizes:
   - sizes/P1110026.jpg_200x150.jpg
-  - sizes/P1110026.jpg_333x250.jpg
   - sizes/P1110026.jpg_467x350.jpg
+  - sizes/P1110026.jpg_2667x2000.jpg
 - filename: P1110027
+  large: sizes/P1110027.jpg_2666x2000.jpg
   original: sizes/P1110027.jpg_467x350.jpg
   thumbnail: sizes/P1110027.jpg_200x150.jpg
   sizes:
   - sizes/P1110027.jpg_200x150.jpg
-  - sizes/P1110027.jpg_333x250.jpg
   - sizes/P1110027.jpg_467x350.jpg
+  - sizes/P1110027.jpg_2666x2000.jpg
 - filename: P1110029
+  large: sizes/P1110029.jpg_1500x2000.jpg
   original: sizes/P1110029.jpg_262x350.jpg
   thumbnail: sizes/P1110029.jpg_112x150.jpg
   sizes:
   - sizes/P1110029.jpg_112x150.jpg
-  - sizes/P1110029.jpg_188x250.jpg
   - sizes/P1110029.jpg_262x350.jpg
+  - sizes/P1110029.jpg_1500x2000.jpg
 - filename: P1110033
+  large: sizes/P1110033.jpg_2667x2000.jpg
   original: sizes/P1110033.jpg_467x350.jpg
   thumbnail: sizes/P1110033.jpg_200x150.jpg
   sizes:
   - sizes/P1110033.jpg_200x150.jpg
-  - sizes/P1110033.jpg_333x250.jpg
   - sizes/P1110033.jpg_467x350.jpg
+  - sizes/P1110033.jpg_2667x2000.jpg
 - filename: P1110035
+  large: sizes/P1110035.jpg_2667x2000.jpg
   original: sizes/P1110035.jpg_467x350.jpg
   thumbnail: sizes/P1110035.jpg_200x150.jpg
   sizes:
   - sizes/P1110035.jpg_200x150.jpg
-  - sizes/P1110035.jpg_333x250.jpg
   - sizes/P1110035.jpg_467x350.jpg
+  - sizes/P1110035.jpg_2667x2000.jpg

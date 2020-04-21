@@ -1,115 +1,131 @@
 picture_path: christchurch_akaroa/centre_ville
 preview:
   filename: 20191201_181229
+  large: sizes/20191201_181229.jpg_2666x2000.jpg
   original: sizes/20191201_181229.jpg_467x350.jpg
   thumbnail: sizes/20191201_181229.jpg_200x150.jpg
   sizes:
   - sizes/20191201_181229.jpg_200x150.jpg
-  - sizes/20191201_181229.jpg_333x250.jpg
   - sizes/20191201_181229.jpg_467x350.jpg
+  - sizes/20191201_181229.jpg_2666x2000.jpg
 pictures:
 - filename: 20191201_181229
+  large: sizes/20191201_181229.jpg_2666x2000.jpg
   original: sizes/20191201_181229.jpg_467x350.jpg
   thumbnail: sizes/20191201_181229.jpg_200x150.jpg
   sizes:
   - sizes/20191201_181229.jpg_200x150.jpg
-  - sizes/20191201_181229.jpg_333x250.jpg
   - sizes/20191201_181229.jpg_467x350.jpg
+  - sizes/20191201_181229.jpg_2666x2000.jpg
 - filename: 20191201_182152
+  large: sizes/20191201_182152.jpg_1500x2000.jpg
   original: sizes/20191201_182152.jpg_262x350.jpg
   thumbnail: sizes/20191201_182152.jpg_112x150.jpg
   sizes:
   - sizes/20191201_182152.jpg_112x150.jpg
-  - sizes/20191201_182152.jpg_188x250.jpg
   - sizes/20191201_182152.jpg_262x350.jpg
+  - sizes/20191201_182152.jpg_1500x2000.jpg
 - filename: 20191201_182241
+  large: sizes/20191201_182241.jpg_1500x2000.jpg
   original: sizes/20191201_182241.jpg_262x350.jpg
   thumbnail: sizes/20191201_182241.jpg_112x150.jpg
   sizes:
   - sizes/20191201_182241.jpg_112x150.jpg
-  - sizes/20191201_182241.jpg_188x250.jpg
   - sizes/20191201_182241.jpg_262x350.jpg
+  - sizes/20191201_182241.jpg_1500x2000.jpg
 - filename: P1080602
+  large: sizes/P1080602.jpg_2667x2000.jpg
   original: sizes/P1080602.jpg_467x350.jpg
   thumbnail: sizes/P1080602.jpg_200x150.jpg
   sizes:
   - sizes/P1080602.jpg_200x150.jpg
-  - sizes/P1080602.jpg_333x250.jpg
   - sizes/P1080602.jpg_467x350.jpg
+  - sizes/P1080602.jpg_2667x2000.jpg
 - filename: P1080646
+  large: sizes/P1080646.jpg_2667x2000.jpg
   original: sizes/P1080646.jpg_467x350.jpg
   thumbnail: sizes/P1080646.jpg_200x150.jpg
   sizes:
   - sizes/P1080646.jpg_200x150.jpg
-  - sizes/P1080646.jpg_333x250.jpg
   - sizes/P1080646.jpg_467x350.jpg
+  - sizes/P1080646.jpg_2667x2000.jpg
 - filename: P1080647
+  large: sizes/P1080647.jpg_1500x2000.jpg
   original: sizes/P1080647.jpg_262x350.jpg
   thumbnail: sizes/P1080647.jpg_112x150.jpg
   sizes:
   - sizes/P1080647.jpg_112x150.jpg
-  - sizes/P1080647.jpg_187x250.jpg
   - sizes/P1080647.jpg_262x350.jpg
+  - sizes/P1080647.jpg_1500x2000.jpg
 - filename: P1080697
+  large: sizes/P1080697.jpg_1500x2000.jpg
   original: sizes/P1080697.jpg_262x350.jpg
   thumbnail: sizes/P1080697.jpg_112x150.jpg
   sizes:
   - sizes/P1080697.jpg_112x150.jpg
-  - sizes/P1080697.jpg_188x250.jpg
   - sizes/P1080697.jpg_262x350.jpg
+  - sizes/P1080697.jpg_1500x2000.jpg
 - filename: P1080725
+  large: sizes/P1080725.jpg_2667x2000.jpg
   original: sizes/P1080725.jpg_467x350.jpg
   thumbnail: sizes/P1080725.jpg_200x150.jpg
   sizes:
   - sizes/P1080725.jpg_200x150.jpg
-  - sizes/P1080725.jpg_333x250.jpg
   - sizes/P1080725.jpg_467x350.jpg
+  - sizes/P1080725.jpg_2667x2000.jpg
 - filename: P1080728
+  large: sizes/P1080728.jpg_1500x2000.jpg
   original: sizes/P1080728.jpg_262x350.jpg
   thumbnail: sizes/P1080728.jpg_112x150.jpg
   sizes:
   - sizes/P1080728.jpg_112x150.jpg
-  - sizes/P1080728.jpg_188x250.jpg
   - sizes/P1080728.jpg_262x350.jpg
+  - sizes/P1080728.jpg_1500x2000.jpg
 - filename: P1080730
+  large: sizes/P1080730.jpg_2667x2000.jpg
   original: sizes/P1080730.jpg_467x350.jpg
   thumbnail: sizes/P1080730.jpg_200x150.jpg
   sizes:
   - sizes/P1080730.jpg_200x150.jpg
-  - sizes/P1080730.jpg_333x250.jpg
   - sizes/P1080730.jpg_467x350.jpg
+  - sizes/P1080730.jpg_2667x2000.jpg
 - filename: P1080732
+  large: sizes/P1080732.jpg_2666x2000.jpg
   original: sizes/P1080732.jpg_467x350.jpg
   thumbnail: sizes/P1080732.jpg_200x150.jpg
   sizes:
   - sizes/P1080732.jpg_200x150.jpg
-  - sizes/P1080732.jpg_333x250.jpg
   - sizes/P1080732.jpg_467x350.jpg
+  - sizes/P1080732.jpg_2666x2000.jpg
 - filename: P1080733
+  large: sizes/P1080733.jpg_2667x2000.jpg
   original: sizes/P1080733.jpg_467x350.jpg
   thumbnail: sizes/P1080733.jpg_200x150.jpg
   sizes:
   - sizes/P1080733.jpg_200x150.jpg
-  - sizes/P1080733.jpg_333x250.jpg
   - sizes/P1080733.jpg_467x350.jpg
+  - sizes/P1080733.jpg_2667x2000.jpg
 - filename: P1080735
+  large: sizes/P1080735.jpg_2666x2000.jpg
   original: sizes/P1080735.jpg_467x350.jpg
   thumbnail: sizes/P1080735.jpg_200x150.jpg
   sizes:
   - sizes/P1080735.jpg_200x150.jpg
-  - sizes/P1080735.jpg_333x250.jpg
   - sizes/P1080735.jpg_467x350.jpg
+  - sizes/P1080735.jpg_2666x2000.jpg
 - filename: P1080746
+  large: sizes/P1080746.jpg_2667x2000.jpg
   original: sizes/P1080746.jpg_467x350.jpg
   thumbnail: sizes/P1080746.jpg_200x150.jpg
   sizes:
   - sizes/P1080746.jpg_200x150.jpg
-  - sizes/P1080746.jpg_333x250.jpg
   - sizes/P1080746.jpg_467x350.jpg
+  - sizes/P1080746.jpg_2667x2000.jpg
 - filename: P1080752
+  large: sizes/P1080752.jpg_2666x2000.jpg
   original: sizes/P1080752.jpg_467x350.jpg
   thumbnail: sizes/P1080752.jpg_200x150.jpg
   sizes:
   - sizes/P1080752.jpg_200x150.jpg
-  - sizes/P1080752.jpg_333x250.jpg
   - sizes/P1080752.jpg_467x350.jpg
+  - sizes/P1080752.jpg_2666x2000.jpg

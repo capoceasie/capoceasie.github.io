@@ -1,45 +1,51 @@
 picture_path: milford_wanaka_mtcook/wanaka_lac
 preview:
   filename: 20191207_190826
+  large: sizes/20191207_190826.jpg_2666x2000.jpg
   original: sizes/20191207_190826.jpg_467x350.jpg
   thumbnail: sizes/20191207_190826.jpg_200x150.jpg
   sizes:
   - sizes/20191207_190826.jpg_200x150.jpg
-  - sizes/20191207_190826.jpg_333x250.jpg
   - sizes/20191207_190826.jpg_467x350.jpg
+  - sizes/20191207_190826.jpg_2666x2000.jpg
 pictures:
 - filename: 20191207_190826
+  large: sizes/20191207_190826.jpg_2666x2000.jpg
   original: sizes/20191207_190826.jpg_467x350.jpg
   thumbnail: sizes/20191207_190826.jpg_200x150.jpg
   sizes:
   - sizes/20191207_190826.jpg_200x150.jpg
-  - sizes/20191207_190826.jpg_333x250.jpg
   - sizes/20191207_190826.jpg_467x350.jpg
+  - sizes/20191207_190826.jpg_2666x2000.jpg
 - filename: 20191207_191015
+  large: sizes/20191207_191015.jpg_1500x2000.jpg
   original: sizes/20191207_191015.jpg_262x350.jpg
   thumbnail: sizes/20191207_191015.jpg_112x150.jpg
   sizes:
   - sizes/20191207_191015.jpg_112x150.jpg
-  - sizes/20191207_191015.jpg_188x250.jpg
   - sizes/20191207_191015.jpg_262x350.jpg
+  - sizes/20191207_191015.jpg_1500x2000.jpg
 - filename: 20191208_134447
+  large: sizes/20191208_134447.jpg_2667x2000.jpg
   original: sizes/20191208_134447.jpg_467x350.jpg
   thumbnail: sizes/20191208_134447.jpg_200x150.jpg
   sizes:
   - sizes/20191208_134447.jpg_200x150.jpg
-  - sizes/20191208_134447.jpg_333x250.jpg
   - sizes/20191208_134447.jpg_467x350.jpg
+  - sizes/20191208_134447.jpg_2667x2000.jpg
 - filename: 20191208_151125
+  large: sizes/20191208_151125.jpg_2667x2000.jpg
   original: sizes/20191208_151125.jpg_467x350.jpg
   thumbnail: sizes/20191208_151125.jpg_200x150.jpg
   sizes:
   - sizes/20191208_151125.jpg_200x150.jpg
-  - sizes/20191208_151125.jpg_333x250.jpg
   - sizes/20191208_151125.jpg_467x350.jpg
+  - sizes/20191208_151125.jpg_2667x2000.jpg
 - filename: 20191208_151240
+  large: sizes/20191208_151240.jpg_2667x2000.jpg
   original: sizes/20191208_151240.jpg_467x350.jpg
   thumbnail: sizes/20191208_151240.jpg_200x150.jpg
   sizes:
   - sizes/20191208_151240.jpg_200x150.jpg
-  - sizes/20191208_151240.jpg_333x250.jpg
   - sizes/20191208_151240.jpg_467x350.jpg
+  - sizes/20191208_151240.jpg_2667x2000.jpg

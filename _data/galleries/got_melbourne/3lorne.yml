@@ -1,52 +1,59 @@
 picture_path: got_melbourne/3lorne
 preview:
   filename: P1080208
+  large: sizes/P1080208.jpg_2666x2000.jpg
   original: sizes/P1080208.jpg_467x350.jpg
   thumbnail: sizes/P1080208.jpg_200x150.jpg
   sizes:
   - sizes/P1080208.jpg_200x150.jpg
-  - sizes/P1080208.jpg_333x250.jpg
   - sizes/P1080208.jpg_467x350.jpg
+  - sizes/P1080208.jpg_2666x2000.jpg
 pictures:
 - filename: P1080208
+  large: sizes/P1080208.jpg_2666x2000.jpg
   original: sizes/P1080208.jpg_467x350.jpg
   thumbnail: sizes/P1080208.jpg_200x150.jpg
   sizes:
   - sizes/P1080208.jpg_200x150.jpg
-  - sizes/P1080208.jpg_333x250.jpg
   - sizes/P1080208.jpg_467x350.jpg
+  - sizes/P1080208.jpg_2666x2000.jpg
 - filename: P1080220
+  large: sizes/P1080220.jpg_1500x2000.jpg
   original: sizes/P1080220.jpg_262x350.jpg
   thumbnail: sizes/P1080220.jpg_112x150.jpg
   sizes:
   - sizes/P1080220.jpg_112x150.jpg
-  - sizes/P1080220.jpg_188x250.jpg
   - sizes/P1080220.jpg_262x350.jpg
+  - sizes/P1080220.jpg_1500x2000.jpg
 - filename: P1080221
+  large: sizes/P1080221.jpg_1500x2000.jpg
   original: sizes/P1080221.jpg_262x350.jpg
   thumbnail: sizes/P1080221.jpg_112x150.jpg
   sizes:
   - sizes/P1080221.jpg_112x150.jpg
-  - sizes/P1080221.jpg_188x250.jpg
   - sizes/P1080221.jpg_262x350.jpg
+  - sizes/P1080221.jpg_1500x2000.jpg
 - filename: P1080234
+  large: sizes/P1080234.jpg_1500x2000.jpg
   original: sizes/P1080234.jpg_262x350.jpg
   thumbnail: sizes/P1080234.jpg_112x150.jpg
   sizes:
   - sizes/P1080234.jpg_112x150.jpg
-  - sizes/P1080234.jpg_188x250.jpg
   - sizes/P1080234.jpg_262x350.jpg
+  - sizes/P1080234.jpg_1500x2000.jpg
 - filename: P1080237
+  large: sizes/P1080237.jpg_1500x2000.jpg
   original: sizes/P1080237.jpg_263x350.jpg
   thumbnail: sizes/P1080237.jpg_113x150.jpg
   sizes:
   - sizes/P1080237.jpg_113x150.jpg
-  - sizes/P1080237.jpg_188x250.jpg
   - sizes/P1080237.jpg_263x350.jpg
+  - sizes/P1080237.jpg_1500x2000.jpg
 - filename: P1080250
+  large: sizes/P1080250.jpg_1500x2000.jpg
   original: sizes/P1080250.jpg_262x350.jpg
   thumbnail: sizes/P1080250.jpg_112x150.jpg
   sizes:
   - sizes/P1080250.jpg_112x150.jpg
-  - sizes/P1080250.jpg_188x250.jpg
   - sizes/P1080250.jpg_262x350.jpg
+  - sizes/P1080250.jpg_1500x2000.jpg

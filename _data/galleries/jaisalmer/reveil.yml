@@ -1,52 +1,59 @@
 picture_path: jaisalmer/reveil
 preview:
   filename: 20191228_080122
+  large: sizes/20191228_080122.jpg_3556x2000.jpg
   original: sizes/20191228_080122.jpg_622x350.jpg
   thumbnail: sizes/20191228_080122.jpg_267x150.jpg
   sizes:
   - sizes/20191228_080122.jpg_267x150.jpg
-  - sizes/20191228_080122.jpg_444x250.jpg
   - sizes/20191228_080122.jpg_622x350.jpg
+  - sizes/20191228_080122.jpg_3556x2000.jpg
 pictures:
 - filename: 20191228_080122
+  large: sizes/20191228_080122.jpg_3556x2000.jpg
   original: sizes/20191228_080122.jpg_622x350.jpg
   thumbnail: sizes/20191228_080122.jpg_267x150.jpg
   sizes:
   - sizes/20191228_080122.jpg_267x150.jpg
-  - sizes/20191228_080122.jpg_444x250.jpg
   - sizes/20191228_080122.jpg_622x350.jpg
+  - sizes/20191228_080122.jpg_3556x2000.jpg
 - filename: P1110963
+  large: sizes/P1110963.jpg_2667x2000.jpg
   original: sizes/P1110963.jpg_467x350.jpg
   thumbnail: sizes/P1110963.jpg_200x150.jpg
   sizes:
   - sizes/P1110963.jpg_200x150.jpg
-  - sizes/P1110963.jpg_333x250.jpg
   - sizes/P1110963.jpg_467x350.jpg
+  - sizes/P1110963.jpg_2667x2000.jpg
 - filename: P1110967
+  large: sizes/P1110967.jpg_1500x2000.jpg
   original: sizes/P1110967.jpg_262x350.jpg
   thumbnail: sizes/P1110967.jpg_112x150.jpg
   sizes:
   - sizes/P1110967.jpg_112x150.jpg
-  - sizes/P1110967.jpg_188x250.jpg
   - sizes/P1110967.jpg_262x350.jpg
+  - sizes/P1110967.jpg_1500x2000.jpg
 - filename: P1110968
+  large: sizes/P1110968.jpg_2667x2000.jpg
   original: sizes/P1110968.jpg_467x350.jpg
   thumbnail: sizes/P1110968.jpg_200x150.jpg
   sizes:
   - sizes/P1110968.jpg_200x150.jpg
-  - sizes/P1110968.jpg_333x250.jpg
   - sizes/P1110968.jpg_467x350.jpg
+  - sizes/P1110968.jpg_2667x2000.jpg
 - filename: P1110970
+  large: sizes/P1110970.jpg_2667x2000.jpg
   original: sizes/P1110970.jpg_467x350.jpg
   thumbnail: sizes/P1110970.jpg_200x150.jpg
   sizes:
   - sizes/P1110970.jpg_200x150.jpg
-  - sizes/P1110970.jpg_333x250.jpg
   - sizes/P1110970.jpg_467x350.jpg
+  - sizes/P1110970.jpg_2667x2000.jpg
 - filename: P1110981
+  large: sizes/P1110981.jpg_2667x2000.jpg
   original: sizes/P1110981.jpg_467x350.jpg
   thumbnail: sizes/P1110981.jpg_200x150.jpg
   sizes:
   - sizes/P1110981.jpg_200x150.jpg
-  - sizes/P1110981.jpg_333x250.jpg
   - sizes/P1110981.jpg_467x350.jpg
+  - sizes/P1110981.jpg_2667x2000.jpg

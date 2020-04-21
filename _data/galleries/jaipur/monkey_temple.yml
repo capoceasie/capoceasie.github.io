@@ -1,101 +1,115 @@
 picture_path: jaipur/monkey_temple
 preview:
   filename: P1110190
+  large: sizes/P1110190.jpg_1500x2000.jpg
   original: sizes/P1110190.jpg_262x350.jpg
   thumbnail: sizes/P1110190.jpg_112x150.jpg
   sizes:
   - sizes/P1110190.jpg_112x150.jpg
-  - sizes/P1110190.jpg_188x250.jpg
   - sizes/P1110190.jpg_262x350.jpg
+  - sizes/P1110190.jpg_1500x2000.jpg
 pictures:
 - filename: P1110190
+  large: sizes/P1110190.jpg_1500x2000.jpg
   original: sizes/P1110190.jpg_262x350.jpg
   thumbnail: sizes/P1110190.jpg_112x150.jpg
   sizes:
   - sizes/P1110190.jpg_112x150.jpg
-  - sizes/P1110190.jpg_188x250.jpg
   - sizes/P1110190.jpg_262x350.jpg
+  - sizes/P1110190.jpg_1500x2000.jpg
 - filename: P1110194
+  large: sizes/P1110194.jpg_2667x2000.jpg
   original: sizes/P1110194.jpg_467x350.jpg
   thumbnail: sizes/P1110194.jpg_200x150.jpg
   sizes:
   - sizes/P1110194.jpg_200x150.jpg
-  - sizes/P1110194.jpg_333x250.jpg
   - sizes/P1110194.jpg_467x350.jpg
+  - sizes/P1110194.jpg_2667x2000.jpg
 - filename: P1110202
+  large: sizes/P1110202.jpg_1500x2000.jpg
   original: sizes/P1110202.jpg_262x350.jpg
   thumbnail: sizes/P1110202.jpg_112x150.jpg
   sizes:
   - sizes/P1110202.jpg_112x150.jpg
-  - sizes/P1110202.jpg_187x250.jpg
   - sizes/P1110202.jpg_262x350.jpg
+  - sizes/P1110202.jpg_1500x2000.jpg
 - filename: P1110203
+  large: sizes/P1110203.jpg_2667x2000.jpg
   original: sizes/P1110203.jpg_467x350.jpg
   thumbnail: sizes/P1110203.jpg_200x150.jpg
   sizes:
   - sizes/P1110203.jpg_200x150.jpg
-  - sizes/P1110203.jpg_333x250.jpg
   - sizes/P1110203.jpg_467x350.jpg
+  - sizes/P1110203.jpg_2667x2000.jpg
 - filename: P1110221
+  large: sizes/P1110221.jpg_2667x2000.jpg
   original: sizes/P1110221.jpg_467x350.jpg
   thumbnail: sizes/P1110221.jpg_200x150.jpg
   sizes:
   - sizes/P1110221.jpg_200x150.jpg
-  - sizes/P1110221.jpg_333x250.jpg
   - sizes/P1110221.jpg_467x350.jpg
+  - sizes/P1110221.jpg_2667x2000.jpg
 - filename: P1110223
+  large: sizes/P1110223.jpg_2667x2000.jpg
   original: sizes/P1110223.jpg_467x350.jpg
   thumbnail: sizes/P1110223.jpg_200x150.jpg
   sizes:
   - sizes/P1110223.jpg_200x150.jpg
-  - sizes/P1110223.jpg_333x250.jpg
   - sizes/P1110223.jpg_467x350.jpg
+  - sizes/P1110223.jpg_2667x2000.jpg
 - filename: P1110227
+  large: sizes/P1110227.jpg_1500x2000.jpg
   original: sizes/P1110227.jpg_262x350.jpg
   thumbnail: sizes/P1110227.jpg_112x150.jpg
   sizes:
   - sizes/P1110227.jpg_112x150.jpg
-  - sizes/P1110227.jpg_188x250.jpg
   - sizes/P1110227.jpg_262x350.jpg
+  - sizes/P1110227.jpg_1500x2000.jpg
 - filename: P1110230
+  large: sizes/P1110230.jpg_2666x2000.jpg
   original: sizes/P1110230.jpg_467x350.jpg
   thumbnail: sizes/P1110230.jpg_200x150.jpg
   sizes:
   - sizes/P1110230.jpg_200x150.jpg
-  - sizes/P1110230.jpg_333x250.jpg
   - sizes/P1110230.jpg_467x350.jpg
+  - sizes/P1110230.jpg_2666x2000.jpg
 - filename: P1110234
+  large: sizes/P1110234.jpg_2667x2000.jpg
   original: sizes/P1110234.jpg_467x350.jpg
   thumbnail: sizes/P1110234.jpg_200x150.jpg
   sizes:
   - sizes/P1110234.jpg_200x150.jpg
-  - sizes/P1110234.jpg_333x250.jpg
   - sizes/P1110234.jpg_467x350.jpg
+  - sizes/P1110234.jpg_2667x2000.jpg
 - filename: P1110235
+  large: sizes/P1110235.jpg_1500x2000.jpg
   original: sizes/P1110235.jpg_263x350.jpg
   thumbnail: sizes/P1110235.jpg_113x150.jpg
   sizes:
   - sizes/P1110235.jpg_113x150.jpg
-  - sizes/P1110235.jpg_188x250.jpg
   - sizes/P1110235.jpg_263x350.jpg
+  - sizes/P1110235.jpg_1500x2000.jpg
 - filename: P1110251
+  large: sizes/P1110251.jpg_2666x2000.jpg
   original: sizes/P1110251.jpg_467x350.jpg
   thumbnail: sizes/P1110251.jpg_200x150.jpg
   sizes:
   - sizes/P1110251.jpg_200x150.jpg
-  - sizes/P1110251.jpg_333x250.jpg
   - sizes/P1110251.jpg_467x350.jpg
+  - sizes/P1110251.jpg_2666x2000.jpg
 - filename: P1110253
+  large: sizes/P1110253.jpg_1500x2000.jpg
   original: sizes/P1110253.jpg_262x350.jpg
   thumbnail: sizes/P1110253.jpg_112x150.jpg
   sizes:
   - sizes/P1110253.jpg_112x150.jpg
-  - sizes/P1110253.jpg_188x250.jpg
   - sizes/P1110253.jpg_262x350.jpg
+  - sizes/P1110253.jpg_1500x2000.jpg
 - filename: P1110256
+  large: sizes/P1110256.jpg_2667x2000.jpg
   original: sizes/P1110256.jpg_467x350.jpg
   thumbnail: sizes/P1110256.jpg_200x150.jpg
   sizes:
   - sizes/P1110256.jpg_200x150.jpg
-  - sizes/P1110256.jpg_333x250.jpg
   - sizes/P1110256.jpg_467x350.jpg
+  - sizes/P1110256.jpg_2667x2000.jpg

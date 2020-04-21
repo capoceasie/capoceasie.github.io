@@ -1,45 +1,51 @@
 picture_path: fin_sejour_nz/noel
 preview:
   filename: 20191218_112840
+  large: sizes/20191218_112840.jpg_1125x2000.jpg
   original: sizes/20191218_112840.jpg_197x350.jpg
   thumbnail: sizes/20191218_112840.jpg_84x150.jpg
   sizes:
   - sizes/20191218_112840.jpg_84x150.jpg
-  - sizes/20191218_112840.jpg_141x250.jpg
   - sizes/20191218_112840.jpg_197x350.jpg
+  - sizes/20191218_112840.jpg_1125x2000.jpg
 pictures:
 - filename: 20191218_112840
+  large: sizes/20191218_112840.jpg_1125x2000.jpg
   original: sizes/20191218_112840.jpg_197x350.jpg
   thumbnail: sizes/20191218_112840.jpg_84x150.jpg
   sizes:
   - sizes/20191218_112840.jpg_84x150.jpg
-  - sizes/20191218_112840.jpg_141x250.jpg
   - sizes/20191218_112840.jpg_197x350.jpg
+  - sizes/20191218_112840.jpg_1125x2000.jpg
 - filename: 20191218_114651
+  large: sizes/20191218_114651.jpg_1500x2000.jpg
   original: sizes/20191218_114651.jpg_262x350.jpg
   thumbnail: sizes/20191218_114651.jpg_112x150.jpg
   sizes:
   - sizes/20191218_114651.jpg_112x150.jpg
-  - sizes/20191218_114651.jpg_188x250.jpg
   - sizes/20191218_114651.jpg_262x350.jpg
+  - sizes/20191218_114651.jpg_1500x2000.jpg
 - filename: P1110012
+  large: sizes/P1110012.jpg_2667x2000.jpg
   original: sizes/P1110012.jpg_467x350.jpg
   thumbnail: sizes/P1110012.jpg_200x150.jpg
   sizes:
   - sizes/P1110012.jpg_200x150.jpg
-  - sizes/P1110012.jpg_333x250.jpg
   - sizes/P1110012.jpg_467x350.jpg
+  - sizes/P1110012.jpg_2667x2000.jpg
 - filename: P1110042
+  large: sizes/P1110042.jpg_1500x2000.jpg
   original: sizes/P1110042.jpg_262x350.jpg
   thumbnail: sizes/P1110042.jpg_112x150.jpg
   sizes:
   - sizes/P1110042.jpg_112x150.jpg
-  - sizes/P1110042.jpg_188x250.jpg
   - sizes/P1110042.jpg_262x350.jpg
+  - sizes/P1110042.jpg_1500x2000.jpg
 - filename: P1110045
+  large: sizes/P1110045.jpg_2667x2000.jpg
   original: sizes/P1110045.jpg_467x350.jpg
   thumbnail: sizes/P1110045.jpg_200x150.jpg
   sizes:
   - sizes/P1110045.jpg_200x150.jpg
-  - sizes/P1110045.jpg_333x250.jpg
   - sizes/P1110045.jpg_467x350.jpg
+  - sizes/P1110045.jpg_2667x2000.jpg

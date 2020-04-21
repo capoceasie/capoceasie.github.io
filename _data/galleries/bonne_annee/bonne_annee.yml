@@ -1,31 +1,35 @@
 picture_path: bonne_annee/bonne_annee
 preview:
   filename: 20191231_203421-2
+  large: sizes/20191231_203421-2.jpg_1125x2000.jpg
   original: sizes/20191231_203421-2.jpg_197x350.jpg
   thumbnail: sizes/20191231_203421-2.jpg_84x150.jpg
   sizes:
   - sizes/20191231_203421-2.jpg_84x150.jpg
-  - sizes/20191231_203421-2.jpg_141x250.jpg
   - sizes/20191231_203421-2.jpg_197x350.jpg
+  - sizes/20191231_203421-2.jpg_1125x2000.jpg
 pictures:
 - filename: 20191231_203421-2
+  large: sizes/20191231_203421-2.jpg_1125x2000.jpg
   original: sizes/20191231_203421-2.jpg_197x350.jpg
   thumbnail: sizes/20191231_203421-2.jpg_84x150.jpg
   sizes:
   - sizes/20191231_203421-2.jpg_84x150.jpg
-  - sizes/20191231_203421-2.jpg_141x250.jpg
   - sizes/20191231_203421-2.jpg_197x350.jpg
+  - sizes/20191231_203421-2.jpg_1125x2000.jpg
 - filename: 20200101_101804-2
+  large: sizes/20200101_101804-2.jpg_1125x2000.jpg
   original: sizes/20200101_101804-2.jpg_197x350.jpg
   thumbnail: sizes/20200101_101804-2.jpg_84x150.jpg
   sizes:
   - sizes/20200101_101804-2.jpg_84x150.jpg
-  - sizes/20200101_101804-2.jpg_141x250.jpg
   - sizes/20200101_101804-2.jpg_197x350.jpg
+  - sizes/20200101_101804-2.jpg_1125x2000.jpg
 - filename: P1130520
+  large: sizes/P1130520.jpg_2666x2000.jpg
   original: sizes/P1130520.jpg_467x350.jpg
   thumbnail: sizes/P1130520.jpg_200x150.jpg
   sizes:
   - sizes/P1130520.jpg_200x150.jpg
-  - sizes/P1130520.jpg_333x250.jpg
   - sizes/P1130520.jpg_467x350.jpg
+  - sizes/P1130520.jpg_2666x2000.jpg

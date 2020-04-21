@@ -1,17 +1,19 @@
 picture_path: jaipur/papi
 preview:
   filename: P1110380
+  large: sizes/P1110380.jpg_2667x2000.jpg
   original: sizes/P1110380.jpg_467x350.jpg
   thumbnail: sizes/P1110380.jpg_200x150.jpg
   sizes:
   - sizes/P1110380.jpg_200x150.jpg
-  - sizes/P1110380.jpg_333x250.jpg
   - sizes/P1110380.jpg_467x350.jpg
+  - sizes/P1110380.jpg_2667x2000.jpg
 pictures:
 - filename: P1110380
+  large: sizes/P1110380.jpg_2667x2000.jpg
   original: sizes/P1110380.jpg_467x350.jpg
   thumbnail: sizes/P1110380.jpg_200x150.jpg
   sizes:
   - sizes/P1110380.jpg_200x150.jpg
-  - sizes/P1110380.jpg_333x250.jpg
   - sizes/P1110380.jpg_467x350.jpg
+  - sizes/P1110380.jpg_2667x2000.jpg

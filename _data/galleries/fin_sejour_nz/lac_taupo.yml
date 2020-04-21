@@ -1,24 +1,27 @@
 picture_path: fin_sejour_nz/lac_taupo
 preview:
   filename: 20191216_103652
+  large: sizes/20191216_103652.jpg_3556x2000.jpg
   original: sizes/20191216_103652.jpg_622x350.jpg
   thumbnail: sizes/20191216_103652.jpg_267x150.jpg
   sizes:
   - sizes/20191216_103652.jpg_267x150.jpg
-  - sizes/20191216_103652.jpg_444x250.jpg
   - sizes/20191216_103652.jpg_622x350.jpg
+  - sizes/20191216_103652.jpg_3556x2000.jpg
 pictures:
 - filename: 20191216_103652
+  large: sizes/20191216_103652.jpg_3556x2000.jpg
   original: sizes/20191216_103652.jpg_622x350.jpg
   thumbnail: sizes/20191216_103652.jpg_267x150.jpg
   sizes:
   - sizes/20191216_103652.jpg_267x150.jpg
-  - sizes/20191216_103652.jpg_444x250.jpg
   - sizes/20191216_103652.jpg_622x350.jpg
+  - sizes/20191216_103652.jpg_3556x2000.jpg
 - filename: 20191216_105021
+  large: sizes/20191216_105021.jpg_2666x2000.jpg
   original: sizes/20191216_105021.jpg_467x350.jpg
   thumbnail: sizes/20191216_105021.jpg_200x150.jpg
   sizes:
   - sizes/20191216_105021.jpg_200x150.jpg
-  - sizes/20191216_105021.jpg_333x250.jpg
   - sizes/20191216_105021.jpg_467x350.jpg
+  - sizes/20191216_105021.jpg_2666x2000.jpg

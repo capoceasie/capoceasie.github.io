@@ -1,45 +1,51 @@
 picture_path: abeltasman_kaikoura/baleine3
 preview:
   filename: P1100217
+  large: sizes/P1100217.jpg_2667x2000.jpg
   original: sizes/P1100217.jpg_467x350.jpg
   thumbnail: sizes/P1100217.jpg_200x150.jpg
   sizes:
   - sizes/P1100217.jpg_200x150.jpg
-  - sizes/P1100217.jpg_333x250.jpg
   - sizes/P1100217.jpg_467x350.jpg
+  - sizes/P1100217.jpg_2667x2000.jpg
 pictures:
 - filename: P1100217
+  large: sizes/P1100217.jpg_2667x2000.jpg
   original: sizes/P1100217.jpg_467x350.jpg
   thumbnail: sizes/P1100217.jpg_200x150.jpg
   sizes:
   - sizes/P1100217.jpg_200x150.jpg
-  - sizes/P1100217.jpg_333x250.jpg
   - sizes/P1100217.jpg_467x350.jpg
+  - sizes/P1100217.jpg_2667x2000.jpg
 - filename: P1100219
+  large: sizes/P1100219.jpg_2666x2000.jpg
   original: sizes/P1100219.jpg_467x350.jpg
   thumbnail: sizes/P1100219.jpg_200x150.jpg
   sizes:
   - sizes/P1100219.jpg_200x150.jpg
-  - sizes/P1100219.jpg_333x250.jpg
   - sizes/P1100219.jpg_467x350.jpg
+  - sizes/P1100219.jpg_2666x2000.jpg
 - filename: P1100224
+  large: sizes/P1100224.jpg_2667x2000.jpg
   original: sizes/P1100224.jpg_467x350.jpg
   thumbnail: sizes/P1100224.jpg_200x150.jpg
   sizes:
   - sizes/P1100224.jpg_200x150.jpg
-  - sizes/P1100224.jpg_333x250.jpg
   - sizes/P1100224.jpg_467x350.jpg
+  - sizes/P1100224.jpg_2667x2000.jpg
 - filename: P1100258
+  large: sizes/P1100258.jpg_2667x2000.jpg
   original: sizes/P1100258.jpg_467x350.jpg
   thumbnail: sizes/P1100258.jpg_200x150.jpg
   sizes:
   - sizes/P1100258.jpg_200x150.jpg
-  - sizes/P1100258.jpg_333x250.jpg
   - sizes/P1100258.jpg_467x350.jpg
+  - sizes/P1100258.jpg_2667x2000.jpg
 - filename: P1100261
+  large: sizes/P1100261.jpg_2666x2000.jpg
   original: sizes/P1100261.jpg_467x350.jpg
   thumbnail: sizes/P1100261.jpg_200x150.jpg
   sizes:
   - sizes/P1100261.jpg_200x150.jpg
-  - sizes/P1100261.jpg_333x250.jpg
   - sizes/P1100261.jpg_467x350.jpg
+  - sizes/P1100261.jpg_2666x2000.jpg

@@ -1,31 +1,35 @@
 picture_path: abeltasman_kaikoura/divers
 preview:
   filename: 20191212_104600
+  large: sizes/20191212_104600.jpg_2667x2000.jpg
   original: sizes/20191212_104600.jpg_467x350.jpg
   thumbnail: sizes/20191212_104600.jpg_200x150.jpg
   sizes:
   - sizes/20191212_104600.jpg_200x150.jpg
-  - sizes/20191212_104600.jpg_333x250.jpg
   - sizes/20191212_104600.jpg_467x350.jpg
+  - sizes/20191212_104600.jpg_2667x2000.jpg
 pictures:
 - filename: 20191212_104600
+  large: sizes/20191212_104600.jpg_2667x2000.jpg
   original: sizes/20191212_104600.jpg_467x350.jpg
   thumbnail: sizes/20191212_104600.jpg_200x150.jpg
   sizes:
   - sizes/20191212_104600.jpg_200x150.jpg
-  - sizes/20191212_104600.jpg_333x250.jpg
   - sizes/20191212_104600.jpg_467x350.jpg
+  - sizes/20191212_104600.jpg_2667x2000.jpg
 - filename: 20191212_122514
+  large: sizes/20191212_122514.jpg_2666x2000.jpg
   original: sizes/20191212_122514.jpg_467x350.jpg
   thumbnail: sizes/20191212_122514.jpg_200x150.jpg
   sizes:
   - sizes/20191212_122514.jpg_200x150.jpg
-  - sizes/20191212_122514.jpg_333x250.jpg
   - sizes/20191212_122514.jpg_467x350.jpg
+  - sizes/20191212_122514.jpg_2666x2000.jpg
 - filename: 20191213_165127
+  large: sizes/20191213_165127.jpg_3556x2000.jpg
   original: sizes/20191213_165127.jpg_622x350.jpg
   thumbnail: sizes/20191213_165127.jpg_267x150.jpg
   sizes:
   - sizes/20191213_165127.jpg_267x150.jpg
-  - sizes/20191213_165127.jpg_444x250.jpg
   - sizes/20191213_165127.jpg_622x350.jpg
+  - sizes/20191213_165127.jpg_3556x2000.jpg

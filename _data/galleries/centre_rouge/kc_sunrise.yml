@@ -1,38 +1,43 @@
 picture_path: centre_rouge/kc_sunrise
 preview:
   filename: P1070105
+  large: sizes/P1070105.jpg_2667x2000.jpg
   original: sizes/P1070105.jpg_467x350.jpg
   thumbnail: sizes/P1070105.jpg_200x150.jpg
   sizes:
   - sizes/P1070105.jpg_200x150.jpg
-  - sizes/P1070105.jpg_333x250.jpg
   - sizes/P1070105.jpg_467x350.jpg
+  - sizes/P1070105.jpg_2667x2000.jpg
 pictures:
 - filename: P1070105
+  large: sizes/P1070105.jpg_2667x2000.jpg
   original: sizes/P1070105.jpg_467x350.jpg
   thumbnail: sizes/P1070105.jpg_200x150.jpg
   sizes:
   - sizes/P1070105.jpg_200x150.jpg
-  - sizes/P1070105.jpg_333x250.jpg
   - sizes/P1070105.jpg_467x350.jpg
+  - sizes/P1070105.jpg_2667x2000.jpg
 - filename: P1070106
+  large: sizes/P1070106.jpg_1500x2000.jpg
   original: sizes/P1070106.jpg_262x350.jpg
   thumbnail: sizes/P1070106.jpg_112x150.jpg
   sizes:
   - sizes/P1070106.jpg_112x150.jpg
-  - sizes/P1070106.jpg_188x250.jpg
   - sizes/P1070106.jpg_262x350.jpg
+  - sizes/P1070106.jpg_1500x2000.jpg
 - filename: P1070118
+  large: sizes/P1070118.jpg_2667x2000.jpg
   original: sizes/P1070118.jpg_467x350.jpg
   thumbnail: sizes/P1070118.jpg_200x150.jpg
   sizes:
   - sizes/P1070118.jpg_200x150.jpg
-  - sizes/P1070118.jpg_333x250.jpg
   - sizes/P1070118.jpg_467x350.jpg
+  - sizes/P1070118.jpg_2667x2000.jpg
 - filename: P1070119
+  large: sizes/P1070119.jpg_1500x2000.jpg
   original: sizes/P1070119.jpg_262x350.jpg
   thumbnail: sizes/P1070119.jpg_112x150.jpg
   sizes:
   - sizes/P1070119.jpg_112x150.jpg
-  - sizes/P1070119.jpg_188x250.jpg
   - sizes/P1070119.jpg_262x350.jpg
+  - sizes/P1070119.jpg_1500x2000.jpg

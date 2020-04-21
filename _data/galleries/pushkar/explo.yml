@@ -1,80 +1,91 @@
 picture_path: pushkar/explo
 preview:
   filename: 0P1110582
+  large: sizes/0P1110582.jpg_2667x2000.jpg
   original: sizes/0P1110582.jpg_467x350.jpg
   thumbnail: sizes/0P1110582.jpg_200x150.jpg
   sizes:
   - sizes/0P1110582.jpg_200x150.jpg
-  - sizes/0P1110582.jpg_333x250.jpg
   - sizes/0P1110582.jpg_467x350.jpg
+  - sizes/0P1110582.jpg_2667x2000.jpg
 pictures:
 - filename: 0P1110582
+  large: sizes/0P1110582.jpg_2667x2000.jpg
   original: sizes/0P1110582.jpg_467x350.jpg
   thumbnail: sizes/0P1110582.jpg_200x150.jpg
   sizes:
   - sizes/0P1110582.jpg_200x150.jpg
-  - sizes/0P1110582.jpg_333x250.jpg
   - sizes/0P1110582.jpg_467x350.jpg
+  - sizes/0P1110582.jpg_2667x2000.jpg
 - filename: P1110573
+  large: sizes/P1110573.jpg_1500x2000.jpg
   original: sizes/P1110573.jpg_262x350.jpg
   thumbnail: sizes/P1110573.jpg_112x150.jpg
   sizes:
   - sizes/P1110573.jpg_112x150.jpg
-  - sizes/P1110573.jpg_188x250.jpg
   - sizes/P1110573.jpg_262x350.jpg
+  - sizes/P1110573.jpg_1500x2000.jpg
 - filename: P1110578
+  large: sizes/P1110578.jpg_1500x2000.jpg
   original: sizes/P1110578.jpg_262x350.jpg
   thumbnail: sizes/P1110578.jpg_112x150.jpg
   sizes:
   - sizes/P1110578.jpg_112x150.jpg
-  - sizes/P1110578.jpg_188x250.jpg
   - sizes/P1110578.jpg_262x350.jpg
+  - sizes/P1110578.jpg_1500x2000.jpg
 - filename: P1110579
+  large: sizes/P1110579.jpg_1500x2000.jpg
   original: sizes/P1110579.jpg_262x350.jpg
   thumbnail: sizes/P1110579.jpg_112x150.jpg
   sizes:
   - sizes/P1110579.jpg_112x150.jpg
-  - sizes/P1110579.jpg_188x250.jpg
   - sizes/P1110579.jpg_262x350.jpg
+  - sizes/P1110579.jpg_1500x2000.jpg
 - filename: P1110583
+  large: sizes/P1110583.jpg_2667x2000.jpg
   original: sizes/P1110583.jpg_467x350.jpg
   thumbnail: sizes/P1110583.jpg_200x150.jpg
   sizes:
   - sizes/P1110583.jpg_200x150.jpg
-  - sizes/P1110583.jpg_333x250.jpg
   - sizes/P1110583.jpg_467x350.jpg
+  - sizes/P1110583.jpg_2667x2000.jpg
 - filename: P1110590
+  large: sizes/P1110590.jpg_1500x2000.jpg
   original: sizes/P1110590.jpg_262x350.jpg
   thumbnail: sizes/P1110590.jpg_112x150.jpg
   sizes:
   - sizes/P1110590.jpg_112x150.jpg
-  - sizes/P1110590.jpg_188x250.jpg
   - sizes/P1110590.jpg_262x350.jpg
+  - sizes/P1110590.jpg_1500x2000.jpg
 - filename: P1110597
+  large: sizes/P1110597.jpg_1500x2000.jpg
   original: sizes/P1110597.jpg_262x350.jpg
   thumbnail: sizes/P1110597.jpg_112x150.jpg
   sizes:
   - sizes/P1110597.jpg_112x150.jpg
-  - sizes/P1110597.jpg_188x250.jpg
   - sizes/P1110597.jpg_262x350.jpg
+  - sizes/P1110597.jpg_1500x2000.jpg
 - filename: P1110600
+  large: sizes/P1110600.jpg_1500x2000.jpg
   original: sizes/P1110600.jpg_263x350.jpg
   thumbnail: sizes/P1110600.jpg_113x150.jpg
   sizes:
   - sizes/P1110600.jpg_113x150.jpg
-  - sizes/P1110600.jpg_188x250.jpg
   - sizes/P1110600.jpg_263x350.jpg
+  - sizes/P1110600.jpg_1500x2000.jpg
 - filename: P1110601
+  large: sizes/P1110601.jpg_1500x2000.jpg
   original: sizes/P1110601.jpg_262x350.jpg
   thumbnail: sizes/P1110601.jpg_112x150.jpg
   sizes:
   - sizes/P1110601.jpg_112x150.jpg
-  - sizes/P1110601.jpg_187x250.jpg
   - sizes/P1110601.jpg_262x350.jpg
+  - sizes/P1110601.jpg_1500x2000.jpg
 - filename: P1110616
+  large: sizes/P1110616.jpg_2667x2000.jpg
   original: sizes/P1110616.jpg_467x350.jpg
   thumbnail: sizes/P1110616.jpg_200x150.jpg
   sizes:
   - sizes/P1110616.jpg_200x150.jpg
-  - sizes/P1110616.jpg_333x250.jpg
   - sizes/P1110616.jpg_467x350.jpg
+  - sizes/P1110616.jpg_2667x2000.jpg

@@ -1,24 +1,27 @@
 picture_path: tongariro/route
 preview:
   filename: 20191214_192117
+  large: sizes/20191214_192117.jpg_3556x2000.jpg
   original: sizes/20191214_192117.jpg_622x350.jpg
   thumbnail: sizes/20191214_192117.jpg_267x150.jpg
   sizes:
   - sizes/20191214_192117.jpg_267x150.jpg
-  - sizes/20191214_192117.jpg_444x250.jpg
   - sizes/20191214_192117.jpg_622x350.jpg
+  - sizes/20191214_192117.jpg_3556x2000.jpg
 pictures:
 - filename: 20191214_192117
+  large: sizes/20191214_192117.jpg_3556x2000.jpg
   original: sizes/20191214_192117.jpg_622x350.jpg
   thumbnail: sizes/20191214_192117.jpg_267x150.jpg
   sizes:
   - sizes/20191214_192117.jpg_267x150.jpg
-  - sizes/20191214_192117.jpg_444x250.jpg
   - sizes/20191214_192117.jpg_622x350.jpg
+  - sizes/20191214_192117.jpg_3556x2000.jpg
 - filename: P1100703
+  large: sizes/P1100703.jpg_2667x2000.jpg
   original: sizes/P1100703.jpg_467x350.jpg
   thumbnail: sizes/P1100703.jpg_200x150.jpg
   sizes:
   - sizes/P1100703.jpg_200x150.jpg
-  - sizes/P1100703.jpg_333x250.jpg
   - sizes/P1100703.jpg_467x350.jpg
+  - sizes/P1100703.jpg_2667x2000.jpg

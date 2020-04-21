@@ -1,24 +1,27 @@
 picture_path: cairns/recif_flynn
 preview:
   filename: cairns_reefs-ConvertImage
+  large: sizes/cairns_reefs-ConvertImage.jpg_3088x2000.jpg
   original: sizes/cairns_reefs-ConvertImage.jpg_540x350.jpg
   thumbnail: sizes/cairns_reefs-ConvertImage.jpg_232x150.jpg
   sizes:
   - sizes/cairns_reefs-ConvertImage.jpg_232x150.jpg
-  - sizes/cairns_reefs-ConvertImage.jpg_386x250.jpg
   - sizes/cairns_reefs-ConvertImage.jpg_540x350.jpg
+  - sizes/cairns_reefs-ConvertImage.jpg_3088x2000.jpg
 pictures:
 - filename: cairns_reefs-ConvertImage
+  large: sizes/cairns_reefs-ConvertImage.jpg_3088x2000.jpg
   original: sizes/cairns_reefs-ConvertImage.jpg_540x350.jpg
   thumbnail: sizes/cairns_reefs-ConvertImage.jpg_232x150.jpg
   sizes:
   - sizes/cairns_reefs-ConvertImage.jpg_232x150.jpg
-  - sizes/cairns_reefs-ConvertImage.jpg_386x250.jpg
   - sizes/cairns_reefs-ConvertImage.jpg_540x350.jpg
+  - sizes/cairns_reefs-ConvertImage.jpg_3088x2000.jpg
 - filename: map-flynn-ConvertImage
+  large: sizes/map-flynn-ConvertImage.jpg_3294x2000.jpg
   original: sizes/map-flynn-ConvertImage.jpg_576x350.jpg
   thumbnail: sizes/map-flynn-ConvertImage.jpg_247x150.jpg
   sizes:
   - sizes/map-flynn-ConvertImage.jpg_247x150.jpg
-  - sizes/map-flynn-ConvertImage.jpg_412x250.jpg
   - sizes/map-flynn-ConvertImage.jpg_576x350.jpg
+  - sizes/map-flynn-ConvertImage.jpg_3294x2000.jpg

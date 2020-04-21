@@ -1,24 +1,27 @@
 picture_path: tongariro/ferry
 preview:
   filename: 20191214_080314
+  large: sizes/20191214_080314.jpg_3556x2000.jpg
   original: sizes/20191214_080314.jpg_622x350.jpg
   thumbnail: sizes/20191214_080314.jpg_267x150.jpg
   sizes:
   - sizes/20191214_080314.jpg_267x150.jpg
-  - sizes/20191214_080314.jpg_444x250.jpg
   - sizes/20191214_080314.jpg_622x350.jpg
+  - sizes/20191214_080314.jpg_3556x2000.jpg
 pictures:
 - filename: 20191214_080314
+  large: sizes/20191214_080314.jpg_3556x2000.jpg
   original: sizes/20191214_080314.jpg_622x350.jpg
   thumbnail: sizes/20191214_080314.jpg_267x150.jpg
   sizes:
   - sizes/20191214_080314.jpg_267x150.jpg
-  - sizes/20191214_080314.jpg_444x250.jpg
   - sizes/20191214_080314.jpg_622x350.jpg
+  - sizes/20191214_080314.jpg_3556x2000.jpg
 - filename: 20191214_112221
+  large: sizes/20191214_112221.jpg_3555x2000.jpg
   original: sizes/20191214_112221.jpg_622x350.jpg
   thumbnail: sizes/20191214_112221.jpg_267x150.jpg
   sizes:
   - sizes/20191214_112221.jpg_267x150.jpg
-  - sizes/20191214_112221.jpg_444x250.jpg
   - sizes/20191214_112221.jpg_622x350.jpg
+  - sizes/20191214_112221.jpg_3555x2000.jpg

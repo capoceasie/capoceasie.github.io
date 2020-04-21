@@ -1,45 +1,51 @@
 picture_path: jaipur/albert_museum
 preview:
   filename: 0P1110365
+  large: sizes/0P1110365.jpg_2666x2000.jpg
   original: sizes/0P1110365.jpg_467x350.jpg
   thumbnail: sizes/0P1110365.jpg_200x150.jpg
   sizes:
   - sizes/0P1110365.jpg_200x150.jpg
-  - sizes/0P1110365.jpg_333x250.jpg
   - sizes/0P1110365.jpg_467x350.jpg
+  - sizes/0P1110365.jpg_2666x2000.jpg
 pictures:
 - filename: 0P1110365
+  large: sizes/0P1110365.jpg_2666x2000.jpg
   original: sizes/0P1110365.jpg_467x350.jpg
   thumbnail: sizes/0P1110365.jpg_200x150.jpg
   sizes:
   - sizes/0P1110365.jpg_200x150.jpg
-  - sizes/0P1110365.jpg_333x250.jpg
   - sizes/0P1110365.jpg_467x350.jpg
+  - sizes/0P1110365.jpg_2666x2000.jpg
 - filename: 20191224_153833
+  large: sizes/20191224_153833.jpg_1500x2000.jpg
   original: sizes/20191224_153833.jpg_262x350.jpg
   thumbnail: sizes/20191224_153833.jpg_112x150.jpg
   sizes:
   - sizes/20191224_153833.jpg_112x150.jpg
-  - sizes/20191224_153833.jpg_188x250.jpg
   - sizes/20191224_153833.jpg_262x350.jpg
+  - sizes/20191224_153833.jpg_1500x2000.jpg
 - filename: P1110352
+  large: sizes/P1110352.jpg_2666x2000.jpg
   original: sizes/P1110352.jpg_467x350.jpg
   thumbnail: sizes/P1110352.jpg_200x150.jpg
   sizes:
   - sizes/P1110352.jpg_200x150.jpg
-  - sizes/P1110352.jpg_333x250.jpg
   - sizes/P1110352.jpg_467x350.jpg
+  - sizes/P1110352.jpg_2666x2000.jpg
 - filename: P1110372
+  large: sizes/P1110372.jpg_2667x2000.jpg
   original: sizes/P1110372.jpg_467x350.jpg
   thumbnail: sizes/P1110372.jpg_200x150.jpg
   sizes:
   - sizes/P1110372.jpg_200x150.jpg
-  - sizes/P1110372.jpg_333x250.jpg
   - sizes/P1110372.jpg_467x350.jpg
+  - sizes/P1110372.jpg_2667x2000.jpg
 - filename: P1110374
+  large: sizes/P1110374.jpg_2667x2000.jpg
   original: sizes/P1110374.jpg_467x350.jpg
   thumbnail: sizes/P1110374.jpg_200x150.jpg
   sizes:
   - sizes/P1110374.jpg_200x150.jpg
-  - sizes/P1110374.jpg_333x250.jpg
   - sizes/P1110374.jpg_467x350.jpg
+  - sizes/P1110374.jpg_2667x2000.jpg

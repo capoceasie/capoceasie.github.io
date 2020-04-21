@@ -1,45 +1,51 @@
 picture_path: foret_nord_cairns/myall_beach
 preview:
   filename: P1070444
+  large: sizes/P1070444.jpg_2667x2000.jpg
   original: sizes/P1070444.jpg_467x350.jpg
   thumbnail: sizes/P1070444.jpg_200x150.jpg
   sizes:
   - sizes/P1070444.jpg_200x150.jpg
-  - sizes/P1070444.jpg_333x250.jpg
   - sizes/P1070444.jpg_467x350.jpg
+  - sizes/P1070444.jpg_2667x2000.jpg
 pictures:
 - filename: P1070444
+  large: sizes/P1070444.jpg_2667x2000.jpg
   original: sizes/P1070444.jpg_467x350.jpg
   thumbnail: sizes/P1070444.jpg_200x150.jpg
   sizes:
   - sizes/P1070444.jpg_200x150.jpg
-  - sizes/P1070444.jpg_333x250.jpg
   - sizes/P1070444.jpg_467x350.jpg
+  - sizes/P1070444.jpg_2667x2000.jpg
 - filename: P1070449
+  large: sizes/P1070449.jpg_1500x2000.jpg
   original: sizes/P1070449.jpg_262x350.jpg
   thumbnail: sizes/P1070449.jpg_112x150.jpg
   sizes:
   - sizes/P1070449.jpg_112x150.jpg
-  - sizes/P1070449.jpg_188x250.jpg
   - sizes/P1070449.jpg_262x350.jpg
+  - sizes/P1070449.jpg_1500x2000.jpg
 - filename: P1070451
+  large: sizes/P1070451.jpg_1500x2000.jpg
   original: sizes/P1070451.jpg_263x350.jpg
   thumbnail: sizes/P1070451.jpg_113x150.jpg
   sizes:
   - sizes/P1070451.jpg_113x150.jpg
-  - sizes/P1070451.jpg_188x250.jpg
   - sizes/P1070451.jpg_263x350.jpg
+  - sizes/P1070451.jpg_1500x2000.jpg
 - filename: P1070482
+  large: sizes/P1070482.jpg_1500x2000.jpg
   original: sizes/P1070482.jpg_262x350.jpg
   thumbnail: sizes/P1070482.jpg_112x150.jpg
   sizes:
   - sizes/P1070482.jpg_112x150.jpg
-  - sizes/P1070482.jpg_188x250.jpg
   - sizes/P1070482.jpg_262x350.jpg
+  - sizes/P1070482.jpg_1500x2000.jpg
 - filename: P1070484
+  large: sizes/P1070484.jpg_2667x2000.jpg
   original: sizes/P1070484.jpg_467x350.jpg
   thumbnail: sizes/P1070484.jpg_200x150.jpg
   sizes:
   - sizes/P1070484.jpg_200x150.jpg
-  - sizes/P1070484.jpg_333x250.jpg
   - sizes/P1070484.jpg_467x350.jpg
+  - sizes/P1070484.jpg_2667x2000.jpg

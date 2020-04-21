@@ -1,17 +1,19 @@
 picture_path: delhi/singe
 preview:
   filename: 20191222_164713
+  large: sizes/20191222_164713.jpg_1500x2000.jpg
   original: sizes/20191222_164713.jpg_262x350.jpg
   thumbnail: sizes/20191222_164713.jpg_112x150.jpg
   sizes:
   - sizes/20191222_164713.jpg_112x150.jpg
-  - sizes/20191222_164713.jpg_188x250.jpg
   - sizes/20191222_164713.jpg_262x350.jpg
+  - sizes/20191222_164713.jpg_1500x2000.jpg
 pictures:
 - filename: 20191222_164713
+  large: sizes/20191222_164713.jpg_1500x2000.jpg
   original: sizes/20191222_164713.jpg_262x350.jpg
   thumbnail: sizes/20191222_164713.jpg_112x150.jpg
   sizes:
   - sizes/20191222_164713.jpg_112x150.jpg
-  - sizes/20191222_164713.jpg_188x250.jpg
   - sizes/20191222_164713.jpg_262x350.jpg
+  - sizes/20191222_164713.jpg_1500x2000.jpg

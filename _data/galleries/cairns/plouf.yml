@@ -1,59 +1,67 @@
 picture_path: cairns/plouf
 preview:
   filename: 317
+  large: sizes/317.jpg_2667x2000.jpg
   original: sizes/317.jpg_467x350.jpg
   thumbnail: sizes/317.jpg_200x150.jpg
   sizes:
   - sizes/317.jpg_200x150.jpg
-  - sizes/317.jpg_333x250.jpg
   - sizes/317.jpg_467x350.jpg
+  - sizes/317.jpg_2667x2000.jpg
 pictures:
 - filename: 317
+  large: sizes/317.jpg_2667x2000.jpg
   original: sizes/317.jpg_467x350.jpg
   thumbnail: sizes/317.jpg_200x150.jpg
   sizes:
   - sizes/317.jpg_200x150.jpg
-  - sizes/317.jpg_333x250.jpg
   - sizes/317.jpg_467x350.jpg
+  - sizes/317.jpg_2667x2000.jpg
 - filename: 318
+  large: sizes/318.jpg_2667x2000.jpg
   original: sizes/318.jpg_467x350.jpg
   thumbnail: sizes/318.jpg_200x150.jpg
   sizes:
   - sizes/318.jpg_200x150.jpg
-  - sizes/318.jpg_333x250.jpg
   - sizes/318.jpg_467x350.jpg
+  - sizes/318.jpg_2667x2000.jpg
 - filename: 387
+  large: sizes/387.jpg_1500x2000.jpg
   original: sizes/387.jpg_262x350.jpg
   thumbnail: sizes/387.jpg_112x150.jpg
   sizes:
   - sizes/387.jpg_112x150.jpg
-  - sizes/387.jpg_188x250.jpg
   - sizes/387.jpg_262x350.jpg
+  - sizes/387.jpg_1500x2000.jpg
 - filename: 462
+  large: sizes/462.jpg_2667x2000.jpg
   original: sizes/462.jpg_467x350.jpg
   thumbnail: sizes/462.jpg_200x150.jpg
   sizes:
   - sizes/462.jpg_200x150.jpg
-  - sizes/462.jpg_333x250.jpg
   - sizes/462.jpg_467x350.jpg
+  - sizes/462.jpg_2667x2000.jpg
 - filename: 521
+  large: sizes/521.jpg_2667x2000.jpg
   original: sizes/521.jpg_467x350.jpg
   thumbnail: sizes/521.jpg_200x150.jpg
   sizes:
   - sizes/521.jpg_200x150.jpg
-  - sizes/521.jpg_333x250.jpg
   - sizes/521.jpg_467x350.jpg
+  - sizes/521.jpg_2667x2000.jpg
 - filename: 587
+  large: sizes/587.jpg_2667x2000.jpg
   original: sizes/587.jpg_467x350.jpg
   thumbnail: sizes/587.jpg_200x150.jpg
   sizes:
   - sizes/587.jpg_200x150.jpg
-  - sizes/587.jpg_333x250.jpg
   - sizes/587.jpg_467x350.jpg
+  - sizes/587.jpg_2667x2000.jpg
 - filename: 604
+  large: sizes/604.jpg_2667x2000.jpg
   original: sizes/604.jpg_467x350.jpg
   thumbnail: sizes/604.jpg_200x150.jpg
   sizes:
   - sizes/604.jpg_200x150.jpg
-  - sizes/604.jpg_333x250.jpg
   - sizes/604.jpg_467x350.jpg
+  - sizes/604.jpg_2667x2000.jpg

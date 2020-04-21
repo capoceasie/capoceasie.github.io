@@ -1,38 +1,43 @@
 picture_path: sydney/SOUSHarborBridge
 preview:
   filename: P1060568_3712 x 2784
+  large: sizes/P1060568_3712_x_2784.jpg_2667x2000.jpg
   original: sizes/P1060568_3712_x_2784.jpg_467x350.jpg
   thumbnail: sizes/P1060568_3712_x_2784.jpg_200x150.jpg
   sizes:
   - sizes/P1060568_3712_x_2784.jpg_200x150.jpg
-  - sizes/P1060568_3712_x_2784.jpg_333x250.jpg
   - sizes/P1060568_3712_x_2784.jpg_467x350.jpg
+  - sizes/P1060568_3712_x_2784.jpg_2667x2000.jpg
 pictures:
 - filename: P1060568_3712 x 2784
+  large: sizes/P1060568_3712_x_2784.jpg_2667x2000.jpg
   original: sizes/P1060568_3712_x_2784.jpg_467x350.jpg
   thumbnail: sizes/P1060568_3712_x_2784.jpg_200x150.jpg
   sizes:
   - sizes/P1060568_3712_x_2784.jpg_200x150.jpg
-  - sizes/P1060568_3712_x_2784.jpg_333x250.jpg
   - sizes/P1060568_3712_x_2784.jpg_467x350.jpg
+  - sizes/P1060568_3712_x_2784.jpg_2667x2000.jpg
 - filename: P1060577_2784 x 3712
+  large: sizes/P1060577_2784_x_3712.jpg_1500x2000.jpg
   original: sizes/P1060577_2784_x_3712.jpg_262x350.jpg
   thumbnail: sizes/P1060577_2784_x_3712.jpg_112x150.jpg
   sizes:
   - sizes/P1060577_2784_x_3712.jpg_112x150.jpg
-  - sizes/P1060577_2784_x_3712.jpg_188x250.jpg
   - sizes/P1060577_2784_x_3712.jpg_262x350.jpg
+  - sizes/P1060577_2784_x_3712.jpg_1500x2000.jpg
 - filename: P1060581_3712 x 2784
+  large: sizes/P1060581_3712_x_2784.jpg_2666x2000.jpg
   original: sizes/P1060581_3712_x_2784.jpg_467x350.jpg
   thumbnail: sizes/P1060581_3712_x_2784.jpg_200x150.jpg
   sizes:
   - sizes/P1060581_3712_x_2784.jpg_200x150.jpg
-  - sizes/P1060581_3712_x_2784.jpg_333x250.jpg
   - sizes/P1060581_3712_x_2784.jpg_467x350.jpg
+  - sizes/P1060581_3712_x_2784.jpg_2666x2000.jpg
 - filename: P1060584_3712 x 2784
+  large: sizes/P1060584_3712_x_2784.jpg_2666x2000.jpg
   original: sizes/P1060584_3712_x_2784.jpg_467x350.jpg
   thumbnail: sizes/P1060584_3712_x_2784.jpg_200x150.jpg
   sizes:
   - sizes/P1060584_3712_x_2784.jpg_200x150.jpg
-  - sizes/P1060584_3712_x_2784.jpg_333x250.jpg
   - sizes/P1060584_3712_x_2784.jpg_467x350.jpg
+  - sizes/P1060584_3712_x_2784.jpg_2666x2000.jpg

@@ -1,45 +1,51 @@
 picture_path: got_melbourne/4kennet_river_koala
 preview:
   filename: P1080269
+  large: sizes/P1080269.jpg_2667x2000.jpg
   original: sizes/P1080269.jpg_467x350.jpg
   thumbnail: sizes/P1080269.jpg_200x150.jpg
   sizes:
   - sizes/P1080269.jpg_200x150.jpg
-  - sizes/P1080269.jpg_333x250.jpg
   - sizes/P1080269.jpg_467x350.jpg
+  - sizes/P1080269.jpg_2667x2000.jpg
 pictures:
 - filename: P1080269
+  large: sizes/P1080269.jpg_2667x2000.jpg
   original: sizes/P1080269.jpg_467x350.jpg
   thumbnail: sizes/P1080269.jpg_200x150.jpg
   sizes:
   - sizes/P1080269.jpg_200x150.jpg
-  - sizes/P1080269.jpg_333x250.jpg
   - sizes/P1080269.jpg_467x350.jpg
+  - sizes/P1080269.jpg_2667x2000.jpg
 - filename: P1080275
+  large: sizes/P1080275.jpg_2667x2000.jpg
   original: sizes/P1080275.jpg_467x350.jpg
   thumbnail: sizes/P1080275.jpg_200x150.jpg
   sizes:
   - sizes/P1080275.jpg_200x150.jpg
-  - sizes/P1080275.jpg_333x250.jpg
   - sizes/P1080275.jpg_467x350.jpg
+  - sizes/P1080275.jpg_2667x2000.jpg
 - filename: P1080278
+  large: sizes/P1080278.jpg_2666x2000.jpg
   original: sizes/P1080278.jpg_467x350.jpg
   thumbnail: sizes/P1080278.jpg_200x150.jpg
   sizes:
   - sizes/P1080278.jpg_200x150.jpg
-  - sizes/P1080278.jpg_333x250.jpg
   - sizes/P1080278.jpg_467x350.jpg
+  - sizes/P1080278.jpg_2666x2000.jpg
 - filename: P1080308
+  large: sizes/P1080308.jpg_1500x2000.jpg
   original: sizes/P1080308.jpg_262x350.jpg
   thumbnail: sizes/P1080308.jpg_112x150.jpg
   sizes:
   - sizes/P1080308.jpg_112x150.jpg
-  - sizes/P1080308.jpg_188x250.jpg
   - sizes/P1080308.jpg_262x350.jpg
+  - sizes/P1080308.jpg_1500x2000.jpg
 - filename: P1080322
+  large: sizes/P1080322.jpg_1500x2000.jpg
   original: sizes/P1080322.jpg_263x350.jpg
   thumbnail: sizes/P1080322.jpg_113x150.jpg
   sizes:
   - sizes/P1080322.jpg_113x150.jpg
-  - sizes/P1080322.jpg_188x250.jpg
   - sizes/P1080322.jpg_263x350.jpg
+  - sizes/P1080322.jpg_1500x2000.jpg

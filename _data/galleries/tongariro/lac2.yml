@@ -1,59 +1,67 @@
 picture_path: tongariro/lac2
 preview:
   filename: P1100865
+  large: sizes/P1100865.jpg_2667x2000.jpg
   original: sizes/P1100865.jpg_467x350.jpg
   thumbnail: sizes/P1100865.jpg_200x150.jpg
   sizes:
   - sizes/P1100865.jpg_200x150.jpg
-  - sizes/P1100865.jpg_333x250.jpg
   - sizes/P1100865.jpg_467x350.jpg
+  - sizes/P1100865.jpg_2667x2000.jpg
 pictures:
 - filename: P1100865
+  large: sizes/P1100865.jpg_2667x2000.jpg
   original: sizes/P1100865.jpg_467x350.jpg
   thumbnail: sizes/P1100865.jpg_200x150.jpg
   sizes:
   - sizes/P1100865.jpg_200x150.jpg
-  - sizes/P1100865.jpg_333x250.jpg
   - sizes/P1100865.jpg_467x350.jpg
+  - sizes/P1100865.jpg_2667x2000.jpg
 - filename: P1100866
+  large: sizes/P1100866.jpg_2666x2000.jpg
   original: sizes/P1100866.jpg_467x350.jpg
   thumbnail: sizes/P1100866.jpg_200x150.jpg
   sizes:
   - sizes/P1100866.jpg_200x150.jpg
-  - sizes/P1100866.jpg_333x250.jpg
   - sizes/P1100866.jpg_467x350.jpg
+  - sizes/P1100866.jpg_2666x2000.jpg
 - filename: P1100867
+  large: sizes/P1100867.jpg_2667x2000.jpg
   original: sizes/P1100867.jpg_467x350.jpg
   thumbnail: sizes/P1100867.jpg_200x150.jpg
   sizes:
   - sizes/P1100867.jpg_200x150.jpg
-  - sizes/P1100867.jpg_333x250.jpg
   - sizes/P1100867.jpg_467x350.jpg
+  - sizes/P1100867.jpg_2667x2000.jpg
 - filename: P1100870
+  large: sizes/P1100870.jpg_2667x2000.jpg
   original: sizes/P1100870.jpg_467x350.jpg
   thumbnail: sizes/P1100870.jpg_200x150.jpg
   sizes:
   - sizes/P1100870.jpg_200x150.jpg
-  - sizes/P1100870.jpg_333x250.jpg
   - sizes/P1100870.jpg_467x350.jpg
+  - sizes/P1100870.jpg_2667x2000.jpg
 - filename: P1100880
+  large: sizes/P1100880.jpg_1500x2000.jpg
   original: sizes/P1100880.jpg_262x350.jpg
   thumbnail: sizes/P1100880.jpg_112x150.jpg
   sizes:
   - sizes/P1100880.jpg_112x150.jpg
-  - sizes/P1100880.jpg_188x250.jpg
   - sizes/P1100880.jpg_262x350.jpg
+  - sizes/P1100880.jpg_1500x2000.jpg
 - filename: P1100881
+  large: sizes/P1100881.jpg_2667x2000.jpg
   original: sizes/P1100881.jpg_467x350.jpg
   thumbnail: sizes/P1100881.jpg_200x150.jpg
   sizes:
   - sizes/P1100881.jpg_200x150.jpg
-  - sizes/P1100881.jpg_333x250.jpg
   - sizes/P1100881.jpg_467x350.jpg
+  - sizes/P1100881.jpg_2667x2000.jpg
 - filename: P1100882
+  large: sizes/P1100882.jpg_2667x2000.jpg
   original: sizes/P1100882.jpg_467x350.jpg
   thumbnail: sizes/P1100882.jpg_200x150.jpg
   sizes:
   - sizes/P1100882.jpg_200x150.jpg
-  - sizes/P1100882.jpg_333x250.jpg
   - sizes/P1100882.jpg_467x350.jpg
+  - sizes/P1100882.jpg_2667x2000.jpg

@@ -1,24 +1,27 @@
 picture_path: abeltasman_kaikoura/abel_retour
 preview:
   filename: P1100028
+  large: sizes/P1100028.jpg_1500x2000.jpg
   original: sizes/P1100028.jpg_262x350.jpg
   thumbnail: sizes/P1100028.jpg_112x150.jpg
   sizes:
   - sizes/P1100028.jpg_112x150.jpg
-  - sizes/P1100028.jpg_187x250.jpg
   - sizes/P1100028.jpg_262x350.jpg
+  - sizes/P1100028.jpg_1500x2000.jpg
 pictures:
 - filename: P1100028
+  large: sizes/P1100028.jpg_1500x2000.jpg
   original: sizes/P1100028.jpg_262x350.jpg
   thumbnail: sizes/P1100028.jpg_112x150.jpg
   sizes:
   - sizes/P1100028.jpg_112x150.jpg
-  - sizes/P1100028.jpg_187x250.jpg
   - sizes/P1100028.jpg_262x350.jpg
+  - sizes/P1100028.jpg_1500x2000.jpg
 - filename: P1100037
+  large: sizes/P1100037.jpg_2667x2000.jpg
   original: sizes/P1100037.jpg_467x350.jpg
   thumbnail: sizes/P1100037.jpg_200x150.jpg
   sizes:
   - sizes/P1100037.jpg_200x150.jpg
-  - sizes/P1100037.jpg_333x250.jpg
   - sizes/P1100037.jpg_467x350.jpg
+  - sizes/P1100037.jpg_2667x2000.jpg

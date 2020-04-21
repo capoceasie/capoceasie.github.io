@@ -1,52 +1,59 @@
 picture_path: rockampton_melbourne/kangourous
 preview:
   filename: P1070752
+  large: sizes/P1070752.jpg_2667x2000.jpg
   original: sizes/P1070752.jpg_467x350.jpg
   thumbnail: sizes/P1070752.jpg_200x150.jpg
   sizes:
   - sizes/P1070752.jpg_200x150.jpg
-  - sizes/P1070752.jpg_333x250.jpg
   - sizes/P1070752.jpg_467x350.jpg
+  - sizes/P1070752.jpg_2667x2000.jpg
 pictures:
 - filename: P1070752
+  large: sizes/P1070752.jpg_2667x2000.jpg
   original: sizes/P1070752.jpg_467x350.jpg
   thumbnail: sizes/P1070752.jpg_200x150.jpg
   sizes:
   - sizes/P1070752.jpg_200x150.jpg
-  - sizes/P1070752.jpg_333x250.jpg
   - sizes/P1070752.jpg_467x350.jpg
+  - sizes/P1070752.jpg_2667x2000.jpg
 - filename: P1070757
+  large: sizes/P1070757.jpg_2667x2000.jpg
   original: sizes/P1070757.jpg_467x350.jpg
   thumbnail: sizes/P1070757.jpg_200x150.jpg
   sizes:
   - sizes/P1070757.jpg_200x150.jpg
-  - sizes/P1070757.jpg_333x250.jpg
   - sizes/P1070757.jpg_467x350.jpg
+  - sizes/P1070757.jpg_2667x2000.jpg
 - filename: P1070766
+  large: sizes/P1070766.jpg_2667x2000.jpg
   original: sizes/P1070766.jpg_467x350.jpg
   thumbnail: sizes/P1070766.jpg_200x150.jpg
   sizes:
   - sizes/P1070766.jpg_200x150.jpg
-  - sizes/P1070766.jpg_333x250.jpg
   - sizes/P1070766.jpg_467x350.jpg
+  - sizes/P1070766.jpg_2667x2000.jpg
 - filename: P1070771
+  large: sizes/P1070771.jpg_1500x2000.jpg
   original: sizes/P1070771.jpg_262x350.jpg
   thumbnail: sizes/P1070771.jpg_112x150.jpg
   sizes:
   - sizes/P1070771.jpg_112x150.jpg
-  - sizes/P1070771.jpg_188x250.jpg
   - sizes/P1070771.jpg_262x350.jpg
+  - sizes/P1070771.jpg_1500x2000.jpg
 - filename: P1070775
+  large: sizes/P1070775.jpg_2667x2000.jpg
   original: sizes/P1070775.jpg_467x350.jpg
   thumbnail: sizes/P1070775.jpg_200x150.jpg
   sizes:
   - sizes/P1070775.jpg_200x150.jpg
-  - sizes/P1070775.jpg_333x250.jpg
   - sizes/P1070775.jpg_467x350.jpg
+  - sizes/P1070775.jpg_2667x2000.jpg
 - filename: P1070831
+  large: sizes/P1070831.jpg_2667x2000.jpg
   original: sizes/P1070831.jpg_467x350.jpg
   thumbnail: sizes/P1070831.jpg_200x150.jpg
   sizes:
   - sizes/P1070831.jpg_200x150.jpg
-  - sizes/P1070831.jpg_333x250.jpg
   - sizes/P1070831.jpg_467x350.jpg
+  - sizes/P1070831.jpg_2667x2000.jpg

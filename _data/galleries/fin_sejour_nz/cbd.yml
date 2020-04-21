@@ -1,38 +1,43 @@
 picture_path: fin_sejour_nz/cbd
 preview:
   filename: 020191218_112810
+  large: sizes/020191218_112810.jpg_1500x2000.jpg
   original: sizes/020191218_112810.jpg_262x350.jpg
   thumbnail: sizes/020191218_112810.jpg_112x150.jpg
   sizes:
   - sizes/020191218_112810.jpg_112x150.jpg
-  - sizes/020191218_112810.jpg_188x250.jpg
   - sizes/020191218_112810.jpg_262x350.jpg
+  - sizes/020191218_112810.jpg_1500x2000.jpg
 pictures:
 - filename: 020191218_112810
+  large: sizes/020191218_112810.jpg_1500x2000.jpg
   original: sizes/020191218_112810.jpg_262x350.jpg
   thumbnail: sizes/020191218_112810.jpg_112x150.jpg
   sizes:
   - sizes/020191218_112810.jpg_112x150.jpg
-  - sizes/020191218_112810.jpg_188x250.jpg
   - sizes/020191218_112810.jpg_262x350.jpg
+  - sizes/020191218_112810.jpg_1500x2000.jpg
 - filename: 20191218_112738
+  large: sizes/20191218_112738.jpg_1500x2000.jpg
   original: sizes/20191218_112738.jpg_262x350.jpg
   thumbnail: sizes/20191218_112738.jpg_112x150.jpg
   sizes:
   - sizes/20191218_112738.jpg_112x150.jpg
-  - sizes/20191218_112738.jpg_187x250.jpg
   - sizes/20191218_112738.jpg_262x350.jpg
+  - sizes/20191218_112738.jpg_1500x2000.jpg
 - filename: P1110020
+  large: sizes/P1110020.jpg_2667x2000.jpg
   original: sizes/P1110020.jpg_467x350.jpg
   thumbnail: sizes/P1110020.jpg_200x150.jpg
   sizes:
   - sizes/P1110020.jpg_200x150.jpg
-  - sizes/P1110020.jpg_333x250.jpg
   - sizes/P1110020.jpg_467x350.jpg
+  - sizes/P1110020.jpg_2667x2000.jpg
 - filename: P1110060
+  large: sizes/P1110060.jpg_2667x2000.jpg
   original: sizes/P1110060.jpg_467x350.jpg
   thumbnail: sizes/P1110060.jpg_200x150.jpg
   sizes:
   - sizes/P1110060.jpg_200x150.jpg
-  - sizes/P1110060.jpg_333x250.jpg
   - sizes/P1110060.jpg_467x350.jpg
+  - sizes/P1110060.jpg_2667x2000.jpg

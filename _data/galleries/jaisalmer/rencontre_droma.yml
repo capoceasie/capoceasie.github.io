@@ -1,45 +1,51 @@
 picture_path: jaisalmer/rencontre_droma
 preview:
   filename: 0P1110832
+  large: sizes/0P1110832.jpg_2667x2000.jpg
   original: sizes/0P1110832.jpg_467x350.jpg
   thumbnail: sizes/0P1110832.jpg_200x150.jpg
   sizes:
   - sizes/0P1110832.jpg_200x150.jpg
-  - sizes/0P1110832.jpg_333x250.jpg
   - sizes/0P1110832.jpg_467x350.jpg
+  - sizes/0P1110832.jpg_2667x2000.jpg
 pictures:
 - filename: 0P1110832
+  large: sizes/0P1110832.jpg_2667x2000.jpg
   original: sizes/0P1110832.jpg_467x350.jpg
   thumbnail: sizes/0P1110832.jpg_200x150.jpg
   sizes:
   - sizes/0P1110832.jpg_200x150.jpg
-  - sizes/0P1110832.jpg_333x250.jpg
   - sizes/0P1110832.jpg_467x350.jpg
+  - sizes/0P1110832.jpg_2667x2000.jpg
 - filename: 20191227_161911
+  large: sizes/20191227_161911.jpg_2667x2000.jpg
   original: sizes/20191227_161911.jpg_467x350.jpg
   thumbnail: sizes/20191227_161911.jpg_200x150.jpg
   sizes:
   - sizes/20191227_161911.jpg_200x150.jpg
-  - sizes/20191227_161911.jpg_333x250.jpg
   - sizes/20191227_161911.jpg_467x350.jpg
+  - sizes/20191227_161911.jpg_2667x2000.jpg
 - filename: P1110833
+  large: sizes/P1110833.jpg_1500x2000.jpg
   original: sizes/P1110833.jpg_262x350.jpg
   thumbnail: sizes/P1110833.jpg_112x150.jpg
   sizes:
   - sizes/P1110833.jpg_112x150.jpg
-  - sizes/P1110833.jpg_188x250.jpg
   - sizes/P1110833.jpg_262x350.jpg
+  - sizes/P1110833.jpg_1500x2000.jpg
 - filename: P1110834
+  large: sizes/P1110834.jpg_1500x2000.jpg
   original: sizes/P1110834.jpg_262x350.jpg
   thumbnail: sizes/P1110834.jpg_112x150.jpg
   sizes:
   - sizes/P1110834.jpg_112x150.jpg
-  - sizes/P1110834.jpg_188x250.jpg
   - sizes/P1110834.jpg_262x350.jpg
+  - sizes/P1110834.jpg_1500x2000.jpg
 - filename: P1110848
+  large: sizes/P1110848.jpg_1500x2000.jpg
   original: sizes/P1110848.jpg_262x350.jpg
   thumbnail: sizes/P1110848.jpg_112x150.jpg
   sizes:
   - sizes/P1110848.jpg_112x150.jpg
-  - sizes/P1110848.jpg_188x250.jpg
   - sizes/P1110848.jpg_262x350.jpg
+  - sizes/P1110848.jpg_1500x2000.jpg

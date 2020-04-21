@@ -1,31 +1,35 @@
 picture_path: abeltasman_kaikoura/rencontre_dauphins
 preview:
   filename: 0020191213_101417
+  large: sizes/0020191213_101417.jpg_2667x2000.jpg
   original: sizes/0020191213_101417.jpg_467x350.jpg
   thumbnail: sizes/0020191213_101417.jpg_200x150.jpg
   sizes:
   - sizes/0020191213_101417.jpg_200x150.jpg
-  - sizes/0020191213_101417.jpg_333x250.jpg
   - sizes/0020191213_101417.jpg_467x350.jpg
+  - sizes/0020191213_101417.jpg_2667x2000.jpg
 pictures:
 - filename: 0020191213_101417
+  large: sizes/0020191213_101417.jpg_2667x2000.jpg
   original: sizes/0020191213_101417.jpg_467x350.jpg
   thumbnail: sizes/0020191213_101417.jpg_200x150.jpg
   sizes:
   - sizes/0020191213_101417.jpg_200x150.jpg
-  - sizes/0020191213_101417.jpg_333x250.jpg
   - sizes/0020191213_101417.jpg_467x350.jpg
+  - sizes/0020191213_101417.jpg_2667x2000.jpg
 - filename: 020191213_101219
+  large: sizes/020191213_101219.jpg_2666x2000.jpg
   original: sizes/020191213_101219.jpg_467x350.jpg
   thumbnail: sizes/020191213_101219.jpg_200x150.jpg
   sizes:
   - sizes/020191213_101219.jpg_200x150.jpg
-  - sizes/020191213_101219.jpg_333x250.jpg
   - sizes/020191213_101219.jpg_467x350.jpg
+  - sizes/020191213_101219.jpg_2666x2000.jpg
 - filename: 20191213_100950
+  large: sizes/20191213_100950.jpg_1500x2000.jpg
   original: sizes/20191213_100950.jpg_262x350.jpg
   thumbnail: sizes/20191213_100950.jpg_112x150.jpg
   sizes:
   - sizes/20191213_100950.jpg_112x150.jpg
-  - sizes/20191213_100950.jpg_188x250.jpg
   - sizes/20191213_100950.jpg_262x350.jpg
+  - sizes/20191213_100950.jpg_1500x2000.jpg

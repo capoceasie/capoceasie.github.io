@@ -1,45 +1,51 @@
 picture_path: abeltasman_kaikoura/abel_plage
 preview:
   filename: P1100004
+  large: sizes/P1100004.jpg_2667x2000.jpg
   original: sizes/P1100004.jpg_467x350.jpg
   thumbnail: sizes/P1100004.jpg_200x150.jpg
   sizes:
   - sizes/P1100004.jpg_200x150.jpg
-  - sizes/P1100004.jpg_333x250.jpg
   - sizes/P1100004.jpg_467x350.jpg
+  - sizes/P1100004.jpg_2667x2000.jpg
 pictures:
 - filename: P1100004
+  large: sizes/P1100004.jpg_2667x2000.jpg
   original: sizes/P1100004.jpg_467x350.jpg
   thumbnail: sizes/P1100004.jpg_200x150.jpg
   sizes:
   - sizes/P1100004.jpg_200x150.jpg
-  - sizes/P1100004.jpg_333x250.jpg
   - sizes/P1100004.jpg_467x350.jpg
+  - sizes/P1100004.jpg_2667x2000.jpg
 - filename: P1100008
+  large: sizes/P1100008.jpg_1500x2000.jpg
   original: sizes/P1100008.jpg_262x350.jpg
   thumbnail: sizes/P1100008.jpg_112x150.jpg
   sizes:
   - sizes/P1100008.jpg_112x150.jpg
-  - sizes/P1100008.jpg_187x250.jpg
   - sizes/P1100008.jpg_262x350.jpg
+  - sizes/P1100008.jpg_1500x2000.jpg
 - filename: P1100009
+  large: sizes/P1100009.jpg_2666x2000.jpg
   original: sizes/P1100009.jpg_467x350.jpg
   thumbnail: sizes/P1100009.jpg_200x150.jpg
   sizes:
   - sizes/P1100009.jpg_200x150.jpg
-  - sizes/P1100009.jpg_333x250.jpg
   - sizes/P1100009.jpg_467x350.jpg
+  - sizes/P1100009.jpg_2666x2000.jpg
 - filename: P1100012
+  large: sizes/P1100012.jpg_2667x2000.jpg
   original: sizes/P1100012.jpg_467x350.jpg
   thumbnail: sizes/P1100012.jpg_200x150.jpg
   sizes:
   - sizes/P1100012.jpg_200x150.jpg
-  - sizes/P1100012.jpg_333x250.jpg
   - sizes/P1100012.jpg_467x350.jpg
+  - sizes/P1100012.jpg_2667x2000.jpg
 - filename: P1100013
+  large: sizes/P1100013.jpg_2667x2000.jpg
   original: sizes/P1100013.jpg_467x350.jpg
   thumbnail: sizes/P1100013.jpg_200x150.jpg
   sizes:
   - sizes/P1100013.jpg_200x150.jpg
-  - sizes/P1100013.jpg_333x250.jpg
   - sizes/P1100013.jpg_467x350.jpg
+  - sizes/P1100013.jpg_2667x2000.jpg

@@ -1,24 +1,27 @@
 picture_path: delhi/vol
 preview:
   filename: 20191220_155931
+  large: sizes/20191220_155931.jpg_3556x2000.jpg
   original: sizes/20191220_155931.jpg_622x350.jpg
   thumbnail: sizes/20191220_155931.jpg_267x150.jpg
   sizes:
   - sizes/20191220_155931.jpg_267x150.jpg
-  - sizes/20191220_155931.jpg_444x250.jpg
   - sizes/20191220_155931.jpg_622x350.jpg
+  - sizes/20191220_155931.jpg_3556x2000.jpg
 pictures:
 - filename: 20191220_155931
+  large: sizes/20191220_155931.jpg_3556x2000.jpg
   original: sizes/20191220_155931.jpg_622x350.jpg
   thumbnail: sizes/20191220_155931.jpg_267x150.jpg
   sizes:
   - sizes/20191220_155931.jpg_267x150.jpg
-  - sizes/20191220_155931.jpg_444x250.jpg
   - sizes/20191220_155931.jpg_622x350.jpg
+  - sizes/20191220_155931.jpg_3556x2000.jpg
 - filename: 20191220_160418
+  large: sizes/20191220_160418.jpg_1501x2000.jpg
   original: sizes/20191220_160418.jpg_263x350.jpg
   thumbnail: sizes/20191220_160418.jpg_113x150.jpg
   sizes:
   - sizes/20191220_160418.jpg_113x150.jpg
-  - sizes/20191220_160418.jpg_188x250.jpg
   - sizes/20191220_160418.jpg_263x350.jpg
+  - sizes/20191220_160418.jpg_1501x2000.jpg

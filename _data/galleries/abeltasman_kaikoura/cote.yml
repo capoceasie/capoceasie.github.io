@@ -1,24 +1,27 @@
 picture_path: abeltasman_kaikoura/cote
 preview:
   filename: 0P1100428
+  large: sizes/0P1100428.jpg_2667x2000.jpg
   original: sizes/0P1100428.jpg_467x350.jpg
   thumbnail: sizes/0P1100428.jpg_200x150.jpg
   sizes:
   - sizes/0P1100428.jpg_200x150.jpg
-  - sizes/0P1100428.jpg_333x250.jpg
   - sizes/0P1100428.jpg_467x350.jpg
+  - sizes/0P1100428.jpg_2667x2000.jpg
 pictures:
 - filename: 0P1100428
+  large: sizes/0P1100428.jpg_2667x2000.jpg
   original: sizes/0P1100428.jpg_467x350.jpg
   thumbnail: sizes/0P1100428.jpg_200x150.jpg
   sizes:
   - sizes/0P1100428.jpg_200x150.jpg
-  - sizes/0P1100428.jpg_333x250.jpg
   - sizes/0P1100428.jpg_467x350.jpg
+  - sizes/0P1100428.jpg_2667x2000.jpg
 - filename: P1100427
+  large: sizes/P1100427.jpg_1500x2000.jpg
   original: sizes/P1100427.jpg_262x350.jpg
   thumbnail: sizes/P1100427.jpg_112x150.jpg
   sizes:
   - sizes/P1100427.jpg_112x150.jpg
-  - sizes/P1100427.jpg_187x250.jpg
   - sizes/P1100427.jpg_262x350.jpg
+  - sizes/P1100427.jpg_1500x2000.jpg

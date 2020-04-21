@@ -1,94 +1,107 @@
 picture_path: tekapo_queenstown/queenstown_hill
 preview:
   filename: P1090037
+  large: sizes/P1090037.jpg_2667x2000.jpg
   original: sizes/P1090037.jpg_467x350.jpg
   thumbnail: sizes/P1090037.jpg_200x150.jpg
   sizes:
   - sizes/P1090037.jpg_200x150.jpg
-  - sizes/P1090037.jpg_333x250.jpg
   - sizes/P1090037.jpg_467x350.jpg
+  - sizes/P1090037.jpg_2667x2000.jpg
 pictures:
 - filename: P1090037
+  large: sizes/P1090037.jpg_2667x2000.jpg
   original: sizes/P1090037.jpg_467x350.jpg
   thumbnail: sizes/P1090037.jpg_200x150.jpg
   sizes:
   - sizes/P1090037.jpg_200x150.jpg
-  - sizes/P1090037.jpg_333x250.jpg
   - sizes/P1090037.jpg_467x350.jpg
+  - sizes/P1090037.jpg_2667x2000.jpg
 - filename: P1090040
+  large: sizes/P1090040.jpg_1500x2000.jpg
   original: sizes/P1090040.jpg_262x350.jpg
   thumbnail: sizes/P1090040.jpg_112x150.jpg
   sizes:
   - sizes/P1090040.jpg_112x150.jpg
-  - sizes/P1090040.jpg_188x250.jpg
   - sizes/P1090040.jpg_262x350.jpg
+  - sizes/P1090040.jpg_1500x2000.jpg
 - filename: P1090048
+  large: sizes/P1090048.jpg_2667x2000.jpg
   original: sizes/P1090048.jpg_467x350.jpg
   thumbnail: sizes/P1090048.jpg_200x150.jpg
   sizes:
   - sizes/P1090048.jpg_200x150.jpg
-  - sizes/P1090048.jpg_333x250.jpg
   - sizes/P1090048.jpg_467x350.jpg
+  - sizes/P1090048.jpg_2667x2000.jpg
 - filename: P1090053
+  large: sizes/P1090053.jpg_2667x2000.jpg
   original: sizes/P1090053.jpg_467x350.jpg
   thumbnail: sizes/P1090053.jpg_200x150.jpg
   sizes:
   - sizes/P1090053.jpg_200x150.jpg
-  - sizes/P1090053.jpg_333x250.jpg
   - sizes/P1090053.jpg_467x350.jpg
+  - sizes/P1090053.jpg_2667x2000.jpg
 - filename: P1090054
+  large: sizes/P1090054.jpg_2667x2000.jpg
   original: sizes/P1090054.jpg_467x350.jpg
   thumbnail: sizes/P1090054.jpg_200x150.jpg
   sizes:
   - sizes/P1090054.jpg_200x150.jpg
-  - sizes/P1090054.jpg_333x250.jpg
   - sizes/P1090054.jpg_467x350.jpg
+  - sizes/P1090054.jpg_2667x2000.jpg
 - filename: P1090064
+  large: sizes/P1090064.jpg_2667x2000.jpg
   original: sizes/P1090064.jpg_467x350.jpg
   thumbnail: sizes/P1090064.jpg_200x150.jpg
   sizes:
   - sizes/P1090064.jpg_200x150.jpg
-  - sizes/P1090064.jpg_333x250.jpg
   - sizes/P1090064.jpg_467x350.jpg
+  - sizes/P1090064.jpg_2667x2000.jpg
 - filename: P1090065
+  large: sizes/P1090065.jpg_2667x2000.jpg
   original: sizes/P1090065.jpg_467x350.jpg
   thumbnail: sizes/P1090065.jpg_200x150.jpg
   sizes:
   - sizes/P1090065.jpg_200x150.jpg
-  - sizes/P1090065.jpg_333x250.jpg
   - sizes/P1090065.jpg_467x350.jpg
+  - sizes/P1090065.jpg_2667x2000.jpg
 - filename: P1090069
+  large: sizes/P1090069.jpg_2667x2000.jpg
   original: sizes/P1090069.jpg_467x350.jpg
   thumbnail: sizes/P1090069.jpg_200x150.jpg
   sizes:
   - sizes/P1090069.jpg_200x150.jpg
-  - sizes/P1090069.jpg_333x250.jpg
   - sizes/P1090069.jpg_467x350.jpg
+  - sizes/P1090069.jpg_2667x2000.jpg
 - filename: P1090071
+  large: sizes/P1090071.jpg_2667x2000.jpg
   original: sizes/P1090071.jpg_467x350.jpg
   thumbnail: sizes/P1090071.jpg_200x150.jpg
   sizes:
   - sizes/P1090071.jpg_200x150.jpg
-  - sizes/P1090071.jpg_333x250.jpg
   - sizes/P1090071.jpg_467x350.jpg
+  - sizes/P1090071.jpg_2667x2000.jpg
 - filename: P1090078
+  large: sizes/P1090078.jpg_2667x2000.jpg
   original: sizes/P1090078.jpg_467x350.jpg
   thumbnail: sizes/P1090078.jpg_200x150.jpg
   sizes:
   - sizes/P1090078.jpg_200x150.jpg
-  - sizes/P1090078.jpg_333x250.jpg
   - sizes/P1090078.jpg_467x350.jpg
+  - sizes/P1090078.jpg_2667x2000.jpg
 - filename: P1090082
+  large: sizes/P1090082.jpg_2666x2000.jpg
   original: sizes/P1090082.jpg_467x350.jpg
   thumbnail: sizes/P1090082.jpg_200x150.jpg
   sizes:
   - sizes/P1090082.jpg_200x150.jpg
-  - sizes/P1090082.jpg_333x250.jpg
   - sizes/P1090082.jpg_467x350.jpg
+  - sizes/P1090082.jpg_2666x2000.jpg
 - filename: z_20191205_172909
+  large: sizes/z_20191205_172909.jpg_2667x2000.jpg
   original: sizes/z_20191205_172909.jpg_467x350.jpg
   thumbnail: sizes/z_20191205_172909.jpg_200x150.jpg
   sizes:
   - sizes/z_20191205_172909.jpg_200x150.jpg
-  - sizes/z_20191205_172909.jpg_333x250.jpg
   - sizes/z_20191205_172909.jpg_467x350.jpg
+  - sizes/z_20191205_172909.jpg_2667x2000.jpg

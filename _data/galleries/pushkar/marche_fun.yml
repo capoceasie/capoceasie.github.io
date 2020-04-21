@@ -1,45 +1,51 @@
 picture_path: pushkar/marche_fun
 preview:
   filename: 20191226_172253
+  large: sizes/20191226_172253.jpg_3556x2000.jpg
   original: sizes/20191226_172253.jpg_622x350.jpg
   thumbnail: sizes/20191226_172253.jpg_267x150.jpg
   sizes:
   - sizes/20191226_172253.jpg_267x150.jpg
-  - sizes/20191226_172253.jpg_444x250.jpg
   - sizes/20191226_172253.jpg_622x350.jpg
+  - sizes/20191226_172253.jpg_3556x2000.jpg
 pictures:
 - filename: 20191226_172253
+  large: sizes/20191226_172253.jpg_3556x2000.jpg
   original: sizes/20191226_172253.jpg_622x350.jpg
   thumbnail: sizes/20191226_172253.jpg_267x150.jpg
   sizes:
   - sizes/20191226_172253.jpg_267x150.jpg
-  - sizes/20191226_172253.jpg_444x250.jpg
   - sizes/20191226_172253.jpg_622x350.jpg
+  - sizes/20191226_172253.jpg_3556x2000.jpg
 - filename: 20191226_172348
+  large: sizes/20191226_172348.jpg_2667x2000.jpg
   original: sizes/20191226_172348.jpg_467x350.jpg
   thumbnail: sizes/20191226_172348.jpg_200x150.jpg
   sizes:
   - sizes/20191226_172348.jpg_200x150.jpg
-  - sizes/20191226_172348.jpg_333x250.jpg
   - sizes/20191226_172348.jpg_467x350.jpg
+  - sizes/20191226_172348.jpg_2667x2000.jpg
 - filename: 20191226_172508
+  large: sizes/20191226_172508.jpg_2666x2000.jpg
   original: sizes/20191226_172508.jpg_467x350.jpg
   thumbnail: sizes/20191226_172508.jpg_200x150.jpg
   sizes:
   - sizes/20191226_172508.jpg_200x150.jpg
-  - sizes/20191226_172508.jpg_333x250.jpg
   - sizes/20191226_172508.jpg_467x350.jpg
+  - sizes/20191226_172508.jpg_2666x2000.jpg
 - filename: P1110704
+  large: sizes/P1110704.jpg_2667x2000.jpg
   original: sizes/P1110704.jpg_467x350.jpg
   thumbnail: sizes/P1110704.jpg_200x150.jpg
   sizes:
   - sizes/P1110704.jpg_200x150.jpg
-  - sizes/P1110704.jpg_333x250.jpg
   - sizes/P1110704.jpg_467x350.jpg
+  - sizes/P1110704.jpg_2667x2000.jpg
 - filename: P1110705
+  large: sizes/P1110705.jpg_1500x2000.jpg
   original: sizes/P1110705.jpg_262x350.jpg
   thumbnail: sizes/P1110705.jpg_112x150.jpg
   sizes:
   - sizes/P1110705.jpg_112x150.jpg
-  - sizes/P1110705.jpg_188x250.jpg
   - sizes/P1110705.jpg_262x350.jpg
+  - sizes/P1110705.jpg_1500x2000.jpg

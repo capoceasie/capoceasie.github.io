@@ -1,24 +1,27 @@
 picture_path: delhi/fort
 preview:
   filename: 20191222_005849
+  large: sizes/20191222_005849.jpg_2666x2000.jpg
   original: sizes/20191222_005849.jpg_467x350.jpg
   thumbnail: sizes/20191222_005849.jpg_200x150.jpg
   sizes:
   - sizes/20191222_005849.jpg_200x150.jpg
-  - sizes/20191222_005849.jpg_333x250.jpg
   - sizes/20191222_005849.jpg_467x350.jpg
+  - sizes/20191222_005849.jpg_2666x2000.jpg
 pictures:
 - filename: 20191222_005849
+  large: sizes/20191222_005849.jpg_2666x2000.jpg
   original: sizes/20191222_005849.jpg_467x350.jpg
   thumbnail: sizes/20191222_005849.jpg_200x150.jpg
   sizes:
   - sizes/20191222_005849.jpg_200x150.jpg
-  - sizes/20191222_005849.jpg_333x250.jpg
   - sizes/20191222_005849.jpg_467x350.jpg
+  - sizes/20191222_005849.jpg_2666x2000.jpg
 - filename: 20191222_010404
+  large: sizes/20191222_010404.jpg_3556x2000.jpg
   original: sizes/20191222_010404.jpg_622x350.jpg
   thumbnail: sizes/20191222_010404.jpg_267x150.jpg
   sizes:
   - sizes/20191222_010404.jpg_267x150.jpg
-  - sizes/20191222_010404.jpg_444x250.jpg
   - sizes/20191222_010404.jpg_622x350.jpg
+  - sizes/20191222_010404.jpg_3556x2000.jpg

@@ -1,45 +1,51 @@
 picture_path: fin_sejour_nz/source_chaude
 preview:
   filename: 20191216_160345
+  large: sizes/20191216_160345.jpg_1500x2000.jpg
   original: sizes/20191216_160345.jpg_262x350.jpg
   thumbnail: sizes/20191216_160345.jpg_112x150.jpg
   sizes:
   - sizes/20191216_160345.jpg_112x150.jpg
-  - sizes/20191216_160345.jpg_188x250.jpg
   - sizes/20191216_160345.jpg_262x350.jpg
+  - sizes/20191216_160345.jpg_1500x2000.jpg
 pictures:
 - filename: 20191216_160345
+  large: sizes/20191216_160345.jpg_1500x2000.jpg
   original: sizes/20191216_160345.jpg_262x350.jpg
   thumbnail: sizes/20191216_160345.jpg_112x150.jpg
   sizes:
   - sizes/20191216_160345.jpg_112x150.jpg
-  - sizes/20191216_160345.jpg_188x250.jpg
   - sizes/20191216_160345.jpg_262x350.jpg
+  - sizes/20191216_160345.jpg_1500x2000.jpg
 - filename: 20191216_160501
+  large: sizes/20191216_160501.jpg_3556x2000.jpg
   original: sizes/20191216_160501.jpg_622x350.jpg
   thumbnail: sizes/20191216_160501.jpg_267x150.jpg
   sizes:
   - sizes/20191216_160501.jpg_267x150.jpg
-  - sizes/20191216_160501.jpg_444x250.jpg
   - sizes/20191216_160501.jpg_622x350.jpg
+  - sizes/20191216_160501.jpg_3556x2000.jpg
 - filename: 20191216_161959
+  large: sizes/20191216_161959.jpg_2667x2000.jpg
   original: sizes/20191216_161959.jpg_467x350.jpg
   thumbnail: sizes/20191216_161959.jpg_200x150.jpg
   sizes:
   - sizes/20191216_161959.jpg_200x150.jpg
-  - sizes/20191216_161959.jpg_333x250.jpg
   - sizes/20191216_161959.jpg_467x350.jpg
+  - sizes/20191216_161959.jpg_2667x2000.jpg
 - filename: 20191216_162346
+  large: sizes/20191216_162346.jpg_2667x2000.jpg
   original: sizes/20191216_162346.jpg_467x350.jpg
   thumbnail: sizes/20191216_162346.jpg_200x150.jpg
   sizes:
   - sizes/20191216_162346.jpg_200x150.jpg
-  - sizes/20191216_162346.jpg_333x250.jpg
   - sizes/20191216_162346.jpg_467x350.jpg
+  - sizes/20191216_162346.jpg_2667x2000.jpg
 - filename: 20191216_162601
+  large: sizes/20191216_162601.jpg_3555x2000.jpg
   original: sizes/20191216_162601.jpg_622x350.jpg
   thumbnail: sizes/20191216_162601.jpg_267x150.jpg
   sizes:
   - sizes/20191216_162601.jpg_267x150.jpg
-  - sizes/20191216_162601.jpg_444x250.jpg
   - sizes/20191216_162601.jpg_622x350.jpg
+  - sizes/20191216_162601.jpg_3555x2000.jpg

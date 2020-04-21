@@ -1,52 +1,59 @@
 picture_path: pushkar/cuisine
 preview:
   filename: 20191226_114107
+  large: sizes/20191226_114107.jpg_3556x2000.jpg
   original: sizes/20191226_114107.jpg_622x350.jpg
   thumbnail: sizes/20191226_114107.jpg_267x150.jpg
   sizes:
   - sizes/20191226_114107.jpg_267x150.jpg
-  - sizes/20191226_114107.jpg_444x250.jpg
   - sizes/20191226_114107.jpg_622x350.jpg
+  - sizes/20191226_114107.jpg_3556x2000.jpg
 pictures:
 - filename: 20191226_114107
+  large: sizes/20191226_114107.jpg_3556x2000.jpg
   original: sizes/20191226_114107.jpg_622x350.jpg
   thumbnail: sizes/20191226_114107.jpg_267x150.jpg
   sizes:
   - sizes/20191226_114107.jpg_267x150.jpg
-  - sizes/20191226_114107.jpg_444x250.jpg
   - sizes/20191226_114107.jpg_622x350.jpg
+  - sizes/20191226_114107.jpg_3556x2000.jpg
 - filename: 20191226_122919
+  large: sizes/20191226_122919.jpg_1500x2000.jpg
   original: sizes/20191226_122919.jpg_262x350.jpg
   thumbnail: sizes/20191226_122919.jpg_112x150.jpg
   sizes:
   - sizes/20191226_122919.jpg_112x150.jpg
-  - sizes/20191226_122919.jpg_188x250.jpg
   - sizes/20191226_122919.jpg_262x350.jpg
+  - sizes/20191226_122919.jpg_1500x2000.jpg
 - filename: 20191226_124041
+  large: sizes/20191226_124041.jpg_1500x2000.jpg
   original: sizes/20191226_124041.jpg_262x350.jpg
   thumbnail: sizes/20191226_124041.jpg_112x150.jpg
   sizes:
   - sizes/20191226_124041.jpg_112x150.jpg
-  - sizes/20191226_124041.jpg_188x250.jpg
   - sizes/20191226_124041.jpg_262x350.jpg
+  - sizes/20191226_124041.jpg_1500x2000.jpg
 - filename: 20191226_124354
+  large: sizes/20191226_124354.jpg_1500x2000.jpg
   original: sizes/20191226_124354.jpg_262x350.jpg
   thumbnail: sizes/20191226_124354.jpg_112x150.jpg
   sizes:
   - sizes/20191226_124354.jpg_112x150.jpg
-  - sizes/20191226_124354.jpg_188x250.jpg
   - sizes/20191226_124354.jpg_262x350.jpg
+  - sizes/20191226_124354.jpg_1500x2000.jpg
 - filename: 20191226_124833
+  large: sizes/20191226_124833.jpg_1500x2000.jpg
   original: sizes/20191226_124833.jpg_262x350.jpg
   thumbnail: sizes/20191226_124833.jpg_112x150.jpg
   sizes:
   - sizes/20191226_124833.jpg_112x150.jpg
-  - sizes/20191226_124833.jpg_188x250.jpg
   - sizes/20191226_124833.jpg_262x350.jpg
+  - sizes/20191226_124833.jpg_1500x2000.jpg
 - filename: 20191226_132504
+  large: sizes/20191226_132504.jpg_1500x2000.jpg
   original: sizes/20191226_132504.jpg_262x350.jpg
   thumbnail: sizes/20191226_132504.jpg_112x150.jpg
   sizes:
   - sizes/20191226_132504.jpg_112x150.jpg
-  - sizes/20191226_132504.jpg_188x250.jpg
   - sizes/20191226_132504.jpg_262x350.jpg
+  - sizes/20191226_132504.jpg_1500x2000.jpg

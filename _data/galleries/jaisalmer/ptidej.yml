@@ -1,38 +1,43 @@
 picture_path: jaisalmer/ptidej
 preview:
   filename: P1110973
+  large: sizes/P1110973.jpg_2667x2000.jpg
   original: sizes/P1110973.jpg_467x350.jpg
   thumbnail: sizes/P1110973.jpg_200x150.jpg
   sizes:
   - sizes/P1110973.jpg_200x150.jpg
-  - sizes/P1110973.jpg_333x250.jpg
   - sizes/P1110973.jpg_467x350.jpg
+  - sizes/P1110973.jpg_2667x2000.jpg
 pictures:
 - filename: P1110973
+  large: sizes/P1110973.jpg_2667x2000.jpg
   original: sizes/P1110973.jpg_467x350.jpg
   thumbnail: sizes/P1110973.jpg_200x150.jpg
   sizes:
   - sizes/P1110973.jpg_200x150.jpg
-  - sizes/P1110973.jpg_333x250.jpg
   - sizes/P1110973.jpg_467x350.jpg
+  - sizes/P1110973.jpg_2667x2000.jpg
 - filename: P1110982
+  large: sizes/P1110982.jpg_2667x2000.jpg
   original: sizes/P1110982.jpg_467x350.jpg
   thumbnail: sizes/P1110982.jpg_200x150.jpg
   sizes:
   - sizes/P1110982.jpg_200x150.jpg
-  - sizes/P1110982.jpg_333x250.jpg
   - sizes/P1110982.jpg_467x350.jpg
+  - sizes/P1110982.jpg_2667x2000.jpg
 - filename: P1110985
+  large: sizes/P1110985.jpg_2667x2000.jpg
   original: sizes/P1110985.jpg_467x350.jpg
   thumbnail: sizes/P1110985.jpg_200x150.jpg
   sizes:
   - sizes/P1110985.jpg_200x150.jpg
-  - sizes/P1110985.jpg_333x250.jpg
   - sizes/P1110985.jpg_467x350.jpg
+  - sizes/P1110985.jpg_2667x2000.jpg
 - filename: P1110989
+  large: sizes/P1110989.jpg_2667x2000.jpg
   original: sizes/P1110989.jpg_467x350.jpg
   thumbnail: sizes/P1110989.jpg_200x150.jpg
   sizes:
   - sizes/P1110989.jpg_200x150.jpg
-  - sizes/P1110989.jpg_333x250.jpg
   - sizes/P1110989.jpg_467x350.jpg
+  - sizes/P1110989.jpg_2667x2000.jpg

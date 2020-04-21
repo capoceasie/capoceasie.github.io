@@ -1,38 +1,43 @@
 picture_path: cairns/trophees_plongee_2
 preview:
   filename: 980
+  large: sizes/980.jpg_2667x2000.jpg
   original: sizes/980.jpg_467x350.jpg
   thumbnail: sizes/980.jpg_200x150.jpg
   sizes:
   - sizes/980.jpg_200x150.jpg
-  - sizes/980.jpg_333x250.jpg
   - sizes/980.jpg_467x350.jpg
+  - sizes/980.jpg_2667x2000.jpg
 pictures:
 - filename: 980
+  large: sizes/980.jpg_2667x2000.jpg
   original: sizes/980.jpg_467x350.jpg
   thumbnail: sizes/980.jpg_200x150.jpg
   sizes:
   - sizes/980.jpg_200x150.jpg
-  - sizes/980.jpg_333x250.jpg
   - sizes/980.jpg_467x350.jpg
+  - sizes/980.jpg_2667x2000.jpg
 - filename: F905
+  large: sizes/F905.jpg_2667x2000.jpg
   original: sizes/F905.jpg_467x350.jpg
   thumbnail: sizes/F905.jpg_200x150.jpg
   sizes:
   - sizes/F905.jpg_200x150.jpg
-  - sizes/F905.jpg_333x250.jpg
   - sizes/F905.jpg_467x350.jpg
+  - sizes/F905.jpg_2667x2000.jpg
 - filename: F914
+  large: sizes/F914.jpg_2667x2000.jpg
   original: sizes/F914.jpg_467x350.jpg
   thumbnail: sizes/F914.jpg_200x150.jpg
   sizes:
   - sizes/F914.jpg_200x150.jpg
-  - sizes/F914.jpg_333x250.jpg
   - sizes/F914.jpg_467x350.jpg
+  - sizes/F914.jpg_2667x2000.jpg
 - filename: F921
+  large: sizes/F921.jpg_1500x2000.jpg
   original: sizes/F921.jpg_262x350.jpg
   thumbnail: sizes/F921.jpg_112x150.jpg
   sizes:
   - sizes/F921.jpg_112x150.jpg
-  - sizes/F921.jpg_188x250.jpg
   - sizes/F921.jpg_262x350.jpg
+  - sizes/F921.jpg_1500x2000.jpg

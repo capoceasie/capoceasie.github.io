@@ -1,45 +1,51 @@
 picture_path: rockampton_melbourne/sur_la_route
 preview:
   filename: 20191122_171233
+  large: sizes/20191122_171233.jpg_2667x2000.jpg
   original: sizes/20191122_171233.jpg_467x350.jpg
   thumbnail: sizes/20191122_171233.jpg_200x150.jpg
   sizes:
   - sizes/20191122_171233.jpg_200x150.jpg
-  - sizes/20191122_171233.jpg_333x250.jpg
   - sizes/20191122_171233.jpg_467x350.jpg
+  - sizes/20191122_171233.jpg_2667x2000.jpg
 pictures:
 - filename: 20191122_171233
+  large: sizes/20191122_171233.jpg_2667x2000.jpg
   original: sizes/20191122_171233.jpg_467x350.jpg
   thumbnail: sizes/20191122_171233.jpg_200x150.jpg
   sizes:
   - sizes/20191122_171233.jpg_200x150.jpg
-  - sizes/20191122_171233.jpg_333x250.jpg
   - sizes/20191122_171233.jpg_467x350.jpg
+  - sizes/20191122_171233.jpg_2667x2000.jpg
 - filename: 20191123_192547
+  large: sizes/20191123_192547.jpg_2666x2000.jpg
   original: sizes/20191123_192547.jpg_467x350.jpg
   thumbnail: sizes/20191123_192547.jpg_200x150.jpg
   sizes:
   - sizes/20191123_192547.jpg_200x150.jpg
-  - sizes/20191123_192547.jpg_333x250.jpg
   - sizes/20191123_192547.jpg_467x350.jpg
+  - sizes/20191123_192547.jpg_2666x2000.jpg
 - filename: 20191124_083715
+  large: sizes/20191124_083715.jpg_1500x2000.jpg
   original: sizes/20191124_083715.jpg_262x350.jpg
   thumbnail: sizes/20191124_083715.jpg_112x150.jpg
   sizes:
   - sizes/20191124_083715.jpg_112x150.jpg
-  - sizes/20191124_083715.jpg_188x250.jpg
   - sizes/20191124_083715.jpg_262x350.jpg
+  - sizes/20191124_083715.jpg_1500x2000.jpg
 - filename: 20191124_105109
+  large: sizes/20191124_105109.jpg_2667x2000.jpg
   original: sizes/20191124_105109.jpg_467x350.jpg
   thumbnail: sizes/20191124_105109.jpg_200x150.jpg
   sizes:
   - sizes/20191124_105109.jpg_200x150.jpg
-  - sizes/20191124_105109.jpg_333x250.jpg
   - sizes/20191124_105109.jpg_467x350.jpg
+  - sizes/20191124_105109.jpg_2667x2000.jpg
 - filename: 20191124_105132
+  large: sizes/20191124_105132.jpg_2667x2000.jpg
   original: sizes/20191124_105132.jpg_467x350.jpg
   thumbnail: sizes/20191124_105132.jpg_200x150.jpg
   sizes:
   - sizes/20191124_105132.jpg_200x150.jpg
-  - sizes/20191124_105132.jpg_333x250.jpg
   - sizes/20191124_105132.jpg_467x350.jpg
+  - sizes/20191124_105132.jpg_2667x2000.jpg

@@ -1,38 +1,43 @@
 picture_path: whitsundays/point_vue
 preview:
   filename: P1070576
+  large: sizes/P1070576.jpg_2667x2000.jpg
   original: sizes/P1070576.jpg_467x350.jpg
   thumbnail: sizes/P1070576.jpg_200x150.jpg
   sizes:
   - sizes/P1070576.jpg_200x150.jpg
-  - sizes/P1070576.jpg_333x250.jpg
   - sizes/P1070576.jpg_467x350.jpg
+  - sizes/P1070576.jpg_2667x2000.jpg
 pictures:
 - filename: P1070576
+  large: sizes/P1070576.jpg_2667x2000.jpg
   original: sizes/P1070576.jpg_467x350.jpg
   thumbnail: sizes/P1070576.jpg_200x150.jpg
   sizes:
   - sizes/P1070576.jpg_200x150.jpg
-  - sizes/P1070576.jpg_333x250.jpg
   - sizes/P1070576.jpg_467x350.jpg
+  - sizes/P1070576.jpg_2667x2000.jpg
 - filename: P1070578
+  large: sizes/P1070578.jpg_2666x2000.jpg
   original: sizes/P1070578.jpg_467x350.jpg
   thumbnail: sizes/P1070578.jpg_200x150.jpg
   sizes:
   - sizes/P1070578.jpg_200x150.jpg
-  - sizes/P1070578.jpg_333x250.jpg
   - sizes/P1070578.jpg_467x350.jpg
+  - sizes/P1070578.jpg_2666x2000.jpg
 - filename: P1070586
+  large: sizes/P1070586.jpg_2666x2000.jpg
   original: sizes/P1070586.jpg_467x350.jpg
   thumbnail: sizes/P1070586.jpg_200x150.jpg
   sizes:
   - sizes/P1070586.jpg_200x150.jpg
-  - sizes/P1070586.jpg_333x250.jpg
   - sizes/P1070586.jpg_467x350.jpg
+  - sizes/P1070586.jpg_2666x2000.jpg
 - filename: P1070589
+  large: sizes/P1070589.jpg_1500x2000.jpg
   original: sizes/P1070589.jpg_262x350.jpg
   thumbnail: sizes/P1070589.jpg_112x150.jpg
   sizes:
   - sizes/P1070589.jpg_112x150.jpg
-  - sizes/P1070589.jpg_187x250.jpg
   - sizes/P1070589.jpg_262x350.jpg
+  - sizes/P1070589.jpg_1500x2000.jpg

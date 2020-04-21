@@ -1,38 +1,43 @@
 picture_path: milford_wanaka_mtcook/wanaka_surprise
 preview:
   filename: 20191208_101900
+  large: sizes/20191208_101900.jpg_2667x2000.jpg
   original: sizes/20191208_101900.jpg_467x350.jpg
   thumbnail: sizes/20191208_101900.jpg_200x150.jpg
   sizes:
   - sizes/20191208_101900.jpg_200x150.jpg
-  - sizes/20191208_101900.jpg_333x250.jpg
   - sizes/20191208_101900.jpg_467x350.jpg
+  - sizes/20191208_101900.jpg_2667x2000.jpg
 pictures:
 - filename: 20191208_101900
+  large: sizes/20191208_101900.jpg_2667x2000.jpg
   original: sizes/20191208_101900.jpg_467x350.jpg
   thumbnail: sizes/20191208_101900.jpg_200x150.jpg
   sizes:
   - sizes/20191208_101900.jpg_200x150.jpg
-  - sizes/20191208_101900.jpg_333x250.jpg
   - sizes/20191208_101900.jpg_467x350.jpg
+  - sizes/20191208_101900.jpg_2667x2000.jpg
 - filename: P1090537
+  large: sizes/P1090537.jpg_2667x2000.jpg
   original: sizes/P1090537.jpg_467x350.jpg
   thumbnail: sizes/P1090537.jpg_200x150.jpg
   sizes:
   - sizes/P1090537.jpg_200x150.jpg
-  - sizes/P1090537.jpg_333x250.jpg
   - sizes/P1090537.jpg_467x350.jpg
+  - sizes/P1090537.jpg_2667x2000.jpg
 - filename: P1090543
+  large: sizes/P1090543.jpg_2667x2000.jpg
   original: sizes/P1090543.jpg_467x350.jpg
   thumbnail: sizes/P1090543.jpg_200x150.jpg
   sizes:
   - sizes/P1090543.jpg_200x150.jpg
-  - sizes/P1090543.jpg_333x250.jpg
   - sizes/P1090543.jpg_467x350.jpg
+  - sizes/P1090543.jpg_2667x2000.jpg
 - filename: P1090544
+  large: sizes/P1090544.jpg_2666x2000.jpg
   original: sizes/P1090544.jpg_467x350.jpg
   thumbnail: sizes/P1090544.jpg_200x150.jpg
   sizes:
   - sizes/P1090544.jpg_200x150.jpg
-  - sizes/P1090544.jpg_333x250.jpg
   - sizes/P1090544.jpg_467x350.jpg
+  - sizes/P1090544.jpg_2666x2000.jpg

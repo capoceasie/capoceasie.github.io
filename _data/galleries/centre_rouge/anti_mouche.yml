@@ -1,17 +1,19 @@
 picture_path: centre_rouge/anti_mouche
 preview:
   filename: 20191109_185232
+  large: sizes/20191109_185232.jpg_1500x2000.jpg
   original: sizes/20191109_185232.jpg_262x350.jpg
   thumbnail: sizes/20191109_185232.jpg_112x150.jpg
   sizes:
   - sizes/20191109_185232.jpg_112x150.jpg
-  - sizes/20191109_185232.jpg_188x250.jpg
   - sizes/20191109_185232.jpg_262x350.jpg
+  - sizes/20191109_185232.jpg_1500x2000.jpg
 pictures:
 - filename: 20191109_185232
+  large: sizes/20191109_185232.jpg_1500x2000.jpg
   original: sizes/20191109_185232.jpg_262x350.jpg
   thumbnail: sizes/20191109_185232.jpg_112x150.jpg
   sizes:
   - sizes/20191109_185232.jpg_112x150.jpg
-  - sizes/20191109_185232.jpg_188x250.jpg
   - sizes/20191109_185232.jpg_262x350.jpg
+  - sizes/20191109_185232.jpg_1500x2000.jpg

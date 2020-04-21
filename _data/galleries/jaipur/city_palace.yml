@@ -1,31 +1,35 @@
 picture_path: jaipur/city_palace
 preview:
   filename: P1110307
+  large: sizes/P1110307.jpg_2666x2000.jpg
   original: sizes/P1110307.jpg_467x350.jpg
   thumbnail: sizes/P1110307.jpg_200x150.jpg
   sizes:
   - sizes/P1110307.jpg_200x150.jpg
-  - sizes/P1110307.jpg_333x250.jpg
   - sizes/P1110307.jpg_467x350.jpg
+  - sizes/P1110307.jpg_2666x2000.jpg
 pictures:
 - filename: P1110307
+  large: sizes/P1110307.jpg_2666x2000.jpg
   original: sizes/P1110307.jpg_467x350.jpg
   thumbnail: sizes/P1110307.jpg_200x150.jpg
   sizes:
   - sizes/P1110307.jpg_200x150.jpg
-  - sizes/P1110307.jpg_333x250.jpg
   - sizes/P1110307.jpg_467x350.jpg
+  - sizes/P1110307.jpg_2666x2000.jpg
 - filename: P1110309
+  large: sizes/P1110309.jpg_1500x2000.jpg
   original: sizes/P1110309.jpg_262x350.jpg
   thumbnail: sizes/P1110309.jpg_112x150.jpg
   sizes:
   - sizes/P1110309.jpg_112x150.jpg
-  - sizes/P1110309.jpg_188x250.jpg
   - sizes/P1110309.jpg_262x350.jpg
+  - sizes/P1110309.jpg_1500x2000.jpg
 - filename: P1110312
+  large: sizes/P1110312.jpg_1500x2000.jpg
   original: sizes/P1110312.jpg_262x350.jpg
   thumbnail: sizes/P1110312.jpg_112x150.jpg
   sizes:
   - sizes/P1110312.jpg_112x150.jpg
-  - sizes/P1110312.jpg_188x250.jpg
   - sizes/P1110312.jpg_262x350.jpg
+  - sizes/P1110312.jpg_1500x2000.jpg

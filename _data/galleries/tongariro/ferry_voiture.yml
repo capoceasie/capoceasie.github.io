@@ -1,17 +1,19 @@
 picture_path: tongariro/ferry_voiture
 preview:
   filename: 20191214_073753
+  large: sizes/20191214_073753.jpg_3556x2000.jpg
   original: sizes/20191214_073753.jpg_622x350.jpg
   thumbnail: sizes/20191214_073753.jpg_267x150.jpg
   sizes:
   - sizes/20191214_073753.jpg_267x150.jpg
-  - sizes/20191214_073753.jpg_444x250.jpg
   - sizes/20191214_073753.jpg_622x350.jpg
+  - sizes/20191214_073753.jpg_3556x2000.jpg
 pictures:
 - filename: 20191214_073753
+  large: sizes/20191214_073753.jpg_3556x2000.jpg
   original: sizes/20191214_073753.jpg_622x350.jpg
   thumbnail: sizes/20191214_073753.jpg_267x150.jpg
   sizes:
   - sizes/20191214_073753.jpg_267x150.jpg
-  - sizes/20191214_073753.jpg_444x250.jpg
   - sizes/20191214_073753.jpg_622x350.jpg
+  - sizes/20191214_073753.jpg_3556x2000.jpg

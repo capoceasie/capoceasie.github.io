@@ -1,45 +1,51 @@
 picture_path: tongariro/cratere1
 preview:
   filename: 20191215_111951
+  large: sizes/20191215_111951.jpg_2667x2000.jpg
   original: sizes/20191215_111951.jpg_467x350.jpg
   thumbnail: sizes/20191215_111951.jpg_200x150.jpg
   sizes:
   - sizes/20191215_111951.jpg_200x150.jpg
-  - sizes/20191215_111951.jpg_333x250.jpg
   - sizes/20191215_111951.jpg_467x350.jpg
+  - sizes/20191215_111951.jpg_2667x2000.jpg
 pictures:
 - filename: 20191215_111951
+  large: sizes/20191215_111951.jpg_2667x2000.jpg
   original: sizes/20191215_111951.jpg_467x350.jpg
   thumbnail: sizes/20191215_111951.jpg_200x150.jpg
   sizes:
   - sizes/20191215_111951.jpg_200x150.jpg
-  - sizes/20191215_111951.jpg_333x250.jpg
   - sizes/20191215_111951.jpg_467x350.jpg
+  - sizes/20191215_111951.jpg_2667x2000.jpg
 - filename: P1100758
+  large: sizes/P1100758.jpg_2667x2000.jpg
   original: sizes/P1100758.jpg_467x350.jpg
   thumbnail: sizes/P1100758.jpg_200x150.jpg
   sizes:
   - sizes/P1100758.jpg_200x150.jpg
-  - sizes/P1100758.jpg_333x250.jpg
   - sizes/P1100758.jpg_467x350.jpg
+  - sizes/P1100758.jpg_2667x2000.jpg
 - filename: P1100761
+  large: sizes/P1100761.jpg_2667x2000.jpg
   original: sizes/P1100761.jpg_467x350.jpg
   thumbnail: sizes/P1100761.jpg_200x150.jpg
   sizes:
   - sizes/P1100761.jpg_200x150.jpg
-  - sizes/P1100761.jpg_333x250.jpg
   - sizes/P1100761.jpg_467x350.jpg
+  - sizes/P1100761.jpg_2667x2000.jpg
 - filename: P1100766
+  large: sizes/P1100766.jpg_2667x2000.jpg
   original: sizes/P1100766.jpg_467x350.jpg
   thumbnail: sizes/P1100766.jpg_200x150.jpg
   sizes:
   - sizes/P1100766.jpg_200x150.jpg
-  - sizes/P1100766.jpg_333x250.jpg
   - sizes/P1100766.jpg_467x350.jpg
+  - sizes/P1100766.jpg_2667x2000.jpg
 - filename: P1100768
+  large: sizes/P1100768.jpg_1500x2000.jpg
   original: sizes/P1100768.jpg_262x350.jpg
   thumbnail: sizes/P1100768.jpg_112x150.jpg
   sizes:
   - sizes/P1100768.jpg_112x150.jpg
-  - sizes/P1100768.jpg_188x250.jpg
   - sizes/P1100768.jpg_262x350.jpg
+  - sizes/P1100768.jpg_1500x2000.jpg

@@ -1,31 +1,35 @@
 picture_path: jaipur/montee
 preview:
   filename: 20191223_145335
+  large: sizes/20191223_145335.jpg_1500x2000.jpg
   original: sizes/20191223_145335.jpg_262x350.jpg
   thumbnail: sizes/20191223_145335.jpg_112x150.jpg
   sizes:
   - sizes/20191223_145335.jpg_112x150.jpg
-  - sizes/20191223_145335.jpg_188x250.jpg
   - sizes/20191223_145335.jpg_262x350.jpg
+  - sizes/20191223_145335.jpg_1500x2000.jpg
 pictures:
 - filename: 20191223_145335
+  large: sizes/20191223_145335.jpg_1500x2000.jpg
   original: sizes/20191223_145335.jpg_262x350.jpg
   thumbnail: sizes/20191223_145335.jpg_112x150.jpg
   sizes:
   - sizes/20191223_145335.jpg_112x150.jpg
-  - sizes/20191223_145335.jpg_188x250.jpg
   - sizes/20191223_145335.jpg_262x350.jpg
+  - sizes/20191223_145335.jpg_1500x2000.jpg
 - filename: P1110164
+  large: sizes/P1110164.jpg_1500x2000.jpg
   original: sizes/P1110164.jpg_262x350.jpg
   thumbnail: sizes/P1110164.jpg_112x150.jpg
   sizes:
   - sizes/P1110164.jpg_112x150.jpg
-  - sizes/P1110164.jpg_188x250.jpg
   - sizes/P1110164.jpg_262x350.jpg
+  - sizes/P1110164.jpg_1500x2000.jpg
 - filename: P1110268
+  large: sizes/P1110268.jpg_1500x2000.jpg
   original: sizes/P1110268.jpg_262x350.jpg
   thumbnail: sizes/P1110268.jpg_112x150.jpg
   sizes:
   - sizes/P1110268.jpg_112x150.jpg
-  - sizes/P1110268.jpg_187x250.jpg
   - sizes/P1110268.jpg_262x350.jpg
+  - sizes/P1110268.jpg_1500x2000.jpg

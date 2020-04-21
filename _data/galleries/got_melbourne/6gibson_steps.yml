@@ -1,59 +1,67 @@
 picture_path: got_melbourne/6gibson_steps
 preview:
   filename: 0_20191126_183159
+  large: sizes/0_20191126_183159.jpg_2666x2000.jpg
   original: sizes/0_20191126_183159.jpg_467x350.jpg
   thumbnail: sizes/0_20191126_183159.jpg_200x150.jpg
   sizes:
   - sizes/0_20191126_183159.jpg_200x150.jpg
-  - sizes/0_20191126_183159.jpg_333x250.jpg
   - sizes/0_20191126_183159.jpg_467x350.jpg
+  - sizes/0_20191126_183159.jpg_2666x2000.jpg
 pictures:
 - filename: 0_20191126_183159
+  large: sizes/0_20191126_183159.jpg_2666x2000.jpg
   original: sizes/0_20191126_183159.jpg_467x350.jpg
   thumbnail: sizes/0_20191126_183159.jpg_200x150.jpg
   sizes:
   - sizes/0_20191126_183159.jpg_200x150.jpg
-  - sizes/0_20191126_183159.jpg_333x250.jpg
   - sizes/0_20191126_183159.jpg_467x350.jpg
+  - sizes/0_20191126_183159.jpg_2666x2000.jpg
 - filename: 1_20191126_183021
+  large: sizes/1_20191126_183021.jpg_1500x2000.jpg
   original: sizes/1_20191126_183021.jpg_262x350.jpg
   thumbnail: sizes/1_20191126_183021.jpg_112x150.jpg
   sizes:
   - sizes/1_20191126_183021.jpg_112x150.jpg
-  - sizes/1_20191126_183021.jpg_188x250.jpg
   - sizes/1_20191126_183021.jpg_262x350.jpg
+  - sizes/1_20191126_183021.jpg_1500x2000.jpg
 - filename: 2_20191126_182803
+  large: sizes/2_20191126_182803.jpg_2666x2000.jpg
   original: sizes/2_20191126_182803.jpg_467x350.jpg
   thumbnail: sizes/2_20191126_182803.jpg_200x150.jpg
   sizes:
   - sizes/2_20191126_182803.jpg_200x150.jpg
-  - sizes/2_20191126_182803.jpg_333x250.jpg
   - sizes/2_20191126_182803.jpg_467x350.jpg
+  - sizes/2_20191126_182803.jpg_2666x2000.jpg
 - filename: P1080333
+  large: sizes/P1080333.jpg_1500x2000.jpg
   original: sizes/P1080333.jpg_263x350.jpg
   thumbnail: sizes/P1080333.jpg_113x150.jpg
   sizes:
   - sizes/P1080333.jpg_113x150.jpg
-  - sizes/P1080333.jpg_188x250.jpg
   - sizes/P1080333.jpg_263x350.jpg
+  - sizes/P1080333.jpg_1500x2000.jpg
 - filename: P1080339
+  large: sizes/P1080339.jpg_1500x2000.jpg
   original: sizes/P1080339.jpg_262x350.jpg
   thumbnail: sizes/P1080339.jpg_112x150.jpg
   sizes:
   - sizes/P1080339.jpg_112x150.jpg
-  - sizes/P1080339.jpg_188x250.jpg
   - sizes/P1080339.jpg_262x350.jpg
+  - sizes/P1080339.jpg_1500x2000.jpg
 - filename: P1080340
+  large: sizes/P1080340.jpg_2667x2000.jpg
   original: sizes/P1080340.jpg_467x350.jpg
   thumbnail: sizes/P1080340.jpg_200x150.jpg
   sizes:
   - sizes/P1080340.jpg_200x150.jpg
-  - sizes/P1080340.jpg_333x250.jpg
   - sizes/P1080340.jpg_467x350.jpg
+  - sizes/P1080340.jpg_2667x2000.jpg
 - filename: P1080344
+  large: sizes/P1080344.jpg_2667x2000.jpg
   original: sizes/P1080344.jpg_467x350.jpg
   thumbnail: sizes/P1080344.jpg_200x150.jpg
   sizes:
   - sizes/P1080344.jpg_200x150.jpg
-  - sizes/P1080344.jpg_333x250.jpg
   - sizes/P1080344.jpg_467x350.jpg
+  - sizes/P1080344.jpg_2667x2000.jpg

@@ -1,38 +1,43 @@
 picture_path: centre_rouge/ay_avion
 preview:
   filename: 20191109_111018
+  large: sizes/20191109_111018.jpg_1500x2000.jpg
   original: sizes/20191109_111018.jpg_262x350.jpg
   thumbnail: sizes/20191109_111018.jpg_112x150.jpg
   sizes:
   - sizes/20191109_111018.jpg_112x150.jpg
-  - sizes/20191109_111018.jpg_188x250.jpg
   - sizes/20191109_111018.jpg_262x350.jpg
+  - sizes/20191109_111018.jpg_1500x2000.jpg
 pictures:
 - filename: 20191109_111018
+  large: sizes/20191109_111018.jpg_1500x2000.jpg
   original: sizes/20191109_111018.jpg_262x350.jpg
   thumbnail: sizes/20191109_111018.jpg_112x150.jpg
   sizes:
   - sizes/20191109_111018.jpg_112x150.jpg
-  - sizes/20191109_111018.jpg_188x250.jpg
   - sizes/20191109_111018.jpg_262x350.jpg
+  - sizes/20191109_111018.jpg_1500x2000.jpg
 - filename: 20191109_111728
+  large: sizes/20191109_111728.jpg_1500x2000.jpg
   original: sizes/20191109_111728.jpg_263x350.jpg
   thumbnail: sizes/20191109_111728.jpg_113x150.jpg
   sizes:
   - sizes/20191109_111728.jpg_113x150.jpg
-  - sizes/20191109_111728.jpg_188x250.jpg
   - sizes/20191109_111728.jpg_263x350.jpg
+  - sizes/20191109_111728.jpg_1500x2000.jpg
 - filename: 20191109_120908
+  large: sizes/20191109_120908.jpg_1500x2000.jpg
   original: sizes/20191109_120908.jpg_262x350.jpg
   thumbnail: sizes/20191109_120908.jpg_112x150.jpg
   sizes:
   - sizes/20191109_120908.jpg_112x150.jpg
-  - sizes/20191109_120908.jpg_188x250.jpg
   - sizes/20191109_120908.jpg_262x350.jpg
+  - sizes/20191109_120908.jpg_1500x2000.jpg
 - filename: 20191109_130345
+  large: sizes/20191109_130345.jpg_1500x2000.jpg
   original: sizes/20191109_130345.jpg_262x350.jpg
   thumbnail: sizes/20191109_130345.jpg_112x150.jpg
   sizes:
   - sizes/20191109_130345.jpg_112x150.jpg
-  - sizes/20191109_130345.jpg_187x250.jpg
   - sizes/20191109_130345.jpg_262x350.jpg
+  - sizes/20191109_130345.jpg_1500x2000.jpg

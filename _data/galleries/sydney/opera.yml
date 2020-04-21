@@ -1,73 +1,83 @@
 picture_path: sydney/opera
 preview:
   filename: P1060281_3712 x 2784
+  large: sizes/P1060281_3712_x_2784.jpg_2667x2000.jpg
   original: sizes/P1060281_3712_x_2784.jpg_467x350.jpg
   thumbnail: sizes/P1060281_3712_x_2784.jpg_200x150.jpg
   sizes:
   - sizes/P1060281_3712_x_2784.jpg_200x150.jpg
-  - sizes/P1060281_3712_x_2784.jpg_333x250.jpg
   - sizes/P1060281_3712_x_2784.jpg_467x350.jpg
+  - sizes/P1060281_3712_x_2784.jpg_2667x2000.jpg
 pictures:
 - filename: P1060281_3712 x 2784
+  large: sizes/P1060281_3712_x_2784.jpg_2667x2000.jpg
   original: sizes/P1060281_3712_x_2784.jpg_467x350.jpg
   thumbnail: sizes/P1060281_3712_x_2784.jpg_200x150.jpg
   sizes:
   - sizes/P1060281_3712_x_2784.jpg_200x150.jpg
-  - sizes/P1060281_3712_x_2784.jpg_333x250.jpg
   - sizes/P1060281_3712_x_2784.jpg_467x350.jpg
+  - sizes/P1060281_3712_x_2784.jpg_2667x2000.jpg
 - filename: P1060284_2784 x 3712
+  large: sizes/P1060284_2784_x_3712.jpg_1500x2000.jpg
   original: sizes/P1060284_2784_x_3712.jpg_262x350.jpg
   thumbnail: sizes/P1060284_2784_x_3712.jpg_112x150.jpg
   sizes:
   - sizes/P1060284_2784_x_3712.jpg_112x150.jpg
-  - sizes/P1060284_2784_x_3712.jpg_188x250.jpg
   - sizes/P1060284_2784_x_3712.jpg_262x350.jpg
+  - sizes/P1060284_2784_x_3712.jpg_1500x2000.jpg
 - filename: P1060286_2784 x 3712
+  large: sizes/P1060286_2784_x_3712.jpg_1500x2000.jpg
   original: sizes/P1060286_2784_x_3712.jpg_262x350.jpg
   thumbnail: sizes/P1060286_2784_x_3712.jpg_112x150.jpg
   sizes:
   - sizes/P1060286_2784_x_3712.jpg_112x150.jpg
-  - sizes/P1060286_2784_x_3712.jpg_188x250.jpg
   - sizes/P1060286_2784_x_3712.jpg_262x350.jpg
+  - sizes/P1060286_2784_x_3712.jpg_1500x2000.jpg
 - filename: P1060289_2784 x 3712
+  large: sizes/P1060289_2784_x_3712.jpg_1500x2000.jpg
   original: sizes/P1060289_2784_x_3712.jpg_262x350.jpg
   thumbnail: sizes/P1060289_2784_x_3712.jpg_112x150.jpg
   sizes:
   - sizes/P1060289_2784_x_3712.jpg_112x150.jpg
-  - sizes/P1060289_2784_x_3712.jpg_188x250.jpg
   - sizes/P1060289_2784_x_3712.jpg_262x350.jpg
+  - sizes/P1060289_2784_x_3712.jpg_1500x2000.jpg
 - filename: P1060291_3712 x 2784
+  large: sizes/P1060291_3712_x_2784.jpg_2667x2000.jpg
   original: sizes/P1060291_3712_x_2784.jpg_467x350.jpg
   thumbnail: sizes/P1060291_3712_x_2784.jpg_200x150.jpg
   sizes:
   - sizes/P1060291_3712_x_2784.jpg_200x150.jpg
-  - sizes/P1060291_3712_x_2784.jpg_333x250.jpg
   - sizes/P1060291_3712_x_2784.jpg_467x350.jpg
+  - sizes/P1060291_3712_x_2784.jpg_2667x2000.jpg
 - filename: P1060295_3712 x 2784
+  large: sizes/P1060295_3712_x_2784.jpg_2666x2000.jpg
   original: sizes/P1060295_3712_x_2784.jpg_467x350.jpg
   thumbnail: sizes/P1060295_3712_x_2784.jpg_200x150.jpg
   sizes:
   - sizes/P1060295_3712_x_2784.jpg_200x150.jpg
-  - sizes/P1060295_3712_x_2784.jpg_333x250.jpg
   - sizes/P1060295_3712_x_2784.jpg_467x350.jpg
+  - sizes/P1060295_3712_x_2784.jpg_2666x2000.jpg
 - filename: P1060303_3712 x 2784
+  large: sizes/P1060303_3712_x_2784.jpg_2667x2000.jpg
   original: sizes/P1060303_3712_x_2784.jpg_467x350.jpg
   thumbnail: sizes/P1060303_3712_x_2784.jpg_200x150.jpg
   sizes:
   - sizes/P1060303_3712_x_2784.jpg_200x150.jpg
-  - sizes/P1060303_3712_x_2784.jpg_333x250.jpg
   - sizes/P1060303_3712_x_2784.jpg_467x350.jpg
+  - sizes/P1060303_3712_x_2784.jpg_2667x2000.jpg
 - filename: P1060307_3712 x 2784
+  large: sizes/P1060307_3712_x_2784.jpg_2667x2000.jpg
   original: sizes/P1060307_3712_x_2784.jpg_467x350.jpg
   thumbnail: sizes/P1060307_3712_x_2784.jpg_200x150.jpg
   sizes:
   - sizes/P1060307_3712_x_2784.jpg_200x150.jpg
-  - sizes/P1060307_3712_x_2784.jpg_333x250.jpg
   - sizes/P1060307_3712_x_2784.jpg_467x350.jpg
+  - sizes/P1060307_3712_x_2784.jpg_2667x2000.jpg
 - filename: P1060744_3712 x 2784
+  large: sizes/P1060744_3712_x_2784.jpg_2667x2000.jpg
   original: sizes/P1060744_3712_x_2784.jpg_467x350.jpg
   thumbnail: sizes/P1060744_3712_x_2784.jpg_200x150.jpg
   sizes:
   - sizes/P1060744_3712_x_2784.jpg_200x150.jpg
-  - sizes/P1060744_3712_x_2784.jpg_333x250.jpg
   - sizes/P1060744_3712_x_2784.jpg_467x350.jpg
+  - sizes/P1060744_3712_x_2784.jpg_2667x2000.jpg

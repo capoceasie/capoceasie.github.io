@@ -1,24 +1,27 @@
 picture_path: pushkar/resto
 preview:
   filename: 0P1110617
+  large: sizes/0P1110617.jpg_1500x2000.jpg
   original: sizes/0P1110617.jpg_262x350.jpg
   thumbnail: sizes/0P1110617.jpg_112x150.jpg
   sizes:
   - sizes/0P1110617.jpg_112x150.jpg
-  - sizes/0P1110617.jpg_188x250.jpg
   - sizes/0P1110617.jpg_262x350.jpg
+  - sizes/0P1110617.jpg_1500x2000.jpg
 pictures:
 - filename: 0P1110617
+  large: sizes/0P1110617.jpg_1500x2000.jpg
   original: sizes/0P1110617.jpg_262x350.jpg
   thumbnail: sizes/0P1110617.jpg_112x150.jpg
   sizes:
   - sizes/0P1110617.jpg_112x150.jpg
-  - sizes/0P1110617.jpg_188x250.jpg
   - sizes/0P1110617.jpg_262x350.jpg
+  - sizes/0P1110617.jpg_1500x2000.jpg
 - filename: 20191225_133158
+  large: sizes/20191225_133158.jpg_2667x2000.jpg
   original: sizes/20191225_133158.jpg_467x350.jpg
   thumbnail: sizes/20191225_133158.jpg_200x150.jpg
   sizes:
   - sizes/20191225_133158.jpg_200x150.jpg
-  - sizes/20191225_133158.jpg_333x250.jpg
   - sizes/20191225_133158.jpg_467x350.jpg
+  - sizes/20191225_133158.jpg_2667x2000.jpg

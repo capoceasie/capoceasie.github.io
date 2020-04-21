@@ -1,24 +1,27 @@
 picture_path: centre_rouge/kc_sunset
 preview:
   filename: 0_P1070309
+  large: sizes/0_P1070309.jpg_2667x2000.jpg
   original: sizes/0_P1070309.jpg_467x350.jpg
   thumbnail: sizes/0_P1070309.jpg_200x150.jpg
   sizes:
   - sizes/0_P1070309.jpg_200x150.jpg
-  - sizes/0_P1070309.jpg_333x250.jpg
   - sizes/0_P1070309.jpg_467x350.jpg
+  - sizes/0_P1070309.jpg_2667x2000.jpg
 pictures:
 - filename: 0_P1070309
+  large: sizes/0_P1070309.jpg_2667x2000.jpg
   original: sizes/0_P1070309.jpg_467x350.jpg
   thumbnail: sizes/0_P1070309.jpg_200x150.jpg
   sizes:
   - sizes/0_P1070309.jpg_200x150.jpg
-  - sizes/0_P1070309.jpg_333x250.jpg
   - sizes/0_P1070309.jpg_467x350.jpg
+  - sizes/0_P1070309.jpg_2667x2000.jpg
 - filename: 20191112_182939
+  large: sizes/20191112_182939.jpg_2667x2000.jpg
   original: sizes/20191112_182939.jpg_467x350.jpg
   thumbnail: sizes/20191112_182939.jpg_200x150.jpg
   sizes:
   - sizes/20191112_182939.jpg_200x150.jpg
-  - sizes/20191112_182939.jpg_333x250.jpg
   - sizes/20191112_182939.jpg_467x350.jpg
+  - sizes/20191112_182939.jpg_2667x2000.jpg

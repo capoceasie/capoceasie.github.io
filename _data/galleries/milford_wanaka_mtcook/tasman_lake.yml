@@ -1,45 +1,51 @@
 picture_path: milford_wanaka_mtcook/tasman_lake
 preview:
   filename: 20191209_181039
+  large: sizes/20191209_181039.jpg_3555x2000.jpg
   original: sizes/20191209_181039.jpg_622x350.jpg
   thumbnail: sizes/20191209_181039.jpg_267x150.jpg
   sizes:
   - sizes/20191209_181039.jpg_267x150.jpg
-  - sizes/20191209_181039.jpg_444x250.jpg
   - sizes/20191209_181039.jpg_622x350.jpg
+  - sizes/20191209_181039.jpg_3555x2000.jpg
 pictures:
 - filename: 20191209_181039
+  large: sizes/20191209_181039.jpg_3555x2000.jpg
   original: sizes/20191209_181039.jpg_622x350.jpg
   thumbnail: sizes/20191209_181039.jpg_267x150.jpg
   sizes:
   - sizes/20191209_181039.jpg_267x150.jpg
-  - sizes/20191209_181039.jpg_444x250.jpg
   - sizes/20191209_181039.jpg_622x350.jpg
+  - sizes/20191209_181039.jpg_3555x2000.jpg
 - filename: P1090760
+  large: sizes/P1090760.jpg_2666x2000.jpg
   original: sizes/P1090760.jpg_467x350.jpg
   thumbnail: sizes/P1090760.jpg_200x150.jpg
   sizes:
   - sizes/P1090760.jpg_200x150.jpg
-  - sizes/P1090760.jpg_333x250.jpg
   - sizes/P1090760.jpg_467x350.jpg
+  - sizes/P1090760.jpg_2666x2000.jpg
 - filename: P1090773
+  large: sizes/P1090773.jpg_2667x2000.jpg
   original: sizes/P1090773.jpg_467x350.jpg
   thumbnail: sizes/P1090773.jpg_200x150.jpg
   sizes:
   - sizes/P1090773.jpg_200x150.jpg
-  - sizes/P1090773.jpg_333x250.jpg
   - sizes/P1090773.jpg_467x350.jpg
+  - sizes/P1090773.jpg_2667x2000.jpg
 - filename: P1090781
+  large: sizes/P1090781.jpg_2667x2000.jpg
   original: sizes/P1090781.jpg_467x350.jpg
   thumbnail: sizes/P1090781.jpg_200x150.jpg
   sizes:
   - sizes/P1090781.jpg_200x150.jpg
-  - sizes/P1090781.jpg_333x250.jpg
   - sizes/P1090781.jpg_467x350.jpg
+  - sizes/P1090781.jpg_2667x2000.jpg
 - filename: P1090783
+  large: sizes/P1090783.jpg_1500x2000.jpg
   original: sizes/P1090783.jpg_262x350.jpg
   thumbnail: sizes/P1090783.jpg_112x150.jpg
   sizes:
   - sizes/P1090783.jpg_112x150.jpg
-  - sizes/P1090783.jpg_188x250.jpg
   - sizes/P1090783.jpg_262x350.jpg
+  - sizes/P1090783.jpg_1500x2000.jpg

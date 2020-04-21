@@ -1,38 +1,43 @@
 picture_path: milford_wanaka_mtcook/freecamp
 preview:
   filename: 20191208_204212
+  large: sizes/20191208_204212.jpg_2667x2000.jpg
   original: sizes/20191208_204212.jpg_467x350.jpg
   thumbnail: sizes/20191208_204212.jpg_200x150.jpg
   sizes:
   - sizes/20191208_204212.jpg_200x150.jpg
-  - sizes/20191208_204212.jpg_333x250.jpg
   - sizes/20191208_204212.jpg_467x350.jpg
+  - sizes/20191208_204212.jpg_2667x2000.jpg
 pictures:
 - filename: 20191208_204212
+  large: sizes/20191208_204212.jpg_2667x2000.jpg
   original: sizes/20191208_204212.jpg_467x350.jpg
   thumbnail: sizes/20191208_204212.jpg_200x150.jpg
   sizes:
   - sizes/20191208_204212.jpg_200x150.jpg
-  - sizes/20191208_204212.jpg_333x250.jpg
   - sizes/20191208_204212.jpg_467x350.jpg
+  - sizes/20191208_204212.jpg_2667x2000.jpg
 - filename: P1090610
+  large: sizes/P1090610.jpg_2667x2000.jpg
   original: sizes/P1090610.jpg_467x350.jpg
   thumbnail: sizes/P1090610.jpg_200x150.jpg
   sizes:
   - sizes/P1090610.jpg_200x150.jpg
-  - sizes/P1090610.jpg_333x250.jpg
   - sizes/P1090610.jpg_467x350.jpg
+  - sizes/P1090610.jpg_2667x2000.jpg
 - filename: P1090615
+  large: sizes/P1090615.jpg_2667x2000.jpg
   original: sizes/P1090615.jpg_467x350.jpg
   thumbnail: sizes/P1090615.jpg_200x150.jpg
   sizes:
   - sizes/P1090615.jpg_200x150.jpg
-  - sizes/P1090615.jpg_333x250.jpg
   - sizes/P1090615.jpg_467x350.jpg
+  - sizes/P1090615.jpg_2667x2000.jpg
 - filename: P1090616
+  large: sizes/P1090616.jpg_2667x2000.jpg
   original: sizes/P1090616.jpg_467x350.jpg
   thumbnail: sizes/P1090616.jpg_200x150.jpg
   sizes:
   - sizes/P1090616.jpg_200x150.jpg
-  - sizes/P1090616.jpg_333x250.jpg
   - sizes/P1090616.jpg_467x350.jpg
+  - sizes/P1090616.jpg_2667x2000.jpg

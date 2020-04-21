@@ -1,52 +1,59 @@
 picture_path: abeltasman_kaikoura/baleine_dauphins
 preview:
   filename: 20191212_174206
+  large: sizes/20191212_174206.jpg_1500x2000.jpg
   original: sizes/20191212_174206.jpg_263x350.jpg
   thumbnail: sizes/20191212_174206.jpg_113x150.jpg
   sizes:
   - sizes/20191212_174206.jpg_113x150.jpg
-  - sizes/20191212_174206.jpg_188x250.jpg
   - sizes/20191212_174206.jpg_263x350.jpg
+  - sizes/20191212_174206.jpg_1500x2000.jpg
 pictures:
 - filename: 20191212_174206
+  large: sizes/20191212_174206.jpg_1500x2000.jpg
   original: sizes/20191212_174206.jpg_263x350.jpg
   thumbnail: sizes/20191212_174206.jpg_113x150.jpg
   sizes:
   - sizes/20191212_174206.jpg_113x150.jpg
-  - sizes/20191212_174206.jpg_188x250.jpg
   - sizes/20191212_174206.jpg_263x350.jpg
+  - sizes/20191212_174206.jpg_1500x2000.jpg
 - filename: 20191212_174213
+  large: sizes/20191212_174213.jpg_1500x2000.jpg
   original: sizes/20191212_174213.jpg_262x350.jpg
   thumbnail: sizes/20191212_174213.jpg_112x150.jpg
   sizes:
   - sizes/20191212_174213.jpg_112x150.jpg
-  - sizes/20191212_174213.jpg_188x250.jpg
   - sizes/20191212_174213.jpg_262x350.jpg
+  - sizes/20191212_174213.jpg_1500x2000.jpg
 - filename: 20191212_174214
+  large: sizes/20191212_174214.jpg_1500x2000.jpg
   original: sizes/20191212_174214.jpg_262x350.jpg
   thumbnail: sizes/20191212_174214.jpg_112x150.jpg
   sizes:
   - sizes/20191212_174214.jpg_112x150.jpg
-  - sizes/20191212_174214.jpg_188x250.jpg
   - sizes/20191212_174214.jpg_262x350.jpg
+  - sizes/20191212_174214.jpg_1500x2000.jpg
 - filename: 20191212_174236
+  large: sizes/20191212_174236.jpg_1500x2000.jpg
   original: sizes/20191212_174236.jpg_262x350.jpg
   thumbnail: sizes/20191212_174236.jpg_112x150.jpg
   sizes:
   - sizes/20191212_174236.jpg_112x150.jpg
-  - sizes/20191212_174236.jpg_188x250.jpg
   - sizes/20191212_174236.jpg_262x350.jpg
+  - sizes/20191212_174236.jpg_1500x2000.jpg
 - filename: P1100195
+  large: sizes/P1100195.jpg_2667x2000.jpg
   original: sizes/P1100195.jpg_467x350.jpg
   thumbnail: sizes/P1100195.jpg_200x150.jpg
   sizes:
   - sizes/P1100195.jpg_200x150.jpg
-  - sizes/P1100195.jpg_333x250.jpg
   - sizes/P1100195.jpg_467x350.jpg
+  - sizes/P1100195.jpg_2667x2000.jpg
 - filename: P1100200
+  large: sizes/P1100200.jpg_2666x2000.jpg
   original: sizes/P1100200.jpg_467x350.jpg
   thumbnail: sizes/P1100200.jpg_200x150.jpg
   sizes:
   - sizes/P1100200.jpg_200x150.jpg
-  - sizes/P1100200.jpg_333x250.jpg
   - sizes/P1100200.jpg_467x350.jpg
+  - sizes/P1100200.jpg_2666x2000.jpg

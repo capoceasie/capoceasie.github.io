@@ -1,24 +1,27 @@
 picture_path: tekapo_queenstown/carte
 preview:
   filename: 0carte_global_191206
+  large: sizes/0carte_global_191206.jpg_2200x2000.jpg
   original: sizes/0carte_global_191206.jpg_385x350.jpg
   thumbnail: sizes/0carte_global_191206.jpg_165x150.jpg
   sizes:
   - sizes/0carte_global_191206.jpg_165x150.jpg
-  - sizes/0carte_global_191206.jpg_275x250.jpg
   - sizes/0carte_global_191206.jpg_385x350.jpg
+  - sizes/0carte_global_191206.jpg_2200x2000.jpg
 pictures:
 - filename: 0carte_global_191206
+  large: sizes/0carte_global_191206.jpg_2200x2000.jpg
   original: sizes/0carte_global_191206.jpg_385x350.jpg
   thumbnail: sizes/0carte_global_191206.jpg_165x150.jpg
   sizes:
   - sizes/0carte_global_191206.jpg_165x150.jpg
-  - sizes/0carte_global_191206.jpg_275x250.jpg
   - sizes/0carte_global_191206.jpg_385x350.jpg
+  - sizes/0carte_global_191206.jpg_2200x2000.jpg
 - filename: carte_detail_191206
+  large: sizes/carte_detail_191206.jpg_2749x2000.jpg
   original: sizes/carte_detail_191206.jpg_481x350.jpg
   thumbnail: sizes/carte_detail_191206.jpg_206x150.jpg
   sizes:
   - sizes/carte_detail_191206.jpg_206x150.jpg
-  - sizes/carte_detail_191206.jpg_344x250.jpg
   - sizes/carte_detail_191206.jpg_481x350.jpg
+  - sizes/carte_detail_191206.jpg_2749x2000.jpg

@@ -1,87 +1,99 @@
 picture_path: foret_nord_cairns/cap_trib_beach
 preview:
   filename: P1070384
+  large: sizes/P1070384.jpg_1500x2000.jpg
   original: sizes/P1070384.jpg_262x350.jpg
   thumbnail: sizes/P1070384.jpg_112x150.jpg
   sizes:
   - sizes/P1070384.jpg_112x150.jpg
-  - sizes/P1070384.jpg_188x250.jpg
   - sizes/P1070384.jpg_262x350.jpg
+  - sizes/P1070384.jpg_1500x2000.jpg
 pictures:
 - filename: P1070384
+  large: sizes/P1070384.jpg_1500x2000.jpg
   original: sizes/P1070384.jpg_262x350.jpg
   thumbnail: sizes/P1070384.jpg_112x150.jpg
   sizes:
   - sizes/P1070384.jpg_112x150.jpg
-  - sizes/P1070384.jpg_188x250.jpg
   - sizes/P1070384.jpg_262x350.jpg
+  - sizes/P1070384.jpg_1500x2000.jpg
 - filename: P1070386
+  large: sizes/P1070386.jpg_2667x2000.jpg
   original: sizes/P1070386.jpg_467x350.jpg
   thumbnail: sizes/P1070386.jpg_200x150.jpg
   sizes:
   - sizes/P1070386.jpg_200x150.jpg
-  - sizes/P1070386.jpg_333x250.jpg
   - sizes/P1070386.jpg_467x350.jpg
+  - sizes/P1070386.jpg_2667x2000.jpg
 - filename: P1070389
+  large: sizes/P1070389.jpg_2667x2000.jpg
   original: sizes/P1070389.jpg_467x350.jpg
   thumbnail: sizes/P1070389.jpg_200x150.jpg
   sizes:
   - sizes/P1070389.jpg_200x150.jpg
-  - sizes/P1070389.jpg_333x250.jpg
   - sizes/P1070389.jpg_467x350.jpg
+  - sizes/P1070389.jpg_2667x2000.jpg
 - filename: P1070406
+  large: sizes/P1070406.jpg_2666x2000.jpg
   original: sizes/P1070406.jpg_467x350.jpg
   thumbnail: sizes/P1070406.jpg_200x150.jpg
   sizes:
   - sizes/P1070406.jpg_200x150.jpg
-  - sizes/P1070406.jpg_333x250.jpg
   - sizes/P1070406.jpg_467x350.jpg
+  - sizes/P1070406.jpg_2666x2000.jpg
 - filename: P1070408
+  large: sizes/P1070408.jpg_2666x2000.jpg
   original: sizes/P1070408.jpg_467x350.jpg
   thumbnail: sizes/P1070408.jpg_200x150.jpg
   sizes:
   - sizes/P1070408.jpg_200x150.jpg
-  - sizes/P1070408.jpg_333x250.jpg
   - sizes/P1070408.jpg_467x350.jpg
+  - sizes/P1070408.jpg_2666x2000.jpg
 - filename: P1070412
+  large: sizes/P1070412.jpg_2666x2000.jpg
   original: sizes/P1070412.jpg_467x350.jpg
   thumbnail: sizes/P1070412.jpg_200x150.jpg
   sizes:
   - sizes/P1070412.jpg_200x150.jpg
-  - sizes/P1070412.jpg_333x250.jpg
   - sizes/P1070412.jpg_467x350.jpg
+  - sizes/P1070412.jpg_2666x2000.jpg
 - filename: P1070415
+  large: sizes/P1070415.jpg_2666x2000.jpg
   original: sizes/P1070415.jpg_467x350.jpg
   thumbnail: sizes/P1070415.jpg_200x150.jpg
   sizes:
   - sizes/P1070415.jpg_200x150.jpg
-  - sizes/P1070415.jpg_333x250.jpg
   - sizes/P1070415.jpg_467x350.jpg
+  - sizes/P1070415.jpg_2666x2000.jpg
 - filename: P1070420
+  large: sizes/P1070420.jpg_2667x2000.jpg
   original: sizes/P1070420.jpg_467x350.jpg
   thumbnail: sizes/P1070420.jpg_200x150.jpg
   sizes:
   - sizes/P1070420.jpg_200x150.jpg
-  - sizes/P1070420.jpg_333x250.jpg
   - sizes/P1070420.jpg_467x350.jpg
+  - sizes/P1070420.jpg_2667x2000.jpg
 - filename: P1070421
+  large: sizes/P1070421.jpg_2667x2000.jpg
   original: sizes/P1070421.jpg_467x350.jpg
   thumbnail: sizes/P1070421.jpg_200x150.jpg
   sizes:
   - sizes/P1070421.jpg_200x150.jpg
-  - sizes/P1070421.jpg_333x250.jpg
   - sizes/P1070421.jpg_467x350.jpg
+  - sizes/P1070421.jpg_2667x2000.jpg
 - filename: P1070422
+  large: sizes/P1070422.jpg_1500x2000.jpg
   original: sizes/P1070422.jpg_262x350.jpg
   thumbnail: sizes/P1070422.jpg_112x150.jpg
   sizes:
   - sizes/P1070422.jpg_112x150.jpg
-  - sizes/P1070422.jpg_188x250.jpg
   - sizes/P1070422.jpg_262x350.jpg
+  - sizes/P1070422.jpg_1500x2000.jpg
 - filename: P1070427
+  large: sizes/P1070427.jpg_2667x2000.jpg
   original: sizes/P1070427.jpg_467x350.jpg
   thumbnail: sizes/P1070427.jpg_200x150.jpg
   sizes:
   - sizes/P1070427.jpg_200x150.jpg
-  - sizes/P1070427.jpg_333x250.jpg
   - sizes/P1070427.jpg_467x350.jpg
+  - sizes/P1070427.jpg_2667x2000.jpg

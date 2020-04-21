@@ -1,38 +1,43 @@
 picture_path: jaipur/amber_ascension
 preview:
   filename: P1110427
+  large: sizes/P1110427.jpg_2667x2000.jpg
   original: sizes/P1110427.jpg_467x350.jpg
   thumbnail: sizes/P1110427.jpg_200x150.jpg
   sizes:
   - sizes/P1110427.jpg_200x150.jpg
-  - sizes/P1110427.jpg_333x250.jpg
   - sizes/P1110427.jpg_467x350.jpg
+  - sizes/P1110427.jpg_2667x2000.jpg
 pictures:
 - filename: P1110427
+  large: sizes/P1110427.jpg_2667x2000.jpg
   original: sizes/P1110427.jpg_467x350.jpg
   thumbnail: sizes/P1110427.jpg_200x150.jpg
   sizes:
   - sizes/P1110427.jpg_200x150.jpg
-  - sizes/P1110427.jpg_333x250.jpg
   - sizes/P1110427.jpg_467x350.jpg
+  - sizes/P1110427.jpg_2667x2000.jpg
 - filename: P1110430
+  large: sizes/P1110430.jpg_2667x2000.jpg
   original: sizes/P1110430.jpg_467x350.jpg
   thumbnail: sizes/P1110430.jpg_200x150.jpg
   sizes:
   - sizes/P1110430.jpg_200x150.jpg
-  - sizes/P1110430.jpg_333x250.jpg
   - sizes/P1110430.jpg_467x350.jpg
+  - sizes/P1110430.jpg_2667x2000.jpg
 - filename: P1110435
+  large: sizes/P1110435.jpg_2666x2000.jpg
   original: sizes/P1110435.jpg_467x350.jpg
   thumbnail: sizes/P1110435.jpg_200x150.jpg
   sizes:
   - sizes/P1110435.jpg_200x150.jpg
-  - sizes/P1110435.jpg_333x250.jpg
   - sizes/P1110435.jpg_467x350.jpg
+  - sizes/P1110435.jpg_2666x2000.jpg
 - filename: P1110473
+  large: sizes/P1110473.jpg_2667x2000.jpg
   original: sizes/P1110473.jpg_467x350.jpg
   thumbnail: sizes/P1110473.jpg_200x150.jpg
   sizes:
   - sizes/P1110473.jpg_200x150.jpg
-  - sizes/P1110473.jpg_333x250.jpg
   - sizes/P1110473.jpg_467x350.jpg
+  - sizes/P1110473.jpg_2667x2000.jpg

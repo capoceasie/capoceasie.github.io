@@ -1,38 +1,43 @@
 picture_path: bonne_annee/mandalay
 preview:
   filename: 0P1150034
+  large: sizes/0P1150034.jpg_2667x2000.jpg
   original: sizes/0P1150034.jpg_467x350.jpg
   thumbnail: sizes/0P1150034.jpg_200x150.jpg
   sizes:
   - sizes/0P1150034.jpg_200x150.jpg
-  - sizes/0P1150034.jpg_333x250.jpg
   - sizes/0P1150034.jpg_467x350.jpg
+  - sizes/0P1150034.jpg_2667x2000.jpg
 pictures:
 - filename: 0P1150034
+  large: sizes/0P1150034.jpg_2667x2000.jpg
   original: sizes/0P1150034.jpg_467x350.jpg
   thumbnail: sizes/0P1150034.jpg_200x150.jpg
   sizes:
   - sizes/0P1150034.jpg_200x150.jpg
-  - sizes/0P1150034.jpg_333x250.jpg
   - sizes/0P1150034.jpg_467x350.jpg
+  - sizes/0P1150034.jpg_2667x2000.jpg
 - filename: 20200125_124002
+  large: sizes/20200125_124002.jpg_1125x2000.jpg
   original: sizes/20200125_124002.jpg_197x350.jpg
   thumbnail: sizes/20200125_124002.jpg_84x150.jpg
   sizes:
   - sizes/20200125_124002.jpg_84x150.jpg
-  - sizes/20200125_124002.jpg_141x250.jpg
   - sizes/20200125_124002.jpg_197x350.jpg
+  - sizes/20200125_124002.jpg_1125x2000.jpg
 - filename: P1150096
+  large: sizes/P1150096.jpg_1500x2000.jpg
   original: sizes/P1150096.jpg_262x350.jpg
   thumbnail: sizes/P1150096.jpg_112x150.jpg
   sizes:
   - sizes/P1150096.jpg_112x150.jpg
-  - sizes/P1150096.jpg_188x250.jpg
   - sizes/P1150096.jpg_262x350.jpg
+  - sizes/P1150096.jpg_1500x2000.jpg
 - filename: P1150271
+  large: sizes/P1150271.jpg_2666x2000.jpg
   original: sizes/P1150271.jpg_467x350.jpg
   thumbnail: sizes/P1150271.jpg_200x150.jpg
   sizes:
   - sizes/P1150271.jpg_200x150.jpg
-  - sizes/P1150271.jpg_333x250.jpg
   - sizes/P1150271.jpg_467x350.jpg
+  - sizes/P1150271.jpg_2666x2000.jpg

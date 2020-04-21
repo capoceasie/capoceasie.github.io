@@ -1,31 +1,35 @@
 picture_path: tongariro/fumerolles
 preview:
   filename: P1100848
+  large: sizes/P1100848.jpg_2667x2000.jpg
   original: sizes/P1100848.jpg_467x350.jpg
   thumbnail: sizes/P1100848.jpg_200x150.jpg
   sizes:
   - sizes/P1100848.jpg_200x150.jpg
-  - sizes/P1100848.jpg_333x250.jpg
   - sizes/P1100848.jpg_467x350.jpg
+  - sizes/P1100848.jpg_2667x2000.jpg
 pictures:
 - filename: P1100848
+  large: sizes/P1100848.jpg_2667x2000.jpg
   original: sizes/P1100848.jpg_467x350.jpg
   thumbnail: sizes/P1100848.jpg_200x150.jpg
   sizes:
   - sizes/P1100848.jpg_200x150.jpg
-  - sizes/P1100848.jpg_333x250.jpg
   - sizes/P1100848.jpg_467x350.jpg
+  - sizes/P1100848.jpg_2667x2000.jpg
 - filename: P1100856
+  large: sizes/P1100856.jpg_2667x2000.jpg
   original: sizes/P1100856.jpg_467x350.jpg
   thumbnail: sizes/P1100856.jpg_200x150.jpg
   sizes:
   - sizes/P1100856.jpg_200x150.jpg
-  - sizes/P1100856.jpg_333x250.jpg
   - sizes/P1100856.jpg_467x350.jpg
+  - sizes/P1100856.jpg_2667x2000.jpg
 - filename: P1100863
+  large: sizes/P1100863.jpg_1500x2000.jpg
   original: sizes/P1100863.jpg_262x350.jpg
   thumbnail: sizes/P1100863.jpg_112x150.jpg
   sizes:
   - sizes/P1100863.jpg_112x150.jpg
-  - sizes/P1100863.jpg_188x250.jpg
   - sizes/P1100863.jpg_262x350.jpg
+  - sizes/P1100863.jpg_1500x2000.jpg

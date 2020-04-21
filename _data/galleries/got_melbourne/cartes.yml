@@ -1,24 +1,27 @@
 picture_path: got_melbourne/cartes
 preview:
   filename: carte_detail_20191130
+  large: sizes/carte_detail_20191130.jpg_3567x2000.jpg
   original: sizes/carte_detail_20191130.jpg_624x350.jpg
   thumbnail: sizes/carte_detail_20191130.jpg_268x150.jpg
   sizes:
   - sizes/carte_detail_20191130.jpg_268x150.jpg
-  - sizes/carte_detail_20191130.jpg_446x250.jpg
   - sizes/carte_detail_20191130.jpg_624x350.jpg
+  - sizes/carte_detail_20191130.jpg_3567x2000.jpg
 pictures:
 - filename: carte_detail_20191130
+  large: sizes/carte_detail_20191130.jpg_3567x2000.jpg
   original: sizes/carte_detail_20191130.jpg_624x350.jpg
   thumbnail: sizes/carte_detail_20191130.jpg_268x150.jpg
   sizes:
   - sizes/carte_detail_20191130.jpg_268x150.jpg
-  - sizes/carte_detail_20191130.jpg_446x250.jpg
   - sizes/carte_detail_20191130.jpg_624x350.jpg
+  - sizes/carte_detail_20191130.jpg_3567x2000.jpg
 - filename: carte_global_20191130
+  large: sizes/carte_global_20191130.jpg_2419x2000.jpg
   original: sizes/carte_global_20191130.jpg_423x350.jpg
   thumbnail: sizes/carte_global_20191130.jpg_181x150.jpg
   sizes:
   - sizes/carte_global_20191130.jpg_181x150.jpg
-  - sizes/carte_global_20191130.jpg_302x250.jpg
   - sizes/carte_global_20191130.jpg_423x350.jpg
+  - sizes/carte_global_20191130.jpg_2419x2000.jpg

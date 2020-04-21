@@ -1,24 +1,27 @@
 picture_path: fin_sejour_nz/pokemon
 preview:
   filename: 20191219_233810
+  large: sizes/20191219_233810.jpg_1500x2000.jpg
   original: sizes/20191219_233810.jpg_263x350.jpg
   thumbnail: sizes/20191219_233810.jpg_113x150.jpg
   sizes:
   - sizes/20191219_233810.jpg_113x150.jpg
-  - sizes/20191219_233810.jpg_188x250.jpg
   - sizes/20191219_233810.jpg_263x350.jpg
+  - sizes/20191219_233810.jpg_1500x2000.jpg
 pictures:
 - filename: 20191219_233810
+  large: sizes/20191219_233810.jpg_1500x2000.jpg
   original: sizes/20191219_233810.jpg_263x350.jpg
   thumbnail: sizes/20191219_233810.jpg_113x150.jpg
   sizes:
   - sizes/20191219_233810.jpg_113x150.jpg
-  - sizes/20191219_233810.jpg_188x250.jpg
   - sizes/20191219_233810.jpg_263x350.jpg
+  - sizes/20191219_233810.jpg_1500x2000.jpg
 - filename: 20191219_233825
+  large: sizes/20191219_233825.jpg_1125x2000.jpg
   original: sizes/20191219_233825.jpg_197x350.jpg
   thumbnail: sizes/20191219_233825.jpg_84x150.jpg
   sizes:
   - sizes/20191219_233825.jpg_84x150.jpg
-  - sizes/20191219_233825.jpg_141x250.jpg
   - sizes/20191219_233825.jpg_197x350.jpg
+  - sizes/20191219_233825.jpg_1125x2000.jpg

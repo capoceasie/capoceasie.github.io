@@ -1,38 +1,43 @@
 picture_path: pushkar/gurudwara_sahib
 preview:
   filename: P1110589
+  large: sizes/P1110589.jpg_2667x2000.jpg
   original: sizes/P1110589.jpg_467x350.jpg
   thumbnail: sizes/P1110589.jpg_200x150.jpg
   sizes:
   - sizes/P1110589.jpg_200x150.jpg
-  - sizes/P1110589.jpg_333x250.jpg
   - sizes/P1110589.jpg_467x350.jpg
+  - sizes/P1110589.jpg_2667x2000.jpg
 pictures:
 - filename: P1110589
+  large: sizes/P1110589.jpg_2667x2000.jpg
   original: sizes/P1110589.jpg_467x350.jpg
   thumbnail: sizes/P1110589.jpg_200x150.jpg
   sizes:
   - sizes/P1110589.jpg_200x150.jpg
-  - sizes/P1110589.jpg_333x250.jpg
   - sizes/P1110589.jpg_467x350.jpg
+  - sizes/P1110589.jpg_2667x2000.jpg
 - filename: P1110608
+  large: sizes/P1110608.jpg_2667x2000.jpg
   original: sizes/P1110608.jpg_467x350.jpg
   thumbnail: sizes/P1110608.jpg_200x150.jpg
   sizes:
   - sizes/P1110608.jpg_200x150.jpg
-  - sizes/P1110608.jpg_333x250.jpg
   - sizes/P1110608.jpg_467x350.jpg
+  - sizes/P1110608.jpg_2667x2000.jpg
 - filename: P1110611
+  large: sizes/P1110611.jpg_2667x2000.jpg
   original: sizes/P1110611.jpg_467x350.jpg
   thumbnail: sizes/P1110611.jpg_200x150.jpg
   sizes:
   - sizes/P1110611.jpg_200x150.jpg
-  - sizes/P1110611.jpg_333x250.jpg
   - sizes/P1110611.jpg_467x350.jpg
+  - sizes/P1110611.jpg_2667x2000.jpg
 - filename: P1110612
+  large: sizes/P1110612.jpg_2666x2000.jpg
   original: sizes/P1110612.jpg_467x350.jpg
   thumbnail: sizes/P1110612.jpg_200x150.jpg
   sizes:
   - sizes/P1110612.jpg_200x150.jpg
-  - sizes/P1110612.jpg_333x250.jpg
   - sizes/P1110612.jpg_467x350.jpg
+  - sizes/P1110612.jpg_2666x2000.jpg

@@ -1,87 +1,99 @@
 picture_path: got_melbourne/8loch_ard_gorge
 preview:
   filename: 0_P1080410
+  large: sizes/0_P1080410.jpg_2667x2000.jpg
   original: sizes/0_P1080410.jpg_467x350.jpg
   thumbnail: sizes/0_P1080410.jpg_200x150.jpg
   sizes:
   - sizes/0_P1080410.jpg_200x150.jpg
-  - sizes/0_P1080410.jpg_333x250.jpg
   - sizes/0_P1080410.jpg_467x350.jpg
+  - sizes/0_P1080410.jpg_2667x2000.jpg
 pictures:
 - filename: 0_P1080410
+  large: sizes/0_P1080410.jpg_2667x2000.jpg
   original: sizes/0_P1080410.jpg_467x350.jpg
   thumbnail: sizes/0_P1080410.jpg_200x150.jpg
   sizes:
   - sizes/0_P1080410.jpg_200x150.jpg
-  - sizes/0_P1080410.jpg_333x250.jpg
   - sizes/0_P1080410.jpg_467x350.jpg
+  - sizes/0_P1080410.jpg_2667x2000.jpg
 - filename: P1080407
+  large: sizes/P1080407.jpg_2667x2000.jpg
   original: sizes/P1080407.jpg_467x350.jpg
   thumbnail: sizes/P1080407.jpg_200x150.jpg
   sizes:
   - sizes/P1080407.jpg_200x150.jpg
-  - sizes/P1080407.jpg_333x250.jpg
   - sizes/P1080407.jpg_467x350.jpg
+  - sizes/P1080407.jpg_2667x2000.jpg
 - filename: P1080415
+  large: sizes/P1080415.jpg_1500x2000.jpg
   original: sizes/P1080415.jpg_262x350.jpg
   thumbnail: sizes/P1080415.jpg_112x150.jpg
   sizes:
   - sizes/P1080415.jpg_112x150.jpg
-  - sizes/P1080415.jpg_188x250.jpg
   - sizes/P1080415.jpg_262x350.jpg
+  - sizes/P1080415.jpg_1500x2000.jpg
 - filename: P1080418
+  large: sizes/P1080418.jpg_2666x2000.jpg
   original: sizes/P1080418.jpg_467x350.jpg
   thumbnail: sizes/P1080418.jpg_200x150.jpg
   sizes:
   - sizes/P1080418.jpg_200x150.jpg
-  - sizes/P1080418.jpg_333x250.jpg
   - sizes/P1080418.jpg_467x350.jpg
+  - sizes/P1080418.jpg_2666x2000.jpg
 - filename: P1080424
+  large: sizes/P1080424.jpg_1500x2000.jpg
   original: sizes/P1080424.jpg_262x350.jpg
   thumbnail: sizes/P1080424.jpg_112x150.jpg
   sizes:
   - sizes/P1080424.jpg_112x150.jpg
-  - sizes/P1080424.jpg_188x250.jpg
   - sizes/P1080424.jpg_262x350.jpg
+  - sizes/P1080424.jpg_1500x2000.jpg
 - filename: P1080429
+  large: sizes/P1080429.jpg_2667x2000.jpg
   original: sizes/P1080429.jpg_467x350.jpg
   thumbnail: sizes/P1080429.jpg_200x150.jpg
   sizes:
   - sizes/P1080429.jpg_200x150.jpg
-  - sizes/P1080429.jpg_333x250.jpg
   - sizes/P1080429.jpg_467x350.jpg
+  - sizes/P1080429.jpg_2667x2000.jpg
 - filename: P1080430
+  large: sizes/P1080430.jpg_2667x2000.jpg
   original: sizes/P1080430.jpg_467x350.jpg
   thumbnail: sizes/P1080430.jpg_200x150.jpg
   sizes:
   - sizes/P1080430.jpg_200x150.jpg
-  - sizes/P1080430.jpg_333x250.jpg
   - sizes/P1080430.jpg_467x350.jpg
+  - sizes/P1080430.jpg_2667x2000.jpg
 - filename: P1080431
+  large: sizes/P1080431.jpg_2667x2000.jpg
   original: sizes/P1080431.jpg_467x350.jpg
   thumbnail: sizes/P1080431.jpg_200x150.jpg
   sizes:
   - sizes/P1080431.jpg_200x150.jpg
-  - sizes/P1080431.jpg_333x250.jpg
   - sizes/P1080431.jpg_467x350.jpg
+  - sizes/P1080431.jpg_2667x2000.jpg
 - filename: P1080441
+  large: sizes/P1080441.jpg_2666x2000.jpg
   original: sizes/P1080441.jpg_467x350.jpg
   thumbnail: sizes/P1080441.jpg_200x150.jpg
   sizes:
   - sizes/P1080441.jpg_200x150.jpg
-  - sizes/P1080441.jpg_333x250.jpg
   - sizes/P1080441.jpg_467x350.jpg
+  - sizes/P1080441.jpg_2666x2000.jpg
 - filename: P1080446
+  large: sizes/P1080446.jpg_2666x2000.jpg
   original: sizes/P1080446.jpg_467x350.jpg
   thumbnail: sizes/P1080446.jpg_200x150.jpg
   sizes:
   - sizes/P1080446.jpg_200x150.jpg
-  - sizes/P1080446.jpg_333x250.jpg
   - sizes/P1080446.jpg_467x350.jpg
+  - sizes/P1080446.jpg_2666x2000.jpg
 - filename: P1080453
+  large: sizes/P1080453.jpg_2667x2000.jpg
   original: sizes/P1080453.jpg_467x350.jpg
   thumbnail: sizes/P1080453.jpg_200x150.jpg
   sizes:
   - sizes/P1080453.jpg_200x150.jpg
-  - sizes/P1080453.jpg_333x250.jpg
   - sizes/P1080453.jpg_467x350.jpg
+  - sizes/P1080453.jpg_2667x2000.jpg

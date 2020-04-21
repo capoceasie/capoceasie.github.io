@@ -1,66 +1,75 @@
 picture_path: jaipur/sunset
 preview:
   filename: P1110275
+  large: sizes/P1110275.jpg_1500x2000.jpg
   original: sizes/P1110275.jpg_262x350.jpg
   thumbnail: sizes/P1110275.jpg_112x150.jpg
   sizes:
   - sizes/P1110275.jpg_112x150.jpg
-  - sizes/P1110275.jpg_188x250.jpg
   - sizes/P1110275.jpg_262x350.jpg
+  - sizes/P1110275.jpg_1500x2000.jpg
 pictures:
 - filename: P1110275
+  large: sizes/P1110275.jpg_1500x2000.jpg
   original: sizes/P1110275.jpg_262x350.jpg
   thumbnail: sizes/P1110275.jpg_112x150.jpg
   sizes:
   - sizes/P1110275.jpg_112x150.jpg
-  - sizes/P1110275.jpg_188x250.jpg
   - sizes/P1110275.jpg_262x350.jpg
+  - sizes/P1110275.jpg_1500x2000.jpg
 - filename: P1110276
+  large: sizes/P1110276.jpg_2667x2000.jpg
   original: sizes/P1110276.jpg_467x350.jpg
   thumbnail: sizes/P1110276.jpg_200x150.jpg
   sizes:
   - sizes/P1110276.jpg_200x150.jpg
-  - sizes/P1110276.jpg_333x250.jpg
   - sizes/P1110276.jpg_467x350.jpg
+  - sizes/P1110276.jpg_2667x2000.jpg
 - filename: P1110281
+  large: sizes/P1110281.jpg_2667x2000.jpg
   original: sizes/P1110281.jpg_467x350.jpg
   thumbnail: sizes/P1110281.jpg_200x150.jpg
   sizes:
   - sizes/P1110281.jpg_200x150.jpg
-  - sizes/P1110281.jpg_333x250.jpg
   - sizes/P1110281.jpg_467x350.jpg
+  - sizes/P1110281.jpg_2667x2000.jpg
 - filename: P1110283
+  large: sizes/P1110283.jpg_2667x2000.jpg
   original: sizes/P1110283.jpg_467x350.jpg
   thumbnail: sizes/P1110283.jpg_200x150.jpg
   sizes:
   - sizes/P1110283.jpg_200x150.jpg
-  - sizes/P1110283.jpg_333x250.jpg
   - sizes/P1110283.jpg_467x350.jpg
+  - sizes/P1110283.jpg_2667x2000.jpg
 - filename: P1110284
+  large: sizes/P1110284.jpg_2666x2000.jpg
   original: sizes/P1110284.jpg_467x350.jpg
   thumbnail: sizes/P1110284.jpg_200x150.jpg
   sizes:
   - sizes/P1110284.jpg_200x150.jpg
-  - sizes/P1110284.jpg_333x250.jpg
   - sizes/P1110284.jpg_467x350.jpg
+  - sizes/P1110284.jpg_2666x2000.jpg
 - filename: P1110289
+  large: sizes/P1110289.jpg_2666x2000.jpg
   original: sizes/P1110289.jpg_467x350.jpg
   thumbnail: sizes/P1110289.jpg_200x150.jpg
   sizes:
   - sizes/P1110289.jpg_200x150.jpg
-  - sizes/P1110289.jpg_333x250.jpg
   - sizes/P1110289.jpg_467x350.jpg
+  - sizes/P1110289.jpg_2666x2000.jpg
 - filename: P1110293
+  large: sizes/P1110293.jpg_1500x2000.jpg
   original: sizes/P1110293.jpg_262x350.jpg
   thumbnail: sizes/P1110293.jpg_112x150.jpg
   sizes:
   - sizes/P1110293.jpg_112x150.jpg
-  - sizes/P1110293.jpg_188x250.jpg
   - sizes/P1110293.jpg_262x350.jpg
+  - sizes/P1110293.jpg_1500x2000.jpg
 - filename: Z20191223_171817
+  large: sizes/Z20191223_171817.jpg_2667x2000.jpg
   original: sizes/Z20191223_171817.jpg_467x350.jpg
   thumbnail: sizes/Z20191223_171817.jpg_200x150.jpg
   sizes:
   - sizes/Z20191223_171817.jpg_200x150.jpg
-  - sizes/Z20191223_171817.jpg_333x250.jpg
   - sizes/Z20191223_171817.jpg_467x350.jpg
+  - sizes/Z20191223_171817.jpg_2667x2000.jpg

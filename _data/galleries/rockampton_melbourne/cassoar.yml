@@ -1,24 +1,27 @@
 picture_path: rockampton_melbourne/cassoar
 preview:
   filename: P1070873
+  large: sizes/P1070873.jpg_1500x2000.jpg
   original: sizes/P1070873.jpg_262x350.jpg
   thumbnail: sizes/P1070873.jpg_112x150.jpg
   sizes:
   - sizes/P1070873.jpg_112x150.jpg
-  - sizes/P1070873.jpg_187x250.jpg
   - sizes/P1070873.jpg_262x350.jpg
+  - sizes/P1070873.jpg_1500x2000.jpg
 pictures:
 - filename: P1070873
+  large: sizes/P1070873.jpg_1500x2000.jpg
   original: sizes/P1070873.jpg_262x350.jpg
   thumbnail: sizes/P1070873.jpg_112x150.jpg
   sizes:
   - sizes/P1070873.jpg_112x150.jpg
-  - sizes/P1070873.jpg_187x250.jpg
   - sizes/P1070873.jpg_262x350.jpg
+  - sizes/P1070873.jpg_1500x2000.jpg
 - filename: P1070892
+  large: sizes/P1070892.jpg_1500x2000.jpg
   original: sizes/P1070892.jpg_263x350.jpg
   thumbnail: sizes/P1070892.jpg_113x150.jpg
   sizes:
   - sizes/P1070892.jpg_113x150.jpg
-  - sizes/P1070892.jpg_188x250.jpg
   - sizes/P1070892.jpg_263x350.jpg
+  - sizes/P1070892.jpg_1500x2000.jpg

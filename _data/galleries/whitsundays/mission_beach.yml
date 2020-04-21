@@ -1,38 +1,43 @@
 picture_path: whitsundays/mission_beach
 preview:
   filename: 20191118_091232
+  large: sizes/20191118_091232.jpg_2666x2000.jpg
   original: sizes/20191118_091232.jpg_467x350.jpg
   thumbnail: sizes/20191118_091232.jpg_200x150.jpg
   sizes:
   - sizes/20191118_091232.jpg_200x150.jpg
-  - sizes/20191118_091232.jpg_333x250.jpg
   - sizes/20191118_091232.jpg_467x350.jpg
+  - sizes/20191118_091232.jpg_2666x2000.jpg
 pictures:
 - filename: 20191118_091232
+  large: sizes/20191118_091232.jpg_2666x2000.jpg
   original: sizes/20191118_091232.jpg_467x350.jpg
   thumbnail: sizes/20191118_091232.jpg_200x150.jpg
   sizes:
   - sizes/20191118_091232.jpg_200x150.jpg
-  - sizes/20191118_091232.jpg_333x250.jpg
   - sizes/20191118_091232.jpg_467x350.jpg
+  - sizes/20191118_091232.jpg_2666x2000.jpg
 - filename: 20191118_094412
+  large: sizes/20191118_094412.jpg_2666x2000.jpg
   original: sizes/20191118_094412.jpg_467x350.jpg
   thumbnail: sizes/20191118_094412.jpg_200x150.jpg
   sizes:
   - sizes/20191118_094412.jpg_200x150.jpg
-  - sizes/20191118_094412.jpg_333x250.jpg
   - sizes/20191118_094412.jpg_467x350.jpg
+  - sizes/20191118_094412.jpg_2666x2000.jpg
 - filename: 20191118_094433
+  large: sizes/20191118_094433.jpg_1500x2000.jpg
   original: sizes/20191118_094433.jpg_262x350.jpg
   thumbnail: sizes/20191118_094433.jpg_112x150.jpg
   sizes:
   - sizes/20191118_094433.jpg_112x150.jpg
-  - sizes/20191118_094433.jpg_188x250.jpg
   - sizes/20191118_094433.jpg_262x350.jpg
+  - sizes/20191118_094433.jpg_1500x2000.jpg
 - filename: 20191118_094611
+  large: sizes/20191118_094611.jpg_2666x2000.jpg
   original: sizes/20191118_094611.jpg_467x350.jpg
   thumbnail: sizes/20191118_094611.jpg_200x150.jpg
   sizes:
   - sizes/20191118_094611.jpg_200x150.jpg
-  - sizes/20191118_094611.jpg_333x250.jpg
   - sizes/20191118_094611.jpg_467x350.jpg
+  - sizes/20191118_094611.jpg_2666x2000.jpg

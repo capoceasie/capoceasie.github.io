@@ -1,24 +1,27 @@
 picture_path: centre_rouge/kc_chameaux_et_qg_elvis
 preview:
   filename: 20191113_073426
+  large: sizes/20191113_073426.jpg_2667x2000.jpg
   original: sizes/20191113_073426.jpg_467x350.jpg
   thumbnail: sizes/20191113_073426.jpg_200x150.jpg
   sizes:
   - sizes/20191113_073426.jpg_200x150.jpg
-  - sizes/20191113_073426.jpg_333x250.jpg
   - sizes/20191113_073426.jpg_467x350.jpg
+  - sizes/20191113_073426.jpg_2667x2000.jpg
 pictures:
 - filename: 20191113_073426
+  large: sizes/20191113_073426.jpg_2667x2000.jpg
   original: sizes/20191113_073426.jpg_467x350.jpg
   thumbnail: sizes/20191113_073426.jpg_200x150.jpg
   sizes:
   - sizes/20191113_073426.jpg_200x150.jpg
-  - sizes/20191113_073426.jpg_333x250.jpg
   - sizes/20191113_073426.jpg_467x350.jpg
+  - sizes/20191113_073426.jpg_2667x2000.jpg
 - filename: 20191113_074714
+  large: sizes/20191113_074714.jpg_2666x2000.jpg
   original: sizes/20191113_074714.jpg_467x350.jpg
   thumbnail: sizes/20191113_074714.jpg_200x150.jpg
   sizes:
   - sizes/20191113_074714.jpg_200x150.jpg
-  - sizes/20191113_074714.jpg_333x250.jpg
   - sizes/20191113_074714.jpg_467x350.jpg
+  - sizes/20191113_074714.jpg_2666x2000.jpg

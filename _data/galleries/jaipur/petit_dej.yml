@@ -1,31 +1,35 @@
 picture_path: jaipur/petit_dej
 preview:
   filename: 20191224_094422
+  large: sizes/20191224_094422.jpg_3556x2000.jpg
   original: sizes/20191224_094422.jpg_622x350.jpg
   thumbnail: sizes/20191224_094422.jpg_267x150.jpg
   sizes:
   - sizes/20191224_094422.jpg_267x150.jpg
-  - sizes/20191224_094422.jpg_444x250.jpg
   - sizes/20191224_094422.jpg_622x350.jpg
+  - sizes/20191224_094422.jpg_3556x2000.jpg
 pictures:
 - filename: 20191224_094422
+  large: sizes/20191224_094422.jpg_3556x2000.jpg
   original: sizes/20191224_094422.jpg_622x350.jpg
   thumbnail: sizes/20191224_094422.jpg_267x150.jpg
   sizes:
   - sizes/20191224_094422.jpg_267x150.jpg
-  - sizes/20191224_094422.jpg_444x250.jpg
   - sizes/20191224_094422.jpg_622x350.jpg
+  - sizes/20191224_094422.jpg_3556x2000.jpg
 - filename: 20191224_100759
+  large: sizes/20191224_100759.jpg_3556x2000.jpg
   original: sizes/20191224_100759.jpg_622x350.jpg
   thumbnail: sizes/20191224_100759.jpg_267x150.jpg
   sizes:
   - sizes/20191224_100759.jpg_267x150.jpg
-  - sizes/20191224_100759.jpg_444x250.jpg
   - sizes/20191224_100759.jpg_622x350.jpg
+  - sizes/20191224_100759.jpg_3556x2000.jpg
 - filename: 20191224_102526
+  large: sizes/20191224_102526.jpg_2667x2000.jpg
   original: sizes/20191224_102526.jpg_467x350.jpg
   thumbnail: sizes/20191224_102526.jpg_200x150.jpg
   sizes:
   - sizes/20191224_102526.jpg_200x150.jpg
-  - sizes/20191224_102526.jpg_333x250.jpg
   - sizes/20191224_102526.jpg_467x350.jpg
+  - sizes/20191224_102526.jpg_2667x2000.jpg

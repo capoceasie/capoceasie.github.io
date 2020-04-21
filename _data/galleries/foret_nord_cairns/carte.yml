@@ -1,24 +1,27 @@
 picture_path: foret_nord_cairns/carte
 preview:
   filename: carte_global_20191115_20191118
+  large: sizes/carte_global_20191115_20191118.jpg_2193x2000.jpg
   original: sizes/carte_global_20191115_20191118.jpg_384x350.jpg
   thumbnail: sizes/carte_global_20191115_20191118.jpg_164x150.jpg
   sizes:
   - sizes/carte_global_20191115_20191118.jpg_164x150.jpg
-  - sizes/carte_global_20191115_20191118.jpg_274x250.jpg
   - sizes/carte_global_20191115_20191118.jpg_384x350.jpg
+  - sizes/carte_global_20191115_20191118.jpg_2193x2000.jpg
 pictures:
 - filename: carte_global_20191115_20191118
+  large: sizes/carte_global_20191115_20191118.jpg_2193x2000.jpg
   original: sizes/carte_global_20191115_20191118.jpg_384x350.jpg
   thumbnail: sizes/carte_global_20191115_20191118.jpg_164x150.jpg
   sizes:
   - sizes/carte_global_20191115_20191118.jpg_164x150.jpg
-  - sizes/carte_global_20191115_20191118.jpg_274x250.jpg
   - sizes/carte_global_20191115_20191118.jpg_384x350.jpg
+  - sizes/carte_global_20191115_20191118.jpg_2193x2000.jpg
 - filename: carte_local_20191115_20191118
+  large: sizes/carte_local_20191115_20191118.jpg_2209x2000.jpg
   original: sizes/carte_local_20191115_20191118.jpg_387x350.jpg
   thumbnail: sizes/carte_local_20191115_20191118.jpg_166x150.jpg
   sizes:
   - sizes/carte_local_20191115_20191118.jpg_166x150.jpg
-  - sizes/carte_local_20191115_20191118.jpg_276x250.jpg
   - sizes/carte_local_20191115_20191118.jpg_387x350.jpg
+  - sizes/carte_local_20191115_20191118.jpg_2209x2000.jpg

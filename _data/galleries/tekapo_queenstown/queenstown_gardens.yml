@@ -1,52 +1,59 @@
 picture_path: tekapo_queenstown/queenstown_gardens
 preview:
   filename: 0P1090086
+  large: sizes/0P1090086.jpg_1500x2000.jpg
   original: sizes/0P1090086.jpg_262x350.jpg
   thumbnail: sizes/0P1090086.jpg_112x150.jpg
   sizes:
   - sizes/0P1090086.jpg_112x150.jpg
-  - sizes/0P1090086.jpg_188x250.jpg
   - sizes/0P1090086.jpg_262x350.jpg
+  - sizes/0P1090086.jpg_1500x2000.jpg
 pictures:
 - filename: 0P1090086
+  large: sizes/0P1090086.jpg_1500x2000.jpg
   original: sizes/0P1090086.jpg_262x350.jpg
   thumbnail: sizes/0P1090086.jpg_112x150.jpg
   sizes:
   - sizes/0P1090086.jpg_112x150.jpg
-  - sizes/0P1090086.jpg_188x250.jpg
   - sizes/0P1090086.jpg_262x350.jpg
+  - sizes/0P1090086.jpg_1500x2000.jpg
 - filename: P1090087
+  large: sizes/P1090087.jpg_2667x2000.jpg
   original: sizes/P1090087.jpg_467x350.jpg
   thumbnail: sizes/P1090087.jpg_200x150.jpg
   sizes:
   - sizes/P1090087.jpg_200x150.jpg
-  - sizes/P1090087.jpg_333x250.jpg
   - sizes/P1090087.jpg_467x350.jpg
+  - sizes/P1090087.jpg_2667x2000.jpg
 - filename: P1090089
+  large: sizes/P1090089.jpg_1500x2000.jpg
   original: sizes/P1090089.jpg_262x350.jpg
   thumbnail: sizes/P1090089.jpg_112x150.jpg
   sizes:
   - sizes/P1090089.jpg_112x150.jpg
-  - sizes/P1090089.jpg_187x250.jpg
   - sizes/P1090089.jpg_262x350.jpg
+  - sizes/P1090089.jpg_1500x2000.jpg
 - filename: P1090090
+  large: sizes/P1090090.jpg_2667x2000.jpg
   original: sizes/P1090090.jpg_467x350.jpg
   thumbnail: sizes/P1090090.jpg_200x150.jpg
   sizes:
   - sizes/P1090090.jpg_200x150.jpg
-  - sizes/P1090090.jpg_333x250.jpg
   - sizes/P1090090.jpg_467x350.jpg
+  - sizes/P1090090.jpg_2667x2000.jpg
 - filename: P1090093
+  large: sizes/P1090093.jpg_1500x2000.jpg
   original: sizes/P1090093.jpg_263x350.jpg
   thumbnail: sizes/P1090093.jpg_113x150.jpg
   sizes:
   - sizes/P1090093.jpg_113x150.jpg
-  - sizes/P1090093.jpg_188x250.jpg
   - sizes/P1090093.jpg_263x350.jpg
+  - sizes/P1090093.jpg_1500x2000.jpg
 - filename: P1090098
+  large: sizes/P1090098.jpg_1500x2000.jpg
   original: sizes/P1090098.jpg_262x350.jpg
   thumbnail: sizes/P1090098.jpg_112x150.jpg
   sizes:
   - sizes/P1090098.jpg_112x150.jpg
-  - sizes/P1090098.jpg_187x250.jpg
   - sizes/P1090098.jpg_262x350.jpg
+  - sizes/P1090098.jpg_1500x2000.jpg

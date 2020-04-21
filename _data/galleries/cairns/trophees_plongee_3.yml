@@ -1,17 +1,19 @@
 picture_path: cairns/trophees_plongee_3
 preview:
   filename: 954
+  large: sizes/954.jpg_1500x2000.jpg
   original: sizes/954.jpg_262x350.jpg
   thumbnail: sizes/954.jpg_112x150.jpg
   sizes:
   - sizes/954.jpg_112x150.jpg
-  - sizes/954.jpg_187x250.jpg
   - sizes/954.jpg_262x350.jpg
+  - sizes/954.jpg_1500x2000.jpg
 pictures:
 - filename: 954
+  large: sizes/954.jpg_1500x2000.jpg
   original: sizes/954.jpg_262x350.jpg
   thumbnail: sizes/954.jpg_112x150.jpg
   sizes:
   - sizes/954.jpg_112x150.jpg
-  - sizes/954.jpg_187x250.jpg
   - sizes/954.jpg_262x350.jpg
+  - sizes/954.jpg_1500x2000.jpg

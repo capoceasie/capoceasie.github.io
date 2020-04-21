@@ -1,24 +1,27 @@
 picture_path: pushkar/montee
 preview:
   filename: 0P1110685
+  large: sizes/0P1110685.jpg_2667x2000.jpg
   original: sizes/0P1110685.jpg_467x350.jpg
   thumbnail: sizes/0P1110685.jpg_200x150.jpg
   sizes:
   - sizes/0P1110685.jpg_200x150.jpg
-  - sizes/0P1110685.jpg_333x250.jpg
   - sizes/0P1110685.jpg_467x350.jpg
+  - sizes/0P1110685.jpg_2667x2000.jpg
 pictures:
 - filename: 0P1110685
+  large: sizes/0P1110685.jpg_2667x2000.jpg
   original: sizes/0P1110685.jpg_467x350.jpg
   thumbnail: sizes/0P1110685.jpg_200x150.jpg
   sizes:
   - sizes/0P1110685.jpg_200x150.jpg
-  - sizes/0P1110685.jpg_333x250.jpg
   - sizes/0P1110685.jpg_467x350.jpg
+  - sizes/0P1110685.jpg_2667x2000.jpg
 - filename: P1110666
+  large: sizes/P1110666.jpg_2666x2000.jpg
   original: sizes/P1110666.jpg_467x350.jpg
   thumbnail: sizes/P1110666.jpg_200x150.jpg
   sizes:
   - sizes/P1110666.jpg_200x150.jpg
-  - sizes/P1110666.jpg_333x250.jpg
   - sizes/P1110666.jpg_467x350.jpg
+  - sizes/P1110666.jpg_2666x2000.jpg

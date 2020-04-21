@@ -1,59 +1,67 @@
 picture_path: whitsundays/plage
 preview:
   filename: 20191120_115440
+  large: sizes/20191120_115440.jpg_2666x2000.jpg
   original: sizes/20191120_115440.jpg_467x350.jpg
   thumbnail: sizes/20191120_115440.jpg_200x150.jpg
   sizes:
   - sizes/20191120_115440.jpg_200x150.jpg
-  - sizes/20191120_115440.jpg_333x250.jpg
   - sizes/20191120_115440.jpg_467x350.jpg
+  - sizes/20191120_115440.jpg_2666x2000.jpg
 pictures:
 - filename: 20191120_115440
+  large: sizes/20191120_115440.jpg_2666x2000.jpg
   original: sizes/20191120_115440.jpg_467x350.jpg
   thumbnail: sizes/20191120_115440.jpg_200x150.jpg
   sizes:
   - sizes/20191120_115440.jpg_200x150.jpg
-  - sizes/20191120_115440.jpg_333x250.jpg
   - sizes/20191120_115440.jpg_467x350.jpg
+  - sizes/20191120_115440.jpg_2666x2000.jpg
 - filename: P1070619
+  large: sizes/P1070619.jpg_2666x2000.jpg
   original: sizes/P1070619.jpg_467x350.jpg
   thumbnail: sizes/P1070619.jpg_200x150.jpg
   sizes:
   - sizes/P1070619.jpg_200x150.jpg
-  - sizes/P1070619.jpg_333x250.jpg
   - sizes/P1070619.jpg_467x350.jpg
+  - sizes/P1070619.jpg_2666x2000.jpg
 - filename: P1070623
+  large: sizes/P1070623.jpg_1500x2000.jpg
   original: sizes/P1070623.jpg_262x350.jpg
   thumbnail: sizes/P1070623.jpg_112x150.jpg
   sizes:
   - sizes/P1070623.jpg_112x150.jpg
-  - sizes/P1070623.jpg_188x250.jpg
   - sizes/P1070623.jpg_262x350.jpg
+  - sizes/P1070623.jpg_1500x2000.jpg
 - filename: P1070626
+  large: sizes/P1070626.jpg_2666x2000.jpg
   original: sizes/P1070626.jpg_467x350.jpg
   thumbnail: sizes/P1070626.jpg_200x150.jpg
   sizes:
   - sizes/P1070626.jpg_200x150.jpg
-  - sizes/P1070626.jpg_333x250.jpg
   - sizes/P1070626.jpg_467x350.jpg
+  - sizes/P1070626.jpg_2666x2000.jpg
 - filename: P1070633
+  large: sizes/P1070633.jpg_1500x2000.jpg
   original: sizes/P1070633.jpg_263x350.jpg
   thumbnail: sizes/P1070633.jpg_113x150.jpg
   sizes:
   - sizes/P1070633.jpg_113x150.jpg
-  - sizes/P1070633.jpg_188x250.jpg
   - sizes/P1070633.jpg_263x350.jpg
+  - sizes/P1070633.jpg_1500x2000.jpg
 - filename: P1070634
+  large: sizes/P1070634.jpg_2667x2000.jpg
   original: sizes/P1070634.jpg_467x350.jpg
   thumbnail: sizes/P1070634.jpg_200x150.jpg
   sizes:
   - sizes/P1070634.jpg_200x150.jpg
-  - sizes/P1070634.jpg_333x250.jpg
   - sizes/P1070634.jpg_467x350.jpg
+  - sizes/P1070634.jpg_2667x2000.jpg
 - filename: P1070641
+  large: sizes/P1070641.jpg_2667x2000.jpg
   original: sizes/P1070641.jpg_467x350.jpg
   thumbnail: sizes/P1070641.jpg_200x150.jpg
   sizes:
   - sizes/P1070641.jpg_200x150.jpg
-  - sizes/P1070641.jpg_333x250.jpg
   - sizes/P1070641.jpg_467x350.jpg
+  - sizes/P1070641.jpg_2667x2000.jpg

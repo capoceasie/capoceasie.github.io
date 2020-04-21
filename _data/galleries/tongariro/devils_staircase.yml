@@ -1,45 +1,51 @@
 picture_path: tongariro/devils_staircase
 preview:
   filename: P1100736
+  large: sizes/P1100736.jpg_2667x2000.jpg
   original: sizes/P1100736.jpg_467x350.jpg
   thumbnail: sizes/P1100736.jpg_200x150.jpg
   sizes:
   - sizes/P1100736.jpg_200x150.jpg
-  - sizes/P1100736.jpg_333x250.jpg
   - sizes/P1100736.jpg_467x350.jpg
+  - sizes/P1100736.jpg_2667x2000.jpg
 pictures:
 - filename: P1100736
+  large: sizes/P1100736.jpg_2667x2000.jpg
   original: sizes/P1100736.jpg_467x350.jpg
   thumbnail: sizes/P1100736.jpg_200x150.jpg
   sizes:
   - sizes/P1100736.jpg_200x150.jpg
-  - sizes/P1100736.jpg_333x250.jpg
   - sizes/P1100736.jpg_467x350.jpg
+  - sizes/P1100736.jpg_2667x2000.jpg
 - filename: P1100740
+  large: sizes/P1100740.jpg_2667x2000.jpg
   original: sizes/P1100740.jpg_467x350.jpg
   thumbnail: sizes/P1100740.jpg_200x150.jpg
   sizes:
   - sizes/P1100740.jpg_200x150.jpg
-  - sizes/P1100740.jpg_333x250.jpg
   - sizes/P1100740.jpg_467x350.jpg
+  - sizes/P1100740.jpg_2667x2000.jpg
 - filename: P1100741
+  large: sizes/P1100741.jpg_2667x2000.jpg
   original: sizes/P1100741.jpg_467x350.jpg
   thumbnail: sizes/P1100741.jpg_200x150.jpg
   sizes:
   - sizes/P1100741.jpg_200x150.jpg
-  - sizes/P1100741.jpg_333x250.jpg
   - sizes/P1100741.jpg_467x350.jpg
+  - sizes/P1100741.jpg_2667x2000.jpg
 - filename: P1100743
+  large: sizes/P1100743.jpg_2667x2000.jpg
   original: sizes/P1100743.jpg_467x350.jpg
   thumbnail: sizes/P1100743.jpg_200x150.jpg
   sizes:
   - sizes/P1100743.jpg_200x150.jpg
-  - sizes/P1100743.jpg_333x250.jpg
   - sizes/P1100743.jpg_467x350.jpg
+  - sizes/P1100743.jpg_2667x2000.jpg
 - filename: P1100746
+  large: sizes/P1100746.jpg_2667x2000.jpg
   original: sizes/P1100746.jpg_467x350.jpg
   thumbnail: sizes/P1100746.jpg_200x150.jpg
   sizes:
   - sizes/P1100746.jpg_200x150.jpg
-  - sizes/P1100746.jpg_333x250.jpg
   - sizes/P1100746.jpg_467x350.jpg
+  - sizes/P1100746.jpg_2667x2000.jpg

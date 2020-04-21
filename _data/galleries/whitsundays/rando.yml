@@ -1,87 +1,99 @@
 picture_path: whitsundays/rando
 preview:
   filename: 20191120_131838
+  large: sizes/20191120_131838.jpg_2666x2000.jpg
   original: sizes/20191120_131838.jpg_467x350.jpg
   thumbnail: sizes/20191120_131838.jpg_200x150.jpg
   sizes:
   - sizes/20191120_131838.jpg_200x150.jpg
-  - sizes/20191120_131838.jpg_333x250.jpg
   - sizes/20191120_131838.jpg_467x350.jpg
+  - sizes/20191120_131838.jpg_2666x2000.jpg
 pictures:
 - filename: 20191120_131838
+  large: sizes/20191120_131838.jpg_2666x2000.jpg
   original: sizes/20191120_131838.jpg_467x350.jpg
   thumbnail: sizes/20191120_131838.jpg_200x150.jpg
   sizes:
   - sizes/20191120_131838.jpg_200x150.jpg
-  - sizes/20191120_131838.jpg_333x250.jpg
   - sizes/20191120_131838.jpg_467x350.jpg
+  - sizes/20191120_131838.jpg_2666x2000.jpg
 - filename: P1070612
+  large: sizes/P1070612.jpg_1500x2000.jpg
   original: sizes/P1070612.jpg_262x350.jpg
   thumbnail: sizes/P1070612.jpg_112x150.jpg
   sizes:
   - sizes/P1070612.jpg_112x150.jpg
-  - sizes/P1070612.jpg_188x250.jpg
   - sizes/P1070612.jpg_262x350.jpg
+  - sizes/P1070612.jpg_1500x2000.jpg
 - filename: P1070647
+  large: sizes/P1070647.jpg_2666x2000.jpg
   original: sizes/P1070647.jpg_467x350.jpg
   thumbnail: sizes/P1070647.jpg_200x150.jpg
   sizes:
   - sizes/P1070647.jpg_200x150.jpg
-  - sizes/P1070647.jpg_333x250.jpg
   - sizes/P1070647.jpg_467x350.jpg
+  - sizes/P1070647.jpg_2666x2000.jpg
 - filename: P1070664
+  large: sizes/P1070664.jpg_2667x2000.jpg
   original: sizes/P1070664.jpg_467x350.jpg
   thumbnail: sizes/P1070664.jpg_200x150.jpg
   sizes:
   - sizes/P1070664.jpg_200x150.jpg
-  - sizes/P1070664.jpg_333x250.jpg
   - sizes/P1070664.jpg_467x350.jpg
+  - sizes/P1070664.jpg_2667x2000.jpg
 - filename: P1070713
+  large: sizes/P1070713.jpg_2667x2000.jpg
   original: sizes/P1070713.jpg_467x350.jpg
   thumbnail: sizes/P1070713.jpg_200x150.jpg
   sizes:
   - sizes/P1070713.jpg_200x150.jpg
-  - sizes/P1070713.jpg_333x250.jpg
   - sizes/P1070713.jpg_467x350.jpg
+  - sizes/P1070713.jpg_2667x2000.jpg
 - filename: P1070718
+  large: sizes/P1070718.jpg_2667x2000.jpg
   original: sizes/P1070718.jpg_467x350.jpg
   thumbnail: sizes/P1070718.jpg_200x150.jpg
   sizes:
   - sizes/P1070718.jpg_200x150.jpg
-  - sizes/P1070718.jpg_333x250.jpg
   - sizes/P1070718.jpg_467x350.jpg
+  - sizes/P1070718.jpg_2667x2000.jpg
 - filename: P1070721
+  large: sizes/P1070721.jpg_2667x2000.jpg
   original: sizes/P1070721.jpg_467x350.jpg
   thumbnail: sizes/P1070721.jpg_200x150.jpg
   sizes:
   - sizes/P1070721.jpg_200x150.jpg
-  - sizes/P1070721.jpg_333x250.jpg
   - sizes/P1070721.jpg_467x350.jpg
+  - sizes/P1070721.jpg_2667x2000.jpg
 - filename: P1070723
+  large: sizes/P1070723.jpg_2667x2000.jpg
   original: sizes/P1070723.jpg_467x350.jpg
   thumbnail: sizes/P1070723.jpg_200x150.jpg
   sizes:
   - sizes/P1070723.jpg_200x150.jpg
-  - sizes/P1070723.jpg_333x250.jpg
   - sizes/P1070723.jpg_467x350.jpg
+  - sizes/P1070723.jpg_2667x2000.jpg
 - filename: P1070727
+  large: sizes/P1070727.jpg_1500x2000.jpg
   original: sizes/P1070727.jpg_262x350.jpg
   thumbnail: sizes/P1070727.jpg_112x150.jpg
   sizes:
   - sizes/P1070727.jpg_112x150.jpg
-  - sizes/P1070727.jpg_188x250.jpg
   - sizes/P1070727.jpg_262x350.jpg
+  - sizes/P1070727.jpg_1500x2000.jpg
 - filename: P1070729
+  large: sizes/P1070729.jpg_2667x2000.jpg
   original: sizes/P1070729.jpg_467x350.jpg
   thumbnail: sizes/P1070729.jpg_200x150.jpg
   sizes:
   - sizes/P1070729.jpg_200x150.jpg
-  - sizes/P1070729.jpg_333x250.jpg
   - sizes/P1070729.jpg_467x350.jpg
+  - sizes/P1070729.jpg_2667x2000.jpg
 - filename: P1070736
+  large: sizes/P1070736.jpg_2667x2000.jpg
   original: sizes/P1070736.jpg_467x350.jpg
   thumbnail: sizes/P1070736.jpg_200x150.jpg
   sizes:
   - sizes/P1070736.jpg_200x150.jpg
-  - sizes/P1070736.jpg_333x250.jpg
   - sizes/P1070736.jpg_467x350.jpg
+  - sizes/P1070736.jpg_2667x2000.jpg

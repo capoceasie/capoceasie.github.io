@@ -1,17 +1,19 @@
 picture_path: milford_wanaka_mtcook/embarquement
 preview:
   filename: 20191207_081505
+  large: sizes/20191207_081505.jpg_1500x2000.jpg
   original: sizes/20191207_081505.jpg_262x350.jpg
   thumbnail: sizes/20191207_081505.jpg_112x150.jpg
   sizes:
   - sizes/20191207_081505.jpg_112x150.jpg
-  - sizes/20191207_081505.jpg_188x250.jpg
   - sizes/20191207_081505.jpg_262x350.jpg
+  - sizes/20191207_081505.jpg_1500x2000.jpg
 pictures:
 - filename: 20191207_081505
+  large: sizes/20191207_081505.jpg_1500x2000.jpg
   original: sizes/20191207_081505.jpg_262x350.jpg
   thumbnail: sizes/20191207_081505.jpg_112x150.jpg
   sizes:
   - sizes/20191207_081505.jpg_112x150.jpg
-  - sizes/20191207_081505.jpg_188x250.jpg
   - sizes/20191207_081505.jpg_262x350.jpg
+  - sizes/20191207_081505.jpg_1500x2000.jpg

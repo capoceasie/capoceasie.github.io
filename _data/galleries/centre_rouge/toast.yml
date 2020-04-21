@@ -1,31 +1,35 @@
 picture_path: centre_rouge/toast
 preview:
   filename: P1070330
+  large: sizes/P1070330.jpg_2667x2000.jpg
   original: sizes/P1070330.jpg_467x350.jpg
   thumbnail: sizes/P1070330.jpg_200x150.jpg
   sizes:
   - sizes/P1070330.jpg_200x150.jpg
-  - sizes/P1070330.jpg_333x250.jpg
   - sizes/P1070330.jpg_467x350.jpg
+  - sizes/P1070330.jpg_2667x2000.jpg
 pictures:
 - filename: P1070330
+  large: sizes/P1070330.jpg_2667x2000.jpg
   original: sizes/P1070330.jpg_467x350.jpg
   thumbnail: sizes/P1070330.jpg_200x150.jpg
   sizes:
   - sizes/P1070330.jpg_200x150.jpg
-  - sizes/P1070330.jpg_333x250.jpg
   - sizes/P1070330.jpg_467x350.jpg
+  - sizes/P1070330.jpg_2667x2000.jpg
 - filename: P1070331
+  large: sizes/P1070331.jpg_1500x2000.jpg
   original: sizes/P1070331.jpg_263x350.jpg
   thumbnail: sizes/P1070331.jpg_113x150.jpg
   sizes:
   - sizes/P1070331.jpg_113x150.jpg
-  - sizes/P1070331.jpg_188x250.jpg
   - sizes/P1070331.jpg_263x350.jpg
+  - sizes/P1070331.jpg_1500x2000.jpg
 - filename: P1070334
+  large: sizes/P1070334.jpg_2667x2000.jpg
   original: sizes/P1070334.jpg_467x350.jpg
   thumbnail: sizes/P1070334.jpg_200x150.jpg
   sizes:
   - sizes/P1070334.jpg_200x150.jpg
-  - sizes/P1070334.jpg_333x250.jpg
   - sizes/P1070334.jpg_467x350.jpg
+  - sizes/P1070334.jpg_2667x2000.jpg

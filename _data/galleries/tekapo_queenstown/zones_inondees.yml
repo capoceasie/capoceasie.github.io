@@ -1,31 +1,35 @@
 picture_path: tekapo_queenstown/zones_inondees
 preview:
   filename: 20191206_105724
+  large: sizes/20191206_105724.jpg_2667x2000.jpg
   original: sizes/20191206_105724.jpg_467x350.jpg
   thumbnail: sizes/20191206_105724.jpg_200x150.jpg
   sizes:
   - sizes/20191206_105724.jpg_200x150.jpg
-  - sizes/20191206_105724.jpg_333x250.jpg
   - sizes/20191206_105724.jpg_467x350.jpg
+  - sizes/20191206_105724.jpg_2667x2000.jpg
 pictures:
 - filename: 20191206_105724
+  large: sizes/20191206_105724.jpg_2667x2000.jpg
   original: sizes/20191206_105724.jpg_467x350.jpg
   thumbnail: sizes/20191206_105724.jpg_200x150.jpg
   sizes:
   - sizes/20191206_105724.jpg_200x150.jpg
-  - sizes/20191206_105724.jpg_333x250.jpg
   - sizes/20191206_105724.jpg_467x350.jpg
+  - sizes/20191206_105724.jpg_2667x2000.jpg
 - filename: P1090096
+  large: sizes/P1090096.jpg_2667x2000.jpg
   original: sizes/P1090096.jpg_467x350.jpg
   thumbnail: sizes/P1090096.jpg_200x150.jpg
   sizes:
   - sizes/P1090096.jpg_200x150.jpg
-  - sizes/P1090096.jpg_333x250.jpg
   - sizes/P1090096.jpg_467x350.jpg
+  - sizes/P1090096.jpg_2667x2000.jpg
 - filename: P1090099
+  large: sizes/P1090099.jpg_2667x2000.jpg
   original: sizes/P1090099.jpg_467x350.jpg
   thumbnail: sizes/P1090099.jpg_200x150.jpg
   sizes:
   - sizes/P1090099.jpg_200x150.jpg
-  - sizes/P1090099.jpg_333x250.jpg
   - sizes/P1090099.jpg_467x350.jpg
+  - sizes/P1090099.jpg_2667x2000.jpg

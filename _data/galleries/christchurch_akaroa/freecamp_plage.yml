@@ -1,24 +1,27 @@
 picture_path: christchurch_akaroa/freecamp_plage
 preview:
   filename: 20191130_183715
+  large: sizes/20191130_183715.jpg_2667x2000.jpg
   original: sizes/20191130_183715.jpg_467x350.jpg
   thumbnail: sizes/20191130_183715.jpg_200x150.jpg
   sizes:
   - sizes/20191130_183715.jpg_200x150.jpg
-  - sizes/20191130_183715.jpg_333x250.jpg
   - sizes/20191130_183715.jpg_467x350.jpg
+  - sizes/20191130_183715.jpg_2667x2000.jpg
 pictures:
 - filename: 20191130_183715
+  large: sizes/20191130_183715.jpg_2667x2000.jpg
   original: sizes/20191130_183715.jpg_467x350.jpg
   thumbnail: sizes/20191130_183715.jpg_200x150.jpg
   sizes:
   - sizes/20191130_183715.jpg_200x150.jpg
-  - sizes/20191130_183715.jpg_333x250.jpg
   - sizes/20191130_183715.jpg_467x350.jpg
+  - sizes/20191130_183715.jpg_2667x2000.jpg
 - filename: 20191130_183900
+  large: sizes/20191130_183900.jpg_1500x2000.jpg
   original: sizes/20191130_183900.jpg_262x350.jpg
   thumbnail: sizes/20191130_183900.jpg_112x150.jpg
   sizes:
   - sizes/20191130_183900.jpg_112x150.jpg
-  - sizes/20191130_183900.jpg_188x250.jpg
   - sizes/20191130_183900.jpg_262x350.jpg
+  - sizes/20191130_183900.jpg_1500x2000.jpg

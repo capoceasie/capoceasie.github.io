@@ -1,45 +1,51 @@
 picture_path: tongariro/panoramas
 preview:
   filename: 20191215_120716
+  large: sizes/20191215_120716.jpg_8271x2000.jpg
   original: sizes/20191215_120716.jpg_1447x350.jpg
   thumbnail: sizes/20191215_120716.jpg_620x150.jpg
   sizes:
   - sizes/20191215_120716.jpg_620x150.jpg
-  - sizes/20191215_120716.jpg_1034x250.jpg
   - sizes/20191215_120716.jpg_1447x350.jpg
+  - sizes/20191215_120716.jpg_8271x2000.jpg
 pictures:
 - filename: 20191215_120716
+  large: sizes/20191215_120716.jpg_8271x2000.jpg
   original: sizes/20191215_120716.jpg_1447x350.jpg
   thumbnail: sizes/20191215_120716.jpg_620x150.jpg
   sizes:
   - sizes/20191215_120716.jpg_620x150.jpg
-  - sizes/20191215_120716.jpg_1034x250.jpg
   - sizes/20191215_120716.jpg_1447x350.jpg
+  - sizes/20191215_120716.jpg_8271x2000.jpg
 - filename: 20191215_122901
+  large: sizes/20191215_122901.jpg_7752x2000.jpg
   original: sizes/20191215_122901.jpg_1357x350.jpg
   thumbnail: sizes/20191215_122901.jpg_581x150.jpg
   sizes:
   - sizes/20191215_122901.jpg_581x150.jpg
-  - sizes/20191215_122901.jpg_969x250.jpg
   - sizes/20191215_122901.jpg_1357x350.jpg
+  - sizes/20191215_122901.jpg_7752x2000.jpg
 - filename: 20191215_124532
+  large: sizes/20191215_124532.jpg_5851x2000.jpg
   original: sizes/20191215_124532.jpg_1024x350.jpg
   thumbnail: sizes/20191215_124532.jpg_439x150.jpg
   sizes:
   - sizes/20191215_124532.jpg_439x150.jpg
-  - sizes/20191215_124532.jpg_731x250.jpg
   - sizes/20191215_124532.jpg_1024x350.jpg
+  - sizes/20191215_124532.jpg_5851x2000.jpg
 - filename: 20191215_134335
+  large: sizes/20191215_134335.jpg_9041x2000.jpg
   original: sizes/20191215_134335.jpg_1582x350.jpg
   thumbnail: sizes/20191215_134335.jpg_678x150.jpg
   sizes:
   - sizes/20191215_134335.jpg_678x150.jpg
-  - sizes/20191215_134335.jpg_1130x250.jpg
   - sizes/20191215_134335.jpg_1582x350.jpg
+  - sizes/20191215_134335.jpg_9041x2000.jpg
 - filename: 20191215_150848
+  large: sizes/20191215_150848.jpg_8046x2000.jpg
   original: sizes/20191215_150848.jpg_1408x350.jpg
   thumbnail: sizes/20191215_150848.jpg_603x150.jpg
   sizes:
   - sizes/20191215_150848.jpg_603x150.jpg
-  - sizes/20191215_150848.jpg_1006x250.jpg
   - sizes/20191215_150848.jpg_1408x350.jpg
+  - sizes/20191215_150848.jpg_8046x2000.jpg

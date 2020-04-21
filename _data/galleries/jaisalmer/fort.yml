@@ -1,66 +1,75 @@
 picture_path: jaisalmer/fort
 preview:
   filename: 0P1110823
+  large: sizes/0P1110823.jpg_2667x2000.jpg
   original: sizes/0P1110823.jpg_467x350.jpg
   thumbnail: sizes/0P1110823.jpg_200x150.jpg
   sizes:
   - sizes/0P1110823.jpg_200x150.jpg
-  - sizes/0P1110823.jpg_333x250.jpg
   - sizes/0P1110823.jpg_467x350.jpg
+  - sizes/0P1110823.jpg_2667x2000.jpg
 pictures:
 - filename: 0P1110823
+  large: sizes/0P1110823.jpg_2667x2000.jpg
   original: sizes/0P1110823.jpg_467x350.jpg
   thumbnail: sizes/0P1110823.jpg_200x150.jpg
   sizes:
   - sizes/0P1110823.jpg_200x150.jpg
-  - sizes/0P1110823.jpg_333x250.jpg
   - sizes/0P1110823.jpg_467x350.jpg
+  - sizes/0P1110823.jpg_2667x2000.jpg
 - filename: P1110803
+  large: sizes/P1110803.jpg_2667x2000.jpg
   original: sizes/P1110803.jpg_467x350.jpg
   thumbnail: sizes/P1110803.jpg_200x150.jpg
   sizes:
   - sizes/P1110803.jpg_200x150.jpg
-  - sizes/P1110803.jpg_333x250.jpg
   - sizes/P1110803.jpg_467x350.jpg
+  - sizes/P1110803.jpg_2667x2000.jpg
 - filename: P1110808
+  large: sizes/P1110808.jpg_2666x2000.jpg
   original: sizes/P1110808.jpg_467x350.jpg
   thumbnail: sizes/P1110808.jpg_200x150.jpg
   sizes:
   - sizes/P1110808.jpg_200x150.jpg
-  - sizes/P1110808.jpg_333x250.jpg
   - sizes/P1110808.jpg_467x350.jpg
+  - sizes/P1110808.jpg_2666x2000.jpg
 - filename: P1110812
+  large: sizes/P1110812.jpg_1500x2000.jpg
   original: sizes/P1110812.jpg_262x350.jpg
   thumbnail: sizes/P1110812.jpg_112x150.jpg
   sizes:
   - sizes/P1110812.jpg_112x150.jpg
-  - sizes/P1110812.jpg_187x250.jpg
   - sizes/P1110812.jpg_262x350.jpg
+  - sizes/P1110812.jpg_1500x2000.jpg
 - filename: P1110815
+  large: sizes/P1110815.jpg_2667x2000.jpg
   original: sizes/P1110815.jpg_467x350.jpg
   thumbnail: sizes/P1110815.jpg_200x150.jpg
   sizes:
   - sizes/P1110815.jpg_200x150.jpg
-  - sizes/P1110815.jpg_333x250.jpg
   - sizes/P1110815.jpg_467x350.jpg
+  - sizes/P1110815.jpg_2667x2000.jpg
 - filename: P1110818
+  large: sizes/P1110818.jpg_1500x2000.jpg
   original: sizes/P1110818.jpg_262x350.jpg
   thumbnail: sizes/P1110818.jpg_112x150.jpg
   sizes:
   - sizes/P1110818.jpg_112x150.jpg
-  - sizes/P1110818.jpg_188x250.jpg
   - sizes/P1110818.jpg_262x350.jpg
+  - sizes/P1110818.jpg_1500x2000.jpg
 - filename: P1110824
+  large: sizes/P1110824.jpg_1500x2000.jpg
   original: sizes/P1110824.jpg_263x350.jpg
   thumbnail: sizes/P1110824.jpg_113x150.jpg
   sizes:
   - sizes/P1110824.jpg_113x150.jpg
-  - sizes/P1110824.jpg_188x250.jpg
   - sizes/P1110824.jpg_263x350.jpg
+  - sizes/P1110824.jpg_1500x2000.jpg
 - filename: P1110828
+  large: sizes/P1110828.jpg_2667x2000.jpg
   original: sizes/P1110828.jpg_467x350.jpg
   thumbnail: sizes/P1110828.jpg_200x150.jpg
   sizes:
   - sizes/P1110828.jpg_200x150.jpg
-  - sizes/P1110828.jpg_333x250.jpg
   - sizes/P1110828.jpg_467x350.jpg
+  - sizes/P1110828.jpg_2667x2000.jpg

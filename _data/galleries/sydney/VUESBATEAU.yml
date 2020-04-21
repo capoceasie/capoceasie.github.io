@@ -1,31 +1,35 @@
 picture_path: sydney/VUESBATEAU
 preview:
   filename: P1060529_3712 x 2784
+  large: sizes/P1060529_3712_x_2784.jpg_2667x2000.jpg
   original: sizes/P1060529_3712_x_2784.jpg_467x350.jpg
   thumbnail: sizes/P1060529_3712_x_2784.jpg_200x150.jpg
   sizes:
   - sizes/P1060529_3712_x_2784.jpg_200x150.jpg
-  - sizes/P1060529_3712_x_2784.jpg_333x250.jpg
   - sizes/P1060529_3712_x_2784.jpg_467x350.jpg
+  - sizes/P1060529_3712_x_2784.jpg_2667x2000.jpg
 pictures:
 - filename: P1060529_3712 x 2784
+  large: sizes/P1060529_3712_x_2784.jpg_2667x2000.jpg
   original: sizes/P1060529_3712_x_2784.jpg_467x350.jpg
   thumbnail: sizes/P1060529_3712_x_2784.jpg_200x150.jpg
   sizes:
   - sizes/P1060529_3712_x_2784.jpg_200x150.jpg
-  - sizes/P1060529_3712_x_2784.jpg_333x250.jpg
   - sizes/P1060529_3712_x_2784.jpg_467x350.jpg
+  - sizes/P1060529_3712_x_2784.jpg_2667x2000.jpg
 - filename: P1060537_3712 x 2784
+  large: sizes/P1060537_3712_x_2784.jpg_2667x2000.jpg
   original: sizes/P1060537_3712_x_2784.jpg_467x350.jpg
   thumbnail: sizes/P1060537_3712_x_2784.jpg_200x150.jpg
   sizes:
   - sizes/P1060537_3712_x_2784.jpg_200x150.jpg
-  - sizes/P1060537_3712_x_2784.jpg_333x250.jpg
   - sizes/P1060537_3712_x_2784.jpg_467x350.jpg
+  - sizes/P1060537_3712_x_2784.jpg_2667x2000.jpg
 - filename: P1060542_3712 x 2784
+  large: sizes/P1060542_3712_x_2784.jpg_2667x2000.jpg
   original: sizes/P1060542_3712_x_2784.jpg_467x350.jpg
   thumbnail: sizes/P1060542_3712_x_2784.jpg_200x150.jpg
   sizes:
   - sizes/P1060542_3712_x_2784.jpg_200x150.jpg
-  - sizes/P1060542_3712_x_2784.jpg_333x250.jpg
   - sizes/P1060542_3712_x_2784.jpg_467x350.jpg
+  - sizes/P1060542_3712_x_2784.jpg_2667x2000.jpg

@@ -1,24 +1,27 @@
 picture_path: rockampton_melbourne/goldmine
 preview:
   filename: 20191123_221716
+  large: sizes/20191123_221716.jpg_1500x2000.jpg
   original: sizes/20191123_221716.jpg_262x350.jpg
   thumbnail: sizes/20191123_221716.jpg_112x150.jpg
   sizes:
   - sizes/20191123_221716.jpg_112x150.jpg
-  - sizes/20191123_221716.jpg_188x250.jpg
   - sizes/20191123_221716.jpg_262x350.jpg
+  - sizes/20191123_221716.jpg_1500x2000.jpg
 pictures:
 - filename: 20191123_221716
+  large: sizes/20191123_221716.jpg_1500x2000.jpg
   original: sizes/20191123_221716.jpg_262x350.jpg
   thumbnail: sizes/20191123_221716.jpg_112x150.jpg
   sizes:
   - sizes/20191123_221716.jpg_112x150.jpg
-  - sizes/20191123_221716.jpg_188x250.jpg
   - sizes/20191123_221716.jpg_262x350.jpg
+  - sizes/20191123_221716.jpg_1500x2000.jpg
 - filename: 20191123_221801
+  large: sizes/20191123_221801.jpg_1500x2000.jpg
   original: sizes/20191123_221801.jpg_262x350.jpg
   thumbnail: sizes/20191123_221801.jpg_112x150.jpg
   sizes:
   - sizes/20191123_221801.jpg_112x150.jpg
-  - sizes/20191123_221801.jpg_188x250.jpg
   - sizes/20191123_221801.jpg_262x350.jpg
+  - sizes/20191123_221801.jpg_1500x2000.jpg

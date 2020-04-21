@@ -1,17 +1,19 @@
 picture_path: milford_wanaka_mtcook/petit_dej
 preview:
   filename: 20191207_090327
+  large: sizes/20191207_090327.jpg_2667x2000.jpg
   original: sizes/20191207_090327.jpg_467x350.jpg
   thumbnail: sizes/20191207_090327.jpg_200x150.jpg
   sizes:
   - sizes/20191207_090327.jpg_200x150.jpg
-  - sizes/20191207_090327.jpg_333x250.jpg
   - sizes/20191207_090327.jpg_467x350.jpg
+  - sizes/20191207_090327.jpg_2667x2000.jpg
 pictures:
 - filename: 20191207_090327
+  large: sizes/20191207_090327.jpg_2667x2000.jpg
   original: sizes/20191207_090327.jpg_467x350.jpg
   thumbnail: sizes/20191207_090327.jpg_200x150.jpg
   sizes:
   - sizes/20191207_090327.jpg_200x150.jpg
-  - sizes/20191207_090327.jpg_333x250.jpg
   - sizes/20191207_090327.jpg_467x350.jpg
+  - sizes/20191207_090327.jpg_2667x2000.jpg

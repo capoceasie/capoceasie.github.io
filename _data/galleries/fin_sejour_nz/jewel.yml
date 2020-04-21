@@ -1,52 +1,59 @@
 picture_path: fin_sejour_nz/jewel
 preview:
   filename: 0P1110075
+  large: sizes/0P1110075.jpg_1500x2000.jpg
   original: sizes/0P1110075.jpg_262x350.jpg
   thumbnail: sizes/0P1110075.jpg_112x150.jpg
   sizes:
   - sizes/0P1110075.jpg_112x150.jpg
-  - sizes/0P1110075.jpg_188x250.jpg
   - sizes/0P1110075.jpg_262x350.jpg
+  - sizes/0P1110075.jpg_1500x2000.jpg
 pictures:
 - filename: 0P1110075
+  large: sizes/0P1110075.jpg_1500x2000.jpg
   original: sizes/0P1110075.jpg_262x350.jpg
   thumbnail: sizes/0P1110075.jpg_112x150.jpg
   sizes:
   - sizes/0P1110075.jpg_112x150.jpg
-  - sizes/0P1110075.jpg_188x250.jpg
   - sizes/0P1110075.jpg_262x350.jpg
+  - sizes/0P1110075.jpg_1500x2000.jpg
 - filename: P1110066
+  large: sizes/P1110066.jpg_2667x2000.jpg
   original: sizes/P1110066.jpg_467x350.jpg
   thumbnail: sizes/P1110066.jpg_200x150.jpg
   sizes:
   - sizes/P1110066.jpg_200x150.jpg
-  - sizes/P1110066.jpg_333x250.jpg
   - sizes/P1110066.jpg_467x350.jpg
+  - sizes/P1110066.jpg_2667x2000.jpg
 - filename: P1110067
+  large: sizes/P1110067.jpg_2667x2000.jpg
   original: sizes/P1110067.jpg_467x350.jpg
   thumbnail: sizes/P1110067.jpg_200x150.jpg
   sizes:
   - sizes/P1110067.jpg_200x150.jpg
-  - sizes/P1110067.jpg_333x250.jpg
   - sizes/P1110067.jpg_467x350.jpg
+  - sizes/P1110067.jpg_2667x2000.jpg
 - filename: P1110069
+  large: sizes/P1110069.jpg_1500x2000.jpg
   original: sizes/P1110069.jpg_262x350.jpg
   thumbnail: sizes/P1110069.jpg_112x150.jpg
   sizes:
   - sizes/P1110069.jpg_112x150.jpg
-  - sizes/P1110069.jpg_188x250.jpg
   - sizes/P1110069.jpg_262x350.jpg
+  - sizes/P1110069.jpg_1500x2000.jpg
 - filename: P1110070
+  large: sizes/P1110070.jpg_2667x2000.jpg
   original: sizes/P1110070.jpg_467x350.jpg
   thumbnail: sizes/P1110070.jpg_200x150.jpg
   sizes:
   - sizes/P1110070.jpg_200x150.jpg
-  - sizes/P1110070.jpg_333x250.jpg
   - sizes/P1110070.jpg_467x350.jpg
+  - sizes/P1110070.jpg_2667x2000.jpg
 - filename: P1110072
+  large: sizes/P1110072.jpg_2666x2000.jpg
   original: sizes/P1110072.jpg_467x350.jpg
   thumbnail: sizes/P1110072.jpg_200x150.jpg
   sizes:
   - sizes/P1110072.jpg_200x150.jpg
-  - sizes/P1110072.jpg_333x250.jpg
   - sizes/P1110072.jpg_467x350.jpg
+  - sizes/P1110072.jpg_2666x2000.jpg

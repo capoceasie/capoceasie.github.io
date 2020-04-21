@@ -1,31 +1,35 @@
 picture_path: fin_sejour_nz/marche_poisson
 preview:
   filename: P1110028
+  large: sizes/P1110028.jpg_1500x2000.jpg
   original: sizes/P1110028.jpg_263x350.jpg
   thumbnail: sizes/P1110028.jpg_113x150.jpg
   sizes:
   - sizes/P1110028.jpg_113x150.jpg
-  - sizes/P1110028.jpg_188x250.jpg
   - sizes/P1110028.jpg_263x350.jpg
+  - sizes/P1110028.jpg_1500x2000.jpg
 pictures:
 - filename: P1110028
+  large: sizes/P1110028.jpg_1500x2000.jpg
   original: sizes/P1110028.jpg_263x350.jpg
   thumbnail: sizes/P1110028.jpg_113x150.jpg
   sizes:
   - sizes/P1110028.jpg_113x150.jpg
-  - sizes/P1110028.jpg_188x250.jpg
   - sizes/P1110028.jpg_263x350.jpg
+  - sizes/P1110028.jpg_1500x2000.jpg
 - filename: P1110030
+  large: sizes/P1110030.jpg_2666x2000.jpg
   original: sizes/P1110030.jpg_467x350.jpg
   thumbnail: sizes/P1110030.jpg_200x150.jpg
   sizes:
   - sizes/P1110030.jpg_200x150.jpg
-  - sizes/P1110030.jpg_333x250.jpg
   - sizes/P1110030.jpg_467x350.jpg
+  - sizes/P1110030.jpg_2666x2000.jpg
 - filename: P1110032
+  large: sizes/P1110032.jpg_2667x2000.jpg
   original: sizes/P1110032.jpg_467x350.jpg
   thumbnail: sizes/P1110032.jpg_200x150.jpg
   sizes:
   - sizes/P1110032.jpg_200x150.jpg
-  - sizes/P1110032.jpg_333x250.jpg
   - sizes/P1110032.jpg_467x350.jpg
+  - sizes/P1110032.jpg_2667x2000.jpg

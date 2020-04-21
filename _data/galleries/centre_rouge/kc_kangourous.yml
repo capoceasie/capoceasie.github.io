@@ -1,17 +1,19 @@
 picture_path: centre_rouge/kc_kangourous
 preview:
   filename: P1070139
+  large: sizes/P1070139.jpg_2667x2000.jpg
   original: sizes/P1070139.jpg_467x350.jpg
   thumbnail: sizes/P1070139.jpg_200x150.jpg
   sizes:
   - sizes/P1070139.jpg_200x150.jpg
-  - sizes/P1070139.jpg_333x250.jpg
   - sizes/P1070139.jpg_467x350.jpg
+  - sizes/P1070139.jpg_2667x2000.jpg
 pictures:
 - filename: P1070139
+  large: sizes/P1070139.jpg_2667x2000.jpg
   original: sizes/P1070139.jpg_467x350.jpg
   thumbnail: sizes/P1070139.jpg_200x150.jpg
   sizes:
   - sizes/P1070139.jpg_200x150.jpg
-  - sizes/P1070139.jpg_333x250.jpg
   - sizes/P1070139.jpg_467x350.jpg
+  - sizes/P1070139.jpg_2667x2000.jpg

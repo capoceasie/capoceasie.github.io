@@ -1,52 +1,59 @@
 picture_path: sydney/DARLINGHARBOUR
 preview:
   filename: P1060669_2784 x 3712
+  large: sizes/P1060669_2784_x_3712.jpg_1500x2000.jpg
   original: sizes/P1060669_2784_x_3712.jpg_262x350.jpg
   thumbnail: sizes/P1060669_2784_x_3712.jpg_112x150.jpg
   sizes:
   - sizes/P1060669_2784_x_3712.jpg_112x150.jpg
-  - sizes/P1060669_2784_x_3712.jpg_188x250.jpg
   - sizes/P1060669_2784_x_3712.jpg_262x350.jpg
+  - sizes/P1060669_2784_x_3712.jpg_1500x2000.jpg
 pictures:
 - filename: P1060669_2784 x 3712
+  large: sizes/P1060669_2784_x_3712.jpg_1500x2000.jpg
   original: sizes/P1060669_2784_x_3712.jpg_262x350.jpg
   thumbnail: sizes/P1060669_2784_x_3712.jpg_112x150.jpg
   sizes:
   - sizes/P1060669_2784_x_3712.jpg_112x150.jpg
-  - sizes/P1060669_2784_x_3712.jpg_188x250.jpg
   - sizes/P1060669_2784_x_3712.jpg_262x350.jpg
+  - sizes/P1060669_2784_x_3712.jpg_1500x2000.jpg
 - filename: P1060679_3712 x 2784
+  large: sizes/P1060679_3712_x_2784.jpg_2667x2000.jpg
   original: sizes/P1060679_3712_x_2784.jpg_467x350.jpg
   thumbnail: sizes/P1060679_3712_x_2784.jpg_200x150.jpg
   sizes:
   - sizes/P1060679_3712_x_2784.jpg_200x150.jpg
-  - sizes/P1060679_3712_x_2784.jpg_333x250.jpg
   - sizes/P1060679_3712_x_2784.jpg_467x350.jpg
+  - sizes/P1060679_3712_x_2784.jpg_2667x2000.jpg
 - filename: P1060684_2784 x 3712
+  large: sizes/P1060684_2784_x_3712.jpg_1500x2000.jpg
   original: sizes/P1060684_2784_x_3712.jpg_263x350.jpg
   thumbnail: sizes/P1060684_2784_x_3712.jpg_113x150.jpg
   sizes:
   - sizes/P1060684_2784_x_3712.jpg_113x150.jpg
-  - sizes/P1060684_2784_x_3712.jpg_188x250.jpg
   - sizes/P1060684_2784_x_3712.jpg_263x350.jpg
+  - sizes/P1060684_2784_x_3712.jpg_1500x2000.jpg
 - filename: P1060688_3712 x 2784
+  large: sizes/P1060688_3712_x_2784.jpg_2667x2000.jpg
   original: sizes/P1060688_3712_x_2784.jpg_467x350.jpg
   thumbnail: sizes/P1060688_3712_x_2784.jpg_200x150.jpg
   sizes:
   - sizes/P1060688_3712_x_2784.jpg_200x150.jpg
-  - sizes/P1060688_3712_x_2784.jpg_333x250.jpg
   - sizes/P1060688_3712_x_2784.jpg_467x350.jpg
+  - sizes/P1060688_3712_x_2784.jpg_2667x2000.jpg
 - filename: P1060691_3712 x 2784
+  large: sizes/P1060691_3712_x_2784.jpg_2667x2000.jpg
   original: sizes/P1060691_3712_x_2784.jpg_467x350.jpg
   thumbnail: sizes/P1060691_3712_x_2784.jpg_200x150.jpg
   sizes:
   - sizes/P1060691_3712_x_2784.jpg_200x150.jpg
-  - sizes/P1060691_3712_x_2784.jpg_333x250.jpg
   - sizes/P1060691_3712_x_2784.jpg_467x350.jpg
+  - sizes/P1060691_3712_x_2784.jpg_2667x2000.jpg
 - filename: P1060695_3712 x 2784
+  large: sizes/P1060695_3712_x_2784.jpg_2667x2000.jpg
   original: sizes/P1060695_3712_x_2784.jpg_467x350.jpg
   thumbnail: sizes/P1060695_3712_x_2784.jpg_200x150.jpg
   sizes:
   - sizes/P1060695_3712_x_2784.jpg_200x150.jpg
-  - sizes/P1060695_3712_x_2784.jpg_333x250.jpg
   - sizes/P1060695_3712_x_2784.jpg_467x350.jpg
+  - sizes/P1060695_3712_x_2784.jpg_2667x2000.jpg

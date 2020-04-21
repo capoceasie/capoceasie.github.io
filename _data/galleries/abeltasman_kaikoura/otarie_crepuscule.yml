@@ -1,52 +1,59 @@
 picture_path: abeltasman_kaikoura/otarie_crepuscule
 preview:
   filename: P1090797
+  large: sizes/P1090797.jpg_2806x2000.jpg
   original: sizes/P1090797.jpg_491x350.jpg
   thumbnail: sizes/P1090797.jpg_210x150.jpg
   sizes:
   - sizes/P1090797.jpg_210x150.jpg
-  - sizes/P1090797.jpg_351x250.jpg
   - sizes/P1090797.jpg_491x350.jpg
+  - sizes/P1090797.jpg_2806x2000.jpg
 pictures:
 - filename: P1090797
+  large: sizes/P1090797.jpg_2806x2000.jpg
   original: sizes/P1090797.jpg_491x350.jpg
   thumbnail: sizes/P1090797.jpg_210x150.jpg
   sizes:
   - sizes/P1090797.jpg_210x150.jpg
-  - sizes/P1090797.jpg_351x250.jpg
   - sizes/P1090797.jpg_491x350.jpg
+  - sizes/P1090797.jpg_2806x2000.jpg
 - filename: P1090799
+  large: sizes/P1090799.jpg_2667x2000.jpg
   original: sizes/P1090799.jpg_467x350.jpg
   thumbnail: sizes/P1090799.jpg_200x150.jpg
   sizes:
   - sizes/P1090799.jpg_200x150.jpg
-  - sizes/P1090799.jpg_333x250.jpg
   - sizes/P1090799.jpg_467x350.jpg
+  - sizes/P1090799.jpg_2667x2000.jpg
 - filename: P1090810
+  large: sizes/P1090810.jpg_2667x2000.jpg
   original: sizes/P1090810.jpg_467x350.jpg
   thumbnail: sizes/P1090810.jpg_200x150.jpg
   sizes:
   - sizes/P1090810.jpg_200x150.jpg
-  - sizes/P1090810.jpg_333x250.jpg
   - sizes/P1090810.jpg_467x350.jpg
+  - sizes/P1090810.jpg_2667x2000.jpg
 - filename: P1090835
+  large: sizes/P1090835.jpg_2567x2000.jpg
   original: sizes/P1090835.jpg_449x350.jpg
   thumbnail: sizes/P1090835.jpg_193x150.jpg
   sizes:
   - sizes/P1090835.jpg_193x150.jpg
-  - sizes/P1090835.jpg_321x250.jpg
   - sizes/P1090835.jpg_449x350.jpg
+  - sizes/P1090835.jpg_2567x2000.jpg
 - filename: P1090839
+  large: sizes/P1090839.jpg_2667x2000.jpg
   original: sizes/P1090839.jpg_467x350.jpg
   thumbnail: sizes/P1090839.jpg_200x150.jpg
   sizes:
   - sizes/P1090839.jpg_200x150.jpg
-  - sizes/P1090839.jpg_333x250.jpg
   - sizes/P1090839.jpg_467x350.jpg
+  - sizes/P1090839.jpg_2667x2000.jpg
 - filename: P1090846
+  large: sizes/P1090846.jpg_2667x2000.jpg
   original: sizes/P1090846.jpg_467x350.jpg
   thumbnail: sizes/P1090846.jpg_200x150.jpg
   sizes:
   - sizes/P1090846.jpg_200x150.jpg
-  - sizes/P1090846.jpg_333x250.jpg
   - sizes/P1090846.jpg_467x350.jpg
+  - sizes/P1090846.jpg_2667x2000.jpg

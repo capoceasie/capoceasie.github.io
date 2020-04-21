@@ -1,24 +1,27 @@
 picture_path: rockampton_melbourne/koala_attente
 preview:
   filename: P1070967
+  large: sizes/P1070967.jpg_1500x2000.jpg
   original: sizes/P1070967.jpg_262x350.jpg
   thumbnail: sizes/P1070967.jpg_112x150.jpg
   sizes:
   - sizes/P1070967.jpg_112x150.jpg
-  - sizes/P1070967.jpg_188x250.jpg
   - sizes/P1070967.jpg_262x350.jpg
+  - sizes/P1070967.jpg_1500x2000.jpg
 pictures:
 - filename: P1070967
+  large: sizes/P1070967.jpg_1500x2000.jpg
   original: sizes/P1070967.jpg_262x350.jpg
   thumbnail: sizes/P1070967.jpg_112x150.jpg
   sizes:
   - sizes/P1070967.jpg_112x150.jpg
-  - sizes/P1070967.jpg_188x250.jpg
   - sizes/P1070967.jpg_262x350.jpg
+  - sizes/P1070967.jpg_1500x2000.jpg
 - filename: P1070969
+  large: sizes/P1070969.jpg_1500x2000.jpg
   original: sizes/P1070969.jpg_262x350.jpg
   thumbnail: sizes/P1070969.jpg_112x150.jpg
   sizes:
   - sizes/P1070969.jpg_112x150.jpg
-  - sizes/P1070969.jpg_188x250.jpg
   - sizes/P1070969.jpg_262x350.jpg
+  - sizes/P1070969.jpg_1500x2000.jpg

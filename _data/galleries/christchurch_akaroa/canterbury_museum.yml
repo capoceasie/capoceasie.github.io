@@ -1,94 +1,107 @@
 picture_path: christchurch_akaroa/canterbury_museum
 preview:
   filename: P1080607
+  large: sizes/P1080607.jpg_2667x2000.jpg
   original: sizes/P1080607.jpg_467x350.jpg
   thumbnail: sizes/P1080607.jpg_200x150.jpg
   sizes:
   - sizes/P1080607.jpg_200x150.jpg
-  - sizes/P1080607.jpg_333x250.jpg
   - sizes/P1080607.jpg_467x350.jpg
+  - sizes/P1080607.jpg_2667x2000.jpg
 pictures:
 - filename: P1080607
+  large: sizes/P1080607.jpg_2667x2000.jpg
   original: sizes/P1080607.jpg_467x350.jpg
   thumbnail: sizes/P1080607.jpg_200x150.jpg
   sizes:
   - sizes/P1080607.jpg_200x150.jpg
-  - sizes/P1080607.jpg_333x250.jpg
   - sizes/P1080607.jpg_467x350.jpg
+  - sizes/P1080607.jpg_2667x2000.jpg
 - filename: P1080609
+  large: sizes/P1080609.jpg_2667x2000.jpg
   original: sizes/P1080609.jpg_467x350.jpg
   thumbnail: sizes/P1080609.jpg_200x150.jpg
   sizes:
   - sizes/P1080609.jpg_200x150.jpg
-  - sizes/P1080609.jpg_333x250.jpg
   - sizes/P1080609.jpg_467x350.jpg
+  - sizes/P1080609.jpg_2667x2000.jpg
 - filename: P1080611
+  large: sizes/P1080611.jpg_2667x2000.jpg
   original: sizes/P1080611.jpg_467x350.jpg
   thumbnail: sizes/P1080611.jpg_200x150.jpg
   sizes:
   - sizes/P1080611.jpg_200x150.jpg
-  - sizes/P1080611.jpg_333x250.jpg
   - sizes/P1080611.jpg_467x350.jpg
+  - sizes/P1080611.jpg_2667x2000.jpg
 - filename: P1080620
+  large: sizes/P1080620.jpg_2667x2000.jpg
   original: sizes/P1080620.jpg_467x350.jpg
   thumbnail: sizes/P1080620.jpg_200x150.jpg
   sizes:
   - sizes/P1080620.jpg_200x150.jpg
-  - sizes/P1080620.jpg_333x250.jpg
   - sizes/P1080620.jpg_467x350.jpg
+  - sizes/P1080620.jpg_2667x2000.jpg
 - filename: P1080622
+  large: sizes/P1080622.jpg_2666x2000.jpg
   original: sizes/P1080622.jpg_467x350.jpg
   thumbnail: sizes/P1080622.jpg_200x150.jpg
   sizes:
   - sizes/P1080622.jpg_200x150.jpg
-  - sizes/P1080622.jpg_333x250.jpg
   - sizes/P1080622.jpg_467x350.jpg
+  - sizes/P1080622.jpg_2666x2000.jpg
 - filename: P1080626
+  large: sizes/P1080626.jpg_1500x2000.jpg
   original: sizes/P1080626.jpg_262x350.jpg
   thumbnail: sizes/P1080626.jpg_112x150.jpg
   sizes:
   - sizes/P1080626.jpg_112x150.jpg
-  - sizes/P1080626.jpg_188x250.jpg
   - sizes/P1080626.jpg_262x350.jpg
+  - sizes/P1080626.jpg_1500x2000.jpg
 - filename: P1080631
+  large: sizes/P1080631.jpg_2666x2000.jpg
   original: sizes/P1080631.jpg_467x350.jpg
   thumbnail: sizes/P1080631.jpg_200x150.jpg
   sizes:
   - sizes/P1080631.jpg_200x150.jpg
-  - sizes/P1080631.jpg_333x250.jpg
   - sizes/P1080631.jpg_467x350.jpg
+  - sizes/P1080631.jpg_2666x2000.jpg
 - filename: P1080634
+  large: sizes/P1080634.jpg_1500x2000.jpg
   original: sizes/P1080634.jpg_262x350.jpg
   thumbnail: sizes/P1080634.jpg_112x150.jpg
   sizes:
   - sizes/P1080634.jpg_112x150.jpg
-  - sizes/P1080634.jpg_188x250.jpg
   - sizes/P1080634.jpg_262x350.jpg
+  - sizes/P1080634.jpg_1500x2000.jpg
 - filename: P1080636
+  large: sizes/P1080636.jpg_2667x2000.jpg
   original: sizes/P1080636.jpg_467x350.jpg
   thumbnail: sizes/P1080636.jpg_200x150.jpg
   sizes:
   - sizes/P1080636.jpg_200x150.jpg
-  - sizes/P1080636.jpg_333x250.jpg
   - sizes/P1080636.jpg_467x350.jpg
+  - sizes/P1080636.jpg_2667x2000.jpg
 - filename: P1080637
+  large: sizes/P1080637.jpg_2666x2000.jpg
   original: sizes/P1080637.jpg_467x350.jpg
   thumbnail: sizes/P1080637.jpg_200x150.jpg
   sizes:
   - sizes/P1080637.jpg_200x150.jpg
-  - sizes/P1080637.jpg_333x250.jpg
   - sizes/P1080637.jpg_467x350.jpg
+  - sizes/P1080637.jpg_2666x2000.jpg
 - filename: P1080642
+  large: sizes/P1080642.jpg_1500x2000.jpg
   original: sizes/P1080642.jpg_262x350.jpg
   thumbnail: sizes/P1080642.jpg_112x150.jpg
   sizes:
   - sizes/P1080642.jpg_112x150.jpg
-  - sizes/P1080642.jpg_188x250.jpg
   - sizes/P1080642.jpg_262x350.jpg
+  - sizes/P1080642.jpg_1500x2000.jpg
 - filename: P1080643
+  large: sizes/P1080643.jpg_2667x2000.jpg
   original: sizes/P1080643.jpg_467x350.jpg
   thumbnail: sizes/P1080643.jpg_200x150.jpg
   sizes:
   - sizes/P1080643.jpg_200x150.jpg
-  - sizes/P1080643.jpg_333x250.jpg
   - sizes/P1080643.jpg_467x350.jpg
+  - sizes/P1080643.jpg_2667x2000.jpg

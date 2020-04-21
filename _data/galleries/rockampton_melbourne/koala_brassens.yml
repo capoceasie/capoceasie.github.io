@@ -1,24 +1,27 @@
 picture_path: rockampton_melbourne/koala_brassens
 preview:
   filename: P1070946
+  large: sizes/P1070946.jpg_1500x2000.jpg
   original: sizes/P1070946.jpg_262x350.jpg
   thumbnail: sizes/P1070946.jpg_112x150.jpg
   sizes:
   - sizes/P1070946.jpg_112x150.jpg
-  - sizes/P1070946.jpg_188x250.jpg
   - sizes/P1070946.jpg_262x350.jpg
+  - sizes/P1070946.jpg_1500x2000.jpg
 pictures:
 - filename: P1070946
+  large: sizes/P1070946.jpg_1500x2000.jpg
   original: sizes/P1070946.jpg_262x350.jpg
   thumbnail: sizes/P1070946.jpg_112x150.jpg
   sizes:
   - sizes/P1070946.jpg_112x150.jpg
-  - sizes/P1070946.jpg_188x250.jpg
   - sizes/P1070946.jpg_262x350.jpg
+  - sizes/P1070946.jpg_1500x2000.jpg
 - filename: P1080016
+  large: sizes/P1080016.jpg_1500x2000.jpg
   original: sizes/P1080016.jpg_262x350.jpg
   thumbnail: sizes/P1080016.jpg_112x150.jpg
   sizes:
   - sizes/P1080016.jpg_112x150.jpg
-  - sizes/P1080016.jpg_188x250.jpg
   - sizes/P1080016.jpg_262x350.jpg
+  - sizes/P1080016.jpg_1500x2000.jpg
