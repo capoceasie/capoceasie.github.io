@@ -1,0 +1,27 @@
+picture_path: jodhpur/the
+preview:
+  filename: 20191230_121918
+  large: sizes/20191230_121918.jpg_3556x2000.jpg
+  original: sizes/20191230_121918.jpg_622x350.jpg
+  thumbnail: sizes/20191230_121918.jpg_267x150.jpg
+  sizes:
+  - sizes/20191230_121918.jpg_267x150.jpg
+  - sizes/20191230_121918.jpg_622x350.jpg
+  - sizes/20191230_121918.jpg_3556x2000.jpg
+pictures:
+- filename: 20191230_121918
+  large: sizes/20191230_121918.jpg_3556x2000.jpg
+  original: sizes/20191230_121918.jpg_622x350.jpg
+  thumbnail: sizes/20191230_121918.jpg_267x150.jpg
+  sizes:
+  - sizes/20191230_121918.jpg_267x150.jpg
+  - sizes/20191230_121918.jpg_622x350.jpg
+  - sizes/20191230_121918.jpg_3556x2000.jpg
+- filename: P1120172
+  large: sizes/P1120172.jpg_2666x2000.jpg
+  original: sizes/P1120172.jpg_467x350.jpg
+  thumbnail: sizes/P1120172.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120172.jpg_200x150.jpg
+  - sizes/P1120172.jpg_467x350.jpg
+  - sizes/P1120172.jpg_2666x2000.jpg

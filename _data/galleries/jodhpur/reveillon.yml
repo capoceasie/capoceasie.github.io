@@ -1,0 +1,43 @@
+picture_path: jodhpur/reveillon
+preview:
+  filename: 20191231_203448
+  large: sizes/20191231_203448.jpg_3556x2000.jpg
+  original: sizes/20191231_203448.jpg_622x350.jpg
+  thumbnail: sizes/20191231_203448.jpg_267x150.jpg
+  sizes:
+  - sizes/20191231_203448.jpg_267x150.jpg
+  - sizes/20191231_203448.jpg_622x350.jpg
+  - sizes/20191231_203448.jpg_3556x2000.jpg
+pictures:
+- filename: 20191231_203448
+  large: sizes/20191231_203448.jpg_3556x2000.jpg
+  original: sizes/20191231_203448.jpg_622x350.jpg
+  thumbnail: sizes/20191231_203448.jpg_267x150.jpg
+  sizes:
+  - sizes/20191231_203448.jpg_267x150.jpg
+  - sizes/20191231_203448.jpg_622x350.jpg
+  - sizes/20191231_203448.jpg_3556x2000.jpg
+- filename: P1120569
+  large: sizes/P1120569.jpg_2666x2000.jpg
+  original: sizes/P1120569.jpg_467x350.jpg
+  thumbnail: sizes/P1120569.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120569.jpg_200x150.jpg
+  - sizes/P1120569.jpg_467x350.jpg
+  - sizes/P1120569.jpg_2666x2000.jpg
+- filename: P1120573
+  large: sizes/P1120573.jpg_1500x2000.jpg
+  original: sizes/P1120573.jpg_262x350.jpg
+  thumbnail: sizes/P1120573.jpg_112x150.jpg
+  sizes:
+  - sizes/P1120573.jpg_112x150.jpg
+  - sizes/P1120573.jpg_262x350.jpg
+  - sizes/P1120573.jpg_1500x2000.jpg
+- filename: P1120577
+  large: sizes/P1120577.jpg_2667x2000.jpg
+  original: sizes/P1120577.jpg_467x350.jpg
+  thumbnail: sizes/P1120577.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120577.jpg_200x150.jpg
+  - sizes/P1120577.jpg_467x350.jpg
+  - sizes/P1120577.jpg_2667x2000.jpg

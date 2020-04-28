@@ -1,0 +1,27 @@
+picture_path: jodhpur/lassi
+preview:
+  filename: 20191229_160450
+  large: sizes/20191229_160450.jpg_1500x2000.jpg
+  original: sizes/20191229_160450.jpg_262x350.jpg
+  thumbnail: sizes/20191229_160450.jpg_112x150.jpg
+  sizes:
+  - sizes/20191229_160450.jpg_112x150.jpg
+  - sizes/20191229_160450.jpg_262x350.jpg
+  - sizes/20191229_160450.jpg_1500x2000.jpg
+pictures:
+- filename: 20191229_160450
+  large: sizes/20191229_160450.jpg_1500x2000.jpg
+  original: sizes/20191229_160450.jpg_262x350.jpg
+  thumbnail: sizes/20191229_160450.jpg_112x150.jpg
+  sizes:
+  - sizes/20191229_160450.jpg_112x150.jpg
+  - sizes/20191229_160450.jpg_262x350.jpg
+  - sizes/20191229_160450.jpg_1500x2000.jpg
+- filename: 20200101_101833
+  large: sizes/20200101_101833.jpg_1500x2000.jpg
+  original: sizes/20200101_101833.jpg_262x350.jpg
+  thumbnail: sizes/20200101_101833.jpg_112x150.jpg
+  sizes:
+  - sizes/20200101_101833.jpg_112x150.jpg
+  - sizes/20200101_101833.jpg_262x350.jpg
+  - sizes/20200101_101833.jpg_1500x2000.jpg

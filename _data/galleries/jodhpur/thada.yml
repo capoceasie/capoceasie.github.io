@@ -1,0 +1,51 @@
+picture_path: jodhpur/thada
+preview:
+  filename: P1120312
+  large: sizes/P1120312.jpg_2667x2000.jpg
+  original: sizes/P1120312.jpg_467x350.jpg
+  thumbnail: sizes/P1120312.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120312.jpg_200x150.jpg
+  - sizes/P1120312.jpg_467x350.jpg
+  - sizes/P1120312.jpg_2667x2000.jpg
+pictures:
+- filename: P1120312
+  large: sizes/P1120312.jpg_2667x2000.jpg
+  original: sizes/P1120312.jpg_467x350.jpg
+  thumbnail: sizes/P1120312.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120312.jpg_200x150.jpg
+  - sizes/P1120312.jpg_467x350.jpg
+  - sizes/P1120312.jpg_2667x2000.jpg
+- filename: P1120320
+  large: sizes/P1120320.jpg_2667x2000.jpg
+  original: sizes/P1120320.jpg_467x350.jpg
+  thumbnail: sizes/P1120320.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120320.jpg_200x150.jpg
+  - sizes/P1120320.jpg_467x350.jpg
+  - sizes/P1120320.jpg_2667x2000.jpg
+- filename: P1120321
+  large: sizes/P1120321.jpg_2667x2000.jpg
+  original: sizes/P1120321.jpg_467x350.jpg
+  thumbnail: sizes/P1120321.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120321.jpg_200x150.jpg
+  - sizes/P1120321.jpg_467x350.jpg
+  - sizes/P1120321.jpg_2667x2000.jpg
+- filename: P1120323
+  large: sizes/P1120323.jpg_2667x2000.jpg
+  original: sizes/P1120323.jpg_467x350.jpg
+  thumbnail: sizes/P1120323.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120323.jpg_200x150.jpg
+  - sizes/P1120323.jpg_467x350.jpg
+  - sizes/P1120323.jpg_2667x2000.jpg
+- filename: P1120329
+  large: sizes/P1120329.jpg_2667x2000.jpg
+  original: sizes/P1120329.jpg_467x350.jpg
+  thumbnail: sizes/P1120329.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120329.jpg_200x150.jpg
+  - sizes/P1120329.jpg_467x350.jpg
+  - sizes/P1120329.jpg_2667x2000.jpg

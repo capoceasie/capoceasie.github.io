@@ -1,0 +1,35 @@
+picture_path: jodhpur/puit1
+preview:
+  filename: P1120124
+  large: sizes/P1120124.jpg_2667x2000.jpg
+  original: sizes/P1120124.jpg_467x350.jpg
+  thumbnail: sizes/P1120124.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120124.jpg_200x150.jpg
+  - sizes/P1120124.jpg_467x350.jpg
+  - sizes/P1120124.jpg_2667x2000.jpg
+pictures:
+- filename: P1120124
+  large: sizes/P1120124.jpg_2667x2000.jpg
+  original: sizes/P1120124.jpg_467x350.jpg
+  thumbnail: sizes/P1120124.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120124.jpg_200x150.jpg
+  - sizes/P1120124.jpg_467x350.jpg
+  - sizes/P1120124.jpg_2667x2000.jpg
+- filename: P1120136
+  large: sizes/P1120136.jpg_1500x2000.jpg
+  original: sizes/P1120136.jpg_262x350.jpg
+  thumbnail: sizes/P1120136.jpg_112x150.jpg
+  sizes:
+  - sizes/P1120136.jpg_112x150.jpg
+  - sizes/P1120136.jpg_262x350.jpg
+  - sizes/P1120136.jpg_1500x2000.jpg
+- filename: P1120138
+  large: sizes/P1120138.jpg_2666x2000.jpg
+  original: sizes/P1120138.jpg_467x350.jpg
+  thumbnail: sizes/P1120138.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120138.jpg_200x150.jpg
+  - sizes/P1120138.jpg_467x350.jpg
+  - sizes/P1120138.jpg_2666x2000.jpg

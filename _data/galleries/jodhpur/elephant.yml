@@ -1,0 +1,35 @@
+picture_path: jodhpur/elephant
+preview:
+  filename: P1120507
+  large: sizes/P1120507.jpg_1500x2000.jpg
+  original: sizes/P1120507.jpg_263x350.jpg
+  thumbnail: sizes/P1120507.jpg_113x150.jpg
+  sizes:
+  - sizes/P1120507.jpg_113x150.jpg
+  - sizes/P1120507.jpg_263x350.jpg
+  - sizes/P1120507.jpg_1500x2000.jpg
+pictures:
+- filename: P1120507
+  large: sizes/P1120507.jpg_1500x2000.jpg
+  original: sizes/P1120507.jpg_263x350.jpg
+  thumbnail: sizes/P1120507.jpg_113x150.jpg
+  sizes:
+  - sizes/P1120507.jpg_113x150.jpg
+  - sizes/P1120507.jpg_263x350.jpg
+  - sizes/P1120507.jpg_1500x2000.jpg
+- filename: P1120510
+  large: sizes/P1120510.jpg_2667x2000.jpg
+  original: sizes/P1120510.jpg_467x350.jpg
+  thumbnail: sizes/P1120510.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120510.jpg_200x150.jpg
+  - sizes/P1120510.jpg_467x350.jpg
+  - sizes/P1120510.jpg_2667x2000.jpg
+- filename: P1120513
+  large: sizes/P1120513.jpg_1500x2000.jpg
+  original: sizes/P1120513.jpg_262x350.jpg
+  thumbnail: sizes/P1120513.jpg_112x150.jpg
+  sizes:
+  - sizes/P1120513.jpg_112x150.jpg
+  - sizes/P1120513.jpg_262x350.jpg
+  - sizes/P1120513.jpg_1500x2000.jpg

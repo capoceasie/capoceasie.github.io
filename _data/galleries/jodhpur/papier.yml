@@ -1,0 +1,19 @@
+picture_path: jodhpur/papier
+preview:
+  filename: 20191231_203421
+  large: sizes/20191231_203421.jpg_1125x2000.jpg
+  original: sizes/20191231_203421.jpg_197x350.jpg
+  thumbnail: sizes/20191231_203421.jpg_84x150.jpg
+  sizes:
+  - sizes/20191231_203421.jpg_84x150.jpg
+  - sizes/20191231_203421.jpg_197x350.jpg
+  - sizes/20191231_203421.jpg_1125x2000.jpg
+pictures:
+- filename: 20191231_203421
+  large: sizes/20191231_203421.jpg_1125x2000.jpg
+  original: sizes/20191231_203421.jpg_197x350.jpg
+  thumbnail: sizes/20191231_203421.jpg_84x150.jpg
+  sizes:
+  - sizes/20191231_203421.jpg_84x150.jpg
+  - sizes/20191231_203421.jpg_197x350.jpg
+  - sizes/20191231_203421.jpg_1125x2000.jpg

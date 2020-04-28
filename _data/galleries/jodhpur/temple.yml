@@ -1,0 +1,51 @@
+picture_path: jodhpur/temple
+preview:
+  filename: P1120279
+  large: sizes/P1120279.jpg_2666x2000.jpg
+  original: sizes/P1120279.jpg_467x350.jpg
+  thumbnail: sizes/P1120279.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120279.jpg_200x150.jpg
+  - sizes/P1120279.jpg_467x350.jpg
+  - sizes/P1120279.jpg_2666x2000.jpg
+pictures:
+- filename: P1120279
+  large: sizes/P1120279.jpg_2666x2000.jpg
+  original: sizes/P1120279.jpg_467x350.jpg
+  thumbnail: sizes/P1120279.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120279.jpg_200x150.jpg
+  - sizes/P1120279.jpg_467x350.jpg
+  - sizes/P1120279.jpg_2666x2000.jpg
+- filename: P1120284
+  large: sizes/P1120284.jpg_2667x2000.jpg
+  original: sizes/P1120284.jpg_467x350.jpg
+  thumbnail: sizes/P1120284.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120284.jpg_200x150.jpg
+  - sizes/P1120284.jpg_467x350.jpg
+  - sizes/P1120284.jpg_2667x2000.jpg
+- filename: P1120286
+  large: sizes/P1120286.jpg_2667x2000.jpg
+  original: sizes/P1120286.jpg_467x350.jpg
+  thumbnail: sizes/P1120286.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120286.jpg_200x150.jpg
+  - sizes/P1120286.jpg_467x350.jpg
+  - sizes/P1120286.jpg_2667x2000.jpg
+- filename: P1120289
+  large: sizes/P1120289.jpg_1500x2000.jpg
+  original: sizes/P1120289.jpg_262x350.jpg
+  thumbnail: sizes/P1120289.jpg_112x150.jpg
+  sizes:
+  - sizes/P1120289.jpg_112x150.jpg
+  - sizes/P1120289.jpg_262x350.jpg
+  - sizes/P1120289.jpg_1500x2000.jpg
+- filename: P1120291
+  large: sizes/P1120291.jpg_2667x2000.jpg
+  original: sizes/P1120291.jpg_467x350.jpg
+  thumbnail: sizes/P1120291.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120291.jpg_200x150.jpg
+  - sizes/P1120291.jpg_467x350.jpg
+  - sizes/P1120291.jpg_2667x2000.jpg

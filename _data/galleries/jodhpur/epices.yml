@@ -1,0 +1,35 @@
+picture_path: jodhpur/epices
+preview:
+  filename: P1120516
+  large: sizes/P1120516.jpg_2667x2000.jpg
+  original: sizes/P1120516.jpg_467x350.jpg
+  thumbnail: sizes/P1120516.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120516.jpg_200x150.jpg
+  - sizes/P1120516.jpg_467x350.jpg
+  - sizes/P1120516.jpg_2667x2000.jpg
+pictures:
+- filename: P1120516
+  large: sizes/P1120516.jpg_2667x2000.jpg
+  original: sizes/P1120516.jpg_467x350.jpg
+  thumbnail: sizes/P1120516.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120516.jpg_200x150.jpg
+  - sizes/P1120516.jpg_467x350.jpg
+  - sizes/P1120516.jpg_2667x2000.jpg
+- filename: P1120518
+  large: sizes/P1120518.jpg_1500x2000.jpg
+  original: sizes/P1120518.jpg_262x350.jpg
+  thumbnail: sizes/P1120518.jpg_112x150.jpg
+  sizes:
+  - sizes/P1120518.jpg_112x150.jpg
+  - sizes/P1120518.jpg_262x350.jpg
+  - sizes/P1120518.jpg_1500x2000.jpg
+- filename: P1120521
+  large: sizes/P1120521.jpg_2667x2000.jpg
+  original: sizes/P1120521.jpg_467x350.jpg
+  thumbnail: sizes/P1120521.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120521.jpg_200x150.jpg
+  - sizes/P1120521.jpg_467x350.jpg
+  - sizes/P1120521.jpg_2667x2000.jpg

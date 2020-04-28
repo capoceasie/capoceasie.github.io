@@ -1,0 +1,27 @@
+picture_path: jodhpur/lassi_nouvel_an
+preview:
+  filename: 20200101_102011
+  large: sizes/20200101_102011.jpg_1500x2000.jpg
+  original: sizes/20200101_102011.jpg_262x350.jpg
+  thumbnail: sizes/20200101_102011.jpg_112x150.jpg
+  sizes:
+  - sizes/20200101_102011.jpg_112x150.jpg
+  - sizes/20200101_102011.jpg_262x350.jpg
+  - sizes/20200101_102011.jpg_1500x2000.jpg
+pictures:
+- filename: 20200101_102011
+  large: sizes/20200101_102011.jpg_1500x2000.jpg
+  original: sizes/20200101_102011.jpg_262x350.jpg
+  thumbnail: sizes/20200101_102011.jpg_112x150.jpg
+  sizes:
+  - sizes/20200101_102011.jpg_112x150.jpg
+  - sizes/20200101_102011.jpg_262x350.jpg
+  - sizes/20200101_102011.jpg_1500x2000.jpg
+- filename: 20200101_102730
+  large: sizes/20200101_102730.jpg_1500x2000.jpg
+  original: sizes/20200101_102730.jpg_262x350.jpg
+  thumbnail: sizes/20200101_102730.jpg_112x150.jpg
+  sizes:
+  - sizes/20200101_102730.jpg_112x150.jpg
+  - sizes/20200101_102730.jpg_262x350.jpg
+  - sizes/20200101_102730.jpg_1500x2000.jpg

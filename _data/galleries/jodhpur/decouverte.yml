@@ -1,0 +1,35 @@
+picture_path: jodhpur/decouverte
+preview:
+  filename: 0P1120115
+  large: sizes/0P1120115.jpg_1500x2000.jpg
+  original: sizes/0P1120115.jpg_263x350.jpg
+  thumbnail: sizes/0P1120115.jpg_113x150.jpg
+  sizes:
+  - sizes/0P1120115.jpg_113x150.jpg
+  - sizes/0P1120115.jpg_263x350.jpg
+  - sizes/0P1120115.jpg_1500x2000.jpg
+pictures:
+- filename: 0P1120115
+  large: sizes/0P1120115.jpg_1500x2000.jpg
+  original: sizes/0P1120115.jpg_263x350.jpg
+  thumbnail: sizes/0P1120115.jpg_113x150.jpg
+  sizes:
+  - sizes/0P1120115.jpg_113x150.jpg
+  - sizes/0P1120115.jpg_263x350.jpg
+  - sizes/0P1120115.jpg_1500x2000.jpg
+- filename: P1120089
+  large: sizes/P1120089.jpg_1500x2000.jpg
+  original: sizes/P1120089.jpg_262x350.jpg
+  thumbnail: sizes/P1120089.jpg_112x150.jpg
+  sizes:
+  - sizes/P1120089.jpg_112x150.jpg
+  - sizes/P1120089.jpg_262x350.jpg
+  - sizes/P1120089.jpg_1500x2000.jpg
+- filename: P1120091
+  large: sizes/P1120091.jpg_1500x2000.jpg
+  original: sizes/P1120091.jpg_262x350.jpg
+  thumbnail: sizes/P1120091.jpg_112x150.jpg
+  sizes:
+  - sizes/P1120091.jpg_112x150.jpg
+  - sizes/P1120091.jpg_262x350.jpg
+  - sizes/P1120091.jpg_1500x2000.jpg

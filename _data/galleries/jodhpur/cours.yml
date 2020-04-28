@@ -1,0 +1,27 @@
+picture_path: jodhpur/cours
+preview:
+  filename: P1120147
+  large: sizes/P1120147.jpg_2667x2000.jpg
+  original: sizes/P1120147.jpg_467x350.jpg
+  thumbnail: sizes/P1120147.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120147.jpg_200x150.jpg
+  - sizes/P1120147.jpg_467x350.jpg
+  - sizes/P1120147.jpg_2667x2000.jpg
+pictures:
+- filename: P1120147
+  large: sizes/P1120147.jpg_2667x2000.jpg
+  original: sizes/P1120147.jpg_467x350.jpg
+  thumbnail: sizes/P1120147.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120147.jpg_200x150.jpg
+  - sizes/P1120147.jpg_467x350.jpg
+  - sizes/P1120147.jpg_2667x2000.jpg
+- filename: P1120161
+  large: sizes/P1120161.jpg_2666x2000.jpg
+  original: sizes/P1120161.jpg_467x350.jpg
+  thumbnail: sizes/P1120161.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120161.jpg_200x150.jpg
+  - sizes/P1120161.jpg_467x350.jpg
+  - sizes/P1120161.jpg_2666x2000.jpg
