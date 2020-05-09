@@ -1,0 +1,27 @@
+picture_path: udaipur/paps
+preview:
+  filename: 20200102_110821
+  large: sizes/20200102_110821.jpg_1125x2000.jpg
+  original: sizes/20200102_110821.jpg_197x350.jpg
+  thumbnail: sizes/20200102_110821.jpg_84x150.jpg
+  sizes:
+  - sizes/20200102_110821.jpg_84x150.jpg
+  - sizes/20200102_110821.jpg_197x350.jpg
+  - sizes/20200102_110821.jpg_1125x2000.jpg
+pictures:
+- filename: 20200102_110821
+  large: sizes/20200102_110821.jpg_1125x2000.jpg
+  original: sizes/20200102_110821.jpg_197x350.jpg
+  thumbnail: sizes/20200102_110821.jpg_84x150.jpg
+  sizes:
+  - sizes/20200102_110821.jpg_84x150.jpg
+  - sizes/20200102_110821.jpg_197x350.jpg
+  - sizes/20200102_110821.jpg_1125x2000.jpg
+- filename: 20200102_111020
+  large: sizes/20200102_111020.jpg_1500x2000.jpg
+  original: sizes/20200102_111020.jpg_262x350.jpg
+  thumbnail: sizes/20200102_111020.jpg_112x150.jpg
+  sizes:
+  - sizes/20200102_111020.jpg_112x150.jpg
+  - sizes/20200102_111020.jpg_262x350.jpg
+  - sizes/20200102_111020.jpg_1500x2000.jpg

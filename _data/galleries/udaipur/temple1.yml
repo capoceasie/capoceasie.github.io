@@ -1,0 +1,43 @@
+picture_path: udaipur/temple1
+preview:
+  filename: P1120812
+  large: sizes/P1120812.jpg_1500x2000.jpg
+  original: sizes/P1120812.jpg_262x350.jpg
+  thumbnail: sizes/P1120812.jpg_112x150.jpg
+  sizes:
+  - sizes/P1120812.jpg_112x150.jpg
+  - sizes/P1120812.jpg_262x350.jpg
+  - sizes/P1120812.jpg_1500x2000.jpg
+pictures:
+- filename: P1120812
+  large: sizes/P1120812.jpg_1500x2000.jpg
+  original: sizes/P1120812.jpg_262x350.jpg
+  thumbnail: sizes/P1120812.jpg_112x150.jpg
+  sizes:
+  - sizes/P1120812.jpg_112x150.jpg
+  - sizes/P1120812.jpg_262x350.jpg
+  - sizes/P1120812.jpg_1500x2000.jpg
+- filename: P1120822
+  large: sizes/P1120822.jpg_1500x2000.jpg
+  original: sizes/P1120822.jpg_263x350.jpg
+  thumbnail: sizes/P1120822.jpg_113x150.jpg
+  sizes:
+  - sizes/P1120822.jpg_113x150.jpg
+  - sizes/P1120822.jpg_263x350.jpg
+  - sizes/P1120822.jpg_1500x2000.jpg
+- filename: P1120823
+  large: sizes/P1120823.jpg_2666x2000.jpg
+  original: sizes/P1120823.jpg_467x350.jpg
+  thumbnail: sizes/P1120823.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120823.jpg_200x150.jpg
+  - sizes/P1120823.jpg_467x350.jpg
+  - sizes/P1120823.jpg_2666x2000.jpg
+- filename: P1120824
+  large: sizes/P1120824.jpg_2667x2000.jpg
+  original: sizes/P1120824.jpg_467x350.jpg
+  thumbnail: sizes/P1120824.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120824.jpg_200x150.jpg
+  - sizes/P1120824.jpg_467x350.jpg
+  - sizes/P1120824.jpg_2667x2000.jpg

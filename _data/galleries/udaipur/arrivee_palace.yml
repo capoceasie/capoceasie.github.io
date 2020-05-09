@@ -1,0 +1,59 @@
+picture_path: udaipur/arrivee_palace
+preview:
+  filename: P1120640
+  large: sizes/P1120640.jpg_2666x2000.jpg
+  original: sizes/P1120640.jpg_467x350.jpg
+  thumbnail: sizes/P1120640.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120640.jpg_200x150.jpg
+  - sizes/P1120640.jpg_467x350.jpg
+  - sizes/P1120640.jpg_2666x2000.jpg
+pictures:
+- filename: P1120640
+  large: sizes/P1120640.jpg_2666x2000.jpg
+  original: sizes/P1120640.jpg_467x350.jpg
+  thumbnail: sizes/P1120640.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120640.jpg_200x150.jpg
+  - sizes/P1120640.jpg_467x350.jpg
+  - sizes/P1120640.jpg_2666x2000.jpg
+- filename: P1120642
+  large: sizes/P1120642.jpg_2666x2000.jpg
+  original: sizes/P1120642.jpg_467x350.jpg
+  thumbnail: sizes/P1120642.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120642.jpg_200x150.jpg
+  - sizes/P1120642.jpg_467x350.jpg
+  - sizes/P1120642.jpg_2666x2000.jpg
+- filename: P1120643
+  large: sizes/P1120643.jpg_2667x2000.jpg
+  original: sizes/P1120643.jpg_467x350.jpg
+  thumbnail: sizes/P1120643.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120643.jpg_200x150.jpg
+  - sizes/P1120643.jpg_467x350.jpg
+  - sizes/P1120643.jpg_2667x2000.jpg
+- filename: P1120644
+  large: sizes/P1120644.jpg_1500x2000.jpg
+  original: sizes/P1120644.jpg_262x350.jpg
+  thumbnail: sizes/P1120644.jpg_112x150.jpg
+  sizes:
+  - sizes/P1120644.jpg_112x150.jpg
+  - sizes/P1120644.jpg_262x350.jpg
+  - sizes/P1120644.jpg_1500x2000.jpg
+- filename: P1120646
+  large: sizes/P1120646.jpg_2667x2000.jpg
+  original: sizes/P1120646.jpg_467x350.jpg
+  thumbnail: sizes/P1120646.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120646.jpg_200x150.jpg
+  - sizes/P1120646.jpg_467x350.jpg
+  - sizes/P1120646.jpg_2667x2000.jpg
+- filename: P1120648
+  large: sizes/P1120648.jpg_2667x2000.jpg
+  original: sizes/P1120648.jpg_467x350.jpg
+  thumbnail: sizes/P1120648.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120648.jpg_200x150.jpg
+  - sizes/P1120648.jpg_467x350.jpg
+  - sizes/P1120648.jpg_2667x2000.jpg

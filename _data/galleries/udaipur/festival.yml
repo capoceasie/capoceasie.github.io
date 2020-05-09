@@ -1,0 +1,67 @@
+picture_path: udaipur/festival
+preview:
+  filename: P1130105
+  large: sizes/P1130105.jpg_2667x2000.jpg
+  original: sizes/P1130105.jpg_467x350.jpg
+  thumbnail: sizes/P1130105.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130105.jpg_200x150.jpg
+  - sizes/P1130105.jpg_467x350.jpg
+  - sizes/P1130105.jpg_2667x2000.jpg
+pictures:
+- filename: P1130105
+  large: sizes/P1130105.jpg_2667x2000.jpg
+  original: sizes/P1130105.jpg_467x350.jpg
+  thumbnail: sizes/P1130105.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130105.jpg_200x150.jpg
+  - sizes/P1130105.jpg_467x350.jpg
+  - sizes/P1130105.jpg_2667x2000.jpg
+- filename: P1130106
+  large: sizes/P1130106.jpg_2667x2000.jpg
+  original: sizes/P1130106.jpg_467x350.jpg
+  thumbnail: sizes/P1130106.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130106.jpg_200x150.jpg
+  - sizes/P1130106.jpg_467x350.jpg
+  - sizes/P1130106.jpg_2667x2000.jpg
+- filename: P1130110
+  large: sizes/P1130110.jpg_2667x2000.jpg
+  original: sizes/P1130110.jpg_467x350.jpg
+  thumbnail: sizes/P1130110.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130110.jpg_200x150.jpg
+  - sizes/P1130110.jpg_467x350.jpg
+  - sizes/P1130110.jpg_2667x2000.jpg
+- filename: P1130111
+  large: sizes/P1130111.jpg_1500x2000.jpg
+  original: sizes/P1130111.jpg_262x350.jpg
+  thumbnail: sizes/P1130111.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130111.jpg_112x150.jpg
+  - sizes/P1130111.jpg_262x350.jpg
+  - sizes/P1130111.jpg_1500x2000.jpg
+- filename: P1130112
+  large: sizes/P1130112.jpg_1500x2000.jpg
+  original: sizes/P1130112.jpg_262x350.jpg
+  thumbnail: sizes/P1130112.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130112.jpg_112x150.jpg
+  - sizes/P1130112.jpg_262x350.jpg
+  - sizes/P1130112.jpg_1500x2000.jpg
+- filename: P1130114
+  large: sizes/P1130114.jpg_2667x2000.jpg
+  original: sizes/P1130114.jpg_467x350.jpg
+  thumbnail: sizes/P1130114.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130114.jpg_200x150.jpg
+  - sizes/P1130114.jpg_467x350.jpg
+  - sizes/P1130114.jpg_2667x2000.jpg
+- filename: P1130123
+  large: sizes/P1130123.jpg_1500x2000.jpg
+  original: sizes/P1130123.jpg_262x350.jpg
+  thumbnail: sizes/P1130123.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130123.jpg_112x150.jpg
+  - sizes/P1130123.jpg_262x350.jpg
+  - sizes/P1130123.jpg_1500x2000.jpg

@@ -1,0 +1,99 @@
+picture_path: udaipur/croisiere
+preview:
+  filename: 20200102_130105
+  large: sizes/20200102_130105.jpg_3556x2000.jpg
+  original: sizes/20200102_130105.jpg_622x350.jpg
+  thumbnail: sizes/20200102_130105.jpg_267x150.jpg
+  sizes:
+  - sizes/20200102_130105.jpg_267x150.jpg
+  - sizes/20200102_130105.jpg_622x350.jpg
+  - sizes/20200102_130105.jpg_3556x2000.jpg
+pictures:
+- filename: 20200102_130105
+  large: sizes/20200102_130105.jpg_3556x2000.jpg
+  original: sizes/20200102_130105.jpg_622x350.jpg
+  thumbnail: sizes/20200102_130105.jpg_267x150.jpg
+  sizes:
+  - sizes/20200102_130105.jpg_267x150.jpg
+  - sizes/20200102_130105.jpg_622x350.jpg
+  - sizes/20200102_130105.jpg_3556x2000.jpg
+- filename: 20200103_104925
+  large: sizes/20200103_104925.jpg_3556x2000.jpg
+  original: sizes/20200103_104925.jpg_622x350.jpg
+  thumbnail: sizes/20200103_104925.jpg_267x150.jpg
+  sizes:
+  - sizes/20200103_104925.jpg_267x150.jpg
+  - sizes/20200103_104925.jpg_622x350.jpg
+  - sizes/20200103_104925.jpg_3556x2000.jpg
+- filename: 20200103_131011
+  large: sizes/20200103_131011.jpg_2667x2000.jpg
+  original: sizes/20200103_131011.jpg_467x350.jpg
+  thumbnail: sizes/20200103_131011.jpg_200x150.jpg
+  sizes:
+  - sizes/20200103_131011.jpg_200x150.jpg
+  - sizes/20200103_131011.jpg_467x350.jpg
+  - sizes/20200103_131011.jpg_2667x2000.jpg
+- filename: 20200103_131114
+  large: sizes/20200103_131114.jpg_3555x2000.jpg
+  original: sizes/20200103_131114.jpg_622x350.jpg
+  thumbnail: sizes/20200103_131114.jpg_267x150.jpg
+  sizes:
+  - sizes/20200103_131114.jpg_267x150.jpg
+  - sizes/20200103_131114.jpg_622x350.jpg
+  - sizes/20200103_131114.jpg_3555x2000.jpg
+- filename: P1120889
+  large: sizes/P1120889.jpg_2667x2000.jpg
+  original: sizes/P1120889.jpg_467x350.jpg
+  thumbnail: sizes/P1120889.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120889.jpg_200x150.jpg
+  - sizes/P1120889.jpg_467x350.jpg
+  - sizes/P1120889.jpg_2667x2000.jpg
+- filename: P1120906
+  large: sizes/P1120906.jpg_2667x2000.jpg
+  original: sizes/P1120906.jpg_467x350.jpg
+  thumbnail: sizes/P1120906.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120906.jpg_200x150.jpg
+  - sizes/P1120906.jpg_467x350.jpg
+  - sizes/P1120906.jpg_2667x2000.jpg
+- filename: P1120913
+  large: sizes/P1120913.jpg_2667x2000.jpg
+  original: sizes/P1120913.jpg_467x350.jpg
+  thumbnail: sizes/P1120913.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120913.jpg_200x150.jpg
+  - sizes/P1120913.jpg_467x350.jpg
+  - sizes/P1120913.jpg_2667x2000.jpg
+- filename: P1120925
+  large: sizes/P1120925.jpg_2667x2000.jpg
+  original: sizes/P1120925.jpg_467x350.jpg
+  thumbnail: sizes/P1120925.jpg_200x150.jpg
+  sizes:
+  - sizes/P1120925.jpg_200x150.jpg
+  - sizes/P1120925.jpg_467x350.jpg
+  - sizes/P1120925.jpg_2667x2000.jpg
+- filename: P1120926
+  large: sizes/P1120926.jpg_1500x2000.jpg
+  original: sizes/P1120926.jpg_262x350.jpg
+  thumbnail: sizes/P1120926.jpg_112x150.jpg
+  sizes:
+  - sizes/P1120926.jpg_112x150.jpg
+  - sizes/P1120926.jpg_262x350.jpg
+  - sizes/P1120926.jpg_1500x2000.jpg
+- filename: P1130015
+  large: sizes/P1130015.jpg_2667x2000.jpg
+  original: sizes/P1130015.jpg_467x350.jpg
+  thumbnail: sizes/P1130015.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130015.jpg_200x150.jpg
+  - sizes/P1130015.jpg_467x350.jpg
+  - sizes/P1130015.jpg_2667x2000.jpg
+- filename: zP1120937
+  large: sizes/zP1120937.jpg_2667x2000.jpg
+  original: sizes/zP1120937.jpg_467x350.jpg
+  thumbnail: sizes/zP1120937.jpg_200x150.jpg
+  sizes:
+  - sizes/zP1120937.jpg_200x150.jpg
+  - sizes/zP1120937.jpg_467x350.jpg
+  - sizes/zP1120937.jpg_2667x2000.jpg

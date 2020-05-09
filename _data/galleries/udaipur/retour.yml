@@ -1,0 +1,27 @@
+picture_path: udaipur/retour
+preview:
+  filename: P1130016
+  large: sizes/P1130016.jpg_1500x2000.jpg
+  original: sizes/P1130016.jpg_262x350.jpg
+  thumbnail: sizes/P1130016.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130016.jpg_112x150.jpg
+  - sizes/P1130016.jpg_262x350.jpg
+  - sizes/P1130016.jpg_1500x2000.jpg
+pictures:
+- filename: P1130016
+  large: sizes/P1130016.jpg_1500x2000.jpg
+  original: sizes/P1130016.jpg_262x350.jpg
+  thumbnail: sizes/P1130016.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130016.jpg_112x150.jpg
+  - sizes/P1130016.jpg_262x350.jpg
+  - sizes/P1130016.jpg_1500x2000.jpg
+- filename: P1130021
+  large: sizes/P1130021.jpg_1500x2000.jpg
+  original: sizes/P1130021.jpg_262x350.jpg
+  thumbnail: sizes/P1130021.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130021.jpg_112x150.jpg
+  - sizes/P1130021.jpg_262x350.jpg
+  - sizes/P1130021.jpg_1500x2000.jpg
