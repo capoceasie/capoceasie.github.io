@@ -18,7 +18,7 @@ layout: null
         {% else %}
           <title>{{ post.title | xml_escape }}</title>
         {% endif %}
-        <description>{{ post.content | truncatewords: 100 | xml_escape }}</description>
+        <description>{{ post.content | truncatewords: 100, " [...]" | xml_escape }}</description>
         <media:content url="{{ post.feature_image | prepend: "/img/" | prepend: site.baseurl | prepend: site.url }}"
           medium="image"
           width="564"
