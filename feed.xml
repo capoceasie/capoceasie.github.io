@@ -21,7 +21,7 @@ layout: null
         <description>{{ post.content | truncatewords: 200 | xml_escape }}</description>
         <media:content url="{{ post.feature_image | prepend: "/img/" | prepend: site.baseurl | prepend: site.url }}"
           medium="image"
-          width="317"
+          width="564"
           lang="fr" 
         />
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
