@@ -1,0 +1,75 @@
+picture_path: agra/jardin
+preview:
+  filename: P1130406
+  large: sizes/P1130406.jpg_1500x2000.jpg
+  original: sizes/P1130406.jpg_262x350.jpg
+  thumbnail: sizes/P1130406.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130406.jpg_112x150.jpg
+  - sizes/P1130406.jpg_262x350.jpg
+  - sizes/P1130406.jpg_1500x2000.jpg
+pictures:
+- filename: P1130406
+  large: sizes/P1130406.jpg_1500x2000.jpg
+  original: sizes/P1130406.jpg_262x350.jpg
+  thumbnail: sizes/P1130406.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130406.jpg_112x150.jpg
+  - sizes/P1130406.jpg_262x350.jpg
+  - sizes/P1130406.jpg_1500x2000.jpg
+- filename: P1130413
+  large: sizes/P1130413.jpg_2667x2000.jpg
+  original: sizes/P1130413.jpg_467x350.jpg
+  thumbnail: sizes/P1130413.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130413.jpg_200x150.jpg
+  - sizes/P1130413.jpg_467x350.jpg
+  - sizes/P1130413.jpg_2667x2000.jpg
+- filename: P1130414
+  large: sizes/P1130414.jpg_1500x2000.jpg
+  original: sizes/P1130414.jpg_262x350.jpg
+  thumbnail: sizes/P1130414.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130414.jpg_112x150.jpg
+  - sizes/P1130414.jpg_262x350.jpg
+  - sizes/P1130414.jpg_1500x2000.jpg
+- filename: P1130417
+  large: sizes/P1130417.jpg_2666x2000.jpg
+  original: sizes/P1130417.jpg_467x350.jpg
+  thumbnail: sizes/P1130417.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130417.jpg_200x150.jpg
+  - sizes/P1130417.jpg_467x350.jpg
+  - sizes/P1130417.jpg_2666x2000.jpg
+- filename: P1130420
+  large: sizes/P1130420.jpg_2667x2000.jpg
+  original: sizes/P1130420.jpg_467x350.jpg
+  thumbnail: sizes/P1130420.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130420.jpg_200x150.jpg
+  - sizes/P1130420.jpg_467x350.jpg
+  - sizes/P1130420.jpg_2667x2000.jpg
+- filename: P1130437
+  large: sizes/P1130437.jpg_1500x2000.jpg
+  original: sizes/P1130437.jpg_262x350.jpg
+  thumbnail: sizes/P1130437.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130437.jpg_112x150.jpg
+  - sizes/P1130437.jpg_262x350.jpg
+  - sizes/P1130437.jpg_1500x2000.jpg
+- filename: P1130438
+  large: sizes/P1130438.jpg_2667x2000.jpg
+  original: sizes/P1130438.jpg_467x350.jpg
+  thumbnail: sizes/P1130438.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130438.jpg_200x150.jpg
+  - sizes/P1130438.jpg_467x350.jpg
+  - sizes/P1130438.jpg_2667x2000.jpg
+- filename: P1130445
+  large: sizes/P1130445.jpg_2667x2000.jpg
+  original: sizes/P1130445.jpg_467x350.jpg
+  thumbnail: sizes/P1130445.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130445.jpg_200x150.jpg
+  - sizes/P1130445.jpg_467x350.jpg
+  - sizes/P1130445.jpg_2667x2000.jpg

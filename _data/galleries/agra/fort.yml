@@ -1,0 +1,27 @@
+picture_path: agra/fort
+preview:
+  filename: P1130275
+  large: sizes/P1130275.jpg_2667x2000.jpg
+  original: sizes/P1130275.jpg_467x350.jpg
+  thumbnail: sizes/P1130275.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130275.jpg_200x150.jpg
+  - sizes/P1130275.jpg_467x350.jpg
+  - sizes/P1130275.jpg_2667x2000.jpg
+pictures:
+- filename: P1130275
+  large: sizes/P1130275.jpg_2667x2000.jpg
+  original: sizes/P1130275.jpg_467x350.jpg
+  thumbnail: sizes/P1130275.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130275.jpg_200x150.jpg
+  - sizes/P1130275.jpg_467x350.jpg
+  - sizes/P1130275.jpg_2667x2000.jpg
+- filename: P1130453
+  large: sizes/P1130453.jpg_2666x2000.jpg
+  original: sizes/P1130453.jpg_467x350.jpg
+  thumbnail: sizes/P1130453.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130453.jpg_200x150.jpg
+  - sizes/P1130453.jpg_467x350.jpg
+  - sizes/P1130453.jpg_2666x2000.jpg

@@ -1,0 +1,51 @@
+picture_path: agra/place
+preview:
+  filename: 0P1130291
+  large: sizes/0P1130291.jpg_2667x2000.jpg
+  original: sizes/0P1130291.jpg_467x350.jpg
+  thumbnail: sizes/0P1130291.jpg_200x150.jpg
+  sizes:
+  - sizes/0P1130291.jpg_200x150.jpg
+  - sizes/0P1130291.jpg_467x350.jpg
+  - sizes/0P1130291.jpg_2667x2000.jpg
+pictures:
+- filename: 0P1130291
+  large: sizes/0P1130291.jpg_2667x2000.jpg
+  original: sizes/0P1130291.jpg_467x350.jpg
+  thumbnail: sizes/0P1130291.jpg_200x150.jpg
+  sizes:
+  - sizes/0P1130291.jpg_200x150.jpg
+  - sizes/0P1130291.jpg_467x350.jpg
+  - sizes/0P1130291.jpg_2667x2000.jpg
+- filename: P1130286
+  large: sizes/P1130286.jpg_1500x2000.jpg
+  original: sizes/P1130286.jpg_262x350.jpg
+  thumbnail: sizes/P1130286.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130286.jpg_112x150.jpg
+  - sizes/P1130286.jpg_262x350.jpg
+  - sizes/P1130286.jpg_1500x2000.jpg
+- filename: P1130293
+  large: sizes/P1130293.jpg_1500x2000.jpg
+  original: sizes/P1130293.jpg_263x350.jpg
+  thumbnail: sizes/P1130293.jpg_113x150.jpg
+  sizes:
+  - sizes/P1130293.jpg_113x150.jpg
+  - sizes/P1130293.jpg_263x350.jpg
+  - sizes/P1130293.jpg_1500x2000.jpg
+- filename: P1130294
+  large: sizes/P1130294.jpg_2667x2000.jpg
+  original: sizes/P1130294.jpg_467x350.jpg
+  thumbnail: sizes/P1130294.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130294.jpg_200x150.jpg
+  - sizes/P1130294.jpg_467x350.jpg
+  - sizes/P1130294.jpg_2667x2000.jpg
+- filename: P1130296
+  large: sizes/P1130296.jpg_1500x2000.jpg
+  original: sizes/P1130296.jpg_262x350.jpg
+  thumbnail: sizes/P1130296.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130296.jpg_112x150.jpg
+  - sizes/P1130296.jpg_262x350.jpg
+  - sizes/P1130296.jpg_1500x2000.jpg

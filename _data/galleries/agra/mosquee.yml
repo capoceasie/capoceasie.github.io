@@ -1,0 +1,75 @@
+picture_path: agra/mosquee
+preview:
+  filename: P1130182
+  large: sizes/P1130182.jpg_2666x2000.jpg
+  original: sizes/P1130182.jpg_467x350.jpg
+  thumbnail: sizes/P1130182.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130182.jpg_200x150.jpg
+  - sizes/P1130182.jpg_467x350.jpg
+  - sizes/P1130182.jpg_2666x2000.jpg
+pictures:
+- filename: P1130182
+  large: sizes/P1130182.jpg_2666x2000.jpg
+  original: sizes/P1130182.jpg_467x350.jpg
+  thumbnail: sizes/P1130182.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130182.jpg_200x150.jpg
+  - sizes/P1130182.jpg_467x350.jpg
+  - sizes/P1130182.jpg_2666x2000.jpg
+- filename: P1130187
+  large: sizes/P1130187.jpg_1500x2000.jpg
+  original: sizes/P1130187.jpg_263x350.jpg
+  thumbnail: sizes/P1130187.jpg_113x150.jpg
+  sizes:
+  - sizes/P1130187.jpg_113x150.jpg
+  - sizes/P1130187.jpg_263x350.jpg
+  - sizes/P1130187.jpg_1500x2000.jpg
+- filename: P1130195
+  large: sizes/P1130195.jpg_1500x2000.jpg
+  original: sizes/P1130195.jpg_262x350.jpg
+  thumbnail: sizes/P1130195.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130195.jpg_112x150.jpg
+  - sizes/P1130195.jpg_262x350.jpg
+  - sizes/P1130195.jpg_1500x2000.jpg
+- filename: P1130210
+  large: sizes/P1130210.jpg_2666x2000.jpg
+  original: sizes/P1130210.jpg_467x350.jpg
+  thumbnail: sizes/P1130210.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130210.jpg_200x150.jpg
+  - sizes/P1130210.jpg_467x350.jpg
+  - sizes/P1130210.jpg_2666x2000.jpg
+- filename: P1130214
+  large: sizes/P1130214.jpg_2667x2000.jpg
+  original: sizes/P1130214.jpg_467x350.jpg
+  thumbnail: sizes/P1130214.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130214.jpg_200x150.jpg
+  - sizes/P1130214.jpg_467x350.jpg
+  - sizes/P1130214.jpg_2667x2000.jpg
+- filename: P1130217
+  large: sizes/P1130217.jpg_2667x2000.jpg
+  original: sizes/P1130217.jpg_467x350.jpg
+  thumbnail: sizes/P1130217.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130217.jpg_200x150.jpg
+  - sizes/P1130217.jpg_467x350.jpg
+  - sizes/P1130217.jpg_2667x2000.jpg
+- filename: P1130228
+  large: sizes/P1130228.jpg_1500x2000.jpg
+  original: sizes/P1130228.jpg_262x350.jpg
+  thumbnail: sizes/P1130228.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130228.jpg_112x150.jpg
+  - sizes/P1130228.jpg_262x350.jpg
+  - sizes/P1130228.jpg_1500x2000.jpg
+- filename: P1130230
+  large: sizes/P1130230.jpg_1500x2000.jpg
+  original: sizes/P1130230.jpg_262x350.jpg
+  thumbnail: sizes/P1130230.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130230.jpg_112x150.jpg
+  - sizes/P1130230.jpg_262x350.jpg
+  - sizes/P1130230.jpg_1500x2000.jpg

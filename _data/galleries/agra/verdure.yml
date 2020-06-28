@@ -1,0 +1,59 @@
+picture_path: agra/verdure
+preview:
+  filename: P1130242
+  large: sizes/P1130242.jpg_2667x2000.jpg
+  original: sizes/P1130242.jpg_467x350.jpg
+  thumbnail: sizes/P1130242.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130242.jpg_200x150.jpg
+  - sizes/P1130242.jpg_467x350.jpg
+  - sizes/P1130242.jpg_2667x2000.jpg
+pictures:
+- filename: P1130242
+  large: sizes/P1130242.jpg_2667x2000.jpg
+  original: sizes/P1130242.jpg_467x350.jpg
+  thumbnail: sizes/P1130242.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130242.jpg_200x150.jpg
+  - sizes/P1130242.jpg_467x350.jpg
+  - sizes/P1130242.jpg_2667x2000.jpg
+- filename: P1130248
+  large: sizes/P1130248.jpg_1500x2000.jpg
+  original: sizes/P1130248.jpg_262x350.jpg
+  thumbnail: sizes/P1130248.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130248.jpg_112x150.jpg
+  - sizes/P1130248.jpg_262x350.jpg
+  - sizes/P1130248.jpg_1500x2000.jpg
+- filename: P1130255
+  large: sizes/P1130255.jpg_1500x2000.jpg
+  original: sizes/P1130255.jpg_262x350.jpg
+  thumbnail: sizes/P1130255.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130255.jpg_112x150.jpg
+  - sizes/P1130255.jpg_262x350.jpg
+  - sizes/P1130255.jpg_1500x2000.jpg
+- filename: P1130257
+  large: sizes/P1130257.jpg_2667x2000.jpg
+  original: sizes/P1130257.jpg_467x350.jpg
+  thumbnail: sizes/P1130257.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130257.jpg_200x150.jpg
+  - sizes/P1130257.jpg_467x350.jpg
+  - sizes/P1130257.jpg_2667x2000.jpg
+- filename: P1130267
+  large: sizes/P1130267.jpg_2667x2000.jpg
+  original: sizes/P1130267.jpg_467x350.jpg
+  thumbnail: sizes/P1130267.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130267.jpg_200x150.jpg
+  - sizes/P1130267.jpg_467x350.jpg
+  - sizes/P1130267.jpg_2667x2000.jpg
+- filename: P1130269
+  large: sizes/P1130269.jpg_2667x2000.jpg
+  original: sizes/P1130269.jpg_467x350.jpg
+  thumbnail: sizes/P1130269.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130269.jpg_200x150.jpg
+  - sizes/P1130269.jpg_467x350.jpg
+  - sizes/P1130269.jpg_2667x2000.jpg

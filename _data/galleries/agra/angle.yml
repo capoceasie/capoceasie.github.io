@@ -1,0 +1,51 @@
+picture_path: agra/angle
+preview:
+  filename: P1130194
+  large: sizes/P1130194.jpg_2666x2000.jpg
+  original: sizes/P1130194.jpg_467x350.jpg
+  thumbnail: sizes/P1130194.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130194.jpg_200x150.jpg
+  - sizes/P1130194.jpg_467x350.jpg
+  - sizes/P1130194.jpg_2666x2000.jpg
+pictures:
+- filename: P1130194
+  large: sizes/P1130194.jpg_2666x2000.jpg
+  original: sizes/P1130194.jpg_467x350.jpg
+  thumbnail: sizes/P1130194.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130194.jpg_200x150.jpg
+  - sizes/P1130194.jpg_467x350.jpg
+  - sizes/P1130194.jpg_2666x2000.jpg
+- filename: P1130197
+  large: sizes/P1130197.jpg_2667x2000.jpg
+  original: sizes/P1130197.jpg_467x350.jpg
+  thumbnail: sizes/P1130197.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130197.jpg_200x150.jpg
+  - sizes/P1130197.jpg_467x350.jpg
+  - sizes/P1130197.jpg_2667x2000.jpg
+- filename: P1130199
+  large: sizes/P1130199.jpg_2667x2000.jpg
+  original: sizes/P1130199.jpg_467x350.jpg
+  thumbnail: sizes/P1130199.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130199.jpg_200x150.jpg
+  - sizes/P1130199.jpg_467x350.jpg
+  - sizes/P1130199.jpg_2667x2000.jpg
+- filename: P1130203
+  large: sizes/P1130203.jpg_2667x2000.jpg
+  original: sizes/P1130203.jpg_467x350.jpg
+  thumbnail: sizes/P1130203.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130203.jpg_200x150.jpg
+  - sizes/P1130203.jpg_467x350.jpg
+  - sizes/P1130203.jpg_2667x2000.jpg
+- filename: P1130239
+  large: sizes/P1130239.jpg_1500x2000.jpg
+  original: sizes/P1130239.jpg_262x350.jpg
+  thumbnail: sizes/P1130239.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130239.jpg_112x150.jpg
+  - sizes/P1130239.jpg_262x350.jpg
+  - sizes/P1130239.jpg_1500x2000.jpg

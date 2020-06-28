@@ -1,0 +1,27 @@
+picture_path: agra/ouaou
+preview:
+  filename: 0P1130173
+  large: sizes/0P1130173.jpg_2667x2000.jpg
+  original: sizes/0P1130173.jpg_467x350.jpg
+  thumbnail: sizes/0P1130173.jpg_200x150.jpg
+  sizes:
+  - sizes/0P1130173.jpg_200x150.jpg
+  - sizes/0P1130173.jpg_467x350.jpg
+  - sizes/0P1130173.jpg_2667x2000.jpg
+pictures:
+- filename: 0P1130173
+  large: sizes/0P1130173.jpg_2667x2000.jpg
+  original: sizes/0P1130173.jpg_467x350.jpg
+  thumbnail: sizes/0P1130173.jpg_200x150.jpg
+  sizes:
+  - sizes/0P1130173.jpg_200x150.jpg
+  - sizes/0P1130173.jpg_467x350.jpg
+  - sizes/0P1130173.jpg_2667x2000.jpg
+- filename: 20200105_115103
+  large: sizes/20200105_115103.jpg_2667x2000.jpg
+  original: sizes/20200105_115103.jpg_467x350.jpg
+  thumbnail: sizes/20200105_115103.jpg_200x150.jpg
+  sizes:
+  - sizes/20200105_115103.jpg_200x150.jpg
+  - sizes/20200105_115103.jpg_467x350.jpg
+  - sizes/20200105_115103.jpg_2667x2000.jpg

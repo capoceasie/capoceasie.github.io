@@ -1,0 +1,27 @@
+picture_path: agra/carte
+preview:
+  filename: 0carte_global_200106
+  large: sizes/0carte_global_200106.jpg_1891x2000.jpg
+  original: sizes/0carte_global_200106.jpg_331x350.jpg
+  thumbnail: sizes/0carte_global_200106.jpg_142x150.jpg
+  sizes:
+  - sizes/0carte_global_200106.jpg_142x150.jpg
+  - sizes/0carte_global_200106.jpg_331x350.jpg
+  - sizes/0carte_global_200106.jpg_1891x2000.jpg
+pictures:
+- filename: 0carte_global_200106
+  large: sizes/0carte_global_200106.jpg_1891x2000.jpg
+  original: sizes/0carte_global_200106.jpg_331x350.jpg
+  thumbnail: sizes/0carte_global_200106.jpg_142x150.jpg
+  sizes:
+  - sizes/0carte_global_200106.jpg_142x150.jpg
+  - sizes/0carte_global_200106.jpg_331x350.jpg
+  - sizes/0carte_global_200106.jpg_1891x2000.jpg
+- filename: carte_detail_200106
+  large: sizes/carte_detail_200106.jpg_3022x2000.jpg
+  original: sizes/carte_detail_200106.jpg_529x350.jpg
+  thumbnail: sizes/carte_detail_200106.jpg_227x150.jpg
+  sizes:
+  - sizes/carte_detail_200106.jpg_227x150.jpg
+  - sizes/carte_detail_200106.jpg_529x350.jpg
+  - sizes/carte_detail_200106.jpg_3022x2000.jpg

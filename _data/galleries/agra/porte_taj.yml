@@ -1,0 +1,51 @@
+picture_path: agra/porte_taj
+preview:
+  filename: P1130137
+  large: sizes/P1130137.jpg_2667x2000.jpg
+  original: sizes/P1130137.jpg_467x350.jpg
+  thumbnail: sizes/P1130137.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130137.jpg_200x150.jpg
+  - sizes/P1130137.jpg_467x350.jpg
+  - sizes/P1130137.jpg_2667x2000.jpg
+pictures:
+- filename: P1130137
+  large: sizes/P1130137.jpg_2667x2000.jpg
+  original: sizes/P1130137.jpg_467x350.jpg
+  thumbnail: sizes/P1130137.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130137.jpg_200x150.jpg
+  - sizes/P1130137.jpg_467x350.jpg
+  - sizes/P1130137.jpg_2667x2000.jpg
+- filename: P1130140
+  large: sizes/P1130140.jpg_1500x2000.jpg
+  original: sizes/P1130140.jpg_262x350.jpg
+  thumbnail: sizes/P1130140.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130140.jpg_112x150.jpg
+  - sizes/P1130140.jpg_262x350.jpg
+  - sizes/P1130140.jpg_1500x2000.jpg
+- filename: P1130142
+  large: sizes/P1130142.jpg_2667x2000.jpg
+  original: sizes/P1130142.jpg_467x350.jpg
+  thumbnail: sizes/P1130142.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130142.jpg_200x150.jpg
+  - sizes/P1130142.jpg_467x350.jpg
+  - sizes/P1130142.jpg_2667x2000.jpg
+- filename: P1130152
+  large: sizes/P1130152.jpg_2666x2000.jpg
+  original: sizes/P1130152.jpg_467x350.jpg
+  thumbnail: sizes/P1130152.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130152.jpg_200x150.jpg
+  - sizes/P1130152.jpg_467x350.jpg
+  - sizes/P1130152.jpg_2666x2000.jpg
+- filename: P1130154
+  large: sizes/P1130154.jpg_1500x2000.jpg
+  original: sizes/P1130154.jpg_262x350.jpg
+  thumbnail: sizes/P1130154.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130154.jpg_112x150.jpg
+  - sizes/P1130154.jpg_262x350.jpg
+  - sizes/P1130154.jpg_1500x2000.jpg

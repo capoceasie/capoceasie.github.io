@@ -1,0 +1,35 @@
+picture_path: agra/rue
+preview:
+  filename: 20200105_142410
+  large: sizes/20200105_142410.jpg_2667x2000.jpg
+  original: sizes/20200105_142410.jpg_467x350.jpg
+  thumbnail: sizes/20200105_142410.jpg_200x150.jpg
+  sizes:
+  - sizes/20200105_142410.jpg_200x150.jpg
+  - sizes/20200105_142410.jpg_467x350.jpg
+  - sizes/20200105_142410.jpg_2667x2000.jpg
+pictures:
+- filename: 20200105_142410
+  large: sizes/20200105_142410.jpg_2667x2000.jpg
+  original: sizes/20200105_142410.jpg_467x350.jpg
+  thumbnail: sizes/20200105_142410.jpg_200x150.jpg
+  sizes:
+  - sizes/20200105_142410.jpg_200x150.jpg
+  - sizes/20200105_142410.jpg_467x350.jpg
+  - sizes/20200105_142410.jpg_2667x2000.jpg
+- filename: 20200105_154413
+  large: sizes/20200105_154413.jpg_1500x2000.jpg
+  original: sizes/20200105_154413.jpg_262x350.jpg
+  thumbnail: sizes/20200105_154413.jpg_112x150.jpg
+  sizes:
+  - sizes/20200105_154413.jpg_112x150.jpg
+  - sizes/20200105_154413.jpg_262x350.jpg
+  - sizes/20200105_154413.jpg_1500x2000.jpg
+- filename: P1130457
+  large: sizes/P1130457.jpg_2666x2000.jpg
+  original: sizes/P1130457.jpg_467x350.jpg
+  thumbnail: sizes/P1130457.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130457.jpg_200x150.jpg
+  - sizes/P1130457.jpg_467x350.jpg
+  - sizes/P1130457.jpg_2666x2000.jpg
