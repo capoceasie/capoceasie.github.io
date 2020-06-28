@@ -14,11 +14,11 @@ layout: null
     {% for post in site.posts limit:10 %}
       <item>
         {% if post.episode_id %}
-          <title>{{ post.title | xml_escape | prepend: " : " | prepend: post.episode_id | prepend: "Episode " }}</title>
+          <title>{{ post.title | xml_escape | prepend: "] " | prepend: post.episode_id | prepend: "[Episode " }}</title>
         {% else %}
           <title>{{ post.title | xml_escape }}</title>
         {% endif %}
-        <description>{{ post.content | truncatewords: 200 | xml_escape }}</description>
+        <description>{{ post.content | truncatewords: 100 | xml_escape }}</description>
         <media:content url="{{ post.feature_image | prepend: "/img/" | prepend: site.baseurl | prepend: site.url }}"
           medium="image"
           width="564"
