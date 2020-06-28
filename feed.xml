@@ -15,6 +15,13 @@ layout: null
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>{{ post.content | truncatewords: 200 | xml_escape }}</description>
+        <media:content
+          url={{ post.feature_image | preprend: "img/" | prepend: site.baseurl | prepend: site.url }}
+          medium="image"
+          height="200"
+          width="300"
+          lang="fr" 
+        />
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
