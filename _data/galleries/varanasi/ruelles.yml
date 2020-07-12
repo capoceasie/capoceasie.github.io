@@ -1,0 +1,19 @@
+picture_path: varanasi/ruelles
+preview:
+  filename: 20200107_104844
+  large: sizes/20200107_104844.jpg_1125x2000.jpg
+  original: sizes/20200107_104844.jpg_197x350.jpg
+  thumbnail: sizes/20200107_104844.jpg_84x150.jpg
+  sizes:
+  - sizes/20200107_104844.jpg_84x150.jpg
+  - sizes/20200107_104844.jpg_197x350.jpg
+  - sizes/20200107_104844.jpg_1125x2000.jpg
+pictures:
+- filename: 20200107_104844
+  large: sizes/20200107_104844.jpg_1125x2000.jpg
+  original: sizes/20200107_104844.jpg_197x350.jpg
+  thumbnail: sizes/20200107_104844.jpg_84x150.jpg
+  sizes:
+  - sizes/20200107_104844.jpg_84x150.jpg
+  - sizes/20200107_104844.jpg_197x350.jpg
+  - sizes/20200107_104844.jpg_1125x2000.jpg

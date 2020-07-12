@@ -1,0 +1,27 @@
+picture_path: varanasi/carte
+preview:
+  filename: carte_detail_200109
+  large: sizes/carte_detail_200109.jpg_3588x2000.jpg
+  original: sizes/carte_detail_200109.jpg_628x350.jpg
+  thumbnail: sizes/carte_detail_200109.jpg_269x150.jpg
+  sizes:
+  - sizes/carte_detail_200109.jpg_269x150.jpg
+  - sizes/carte_detail_200109.jpg_628x350.jpg
+  - sizes/carte_detail_200109.jpg_3588x2000.jpg
+pictures:
+- filename: carte_detail_200109
+  large: sizes/carte_detail_200109.jpg_3588x2000.jpg
+  original: sizes/carte_detail_200109.jpg_628x350.jpg
+  thumbnail: sizes/carte_detail_200109.jpg_269x150.jpg
+  sizes:
+  - sizes/carte_detail_200109.jpg_269x150.jpg
+  - sizes/carte_detail_200109.jpg_628x350.jpg
+  - sizes/carte_detail_200109.jpg_3588x2000.jpg
+- filename: carte_global_200109
+  large: sizes/carte_global_200109.jpg_2038x2000.jpg
+  original: sizes/carte_global_200109.jpg_357x350.jpg
+  thumbnail: sizes/carte_global_200109.jpg_153x150.jpg
+  sizes:
+  - sizes/carte_global_200109.jpg_153x150.jpg
+  - sizes/carte_global_200109.jpg_357x350.jpg
+  - sizes/carte_global_200109.jpg_2038x2000.jpg

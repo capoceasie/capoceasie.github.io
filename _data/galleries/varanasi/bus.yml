@@ -1,0 +1,27 @@
+picture_path: varanasi/bus
+preview:
+  filename: 20200109_121941
+  large: sizes/20200109_121941.jpg_2667x2000.jpg
+  original: sizes/20200109_121941.jpg_467x350.jpg
+  thumbnail: sizes/20200109_121941.jpg_200x150.jpg
+  sizes:
+  - sizes/20200109_121941.jpg_200x150.jpg
+  - sizes/20200109_121941.jpg_467x350.jpg
+  - sizes/20200109_121941.jpg_2667x2000.jpg
+pictures:
+- filename: 20200109_121941
+  large: sizes/20200109_121941.jpg_2667x2000.jpg
+  original: sizes/20200109_121941.jpg_467x350.jpg
+  thumbnail: sizes/20200109_121941.jpg_200x150.jpg
+  sizes:
+  - sizes/20200109_121941.jpg_200x150.jpg
+  - sizes/20200109_121941.jpg_467x350.jpg
+  - sizes/20200109_121941.jpg_2667x2000.jpg
+- filename: 20200109_122628
+  large: sizes/20200109_122628.jpg_2667x2000.jpg
+  original: sizes/20200109_122628.jpg_467x350.jpg
+  thumbnail: sizes/20200109_122628.jpg_200x150.jpg
+  sizes:
+  - sizes/20200109_122628.jpg_200x150.jpg
+  - sizes/20200109_122628.jpg_467x350.jpg
+  - sizes/20200109_122628.jpg_2667x2000.jpg

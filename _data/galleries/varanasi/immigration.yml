@@ -1,0 +1,35 @@
+picture_path: varanasi/immigration
+preview:
+  filename: 20200109_161818
+  large: sizes/20200109_161818.jpg_1500x2000.jpg
+  original: sizes/20200109_161818.jpg_262x350.jpg
+  thumbnail: sizes/20200109_161818.jpg_112x150.jpg
+  sizes:
+  - sizes/20200109_161818.jpg_112x150.jpg
+  - sizes/20200109_161818.jpg_262x350.jpg
+  - sizes/20200109_161818.jpg_1500x2000.jpg
+pictures:
+- filename: 20200109_161818
+  large: sizes/20200109_161818.jpg_1500x2000.jpg
+  original: sizes/20200109_161818.jpg_262x350.jpg
+  thumbnail: sizes/20200109_161818.jpg_112x150.jpg
+  sizes:
+  - sizes/20200109_161818.jpg_112x150.jpg
+  - sizes/20200109_161818.jpg_262x350.jpg
+  - sizes/20200109_161818.jpg_1500x2000.jpg
+- filename: 20200109_161827
+  large: sizes/20200109_161827.jpg_1500x2000.jpg
+  original: sizes/20200109_161827.jpg_262x350.jpg
+  thumbnail: sizes/20200109_161827.jpg_112x150.jpg
+  sizes:
+  - sizes/20200109_161827.jpg_112x150.jpg
+  - sizes/20200109_161827.jpg_262x350.jpg
+  - sizes/20200109_161827.jpg_1500x2000.jpg
+- filename: 20200109_161900
+  large: sizes/20200109_161900.jpg_1500x2000.jpg
+  original: sizes/20200109_161900.jpg_262x350.jpg
+  thumbnail: sizes/20200109_161900.jpg_112x150.jpg
+  sizes:
+  - sizes/20200109_161900.jpg_112x150.jpg
+  - sizes/20200109_161900.jpg_262x350.jpg
+  - sizes/20200109_161900.jpg_1500x2000.jpg
