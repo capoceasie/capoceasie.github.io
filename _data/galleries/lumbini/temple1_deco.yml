@@ -1,0 +1,35 @@
+picture_path: lumbini/temple1_deco
+preview:
+  filename: P1130647
+  large: sizes/P1130647.jpg_2666x2000.jpg
+  original: sizes/P1130647.jpg_467x350.jpg
+  thumbnail: sizes/P1130647.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130647.jpg_200x150.jpg
+  - sizes/P1130647.jpg_467x350.jpg
+  - sizes/P1130647.jpg_2666x2000.jpg
+pictures:
+- filename: P1130647
+  large: sizes/P1130647.jpg_2666x2000.jpg
+  original: sizes/P1130647.jpg_467x350.jpg
+  thumbnail: sizes/P1130647.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130647.jpg_200x150.jpg
+  - sizes/P1130647.jpg_467x350.jpg
+  - sizes/P1130647.jpg_2666x2000.jpg
+- filename: P1130648
+  large: sizes/P1130648.jpg_2667x2000.jpg
+  original: sizes/P1130648.jpg_467x350.jpg
+  thumbnail: sizes/P1130648.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130648.jpg_200x150.jpg
+  - sizes/P1130648.jpg_467x350.jpg
+  - sizes/P1130648.jpg_2667x2000.jpg
+- filename: P1130655
+  large: sizes/P1130655.jpg_1500x2000.jpg
+  original: sizes/P1130655.jpg_262x350.jpg
+  thumbnail: sizes/P1130655.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130655.jpg_112x150.jpg
+  - sizes/P1130655.jpg_262x350.jpg
+  - sizes/P1130655.jpg_1500x2000.jpg

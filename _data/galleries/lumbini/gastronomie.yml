@@ -1,0 +1,35 @@
+picture_path: lumbini/gastronomie
+preview:
+  filename: 20200110_123728
+  large: sizes/20200110_123728.jpg_1500x2000.jpg
+  original: sizes/20200110_123728.jpg_262x350.jpg
+  thumbnail: sizes/20200110_123728.jpg_112x150.jpg
+  sizes:
+  - sizes/20200110_123728.jpg_112x150.jpg
+  - sizes/20200110_123728.jpg_262x350.jpg
+  - sizes/20200110_123728.jpg_1500x2000.jpg
+pictures:
+- filename: 20200110_123728
+  large: sizes/20200110_123728.jpg_1500x2000.jpg
+  original: sizes/20200110_123728.jpg_262x350.jpg
+  thumbnail: sizes/20200110_123728.jpg_112x150.jpg
+  sizes:
+  - sizes/20200110_123728.jpg_112x150.jpg
+  - sizes/20200110_123728.jpg_262x350.jpg
+  - sizes/20200110_123728.jpg_1500x2000.jpg
+- filename: 20200110_124838
+  large: sizes/20200110_124838.jpg_1500x2000.jpg
+  original: sizes/20200110_124838.jpg_262x350.jpg
+  thumbnail: sizes/20200110_124838.jpg_112x150.jpg
+  sizes:
+  - sizes/20200110_124838.jpg_112x150.jpg
+  - sizes/20200110_124838.jpg_262x350.jpg
+  - sizes/20200110_124838.jpg_1500x2000.jpg
+- filename: 20200110_125128
+  large: sizes/20200110_125128.jpg_1125x2000.jpg
+  original: sizes/20200110_125128.jpg_197x350.jpg
+  thumbnail: sizes/20200110_125128.jpg_84x150.jpg
+  sizes:
+  - sizes/20200110_125128.jpg_84x150.jpg
+  - sizes/20200110_125128.jpg_197x350.jpg
+  - sizes/20200110_125128.jpg_1125x2000.jpg

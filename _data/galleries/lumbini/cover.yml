@@ -1,0 +1,19 @@
+picture_path: lumbini/cover
+preview:
+  filename: 2P1130723
+  large: sizes/2P1130723.jpg_2667x2000.jpg
+  original: sizes/2P1130723.jpg_467x350.jpg
+  thumbnail: sizes/2P1130723.jpg_200x150.jpg
+  sizes:
+  - sizes/2P1130723.jpg_200x150.jpg
+  - sizes/2P1130723.jpg_467x350.jpg
+  - sizes/2P1130723.jpg_2667x2000.jpg
+pictures:
+- filename: 2P1130723
+  large: sizes/2P1130723.jpg_2667x2000.jpg
+  original: sizes/2P1130723.jpg_467x350.jpg
+  thumbnail: sizes/2P1130723.jpg_200x150.jpg
+  sizes:
+  - sizes/2P1130723.jpg_200x150.jpg
+  - sizes/2P1130723.jpg_467x350.jpg
+  - sizes/2P1130723.jpg_2667x2000.jpg

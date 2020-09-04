@@ -1,0 +1,19 @@
+picture_path: lumbini/france
+preview:
+  filename: P1130816
+  large: sizes/P1130816.jpg_1500x2000.jpg
+  original: sizes/P1130816.jpg_262x350.jpg
+  thumbnail: sizes/P1130816.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130816.jpg_112x150.jpg
+  - sizes/P1130816.jpg_262x350.jpg
+  - sizes/P1130816.jpg_1500x2000.jpg
+pictures:
+- filename: P1130816
+  large: sizes/P1130816.jpg_1500x2000.jpg
+  original: sizes/P1130816.jpg_262x350.jpg
+  thumbnail: sizes/P1130816.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130816.jpg_112x150.jpg
+  - sizes/P1130816.jpg_262x350.jpg
+  - sizes/P1130816.jpg_1500x2000.jpg

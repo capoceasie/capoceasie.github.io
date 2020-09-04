@@ -1,0 +1,51 @@
+picture_path: lumbini/cambodge
+preview:
+  filename: P1130776
+  large: sizes/P1130776.jpg_1500x2000.jpg
+  original: sizes/P1130776.jpg_262x350.jpg
+  thumbnail: sizes/P1130776.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130776.jpg_112x150.jpg
+  - sizes/P1130776.jpg_262x350.jpg
+  - sizes/P1130776.jpg_1500x2000.jpg
+pictures:
+- filename: P1130776
+  large: sizes/P1130776.jpg_1500x2000.jpg
+  original: sizes/P1130776.jpg_262x350.jpg
+  thumbnail: sizes/P1130776.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130776.jpg_112x150.jpg
+  - sizes/P1130776.jpg_262x350.jpg
+  - sizes/P1130776.jpg_1500x2000.jpg
+- filename: P1130783
+  large: sizes/P1130783.jpg_2667x2000.jpg
+  original: sizes/P1130783.jpg_467x350.jpg
+  thumbnail: sizes/P1130783.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130783.jpg_200x150.jpg
+  - sizes/P1130783.jpg_467x350.jpg
+  - sizes/P1130783.jpg_2667x2000.jpg
+- filename: P1130795
+  large: sizes/P1130795.jpg_1500x2000.jpg
+  original: sizes/P1130795.jpg_262x350.jpg
+  thumbnail: sizes/P1130795.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130795.jpg_112x150.jpg
+  - sizes/P1130795.jpg_262x350.jpg
+  - sizes/P1130795.jpg_1500x2000.jpg
+- filename: P1130796
+  large: sizes/P1130796.jpg_2667x2000.jpg
+  original: sizes/P1130796.jpg_467x350.jpg
+  thumbnail: sizes/P1130796.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130796.jpg_200x150.jpg
+  - sizes/P1130796.jpg_467x350.jpg
+  - sizes/P1130796.jpg_2667x2000.jpg
+- filename: P1130804
+  large: sizes/P1130804.jpg_1500x2000.jpg
+  original: sizes/P1130804.jpg_262x350.jpg
+  thumbnail: sizes/P1130804.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130804.jpg_112x150.jpg
+  - sizes/P1130804.jpg_262x350.jpg
+  - sizes/P1130804.jpg_1500x2000.jpg

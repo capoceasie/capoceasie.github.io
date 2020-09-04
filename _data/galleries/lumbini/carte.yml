@@ -1,0 +1,27 @@
+picture_path: lumbini/carte
+preview:
+  filename: carte_detail_200112
+  large: sizes/carte_detail_200112.jpg_3202x2000.jpg
+  original: sizes/carte_detail_200112.jpg_560x350.jpg
+  thumbnail: sizes/carte_detail_200112.jpg_240x150.jpg
+  sizes:
+  - sizes/carte_detail_200112.jpg_240x150.jpg
+  - sizes/carte_detail_200112.jpg_560x350.jpg
+  - sizes/carte_detail_200112.jpg_3202x2000.jpg
+pictures:
+- filename: carte_detail_200112
+  large: sizes/carte_detail_200112.jpg_3202x2000.jpg
+  original: sizes/carte_detail_200112.jpg_560x350.jpg
+  thumbnail: sizes/carte_detail_200112.jpg_240x150.jpg
+  sizes:
+  - sizes/carte_detail_200112.jpg_240x150.jpg
+  - sizes/carte_detail_200112.jpg_560x350.jpg
+  - sizes/carte_detail_200112.jpg_3202x2000.jpg
+- filename: carte_global_200112
+  large: sizes/carte_global_200112.jpg_2911x2000.jpg
+  original: sizes/carte_global_200112.jpg_509x350.jpg
+  thumbnail: sizes/carte_global_200112.jpg_218x150.jpg
+  sizes:
+  - sizes/carte_global_200112.jpg_218x150.jpg
+  - sizes/carte_global_200112.jpg_509x350.jpg
+  - sizes/carte_global_200112.jpg_2911x2000.jpg

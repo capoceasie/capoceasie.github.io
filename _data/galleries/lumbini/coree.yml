@@ -1,0 +1,51 @@
+picture_path: lumbini/coree
+preview:
+  filename: P1130693
+  large: sizes/P1130693.jpg_2667x2000.jpg
+  original: sizes/P1130693.jpg_467x350.jpg
+  thumbnail: sizes/P1130693.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130693.jpg_200x150.jpg
+  - sizes/P1130693.jpg_467x350.jpg
+  - sizes/P1130693.jpg_2667x2000.jpg
+pictures:
+- filename: P1130693
+  large: sizes/P1130693.jpg_2667x2000.jpg
+  original: sizes/P1130693.jpg_467x350.jpg
+  thumbnail: sizes/P1130693.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130693.jpg_200x150.jpg
+  - sizes/P1130693.jpg_467x350.jpg
+  - sizes/P1130693.jpg_2667x2000.jpg
+- filename: P1130695
+  large: sizes/P1130695.jpg_1500x2000.jpg
+  original: sizes/P1130695.jpg_262x350.jpg
+  thumbnail: sizes/P1130695.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130695.jpg_112x150.jpg
+  - sizes/P1130695.jpg_262x350.jpg
+  - sizes/P1130695.jpg_1500x2000.jpg
+- filename: P1130699
+  large: sizes/P1130699.jpg_2666x2000.jpg
+  original: sizes/P1130699.jpg_467x350.jpg
+  thumbnail: sizes/P1130699.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130699.jpg_200x150.jpg
+  - sizes/P1130699.jpg_467x350.jpg
+  - sizes/P1130699.jpg_2666x2000.jpg
+- filename: P1130701
+  large: sizes/P1130701.jpg_2666x2000.jpg
+  original: sizes/P1130701.jpg_467x350.jpg
+  thumbnail: sizes/P1130701.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130701.jpg_200x150.jpg
+  - sizes/P1130701.jpg_467x350.jpg
+  - sizes/P1130701.jpg_2666x2000.jpg
+- filename: P1130704
+  large: sizes/P1130704.jpg_2667x2000.jpg
+  original: sizes/P1130704.jpg_467x350.jpg
+  thumbnail: sizes/P1130704.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130704.jpg_200x150.jpg
+  - sizes/P1130704.jpg_467x350.jpg
+  - sizes/P1130704.jpg_2667x2000.jpg

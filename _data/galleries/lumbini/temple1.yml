@@ -1,0 +1,67 @@
+picture_path: lumbini/temple1
+preview:
+  filename: P1130638
+  large: sizes/P1130638.jpg_2667x2000.jpg
+  original: sizes/P1130638.jpg_467x350.jpg
+  thumbnail: sizes/P1130638.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130638.jpg_200x150.jpg
+  - sizes/P1130638.jpg_467x350.jpg
+  - sizes/P1130638.jpg_2667x2000.jpg
+pictures:
+- filename: P1130638
+  large: sizes/P1130638.jpg_2667x2000.jpg
+  original: sizes/P1130638.jpg_467x350.jpg
+  thumbnail: sizes/P1130638.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130638.jpg_200x150.jpg
+  - sizes/P1130638.jpg_467x350.jpg
+  - sizes/P1130638.jpg_2667x2000.jpg
+- filename: P1130642
+  large: sizes/P1130642.jpg_1500x2000.jpg
+  original: sizes/P1130642.jpg_262x350.jpg
+  thumbnail: sizes/P1130642.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130642.jpg_112x150.jpg
+  - sizes/P1130642.jpg_262x350.jpg
+  - sizes/P1130642.jpg_1500x2000.jpg
+- filename: P1130644
+  large: sizes/P1130644.jpg_1500x2000.jpg
+  original: sizes/P1130644.jpg_262x350.jpg
+  thumbnail: sizes/P1130644.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130644.jpg_112x150.jpg
+  - sizes/P1130644.jpg_262x350.jpg
+  - sizes/P1130644.jpg_1500x2000.jpg
+- filename: P1130657
+  large: sizes/P1130657.jpg_1500x2000.jpg
+  original: sizes/P1130657.jpg_263x350.jpg
+  thumbnail: sizes/P1130657.jpg_113x150.jpg
+  sizes:
+  - sizes/P1130657.jpg_113x150.jpg
+  - sizes/P1130657.jpg_263x350.jpg
+  - sizes/P1130657.jpg_1500x2000.jpg
+- filename: P1130661
+  large: sizes/P1130661.jpg_1500x2000.jpg
+  original: sizes/P1130661.jpg_262x350.jpg
+  thumbnail: sizes/P1130661.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130661.jpg_112x150.jpg
+  - sizes/P1130661.jpg_262x350.jpg
+  - sizes/P1130661.jpg_1500x2000.jpg
+- filename: P1130668
+  large: sizes/P1130668.jpg_1500x2000.jpg
+  original: sizes/P1130668.jpg_262x350.jpg
+  thumbnail: sizes/P1130668.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130668.jpg_112x150.jpg
+  - sizes/P1130668.jpg_262x350.jpg
+  - sizes/P1130668.jpg_1500x2000.jpg
+- filename: P1130670
+  large: sizes/P1130670.jpg_2667x2000.jpg
+  original: sizes/P1130670.jpg_467x350.jpg
+  thumbnail: sizes/P1130670.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130670.jpg_200x150.jpg
+  - sizes/P1130670.jpg_467x350.jpg
+  - sizes/P1130670.jpg_2667x2000.jpg

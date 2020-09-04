@@ -1,0 +1,43 @@
+picture_path: lumbini/eau
+preview:
+  filename: 20200111_160335
+  large: sizes/20200111_160335.jpg_3556x2000.jpg
+  original: sizes/20200111_160335.jpg_622x350.jpg
+  thumbnail: sizes/20200111_160335.jpg_267x150.jpg
+  sizes:
+  - sizes/20200111_160335.jpg_267x150.jpg
+  - sizes/20200111_160335.jpg_622x350.jpg
+  - sizes/20200111_160335.jpg_3556x2000.jpg
+pictures:
+- filename: 20200111_160335
+  large: sizes/20200111_160335.jpg_3556x2000.jpg
+  original: sizes/20200111_160335.jpg_622x350.jpg
+  thumbnail: sizes/20200111_160335.jpg_267x150.jpg
+  sizes:
+  - sizes/20200111_160335.jpg_267x150.jpg
+  - sizes/20200111_160335.jpg_622x350.jpg
+  - sizes/20200111_160335.jpg_3556x2000.jpg
+- filename: P1130811
+  large: sizes/P1130811.jpg_1500x2000.jpg
+  original: sizes/P1130811.jpg_262x350.jpg
+  thumbnail: sizes/P1130811.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130811.jpg_112x150.jpg
+  - sizes/P1130811.jpg_262x350.jpg
+  - sizes/P1130811.jpg_1500x2000.jpg
+- filename: P1130815
+  large: sizes/P1130815.jpg_1500x2000.jpg
+  original: sizes/P1130815.jpg_262x350.jpg
+  thumbnail: sizes/P1130815.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130815.jpg_112x150.jpg
+  - sizes/P1130815.jpg_262x350.jpg
+  - sizes/P1130815.jpg_1500x2000.jpg
+- filename: P1130821
+  large: sizes/P1130821.jpg_2667x2000.jpg
+  original: sizes/P1130821.jpg_467x350.jpg
+  thumbnail: sizes/P1130821.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130821.jpg_200x150.jpg
+  - sizes/P1130821.jpg_467x350.jpg
+  - sizes/P1130821.jpg_2667x2000.jpg

@@ -1,0 +1,67 @@
+picture_path: lumbini/maya
+preview:
+  filename: 0P1130720
+  large: sizes/0P1130720.jpg_2667x2000.jpg
+  original: sizes/0P1130720.jpg_467x350.jpg
+  thumbnail: sizes/0P1130720.jpg_200x150.jpg
+  sizes:
+  - sizes/0P1130720.jpg_200x150.jpg
+  - sizes/0P1130720.jpg_467x350.jpg
+  - sizes/0P1130720.jpg_2667x2000.jpg
+pictures:
+- filename: 0P1130720
+  large: sizes/0P1130720.jpg_2667x2000.jpg
+  original: sizes/0P1130720.jpg_467x350.jpg
+  thumbnail: sizes/0P1130720.jpg_200x150.jpg
+  sizes:
+  - sizes/0P1130720.jpg_200x150.jpg
+  - sizes/0P1130720.jpg_467x350.jpg
+  - sizes/0P1130720.jpg_2667x2000.jpg
+- filename: 1P1130747
+  large: sizes/1P1130747.jpg_1500x2000.jpg
+  original: sizes/1P1130747.jpg_262x350.jpg
+  thumbnail: sizes/1P1130747.jpg_112x150.jpg
+  sizes:
+  - sizes/1P1130747.jpg_112x150.jpg
+  - sizes/1P1130747.jpg_262x350.jpg
+  - sizes/1P1130747.jpg_1500x2000.jpg
+- filename: 20200111_141851
+  large: sizes/20200111_141851.jpg_2667x2000.jpg
+  original: sizes/20200111_141851.jpg_467x350.jpg
+  thumbnail: sizes/20200111_141851.jpg_200x150.jpg
+  sizes:
+  - sizes/20200111_141851.jpg_200x150.jpg
+  - sizes/20200111_141851.jpg_467x350.jpg
+  - sizes/20200111_141851.jpg_2667x2000.jpg
+- filename: 2P1130723
+  large: sizes/2P1130723.jpg_2667x2000.jpg
+  original: sizes/2P1130723.jpg_467x350.jpg
+  thumbnail: sizes/2P1130723.jpg_200x150.jpg
+  sizes:
+  - sizes/2P1130723.jpg_200x150.jpg
+  - sizes/2P1130723.jpg_467x350.jpg
+  - sizes/2P1130723.jpg_2667x2000.jpg
+- filename: P1130721
+  large: sizes/P1130721.jpg_1500x2000.jpg
+  original: sizes/P1130721.jpg_262x350.jpg
+  thumbnail: sizes/P1130721.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130721.jpg_112x150.jpg
+  - sizes/P1130721.jpg_262x350.jpg
+  - sizes/P1130721.jpg_1500x2000.jpg
+- filename: P1130730
+  large: sizes/P1130730.jpg_2667x2000.jpg
+  original: sizes/P1130730.jpg_467x350.jpg
+  thumbnail: sizes/P1130730.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130730.jpg_200x150.jpg
+  - sizes/P1130730.jpg_467x350.jpg
+  - sizes/P1130730.jpg_2667x2000.jpg
+- filename: P1130751
+  large: sizes/P1130751.jpg_2666x2000.jpg
+  original: sizes/P1130751.jpg_467x350.jpg
+  thumbnail: sizes/P1130751.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130751.jpg_200x150.jpg
+  - sizes/P1130751.jpg_467x350.jpg
+  - sizes/P1130751.jpg_2666x2000.jpg

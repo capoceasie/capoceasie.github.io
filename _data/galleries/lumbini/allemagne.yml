@@ -1,0 +1,51 @@
+picture_path: lumbini/allemagne
+preview:
+  filename: P1130824
+  large: sizes/P1130824.jpg_1500x2000.jpg
+  original: sizes/P1130824.jpg_262x350.jpg
+  thumbnail: sizes/P1130824.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130824.jpg_112x150.jpg
+  - sizes/P1130824.jpg_262x350.jpg
+  - sizes/P1130824.jpg_1500x2000.jpg
+pictures:
+- filename: P1130824
+  large: sizes/P1130824.jpg_1500x2000.jpg
+  original: sizes/P1130824.jpg_262x350.jpg
+  thumbnail: sizes/P1130824.jpg_112x150.jpg
+  sizes:
+  - sizes/P1130824.jpg_112x150.jpg
+  - sizes/P1130824.jpg_262x350.jpg
+  - sizes/P1130824.jpg_1500x2000.jpg
+- filename: P1130830
+  large: sizes/P1130830.jpg_2667x2000.jpg
+  original: sizes/P1130830.jpg_467x350.jpg
+  thumbnail: sizes/P1130830.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130830.jpg_200x150.jpg
+  - sizes/P1130830.jpg_467x350.jpg
+  - sizes/P1130830.jpg_2667x2000.jpg
+- filename: P1130831
+  large: sizes/P1130831.jpg_2667x2000.jpg
+  original: sizes/P1130831.jpg_467x350.jpg
+  thumbnail: sizes/P1130831.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130831.jpg_200x150.jpg
+  - sizes/P1130831.jpg_467x350.jpg
+  - sizes/P1130831.jpg_2667x2000.jpg
+- filename: P1130833
+  large: sizes/P1130833.jpg_1500x2000.jpg
+  original: sizes/P1130833.jpg_263x350.jpg
+  thumbnail: sizes/P1130833.jpg_113x150.jpg
+  sizes:
+  - sizes/P1130833.jpg_113x150.jpg
+  - sizes/P1130833.jpg_263x350.jpg
+  - sizes/P1130833.jpg_1500x2000.jpg
+- filename: P1130844
+  large: sizes/P1130844.jpg_2667x2000.jpg
+  original: sizes/P1130844.jpg_467x350.jpg
+  thumbnail: sizes/P1130844.jpg_200x150.jpg
+  sizes:
+  - sizes/P1130844.jpg_200x150.jpg
+  - sizes/P1130844.jpg_467x350.jpg
+  - sizes/P1130844.jpg_2667x2000.jpg
